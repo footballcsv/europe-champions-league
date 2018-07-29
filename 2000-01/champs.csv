@@ -1,0 +1,238 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,Q-1,1,(Wed) 12 Jul 2000 (W28),Haka Valkeakoski (1),1-0,0-0,Linfield (1),,,FIN,NIR
+?,Q-1,1,(Wed) 12 Jul 2000 (W28),Shirak (1),1-1,0-0,BATE Borisov (1),,,ARM,BLR
+?,Q-1,1,(Wed) 12 Jul 2000 (W28),Birkirkara (1),1-2,0-0,KR Reykjavik (1),,,MLT,ISL
+?,Q-1,1,(Wed) 12 Jul 2000 (W28),KI Klaksvik (1),0-3,0-0,Crvena Zvezda (1),,,FRO,SRB
+?,Q-1,1,(Wed) 12 Jul 2000 (W28),F91 Dudelange (1),0-4,0-0,Levski Sofia (1),,,LUX,BUL
+?,Q-1,1,(Wed) 12 Jul 2000 (W28),FK Zalgiris Vilnius (1),4-0,0-0,NK Brotnjo (1),,,LTU,BIH
+?,Q-1,1,(Wed) 12 Jul 2000 (W28),KF Tirana (1),2-3,0-0,Zimbru Chisinau (1),,,ALB,MDA
+?,Q-1,1,(Wed) 12 Jul 2000 (W28),The New Saints (1),2-2,0-0,Levadia (1),,,WAL,EST
+?,Q-1,1,(Wed) 12 Jul 2000 (W28),Skonto (1),2-1,0-0,Shamkir (1),,,LVA,AZE
+?,Q-1,1,(Wed) 12 Jul 2000 (W28),Sloga Jugomagnat Skopje (1),0-1,0-0,Shelbourne (1),,,MKD,IRL
+?,Q-1,2,(Wed) 19 Jul 2000 (W29),Linfield (2),2-1,0-0,Haka Valkeakoski (2),,,NIR,FIN
+?,Q-1,2,(Wed) 19 Jul 2000 (W29),BATE Borisov (2),2-1,0-0,Shirak (2),,,BLR,ARM
+?,Q-1,2,(Wed) 19 Jul 2000 (W29),KR Reykjavik (2),4-1,0-0,Birkirkara (2),,,ISL,MLT
+?,Q-1,2,(Wed) 19 Jul 2000 (W29),Crvena Zvezda (2),2-0,0-0,KI Klaksvik (2),,,SRB,FRO
+?,Q-1,2,(Wed) 19 Jul 2000 (W29),Levski Sofia (2),2-0,0-0,F91 Dudelange (2),,,BUL,LUX
+?,Q-1,2,(Wed) 19 Jul 2000 (W29),NK Brotnjo (2),3-0,0-0,FK Zalgiris Vilnius (2),,,BIH,LTU
+?,Q-1,2,(Wed) 19 Jul 2000 (W29),Zimbru Chisinau (2),3-2,0-0,KF Tirana (2),,,MDA,ALB
+?,Q-1,2,(Wed) 19 Jul 2000 (W29),Levadia (2),4-0,0-0,The New Saints (2),,,EST,WAL
+?,Q-1,2,(Wed) 19 Jul 2000 (W29),Shamkir (2),2-1,0-0,Skonto (2),4-1 (a.e.t.),,AZE,LVA
+?,Q-1,2,(Wed) 19 Jul 2000 (W29),Shelbourne (2),1-1,0-0,Sloga Jugomagnat Skopje (2),,,IRL,MKD
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),RSC Anderlecht (1),4-2,0-0,Anorthosis Famagusta (1),,,BEL,CYP
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Helsingborgs IF (1),0-0,0-0,BATE Borisov (3),,,SWE,BLR
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Beşiktaş İstanbul JK (1),1-0,0-0,Levski Sofia (3),,,TUR,BUL
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Brondby IF (1),3-1,0-0,KR Reykjavik (3),,,DEN,ISL
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Crvena Zvezda (3),4-0,0-0,Torpedo Kutaisi (1),,,SRB,GEO
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Dinamo Bucuresti (1),3-4,0-0,Polonia Warszawa (1),,,ROU,POL
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Hajduk Split (1),0-2,0-0,Dunaujvaros (1),,,CRO,HUN
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Haka Valkeakoski (3),0-0,0-0,FK Inter Bratislava (1),,,FIN,SVK
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Rangers FC (1),4-1,0-0,FK Zalgiris Vilnius (3),,,SCO,LTU
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),SK Sturm Graz (1),3-0,0-0,Hapoel Tel Aviv (1),,,AUT,ISR
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Shakhtar Donetsk (1),4-1,0-0,Levadia (3),,,UKR,EST
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Zimbru Chisinau (3),2-0,0-0,NK Maribor (1),,,MDA,SVN
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Shelbourne (3),1-3,0-0,Rosenborg BK (1),,,IRL,NOR
+?,Q-2,1,(Wed) 26 Jul 2000 (W30),Slavia Praha (1),1-0,0-0,Shamkir (3),,,CZE,AZE
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),Anorthosis Famagusta (2),0-0,0-0,RSC Anderlecht (2),,,CYP,BEL
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),BATE Borisov (4),0-3,0-0,Helsingborgs IF (2),,,BLR,SWE
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),Levski Sofia (4),1-1,0-0,Beşiktaş İstanbul JK (2),,,BUL,TUR
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),KR Reykjavik (4),0-1,0-0,Brondby IF (2),,,ISL,DEN
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),Torpedo Kutaisi (2),2-0,0-0,Crvena Zvezda (4),,,GEO,SRB
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),Polonia Warszawa (2),3-1,0-0,Dinamo Bucuresti (2),,,POL,ROU
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),Dunaujvaros (2),2-2,0-0,Hajduk Split (2),,,HUN,CRO
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),FK Inter Bratislava (2),0-0,0-0,Haka Valkeakoski (4),1-0 (a.e.t.),,SVK,FIN
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),FK Zalgiris Vilnius (4),0-0,0-0,Rangers FC (2),,,LTU,SCO
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),Hapoel Tel Aviv (2),1-2,0-0,SK Sturm Graz (2),,,ISR,AUT
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),Levadia (4),1-5,0-0,Shakhtar Donetsk (2),,,EST,UKR
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),NK Maribor (2),1-0,0-0,Zimbru Chisinau (4),,,SVN,MDA
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),Rosenborg BK (2),1-1,0-0,Shelbourne (4),,,NOR,IRL
+?,Q-2,2,(Wed) 2 Aug 2000 (W31),Shamkir (4),1-4,0-0,Slavia Praha (2),,,AZE,CZE
+?,Q-3,1,(Tue) 8 Aug 2000 (W32),Beşiktaş İstanbul JK (3),3-0,0-0,Lokomotiv Moskva (1),,,TUR,RUS
+?,Q-3,1,(Tue) 8 Aug 2000 (W32),Brondby IF (3),0-2,0-0,Hamburger SV (1),,,DEN,GER
+?,Q-3,1,(Tue) 8 Aug 2000 (W32),FK Inter Bratislava (3),1-2,0-0,Olympique Lyon (1),,,SVK,FRA
+?,Q-3,1,(Tue) 8 Aug 2000 (W32),Zimbru Chisinau (5),0-1,0-0,Sparta Praha (1),,,MDA,CZE
+?,Q-3,1,(Tue) 8 Aug 2000 (W32),SSW Innsbruck (1),0-0,0-0,Valencia CF (1),,,AUT,ESP
+?,Q-3,1,(Wed) 9 Aug 2000 (W32),Dinamo Kiev (1),0-0,0-0,Crvena Zvezda (5),,,UKR,SRB
+?,Q-3,1,(Wed) 9 Aug 2000 (W32),AC Milan (1),3-1,0-0,Dinamo Zagreb (1),,,ITA,CRO
+?,Q-3,1,(Wed) 9 Aug 2000 (W32),Dunaujvaros (3),2-2,0-0,Rosenborg BK (3),,,HUN,NOR
+?,Q-3,1,(Wed) 9 Aug 2000 (W32),RSC Anderlecht (3),1-0,0-0,FC Porto (1),,,BEL,POR
+?,Q-3,1,(Wed) 9 Aug 2000 (W32),SK Sturm Graz (3),2-1,0-0,Feyenoord Rotterdam (1),,,AUT,NED
+?,Q-3,1,(Wed) 9 Aug 2000 (W32),St. Gallen (1),1-2,0-0,Galatasaray İstanbul AŞ (1),,,SUI,TUR
+?,Q-3,1,(Wed) 9 Aug 2000 (W32),HB Koge (1),0-3,0-0,Rangers FC (3),,,DEN,SCO
+?,Q-3,1,(Wed) 9 Aug 2000 (W32),Helsingborgs IF (3),1-0,0-0,Internazionale (1),,,SWE,ITA
+?,Q-3,1,(Wed) 9 Aug 2000 (W32),Leeds United FC (1),2-1,0-0,TSV 1860 Munchen (1),,,ENG,GER
+?,Q-3,1,(Wed) 9 Aug 2000 (W32),Polonia Warszawa (3),2-2,0-0,Panathinaikos FC (1),,,POL,GRE
+?,Q-3,1,(Wed) 9 Aug 2000 (W32),Shakhtar Donetsk (3),0-1,0-0,Slavia Praha (3),,,UKR,CZE
+?,Q-3,2,(Tue) 22 Aug 2000 (W34),Olympique Lyon (2),2-1,0-0,FK Inter Bratislava (4),,,FRA,SVK
+?,Q-3,2,(Tue) 22 Aug 2000 (W34),Sparta Praha (2),1-0,0-0,Zimbru Chisinau (6),,,CZE,MDA
+?,Q-3,2,(Tue) 22 Aug 2000 (W34),Valencia CF (2),4-1,0-0,SSW Innsbruck (2),,,ESP,AUT
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),Crvena Zvezda (6),1-1,0-0,Dinamo Kiev (2),,,SRB,UKR
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),Dinamo Zagreb (2),0-3,0-0,AC Milan (2),,,CRO,ITA
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),Lokomotiv Moskva (2),1-3,0-0,Beşiktaş İstanbul JK (4),,,RUS,TUR
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),Hamburger SV (2),0-0,0-0,Brondby IF (4),,,GER,DEN
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),Rosenborg BK (4),2-1,0-0,Dunaujvaros (4),,,NOR,HUN
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),FC Porto (2),0-0,0-0,RSC Anderlecht (4),,,POR,BEL
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),Feyenoord Rotterdam (2),1-1,0-0,SK Sturm Graz (4),,,NED,AUT
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),Galatasaray İstanbul AŞ (2),2-2,0-0,St. Gallen (2),,,TUR,SUI
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),Rangers FC (4),3-0,0-0,HB Koge (2),,,SCO,DEN
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),Internazionale (2),0-0,0-0,Helsingborgs IF (4),,,ITA,SWE
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),TSV 1860 Munchen (2),0-1,0-0,Leeds United FC (2),,,GER,ENG
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),Panathinaikos FC (2),2-1,0-0,Polonia Warszawa (4),,,GRE,POL
+?,Q-3,2,(Wed) 23 Aug 2000 (W34),Slavia Praha (4),0-1,0-0,Shakhtar Donetsk (4),0-2 (a.e.t.),,CZE,UKR
+?,GroupB-prelim,groups,(Tue) 12 Sep 2000 (W37),Sparta Praha (3),0-1,0-1,Arsenal FC (1),,,CZE,ENG
+?,GroupD-prelim,groups,(Tue) 12 Sep 2000 (W37),Galatasaray İstanbul AŞ (3),3-2,2-0,AS Monaco (1),,,TUR,FRA
+?,GroupA-prelim,groups,(Tue) 12 Sep 2000 (W37),Spartak Moskva (1),2-0,0-0,Bayer 04 Leverkusen (1),,,RUS,GER
+?,GroupB-prelim,groups,(Tue) 12 Sep 2000 (W37),Shakhtar Donetsk (5),0-3,0-1,SS Lazio (1),,,UKR,ITA
+?,GroupC-prelim,groups,(Tue) 12 Sep 2000 (W37),Valencia CF (3),2-1,2-0,Olympiacos (1),,,ESP,GRE
+?,GroupC-prelim,groups,(Tue) 12 Sep 2000 (W37),Olympique Lyon (3),3-1,2-1,sc Heerenveen (1),,,FRA,NED
+?,GroupD-prelim,groups,(Tue) 12 Sep 2000 (W37),Rangers FC (5),5-0,3-0,SK Sturm Graz (5),,,SCO,AUT
+?,GroupA-prelim,groups,(Tue) 12 Sep 2000 (W37),Sporting CP (1),2-2,2-0,Real Madrid CF (1),,,POR,ESP
+?,GroupH-prelim,groups,(Wed) 13 Sep 2000 (W37),AC Milan (3),4-1,3-1,Beşiktaş İstanbul JK (5),,,ITA,TUR
+?,GroupH-prelim,groups,(Wed) 13 Sep 2000 (W37),FC Barcelona (1),4-0,2-0,Leeds United FC (3),,,ESP,ENG
+?,GroupF-prelim,groups,(Wed) 13 Sep 2000 (W37),Helsingborgs IF (5),1-3,0-1,Bayern München (1),,,SWE,GER
+?,GroupE-prelim,groups,(Wed) 13 Sep 2000 (W37),Panathinaikos FC (3),1-1,1-0,Deportivo La Coruna (1),,,GRE,ESP
+?,GroupG-prelim,groups,(Wed) 13 Sep 2000 (W37),PSV Eindhoven (1),2-1,1-1,Dinamo Kiev (3),,,NED,UKR
+?,GroupE-prelim,groups,(Wed) 13 Sep 2000 (W37),Hamburger SV (3),4-4,1-2,Juventus (1),,,GER,ITA
+?,GroupG-prelim,groups,(Wed) 13 Sep 2000 (W37),Manchester United FC (1),5-1,3-0,RSC Anderlecht (5),,,ENG,BEL
+?,GroupF-prelim,groups,(Wed) 13 Sep 2000 (W37),Rosenborg BK (5),3-1,1-1,Paris Saint-Germain (1),,,NOR,FRA
+?,GroupH-prelim,groups,(Tue) 19 Sep 2000 (W38),Leeds United FC (4),1-0,0-0,AC Milan (4),,,ENG,ITA
+?,GroupH-prelim,groups,(Tue) 19 Sep 2000 (W38),Beşiktaş İstanbul JK (6),3-0,1-0,FC Barcelona (2),,,TUR,ESP
+?,GroupF-prelim,groups,(Tue) 19 Sep 2000 (W38),Bayern München (2),3-1,0-1,Rosenborg BK (6),,,GER,NOR
+?,GroupE-prelim,groups,(Tue) 19 Sep 2000 (W38),Deportivo La Coruna (2),2-1,1-0,Hamburger SV (4),,,ESP,GER
+?,GroupG-prelim,groups,(Tue) 19 Sep 2000 (W38),Dinamo Kiev (4),0-0,0-0,Manchester United FC (2),,,UKR,ENG
+?,GroupF-prelim,groups,(Tue) 19 Sep 2000 (W38),Paris Saint-Germain (2),4-1,1-1,Helsingborgs IF (6),,,FRA,SWE
+?,GroupE-prelim,groups,(Tue) 19 Sep 2000 (W38),Juventus (2),2-1,1-1,Panathinaikos FC (4),,,ITA,GRE
+?,GroupG-prelim,groups,(Tue) 19 Sep 2000 (W38),RSC Anderlecht (6),1-0,0-0,PSV Eindhoven (2),,,BEL,NED
+?,GroupB-prelim,groups,(Wed) 20 Sep 2000 (W38),Arsenal FC (2),3-2,1-2,Shakhtar Donetsk (6),,,ENG,UKR
+?,GroupD-prelim,groups,(Wed) 20 Sep 2000 (W38),AS Monaco (2),0-1,0-1,Rangers FC (6),,,FRA,SCO
+?,GroupA-prelim,groups,(Wed) 20 Sep 2000 (W38),Bayer 04 Leverkusen (2),3-2,0-1,Sporting CP (2),,,GER,POR
+?,GroupD-prelim,groups,(Wed) 20 Sep 2000 (W38),SK Sturm Graz (6),3-0,1-0,Galatasaray İstanbul AŞ (4),,,AUT,TUR
+?,GroupB-prelim,groups,(Wed) 20 Sep 2000 (W38),SS Lazio (2),3-0,1-0,Sparta Praha (4),,,ITA,CZE
+?,GroupC-prelim,groups,(Wed) 20 Sep 2000 (W38),Olympiacos (2),2-1,2-0,Olympique Lyon (4),,,GRE,FRA
+?,GroupA-prelim,groups,(Wed) 20 Sep 2000 (W38),Real Madrid CF (2),1-0,0-0,Spartak Moskva (2),,,ESP,RUS
+?,GroupC-prelim,groups,(Wed) 20 Sep 2000 (W38),sc Heerenveen (2),0-1,0-1,Valencia CF (4),,,NED,ESP
+?,GroupH-prelim,groups,(Tue) 26 Sep 2000 (W39),FC Barcelona (3),0-2,0-1,AC Milan (5),,,ESP,ITA
+?,GroupF-prelim,groups,(Tue) 26 Sep 2000 (W39),Paris Saint-Germain (3),1-0,0-0,Bayern München (3),,,FRA,GER
+?,GroupH-prelim,groups,(Tue) 26 Sep 2000 (W39),Leeds United FC (5),6-0,3-0,Beşiktaş İstanbul JK (7),,,ENG,TUR
+?,GroupE-prelim,groups,(Tue) 26 Sep 2000 (W39),Juventus (3),0-0,0-0,Deportivo La Coruna (3),,,ITA,ESP
+?,GroupG-prelim,groups,(Tue) 26 Sep 2000 (W39),Dinamo Kiev (5),4-0,0-0,RSC Anderlecht (7),,,UKR,BEL
+?,GroupE-prelim,groups,(Tue) 26 Sep 2000 (W39),Hamburger SV (5),0-1,0-1,Panathinaikos FC (5),,,GER,GRE
+?,GroupF-prelim,groups,(Tue) 26 Sep 2000 (W39),Rosenborg BK (7),6-1,2-0,Helsingborgs IF (7),,,NOR,SWE
+?,GroupG-prelim,groups,(Tue) 26 Sep 2000 (W39),PSV Eindhoven (3),3-1,2-1,Manchester United FC (3),,,NED,ENG
+?,GroupB-prelim,groups,(Wed) 27 Sep 2000 (W39),Arsenal FC (3),2-0,1-0,SS Lazio (3),,,ENG,ITA
+?,GroupD-prelim,groups,(Wed) 27 Sep 2000 (W39),AS Monaco (3),5-0,3-0,SK Sturm Graz (7),,,FRA,AUT
+?,GroupA-prelim,groups,(Wed) 27 Sep 2000 (W39),Bayer 04 Leverkusen (3),2-3,2-1,Real Madrid CF (3),,,GER,ESP
+?,GroupD-prelim,groups,(Wed) 27 Sep 2000 (W39),Galatasaray İstanbul AŞ (5),3-2,0-0,Rangers FC (7),,,TUR,SCO
+?,GroupC-prelim,groups,(Wed) 27 Sep 2000 (W39),Olympiacos (3),2-0,0-0,sc Heerenveen (3),,,GRE,NED
+?,GroupC-prelim,groups,(Wed) 27 Sep 2000 (W39),Valencia CF (5),1-0,0-0,Olympique Lyon (5),,,ESP,FRA
+?,GroupB-prelim,groups,(Wed) 27 Sep 2000 (W39),Sparta Praha (5),3-2,0-0,Shakhtar Donetsk (7),,,CZE,UKR
+?,GroupA-prelim,groups,(Wed) 27 Sep 2000 (W39),Spartak Moskva (3),3-1,1-1,Sporting CP (3),,,RUS,POR
+?,GroupB-prelim,groups,(Tue) 17 Oct 2000 (W42),SS Lazio (4),1-1,1-0,Arsenal FC (4),,,ITA,ENG
+?,GroupD-prelim,groups,(Tue) 17 Oct 2000 (W42),SK Sturm Graz (8),2-0,1-0,AS Monaco (4),,,AUT,FRA
+?,GroupA-prelim,groups,(Tue) 17 Oct 2000 (W42),Real Madrid CF (4),5-3,2-1,Bayer 04 Leverkusen (4),,,ESP,GER
+?,GroupD-prelim,groups,(Tue) 17 Oct 2000 (W42),Rangers FC (8),0-0,0-0,Galatasaray İstanbul AŞ (6),,,SCO,TUR
+?,GroupC-prelim,groups,(Tue) 17 Oct 2000 (W42),sc Heerenveen (4),1-0,0-0,Olympiacos (4),,,NED,GRE
+?,GroupC-prelim,groups,(Tue) 17 Oct 2000 (W42),Olympique Lyon (6),1-2,0-1,Valencia CF (6),,,FRA,ESP
+?,GroupB-prelim,groups,(Tue) 17 Oct 2000 (W42),Shakhtar Donetsk (8),2-1,1-1,Sparta Praha (6),,,UKR,CZE
+?,GroupA-prelim,groups,(Tue) 17 Oct 2000 (W42),Sporting CP (4),0-3,0-1,Spartak Moskva (4),,,POR,RUS
+?,GroupH-prelim,groups,(Wed) 18 Oct 2000 (W42),AC Milan (6),3-3,3-2,FC Barcelona (4),,,ITA,ESP
+?,GroupF-prelim,groups,(Wed) 18 Oct 2000 (W42),Bayern München (4),2-0,1-0,Paris Saint-Germain (4),,,GER,FRA
+?,GroupH-prelim,groups,(Wed) 18 Oct 2000 (W42),Beşiktaş İstanbul JK (8),0-0,0-0,Leeds United FC (6),,,TUR,ENG
+?,GroupE-prelim,groups,(Wed) 18 Oct 2000 (W42),Deportivo La Coruna (4),1-1,1-1,Juventus (4),,,ESP,ITA
+?,GroupG-prelim,groups,(Wed) 18 Oct 2000 (W42),RSC Anderlecht (8),4-2,4-1,Dinamo Kiev (6),,,BEL,UKR
+?,GroupE-prelim,groups,(Wed) 18 Oct 2000 (W42),Panathinaikos FC (6),0-0,0-0,Hamburger SV (6),,,GRE,GER
+?,GroupF-prelim,groups,(Wed) 18 Oct 2000 (W42),Helsingborgs IF (8),2-0,1-0,Rosenborg BK (8),,,SWE,NOR
+?,GroupG-prelim,groups,(Wed) 18 Oct 2000 (W42),Manchester United FC (4),3-1,1-0,PSV Eindhoven (4),,,ENG,NED
+?,GroupH-prelim,groups,(Tue) 24 Oct 2000 (W43),Beşiktaş İstanbul JK (9),0-2,0-2,AC Milan (7),,,TUR,ITA
+?,GroupH-prelim,groups,(Tue) 24 Oct 2000 (W43),Leeds United FC (7),1-1,1-0,FC Barcelona (5),,,ENG,ESP
+?,GroupF-prelim,groups,(Tue) 24 Oct 2000 (W43),Bayern München (5),0-0,0-0,Helsingborgs IF (9),,,GER,SWE
+?,GroupE-prelim,groups,(Tue) 24 Oct 2000 (W43),Deportivo La Coruna (5),1-0,0-0,Panathinaikos FC (7),,,ESP,GRE
+?,GroupG-prelim,groups,(Tue) 24 Oct 2000 (W43),Dinamo Kiev (7),0-1,0-1,PSV Eindhoven (5),,,UKR,NED
+?,GroupE-prelim,groups,(Tue) 24 Oct 2000 (W43),Juventus (5),1-3,0-1,Hamburger SV (7),,,ITA,GER
+?,GroupG-prelim,groups,(Tue) 24 Oct 2000 (W43),RSC Anderlecht (9),2-1,2-1,Manchester United FC (5),,,BEL,ENG
+?,GroupF-prelim,groups,(Tue) 24 Oct 2000 (W43),Paris Saint-Germain (5),7-2,4-2,Rosenborg BK (9),,,FRA,NOR
+?,GroupB-prelim,groups,(Wed) 25 Oct 2000 (W43),Arsenal FC (5),4-2,3-1,Sparta Praha (7),,,ENG,CZE
+?,GroupD-prelim,groups,(Wed) 25 Oct 2000 (W43),AS Monaco (5),4-2,4-1,Galatasaray İstanbul AŞ (7),,,FRA,TUR
+?,GroupA-prelim,groups,(Wed) 25 Oct 2000 (W43),Bayer 04 Leverkusen (5),1-0,0-0,Spartak Moskva (5),,,GER,RUS
+?,GroupB-prelim,groups,(Wed) 25 Oct 2000 (W43),SS Lazio (5),5-1,0-1,Shakhtar Donetsk (9),,,ITA,UKR
+?,GroupC-prelim,groups,(Wed) 25 Oct 2000 (W43),Olympiacos (5),1-0,0-0,Valencia CF (7),,,GRE,ESP
+?,GroupC-prelim,groups,(Wed) 25 Oct 2000 (W43),sc Heerenveen (5),0-2,0-0,Olympique Lyon (7),,,NED,FRA
+?,GroupD-prelim,groups,(Wed) 25 Oct 2000 (W43),SK Sturm Graz (9),2-0,1-0,Rangers FC (9),,,AUT,SCO
+?,GroupA-prelim,groups,(Wed) 25 Oct 2000 (W43),Real Madrid CF (5),4-0,2-0,Sporting CP (5),,,ESP,POR
+?,GroupB-prelim,groups,(Tue) 7 Nov 2000 (W45),Shakhtar Donetsk (10),3-0,1-0,Arsenal FC (6),,,UKR,ENG
+?,GroupD-prelim,groups,(Tue) 7 Nov 2000 (W45),Rangers FC (10),2-2,1-1,AS Monaco (6),,,SCO,FRA
+?,GroupA-prelim,groups,(Tue) 7 Nov 2000 (W45),Sporting CP (6),0-0,0-0,Bayer 04 Leverkusen (6),,,POR,GER
+?,GroupD-prelim,groups,(Tue) 7 Nov 2000 (W45),Galatasaray İstanbul AŞ (8),2-2,1-0,SK Sturm Graz (10),,,TUR,AUT
+?,GroupB-prelim,groups,(Tue) 7 Nov 2000 (W45),Sparta Praha (8),0-1,0-1,SS Lazio (6),,,CZE,ITA
+?,GroupC-prelim,groups,(Tue) 7 Nov 2000 (W45),Olympique Lyon (8),1-0,1-0,Olympiacos (6),,,FRA,GRE
+?,GroupA-prelim,groups,(Tue) 7 Nov 2000 (W45),Spartak Moskva (6),1-0,0-0,Real Madrid CF (6),,,RUS,ESP
+?,GroupC-prelim,groups,(Tue) 7 Nov 2000 (W45),Valencia CF (8),1-1,1-1,sc Heerenveen (6),,,ESP,NED
+?,GroupH-prelim,groups,(Wed) 8 Nov 2000 (W45),AC Milan (8),1-1,0-1,Leeds United FC (8),,,ITA,ENG
+?,GroupH-prelim,groups,(Wed) 8 Nov 2000 (W45),FC Barcelona (6),5-0,2-0,Beşiktaş İstanbul JK (10),,,ESP,TUR
+?,GroupF-prelim,groups,(Wed) 8 Nov 2000 (W45),Rosenborg BK (10),1-1,1-0,Bayern München (6),,,NOR,GER
+?,GroupE-prelim,groups,(Wed) 8 Nov 2000 (W45),Hamburger SV (8),1-1,1-0,Deportivo La Coruna (6),,,GER,ESP
+?,GroupG-prelim,groups,(Wed) 8 Nov 2000 (W45),Manchester United FC (6),1-0,1-0,Dinamo Kiev (8),,,ENG,UKR
+?,GroupF-prelim,groups,(Wed) 8 Nov 2000 (W45),Helsingborgs IF (10),1-1,0-1,Paris Saint-Germain (6),,,SWE,FRA
+?,GroupE-prelim,groups,(Wed) 8 Nov 2000 (W45),Panathinaikos FC (8),3-1,1-1,Juventus (6),,,GRE,ITA
+?,GroupG-prelim,groups,(Wed) 8 Nov 2000 (W45),PSV Eindhoven (6),2-3,1-2,RSC Anderlecht (10),,,NED,BEL
+?,GroupB-inter,groups,(Tue) 21 Nov 2000 (W47),AC Milan (9),2-2,0-2,Galatasaray İstanbul AŞ (9),,,ITA,TUR
+?,GroupB-inter,groups,(Tue) 21 Nov 2000 (W47),Paris Saint-Germain (7),1-3,1-0,Deportivo La Coruna (7),,,FRA,ESP
+?,GroupA-inter,groups,(Tue) 21 Nov 2000 (W47),Manchester United FC (7),3-1,0-0,Panathinaikos FC (9),,,ENG,GRE
+?,GroupA-inter,groups,(Tue) 21 Nov 2000 (W47),Valencia CF (9),2-0,1-0,SK Sturm Graz (11),,,ESP,AUT
+?,GroupC-inter,groups,(Wed) 22 Nov 2000 (W47),Spartak Moskva (7),4-1,1-1,Arsenal FC (7),,,RUS,ENG
+?,GroupC-inter,groups,(Wed) 22 Nov 2000 (W47),Bayern München (7),1-0,0-0,Olympique Lyon (9),,,GER,FRA
+?,GroupD-inter,groups,(Wed) 22 Nov 2000 (W47),RSC Anderlecht (11),1-0,0-0,SS Lazio (7),,,BEL,ITA
+?,GroupD-inter,groups,(Wed) 22 Nov 2000 (W47),Leeds United FC (9),0-2,0-0,Real Madrid CF (7),,,ENG,ESP
+?,GroupC-inter,groups,(Tue) 5 Dec 2000 (W49),Arsenal FC (8),2-2,1-0,Bayern München (8),,,ENG,GER
+?,GroupD-inter,groups,(Tue) 5 Dec 2000 (W49),SS Lazio (8),0-1,0-0,Leeds United FC (10),,,ITA,ENG
+?,GroupC-inter,groups,(Tue) 5 Dec 2000 (W49),Olympique Lyon (10),3-0,3-0,Spartak Moskva (8),,,FRA,RUS
+?,GroupD-inter,groups,(Tue) 5 Dec 2000 (W49),Real Madrid CF (8),4-1,3-0,RSC Anderlecht (12),,,ESP,BEL
+?,GroupB-inter,groups,(Wed) 6 Dec 2000 (W49),Deportivo La Coruna (8),0-1,0-1,AC Milan (10),,,ESP,ITA
+?,GroupB-inter,groups,(Wed) 6 Dec 2000 (W49),Galatasaray İstanbul AŞ (10),1-0,0-0,Paris Saint-Germain (8),,,TUR,FRA
+?,GroupA-inter,groups,(Wed) 6 Dec 2000 (W49),SK Sturm Graz (12),0-2,0-1,Manchester United FC (8),,,AUT,ENG
+?,GroupA-inter,groups,(Wed) 6 Dec 2000 (W49),Panathinaikos FC (10),0-0,0-0,Valencia CF (10),,,GRE,ESP
+?,GroupC-inter,groups,(Tue) 13 Feb 2001 (W7),Olympique Lyon (11),0-1,0-0,Arsenal FC (9),,,FRA,ENG
+?,GroupC-inter,groups,(Tue) 13 Feb 2001 (W7),Bayern München (9),1-0,0-0,Spartak Moskva (9),,,GER,RUS
+?,GroupD-inter,groups,(Tue) 13 Feb 2001 (W7),Real Madrid CF (9),3-2,1-1,SS Lazio (9),,,ESP,ITA
+?,GroupD-inter,groups,(Tue) 13 Feb 2001 (W7),Leeds United FC (11),2-1,0-0,RSC Anderlecht (13),,,ENG,BEL
+?,GroupB-inter,groups,(Wed) 14 Feb 2001 (W7),AC Milan (11),1-1,1-1,Paris Saint-Germain (9),,,ITA,FRA
+?,GroupB-inter,groups,(Wed) 14 Feb 2001 (W7),Galatasaray İstanbul AŞ (11),1-0,1-0,Deportivo La Coruna (9),,,TUR,ESP
+?,GroupA-inter,groups,(Wed) 14 Feb 2001 (W7),Valencia CF (11),0-0,0-0,Manchester United FC (9),,,ESP,ENG
+?,GroupA-inter,groups,(Wed) 14 Feb 2001 (W7),SK Sturm Graz (13),2-0,0-0,Panathinaikos FC (11),,,AUT,GRE
+?,GroupB-inter,groups,(Tue) 20 Feb 2001 (W8),Paris Saint-Germain (10),1-1,0-0,AC Milan (12),,,FRA,ITA
+?,GroupB-inter,groups,(Tue) 20 Feb 2001 (W8),Deportivo La Coruna (10),2-0,1-0,Galatasaray İstanbul AŞ (12),,,ESP,TUR
+?,GroupA-inter,groups,(Tue) 20 Feb 2001 (W8),Manchester United FC (10),1-1,1-0,Valencia CF (12),,,ENG,ESP
+?,GroupA-inter,groups,(Tue) 20 Feb 2001 (W8),Panathinaikos FC (12),1-2,0-2,SK Sturm Graz (14),,,GRE,AUT
+?,GroupC-inter,groups,(Wed) 21 Feb 2001 (W8),Arsenal FC (10),1-1,1-0,Olympique Lyon (12),,,ENG,FRA
+?,GroupC-inter,groups,(Wed) 21 Feb 2001 (W8),Spartak Moskva (10),0-3,0-1,Bayern München (10),,,RUS,GER
+?,GroupD-inter,groups,(Wed) 21 Feb 2001 (W8),SS Lazio (10),2-2,1-1,Real Madrid CF (10),,,ITA,ESP
+?,GroupD-inter,groups,(Wed) 21 Feb 2001 (W8),RSC Anderlecht (14),1-4,0-3,Leeds United FC (12),,,BEL,ENG
+?,GroupC-inter,groups,(Tue) 6 Mar 2001 (W10),Arsenal FC (11),1-0,0-0,Spartak Moskva (11),,,ENG,RUS
+?,GroupC-inter,groups,(Tue) 6 Mar 2001 (W10),Olympique Lyon (13),3-0,2-0,Bayern München (11),,,FRA,GER
+?,GroupD-inter,groups,(Tue) 6 Mar 2001 (W10),SS Lazio (11),2-1,1-0,RSC Anderlecht (15),,,ITA,BEL
+?,GroupD-inter,groups,(Tue) 6 Mar 2001 (W10),Real Madrid CF (11),3-2,2-1,Leeds United FC (13),,,ESP,ENG
+?,GroupB-inter,groups,(Wed) 7 Mar 2001 (W10),Galatasaray İstanbul AŞ (13),2-0,1-0,AC Milan (13),,,TUR,ITA
+?,GroupB-inter,groups,(Wed) 7 Mar 2001 (W10),Deportivo La Coruna (11),4-3,0-2,Paris Saint-Germain (11),,,ESP,FRA
+?,GroupA-inter,groups,(Wed) 7 Mar 2001 (W10),Panathinaikos FC (13),1-1,1-0,Manchester United FC (11),,,GRE,ENG
+?,GroupA-inter,groups,(Wed) 7 Mar 2001 (W10),SK Sturm Graz (15),0-5,0-1,Valencia CF (13),,,AUT,ESP
+?,GroupB-inter,groups,(Tue) 13 Mar 2001 (W11),AC Milan (14),1-1,0-0,Deportivo La Coruna (12),,,ITA,ESP
+?,GroupB-inter,groups,(Tue) 13 Mar 2001 (W11),Paris Saint-Germain (12),2-0,2-0,Galatasaray İstanbul AŞ (14),,,FRA,TUR
+?,GroupA-inter,groups,(Tue) 13 Mar 2001 (W11),Manchester United FC (12),3-0,2-0,SK Sturm Graz (16),,,ENG,AUT
+?,GroupA-inter,groups,(Tue) 13 Mar 2001 (W11),Valencia CF (14),2-1,1-1,Panathinaikos FC (14),,,ESP,GRE
+?,GroupC-inter,groups,(Wed) 14 Mar 2001 (W11),Bayern München (12),1-0,1-0,Arsenal FC (12),,,GER,ENG
+?,GroupD-inter,groups,(Wed) 14 Mar 2001 (W11),Leeds United FC (14),3-3,2-2,SS Lazio (12),,,ENG,ITA
+?,GroupC-inter,groups,(Wed) 14 Mar 2001 (W11),Spartak Moskva (12),1-1,1-0,Olympique Lyon (14),,,RUS,FRA
+?,GroupD-inter,groups,(Wed) 14 Mar 2001 (W11),RSC Anderlecht (16),2-0,0-0,Real Madrid CF (12),,,BEL,ESP
+?,QF,1,(Tue) 3 Apr 2001 (W14),Manchester United FC (13),0-1,0-0,Bayern München (13),,,ENG,GER
+?,QF,1,(Tue) 3 Apr 2001 (W14),Galatasaray İstanbul AŞ (15),3-2,0-2,Real Madrid CF (13),,,TUR,ESP
+?,QF,1,(Wed) 4 Apr 2001 (W14),Arsenal FC (13),2-1,0-1,Valencia CF (15),,,ENG,ESP
+?,QF,1,(Wed) 4 Apr 2001 (W14),Leeds United FC (15),3-0,1-0,Deportivo La Coruna (13),,,ENG,ESP
+?,QF,2,(Tue) 17 Apr 2001 (W16),Valencia CF (16),1-0,0-0,Arsenal FC (14),,,ESP,ENG
+?,QF,2,(Tue) 17 Apr 2001 (W16),Deportivo La Coruna (14),2-0,1-0,Leeds United FC (16),,,ESP,ENG
+?,QF,2,(Wed) 18 Apr 2001 (W16),Bayern München (14),2-1,2-0,Manchester United FC (14),,,GER,ENG
+?,QF,2,(Wed) 18 Apr 2001 (W16),Real Madrid CF (14),3-0,3-0,Galatasaray İstanbul AŞ (16),,,ESP,TUR
+?,SF,1,(Tue) 1 May 2001 (W18),Real Madrid CF (15),0-1,0-0,Bayern München (15),,,ESP,GER
+?,SF,1,(Wed) 2 May 2001 (W18),Leeds United FC (17),0-0,0-0,Valencia CF (17),,,ENG,ESP
+?,SF,2,(Tue) 8 May 2001 (W19),Valencia CF (18),3-0,1-0,Leeds United FC (18),,,ESP,ENG
+?,SF,2,(Wed) 9 May 2001 (W19),Bayern München (16),2-1,2-1,Real Madrid CF (16),,,GER,ESP
+?,final,,(Wed) 23 May 2001 (W21),Bayern München (17),1-1,0-0,Valencia CF (19),1-1 (a.e.t.),,GER,ESP

@@ -1,0 +1,52 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,Round1,1,(Wed) 31 Aug 1960 (W35),Fredrikstad FK (1),4-3,1-2,AFC Ajax (1),,,NOR,NED
+?,Round1,1,(Wed) 31 Aug 1960 (W35),Limerick FC (1),0-5,0-0,BSC Young Boys (1),,,IRL,SUI
+?,Round1,1,(Thu) 1 Sep 1960 (W35),Helsingfors IFK (1),1-3,0-2,IFK Malmo (1),,,FIN,SWE
+?,Round1,2,(Wed) 7 Sep 1960 (W36),AFC Ajax (2),0-0,0-0,Fredrikstad FK (2),,,NED,NOR
+?,Round1,1,(Wed) 7 Sep 1960 (W36),Stade Reims (1),6-1,3-0,Jeunesse Esch (1),,,FRA,LUX
+?,Round1,1,(Wed) 14 Sep 1960 (W37),Rapid Wien (1),4-0,2-0,Beşiktaş İstanbul JK (1),,,AUT,TUR
+?,Round1,1,(Wed) 21 Sep 1960 (W38),Aarhus GF (1),3-0,1-0,Legia Warsaw (1),,,DEN,POL
+?,Round1,1,(Wed) 21 Sep 1960 (W38),Juventus (1),2-0,2-0,CDNA Sofia (1),,,ITA,BUL
+?,Round1,1,(Wed) 28 Sep 1960 (W39),FC Barcelona (1),2-0,0-0,K Lierse SK (1),,,ESP,BEL
+?,Round1,2,(Wed) 28 Sep 1960 (W39),Beşiktaş İstanbul JK (2),1-0,1-0,Rapid Wien (2),,,TUR,AUT
+?,Round1,1,(Wed) 28 Sep 1960 (W39),Crvena Zvezda (1),1-2,1-1,Ujpesti Dozsa SC (1),,,SRB,HUN
+?,Round1,2,(Wed) 28 Sep 1960 (W39),IFK Malmo (2),2-1,2-1,Helsingfors IFK (2),,,SWE,FIN
+?,Round1,1,(Thu) 29 Sep 1960 (W39),Heart of Midlothian (1),1-2,0-1,SL Benfica (1),,,SCO,POR
+?,Round1,2,(Wed) 5 Oct 1960 (W40),Legia Warsaw (2),1-0,1-0,Aarhus GF (2),,,POL,DEN
+?,Round1,2,(Wed) 5 Oct 1960 (W40),K Lierse SK (2),0-3,0-2,FC Barcelona (2),,,BEL,ESP
+?,Round1,2,(Wed) 5 Oct 1960 (W40),BSC Young Boys (2),4-2,1-1,Limerick FC (2),,,SUI,IRL
+?,Round1,2,(Wed) 5 Oct 1960 (W40),SL Benfica (2),3-0,1-0,Heart of Midlothian (2),,,POR,SCO
+?,Round1,2,(Wed) 5 Oct 1960 (W40),Jeunesse Esch (2),0-5,0-0,Stade Reims (2),,,LUX,FRA
+?,Round1,2,(Wed) 12 Oct 1960 (W41),CDNA Sofia (2),4-1,1-0,Juventus (2),,,BUL,ITA
+?,Round1,2,(Wed) 12 Oct 1960 (W41),Ujpesti Dozsa SC (2),3-0,0-0,Crvena Zvezda (2),,,HUN,SRB
+?,R16,1,(Wed) 19 Oct 1960 (W42),Aarhus GF (3),3-0,0-0,Fredrikstad FK (3),,,DEN,NOR
+?,R16,2,(Wed) 26 Oct 1960 (W43),Fredrikstad FK (4),0-1,0-0,Aarhus GF (4),,,NOR,DEN
+?,R16,1,(Wed) 2 Nov 1960 (W44),BSC Young Boys (3),0-5,0-3,Hamburger SV (1),,,SUI,GER
+?,R16,1,(Wed) 2 Nov 1960 (W44),IFK Malmo (3),1-0,0-0,CDNA Sofia (3),,,SWE,BUL
+?,R16,1,(Sun) 6 Nov 1960 (W44),DSO Spartak Hradec Kralove (1),1-0,0-0,Panathinaikos FC (1),,,CZE,GRE
+?,R16,1,(Tue) 8 Nov 1960 (W45),SL Benfica (3),6-2,5-0,Ujpesti Dozsa SC (3),,,POR,HUN
+?,R16,1,(Wed) 9 Nov 1960 (W45),Rapid Wien (3),3-1,1-1,SC Wismut Karl-Marx-Stadt (1),,,AUT,GER
+?,R16,1,(Wed) 9 Nov 1960 (W45),Real Madrid CF (1),2-2,2-1,FC Barcelona (3),,,ESP,ESP
+?,R16,2,(Sun) 13 Nov 1960 (W45),CDNA Sofia (4),1-1,1-0,IFK Malmo (4),,,BUL,SWE
+?,R16,1,(Wed) 16 Nov 1960 (W46),Burnley FC (1),2-0,2-0,Stade Reims (3),,,ENG,FRA
+?,R16,2,(Wed) 23 Nov 1960 (W47),SC Wismut Karl-Marx-Stadt (2),2-0,0-0,Rapid Wien (4),,,GER,AUT
+?,R16,2,(Fri) 25 Nov 1960 (W47),FC Barcelona (4),2-1,1-0,Real Madrid CF (2),,,ESP,ESP
+?,R16,2,(Sun) 27 Nov 1960 (W47),Hamburger SV (2),3-3,1-2,BSC Young Boys (4),,,GER,SUI
+?,R16,2,(Wed) 30 Nov 1960 (W48),Stade Reims (4),3-2,0-1,Burnley FC (2),,,FRA,ENG
+?,R16,2,(Wed) 30 Nov 1960 (W48),Ujpesti Dozsa SC (4),2-1,0-1,SL Benfica (4),,,HUN,POR
+?,R16,2,(Wed) 7 Dec 1960 (W49),Panathinaikos FC (2),0-0,0-0,DSO Spartak Hradec Kralove (2),,,GRE,CZE
+?,R16,replay,(Wed) 21 Dec 1960 (W51),Rapid Wien (5),1-0,1-0,SC Wismut Karl-Marx-Stadt (3),,,AUT,GER
+?,QF,1,(Wed) 18 Jan 1961 (W3),Burnley FC (3),3-1,1-0,Hamburger SV (3),,,ENG,GER
+?,QF,1,(Wed) 8 Mar 1961 (W10),SL Benfica (5),3-1,1-0,Aarhus GF (5),,,POR,DEN
+?,QF,1,(Wed) 8 Mar 1961 (W10),FC Barcelona (5),4-0,2-0,DSO Spartak Hradec Kralove (3),,,ESP,CZE
+?,QF,2,(Wed) 15 Mar 1961 (W11),DSO Spartak Hradec Kralove (4),1-1,1-1,FC Barcelona (6),,,CZE,ESP
+?,QF,2,(Wed) 15 Mar 1961 (W11),Hamburger SV (4),4-1,2-0,Burnley FC (4),,,GER,ENG
+?,QF,1,(Wed) 22 Mar 1961 (W12),Rapid Wien (6),2-0,1-0,IFK Malmo (5),,,AUT,SWE
+?,QF,2,(Thu) 30 Mar 1961 (W13),Aarhus GF (6),1-4,0-3,SL Benfica (6),,,DEN,POR
+?,QF,2,(Mon) 3 Apr 1961 (W14),IFK Malmo (6),0-2,0-1,Rapid Wien (7),,,SWE,AUT
+?,SF,1,(Wed) 12 Apr 1961 (W15),FC Barcelona (7),1-0,0-0,Hamburger SV (5),,,ESP,GER
+?,SF,2,(Wed) 26 Apr 1961 (W17),Hamburger SV (6),2-1,0-0,FC Barcelona (8),,,GER,ESP
+?,SF,1,(Wed) 26 Apr 1961 (W17),SL Benfica (7),3-0,2-0,Rapid Wien (8),,,POR,AUT
+?,SF,replay,(Wed) 3 May 1961 (W18),FC Barcelona (9),1-0,1-0,Hamburger SV (7),,,ESP,GER
+?,SF,2,(Thu) 4 May 1961 (W18),Rapid Wien (9),0-3,0-0,SL Benfica (8),,,AUT,POR
+?,final,,(Wed) 31 May 1961 (W22),SL Benfica (9),3-2,0-0,FC Barcelona (10),,,POR,ESP

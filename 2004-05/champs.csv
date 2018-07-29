@@ -1,0 +1,206 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,Q-1,1,(Tue) 13 Jul 2004 (W28),NK Siroki Brijeg (1),2-1,0-0,Neftchi PFC Baku (1),,,BIH,AZE
+?,Q-1,1,(Tue) 13 Jul 2004 (W28),Sliema Wanderers (1),0-2,0-0,FBK Kaunas (1),,,MLT,LTU
+?,Q-1,1,(Tue) 13 Jul 2004 (W28),FK Pobeda (1),1-3,0-0,Pyunik (1),,,MKD,ARM
+?,Q-1,1,(Wed) 14 Jul 2004 (W28),KR Reykjavik (1),2-2,0-0,Shelbourne (1),,,ISL,IRL
+?,Q-1,1,(Wed) 14 Jul 2004 (W28),Flora Tallinn (1),2-4,0-0,HNK Gorica (1),,,EST,CRO
+?,Q-1,1,(Wed) 14 Jul 2004 (W28),Gomel (1),0-2,0-0,KF Tirana (1),,,BLR,ALB
+?,Q-1,1,(Wed) 14 Jul 2004 (W28),WIT Georgia (1),5-0,0-0,HB (1),,,GEO,FRO
+?,Q-1,1,(Wed) 14 Jul 2004 (W28),Linfield (1),0-1,0-0,HJK Helsinki (1),,,NIR,FIN
+?,Q-1,1,(Wed) 14 Jul 2004 (W28),Sheriff Tiraspol (1),2-0,0-0,Jeunesse Esch (1),,,MDA,LUX
+?,Q-1,1,(Wed) 14 Jul 2004 (W28),Skonto (1),4-0,0-0,Rhyl (1),,,LVA,WAL
+?,Q-1,2,(Wed) 21 Jul 2004 (W29),Shelbourne (2),0-0,0-0,KR Reykjavik (2),,,IRL,ISL
+?,Q-1,2,(Wed) 21 Jul 2004 (W29),Neftchi PFC Baku (2),1-0,0-0,NK Siroki Brijeg (2),,,AZE,BIH
+?,Q-1,2,(Wed) 21 Jul 2004 (W29),FBK Kaunas (2),4-1,0-0,Sliema Wanderers (2),,,LTU,MLT
+?,Q-1,2,(Wed) 21 Jul 2004 (W29),Pyunik (2),1-1,0-0,FK Pobeda (2),,,ARM,MKD
+?,Q-1,2,(Wed) 21 Jul 2004 (W29),HNK Gorica (2),3-1,0-0,Flora Tallinn (2),,,CRO,EST
+?,Q-1,2,(Wed) 21 Jul 2004 (W29),KF Tirana (2),0-1,0-0,Gomel (2),,,ALB,BLR
+?,Q-1,2,(Wed) 21 Jul 2004 (W29),HB (2),3-2,0-0,WIT Georgia (2),,,FRO,GEO
+?,Q-1,2,(Wed) 21 Jul 2004 (W29),HJK Helsinki (2),1-0,0-0,Linfield (2),,,FIN,NIR
+?,Q-1,2,(Wed) 21 Jul 2004 (W29),Jeunesse Esch (2),1-0,0-0,Sheriff Tiraspol (2),,,LUX,MDA
+?,Q-1,2,(Wed) 21 Jul 2004 (W29),Rhyl (2),1-3,0-0,Skonto (2),,,WAL,LVA
+?,Q-2,1,(Tue) 27 Jul 2004 (W30),KF Tirana (3),2-3,0-0,Ferencvaros (1),,,ALB,HUN
+?,Q-2,1,(Tue) 27 Jul 2004 (W30),Neftchi PFC Baku (3),0-0,0-0,CSKA Moskva (1),,,AZE,RUS
+?,Q-2,1,(Tue) 27 Jul 2004 (W30),HJK Helsinki (3),0-0,0-0,Maccabi Tel Aviv (1),,,FIN,ISR
+?,Q-2,1,(Tue) 27 Jul 2004 (W30),HNK Gorica (3),1-2,0-0,Kobenhavn (1),,,CRO,DEN
+?,Q-2,1,(Tue) 27 Jul 2004 (W30),Pyunik (3),1-3,0-0,Shakhtar Donetsk (1),,,ARM,UKR
+?,Q-2,1,(Tue) 27 Jul 2004 (W30),WIT Georgia (3),2-8,0-0,Wisla Krakow (1),,,GEO,POL
+?,Q-2,1,(Wed) 28 Jul 2004 (W30),APOEL Nikosia (1),2-2,0-0,Sparta Praha (1),,,CYP,CZE
+?,Q-2,1,(Wed) 28 Jul 2004 (W30),BSC Young Boys (1),2-2,0-0,Crvena Zvezda (1),,,SUI,SRB
+?,Q-2,1,(Wed) 28 Jul 2004 (W30),Club Brugge (1),2-0,0-0,PFC Lokomotiv Plovdiv (1),,,BEL,BUL
+?,Q-2,1,(Wed) 28 Jul 2004 (W30),MSK Zilina (1),0-1,0-0,Dinamo Bucuresti (1),,,SVK,ROU
+?,Q-2,1,(Wed) 28 Jul 2004 (W30),Djurgardens IF (1),0-0,0-0,FBK Kaunas (3),,,SWE,LTU
+?,Q-2,1,(Wed) 28 Jul 2004 (W30),Hajduk Split (1),3-2,0-0,Shelbourne (3),,,CRO,IRL
+?,Q-2,1,(Wed) 28 Jul 2004 (W30),Rosenborg BK (1),2-1,0-0,Sheriff Tiraspol (3),,,NOR,MDA
+?,Q-2,1,(Wed) 28 Jul 2004 (W30),Skonto (3),1-1,0-0,Trabzonspor AŞ (1),,,LVA,TUR
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),Ferencvaros (2),0-1,0-0,KF Tirana (4),,,HUN,ALB
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),Sparta Praha (2),2-1,0-0,APOEL Nikosia (2),,,CZE,CYP
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),Crvena Zvezda (2),3-0,0-0,BSC Young Boys (2),,,SRB,SUI
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),PFC Lokomotiv Plovdiv (2),0-4,0-0,Club Brugge (2),,,BUL,BEL
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),CSKA Moskva (2),2-0,0-0,Neftchi PFC Baku (4),,,RUS,AZE
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),Dinamo Bucuresti (2),1-0,0-0,MSK Zilina (2),,,ROU,SVK
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),FBK Kaunas (4),0-2,0-0,Djurgardens IF (2),,,LTU,SWE
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),Shelbourne (4),2-0,0-0,Hajduk Split (2),,,IRL,CRO
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),Maccabi Tel Aviv (2),1-0,0-0,HJK Helsinki (4),,,ISR,FIN
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),Kobenhavn (2),0-5,0-0,HNK Gorica (4),,,DEN,CRO
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),Shakhtar Donetsk (2),1-0,0-0,Pyunik (4),,,UKR,ARM
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),Sheriff Tiraspol (4),0-2,0-0,Rosenborg BK (2),,,MDA,NOR
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),Trabzonspor AŞ (2),3-0,0-0,Skonto (4),,,TUR,LVA
+?,Q-2,2,(Wed) 4 Aug 2004 (W31),Wisla Krakow (2),3-0,0-0,WIT Georgia (4),,,POL,GEO
+?,Q-3,1,(Tue) 10 Aug 2004 (W32),CSKA Moskva (3),2-1,0-0,Rangers FC (1),,,RUS,SCO
+?,Q-3,1,(Tue) 10 Aug 2004 (W32),Dinamo Kiev (1),1-2,0-0,Trabzonspor AŞ (3),,,UKR,TUR
+?,Q-3,1,(Tue) 10 Aug 2004 (W32),Juventus (1),2-2,0-0,Djurgardens IF (3),,,ITA,SWE
+?,Q-3,1,(Tue) 10 Aug 2004 (W32),Grazer AK (1),0-2,0-0,Liverpool FC (1),,,AUT,ENG
+?,Q-3,1,(Tue) 10 Aug 2004 (W32),PAOK FC (1),0-3,0-0,Maccabi Tel Aviv (3),,,GRE,ISR
+?,Q-3,1,(Tue) 10 Aug 2004 (W32),SL Benfica (1),1-0,0-0,RSC Anderlecht (1),,,POR,BEL
+?,Q-3,1,(Wed) 11 Aug 2004 (W32),HNK Gorica (5),0-3,0-0,AS Monaco (1),,,CRO,FRA
+?,Q-3,1,(Wed) 11 Aug 2004 (W32),Bayer 04 Leverkusen (1),5-0,0-0,Banik Ostrava (1),,,GER,CZE
+?,Q-3,1,(Wed) 11 Aug 2004 (W32),Basel (1),1-1,0-0,Internazionale (1),,,SUI,ITA
+?,Q-3,1,(Wed) 11 Aug 2004 (W32),Shakhtar Donetsk (3),4-1,0-0,Club Brugge (3),,,UKR,BEL
+?,Q-3,1,(Wed) 11 Aug 2004 (W32),Crvena Zvezda (3),3-2,0-0,PSV Eindhoven (1),,,SRB,NED
+?,Q-3,1,(Wed) 11 Aug 2004 (W32),Shelbourne (5),0-0,0-0,Deportivo La Coruna (1),,,IRL,ESP
+?,Q-3,1,(Wed) 11 Aug 2004 (W32),Dinamo Bucuresti (3),1-2,0-0,Manchester United FC (1),,,ROU,ENG
+?,Q-3,1,(Wed) 11 Aug 2004 (W32),Ferencvaros (3),1-0,0-0,Sparta Praha (3),,,HUN,CZE
+?,Q-3,1,(Wed) 11 Aug 2004 (W32),Rosenborg BK (3),2-1,0-0,Maccabi Haifa (1),,,NOR,ISR
+?,Q-3,1,(Wed) 11 Aug 2004 (W32),Wisla Krakow (3),0-2,0-0,Real Madrid CF (1),,,POL,ESP
+?,Q-3,2,(Tue) 24 Aug 2004 (W34),AS Monaco (2),6-0,0-0,HNK Gorica (6),,,FRA,CRO
+?,Q-3,2,(Tue) 24 Aug 2004 (W34),Internazionale (2),4-1,0-0,Basel (2),,,ITA,SUI
+?,Q-3,2,(Tue) 24 Aug 2004 (W34),Rangers FC (2),1-1,0-0,CSKA Moskva (4),,,SCO,RUS
+?,Q-3,2,(Tue) 24 Aug 2004 (W34),Deportivo La Coruna (2),3-0,0-0,Shelbourne (6),,,ESP,IRL
+?,Q-3,2,(Tue) 24 Aug 2004 (W34),Trabzonspor AŞ (4),0-2,0-0,Dinamo Kiev (2),,,TUR,UKR
+?,Q-3,2,(Tue) 24 Aug 2004 (W34),Liverpool FC (2),0-1,0-0,Grazer AK (2),,,ENG,AUT
+?,Q-3,2,(Tue) 24 Aug 2004 (W34),Maccabi Haifa (2),2-1,0-0,Rosenborg BK (4),2-3 (a.e.t.),,ISR,NOR
+?,Q-3,2,(Tue) 24 Aug 2004 (W34),RSC Anderlecht (2),3-0,0-0,SL Benfica (2),,,BEL,POR
+?,Q-3,2,(Wed) 25 Aug 2004 (W34),Banik Ostrava (2),2-1,0-0,Bayer 04 Leverkusen (2),,,CZE,GER
+?,Q-3,2,(Wed) 25 Aug 2004 (W34),Club Brugge (4),2-2,0-0,Shakhtar Donetsk (4),,,BEL,UKR
+?,Q-3,2,(Wed) 25 Aug 2004 (W34),PSV Eindhoven (2),5-0,0-0,Crvena Zvezda (4),,,NED,SRB
+?,Q-3,2,(Wed) 25 Aug 2004 (W34),Manchester United FC (2),3-0,0-0,Dinamo Bucuresti (4),,,ENG,ROU
+?,Q-3,2,(Wed) 25 Aug 2004 (W34),Djurgardens IF (4),1-4,0-0,Juventus (2),,,SWE,ITA
+?,Q-3,2,(Wed) 25 Aug 2004 (W34),Sparta Praha (4),1-0,0-0,Ferencvaros (4),2-0 (a.e.t.),,CZE,HUN
+?,Q-3,2,(Wed) 25 Aug 2004 (W34),Maccabi Tel Aviv (4),1-0,0-0,PAOK FC (2),,,ISR,GRE
+?,Q-3,2,(Wed) 25 Aug 2004 (W34),Real Madrid CF (2),3-1,0-0,Wisla Krakow (4),,,ESP,POL
+?,GroupF,groups,(Tue) 14 Sep 2004 (W37),Shakhtar Donetsk (5),0-1,0-0,AC Milan (1),,,UKR,ITA
+?,GroupE,groups,(Tue) 14 Sep 2004 (W37),Arsenal FC (1),1-0,1-0,PSV Eindhoven (3),,,ENG,NED
+?,GroupF,groups,(Tue) 14 Sep 2004 (W37),Celtic FC (1),1-3,0-1,FC Barcelona (1),,,SCO,ESP
+?,GroupH,groups,(Tue) 14 Sep 2004 (W37),Paris Saint-Germain (1),0-3,0-2,Chelsea FC (1),,,FRA,ENG
+?,GroupH,groups,(Tue) 14 Sep 2004 (W37),FC Porto (1),0-0,0-0,CSKA Moskva (5),,,POR,RUS
+?,GroupG,groups,(Tue) 14 Sep 2004 (W37),Internazionale (3),2-0,1-0,Werder Bremen (1),,,ITA,GER
+?,GroupE,groups,(Tue) 14 Sep 2004 (W37),Panathinaikos FC (1),2-1,1-0,Rosenborg BK (5),,,GRE,NOR
+?,GroupG,groups,(Tue) 14 Sep 2004 (W37),Valencia CF (1),2-0,2-0,RSC Anderlecht (3),,,ESP,BEL
+?,GroupC,groups,(Wed) 15 Sep 2004 (W37),AFC Ajax (1),0-1,0-1,Juventus (3),,,NED,ITA
+?,GroupA,groups,(Wed) 15 Sep 2004 (W37),Liverpool FC (3),2-0,1-0,AS Monaco (3),,,ENG,FRA
+?,GroupB,groups,(Wed) 15 Sep 2004 (W37),AS Roma (1),0-3,0-1,Dinamo Kiev (3),,,ITA,UKR
+?,GroupB,groups,(Wed) 15 Sep 2004 (W37),Bayer 04 Leverkusen (3),3-0,1-0,Real Madrid CF (3),,,GER,ESP
+?,GroupC,groups,(Wed) 15 Sep 2004 (W37),Maccabi Tel Aviv (5),0-1,0-0,Bayern München (1),,,ISR,GER
+?,GroupA,groups,(Wed) 15 Sep 2004 (W37),Deportivo La Coruna (3),0-0,0-0,Olympiacos (1),,,ESP,GRE
+?,GroupD,groups,(Wed) 15 Sep 2004 (W37),Fenerbahçe İstanbul SK (1),1-0,1-0,Sparta Praha (5),,,TUR,CZE
+?,GroupD,groups,(Wed) 15 Sep 2004 (W37),Olympique Lyon (1),2-2,2-0,Manchester United FC (3),,,FRA,ENG
+?,GroupC,groups,(Tue) 28 Sep 2004 (W39),Bayern München (2),4-0,2-0,AFC Ajax (2),,,GER,NED
+?,GroupA,groups,(Tue) 28 Sep 2004 (W39),AS Monaco (4),2-0,2-0,Deportivo La Coruna (4),,,FRA,ESP
+?,GroupB,groups,(Tue) 28 Sep 2004 (W39),Real Madrid CF (4),4-2,1-2,AS Roma (2),,,ESP,ITA
+?,GroupB,groups,(Tue) 28 Sep 2004 (W39),Dinamo Kiev (4),4-2,1-0,Bayer 04 Leverkusen (4),,,UKR,GER
+?,GroupD,groups,(Tue) 28 Sep 2004 (W39),Manchester United FC (4),6-2,3-0,Fenerbahçe İstanbul SK (2),,,ENG,TUR
+?,GroupC,groups,(Tue) 28 Sep 2004 (W39),Juventus (4),1-0,1-0,Maccabi Tel Aviv (6),,,ITA,ISR
+?,GroupA,groups,(Tue) 28 Sep 2004 (W39),Olympiacos (2),1-0,1-0,Liverpool FC (4),,,GRE,ENG
+?,GroupD,groups,(Tue) 28 Sep 2004 (W39),Sparta Praha (6),1-2,1-1,Olympique Lyon (2),,,CZE,FRA
+?,GroupF,groups,(Wed) 29 Sep 2004 (W39),AC Milan (2),3-1,1-0,Celtic FC (2),,,ITA,SCO
+?,GroupE,groups,(Wed) 29 Sep 2004 (W39),Rosenborg BK (6),1-1,0-1,Arsenal FC (2),,,NOR,ENG
+?,GroupF,groups,(Wed) 29 Sep 2004 (W39),FC Barcelona (2),3-0,1-0,Shakhtar Donetsk (6),,,ESP,UKR
+?,GroupH,groups,(Wed) 29 Sep 2004 (W39),Chelsea FC (2),3-1,1-0,FC Porto (2),,,ENG,POR
+?,GroupH,groups,(Wed) 29 Sep 2004 (W39),CSKA Moskva (6),2-0,0-0,Paris Saint-Germain (2),,,RUS,FRA
+?,GroupG,groups,(Wed) 29 Sep 2004 (W39),RSC Anderlecht (4),1-3,0-1,Internazionale (4),,,BEL,ITA
+?,GroupE,groups,(Wed) 29 Sep 2004 (W39),PSV Eindhoven (4),1-0,0-0,Panathinaikos FC (2),,,NED,GRE
+?,GroupG,groups,(Wed) 29 Sep 2004 (W39),Werder Bremen (2),2-1,0-1,Valencia CF (2),,,GER,ESP
+?,GroupC,groups,(Tue) 19 Oct 2004 (W42),AFC Ajax (3),3-0,3-0,Maccabi Tel Aviv (7),,,NED,ISR
+?,GroupA,groups,(Tue) 19 Oct 2004 (W42),AS Monaco (5),2-1,2-0,Olympiacos (3),,,FRA,GRE
+?,GroupB,groups,(Tue) 19 Oct 2004 (W42),Bayer 04 Leverkusen (5),3-1,0-1,AS Roma (3),,,GER,ITA
+?,GroupC,groups,(Tue) 19 Oct 2004 (W42),Juventus (5),1-0,0-0,Bayern München (3),,,ITA,GER
+?,GroupA,groups,(Tue) 19 Oct 2004 (W42),Liverpool FC (5),0-0,0-0,Deportivo La Coruna (5),,,ENG,ESP
+?,GroupB,groups,(Tue) 19 Oct 2004 (W42),Real Madrid CF (5),1-0,1-0,Dinamo Kiev (5),,,ESP,UKR
+?,GroupD,groups,(Tue) 19 Oct 2004 (W42),Fenerbahçe İstanbul SK (3),1-3,0-0,Olympique Lyon (3),,,TUR,FRA
+?,GroupD,groups,(Tue) 19 Oct 2004 (W42),Sparta Praha (7),0-0,0-0,Manchester United FC (5),,,CZE,ENG
+?,GroupF,groups,(Wed) 20 Oct 2004 (W42),AC Milan (3),1-0,1-0,FC Barcelona (3),,,ITA,ESP
+?,GroupE,groups,(Wed) 20 Oct 2004 (W42),Panathinaikos FC (3),2-2,0-1,Arsenal FC (3),,,GRE,ENG
+?,GroupF,groups,(Wed) 20 Oct 2004 (W42),Shakhtar Donetsk (7),3-0,0-0,Celtic FC (3),,,UKR,SCO
+?,GroupH,groups,(Wed) 20 Oct 2004 (W42),Chelsea FC (3),2-0,2-0,CSKA Moskva (7),,,ENG,RUS
+?,GroupH,groups,(Wed) 20 Oct 2004 (W42),Paris Saint-Germain (3),2-0,2-0,FC Porto (3),,,FRA,POR
+?,GroupG,groups,(Wed) 20 Oct 2004 (W42),Valencia CF (3),1-5,0-0,Internazionale (5),,,ESP,ITA
+?,GroupE,groups,(Wed) 20 Oct 2004 (W42),Rosenborg BK (7),1-2,1-1,PSV Eindhoven (5),,,NOR,NED
+?,GroupG,groups,(Wed) 20 Oct 2004 (W42),RSC Anderlecht (5),1-2,1-1,Werder Bremen (3),,,BEL,GER
+?,GroupF,groups,(Tue) 2 Nov 2004 (W44),FC Barcelona (4),2-1,1-1,AC Milan (4),,,ESP,ITA
+?,GroupE,groups,(Tue) 2 Nov 2004 (W44),Arsenal FC (4),1-1,1-0,Panathinaikos FC (4),,,ENG,GRE
+?,GroupF,groups,(Tue) 2 Nov 2004 (W44),Celtic FC (4),1-0,1-0,Shakhtar Donetsk (8),,,SCO,UKR
+?,GroupH,groups,(Tue) 2 Nov 2004 (W44),CSKA Moskva (8),0-1,0-1,Chelsea FC (4),,,RUS,ENG
+?,GroupH,groups,(Tue) 2 Nov 2004 (W44),FC Porto (4),0-0,0-0,Paris Saint-Germain (4),,,POR,FRA
+?,GroupG,groups,(Tue) 2 Nov 2004 (W44),Internazionale (6),0-0,0-0,Valencia CF (4),,,ITA,ESP
+?,GroupE,groups,(Tue) 2 Nov 2004 (W44),PSV Eindhoven (6),1-0,1-0,Rosenborg BK (8),,,NED,NOR
+?,GroupG,groups,(Tue) 2 Nov 2004 (W44),Werder Bremen (4),5-1,3-1,RSC Anderlecht (6),,,GER,BEL
+?,GroupC,groups,(Wed) 3 Nov 2004 (W44),Maccabi Tel Aviv (8),2-1,0-0,AFC Ajax (4),,,ISR,NED
+?,GroupA,groups,(Wed) 3 Nov 2004 (W44),Olympiacos (4),1-0,0-0,AS Monaco (6),,,GRE,FRA
+?,GroupB,groups,(Wed) 3 Nov 2004 (W44),AS Roma (4),1-1,0-0,Bayer 04 Leverkusen (6),,,ITA,GER
+?,GroupC,groups,(Wed) 3 Nov 2004 (W44),Bayern München (4),0-1,0-0,Juventus (6),,,GER,ITA
+?,GroupA,groups,(Wed) 3 Nov 2004 (W44),Deportivo La Coruna (6),0-1,0-1,Liverpool FC (6),,,ESP,ENG
+?,GroupB,groups,(Wed) 3 Nov 2004 (W44),Dinamo Kiev (6),2-2,2-2,Real Madrid CF (6),,,UKR,ESP
+?,GroupD,groups,(Wed) 3 Nov 2004 (W44),Olympique Lyon (4),4-2,1-1,Fenerbahçe İstanbul SK (4),,,FRA,TUR
+?,GroupD,groups,(Wed) 3 Nov 2004 (W44),Manchester United FC (6),4-1,2-0,Sparta Praha (8),,,ENG,CZE
+?,GroupC,groups,(Tue) 23 Nov 2004 (W47),Juventus (7),1-0,1-0,AFC Ajax (5),,,ITA,NED
+?,GroupA,groups,(Tue) 23 Nov 2004 (W47),AS Monaco (7),1-0,0-0,Liverpool FC (7),,,FRA,ENG
+?,GroupB,groups,(Tue) 23 Nov 2004 (W47),Dinamo Kiev (7),2-0,0-0,AS Roma (5),,,UKR,ITA
+?,GroupB,groups,(Tue) 23 Nov 2004 (W47),Real Madrid CF (7),1-1,0-1,Bayer 04 Leverkusen (7),,,ESP,GER
+?,GroupC,groups,(Tue) 23 Nov 2004 (W47),Bayern München (5),5-1,3-0,Maccabi Tel Aviv (9),,,GER,ISR
+?,GroupA,groups,(Tue) 23 Nov 2004 (W47),Olympiacos (5),1-0,0-0,Deportivo La Coruna (7),,,GRE,ESP
+?,GroupD,groups,(Tue) 23 Nov 2004 (W47),Sparta Praha (9),0-1,0-1,Fenerbahçe İstanbul SK (5),,,CZE,TUR
+?,GroupD,groups,(Tue) 23 Nov 2004 (W47),Manchester United FC (7),2-1,1-1,Olympique Lyon (5),,,ENG,FRA
+?,GroupF,groups,(Wed) 24 Nov 2004 (W47),AC Milan (5),4-0,0-0,Shakhtar Donetsk (9),,,ITA,UKR
+?,GroupE,groups,(Wed) 24 Nov 2004 (W47),PSV Eindhoven (7),1-1,1-1,Arsenal FC (5),,,NED,ENG
+?,GroupF,groups,(Wed) 24 Nov 2004 (W47),FC Barcelona (5),1-1,1-1,Celtic FC (5),,,ESP,SCO
+?,GroupH,groups,(Wed) 24 Nov 2004 (W47),Chelsea FC (5),0-0,0-0,Paris Saint-Germain (5),,,ENG,FRA
+?,GroupH,groups,(Wed) 24 Nov 2004 (W47),CSKA Moskva (9),0-1,0-1,FC Porto (5),,,RUS,POR
+?,GroupG,groups,(Wed) 24 Nov 2004 (W47),Werder Bremen (5),1-1,0-0,Internazionale (7),,,GER,ITA
+?,GroupE,groups,(Wed) 24 Nov 2004 (W47),Rosenborg BK (9),2-2,0-1,Panathinaikos FC (5),,,NOR,GRE
+?,GroupG,groups,(Wed) 24 Nov 2004 (W47),RSC Anderlecht (7),1-2,1-1,Valencia CF (5),,,BEL,ESP
+?,GroupF,groups,(Tue) 7 Dec 2004 (W49),Celtic FC (6),0-0,0-0,AC Milan (6),,,SCO,ITA
+?,GroupE,groups,(Tue) 7 Dec 2004 (W49),Arsenal FC (6),5-1,4-1,Rosenborg BK (10),,,ENG,NOR
+?,GroupF,groups,(Tue) 7 Dec 2004 (W49),Shakhtar Donetsk (10),2-0,2-0,FC Barcelona (6),,,UKR,ESP
+?,GroupH,groups,(Tue) 7 Dec 2004 (W49),FC Porto (6),2-1,0-1,Chelsea FC (6),,,POR,ENG
+?,GroupH,groups,(Tue) 7 Dec 2004 (W49),Paris Saint-Germain (6),1-3,1-1,CSKA Moskva (10),,,FRA,RUS
+?,GroupG,groups,(Tue) 7 Dec 2004 (W49),Internazionale (8),3-0,1-0,RSC Anderlecht (8),,,ITA,BEL
+?,GroupE,groups,(Tue) 7 Dec 2004 (W49),Panathinaikos FC (6),4-1,2-1,PSV Eindhoven (8),,,GRE,NED
+?,GroupG,groups,(Tue) 7 Dec 2004 (W49),Valencia CF (6),0-2,0-0,Werder Bremen (6),,,ESP,GER
+?,GroupC,groups,(Wed) 8 Dec 2004 (W49),AFC Ajax (6),2-2,1-1,Bayern München (6),,,NED,GER
+?,GroupA,groups,(Wed) 8 Dec 2004 (W49),Deportivo La Coruna (8),0-5,0-3,AS Monaco (8),,,ESP,FRA
+?,GroupB,groups,(Wed) 8 Dec 2004 (W49),AS Roma (6),0-3,0-1,Real Madrid CF (8),,,ITA,ESP
+?,GroupB,groups,(Wed) 8 Dec 2004 (W49),Bayer 04 Leverkusen (8),3-0,0-0,Dinamo Kiev (8),,,GER,UKR
+?,GroupD,groups,(Wed) 8 Dec 2004 (W49),Fenerbahçe İstanbul SK (6),3-0,0-0,Manchester United FC (8),,,TUR,ENG
+?,GroupC,groups,(Wed) 8 Dec 2004 (W49),Maccabi Tel Aviv (10),1-1,1-0,Juventus (8),,,ISR,ITA
+?,GroupA,groups,(Wed) 8 Dec 2004 (W49),Liverpool FC (8),3-1,0-1,Olympiacos (6),,,ENG,GRE
+?,GroupD,groups,(Wed) 8 Dec 2004 (W49),Olympique Lyon (6),5-0,2-0,Sparta Praha (10),,,FRA,CZE
+?,R16,1,(Tue) 22 Feb 2005 (W8),Bayern München (7),3-1,1-0,Arsenal FC (7),,,GER,ENG
+?,R16,1,(Tue) 22 Feb 2005 (W8),PSV Eindhoven (9),1-0,1-0,AS Monaco (9),,,NED,FRA
+?,R16,1,(Tue) 22 Feb 2005 (W8),Liverpool FC (9),3-1,2-0,Bayer 04 Leverkusen (9),,,ENG,GER
+?,R16,1,(Tue) 22 Feb 2005 (W8),Real Madrid CF (9),1-0,1-0,Juventus (9),,,ESP,ITA
+?,R16,1,(Wed) 23 Feb 2005 (W8),Manchester United FC (9),0-1,0-0,AC Milan (7),,,ENG,ITA
+?,R16,1,(Wed) 23 Feb 2005 (W8),FC Barcelona (7),2-1,0-1,Chelsea FC (7),,,ESP,ENG
+?,R16,1,(Wed) 23 Feb 2005 (W8),FC Porto (7),1-1,0-1,Internazionale (9),,,POR,ITA
+?,R16,1,(Wed) 23 Feb 2005 (W8),Werder Bremen (7),0-3,0-1,Olympique Lyon (7),,,GER,FRA
+?,R16,2,(Tue) 8 Mar 2005 (W10),AC Milan (8),1-0,0-0,Manchester United FC (10),,,ITA,ENG
+?,R16,2,(Tue) 8 Mar 2005 (W10),Chelsea FC (8),4-2,3-2,FC Barcelona (8),,,ENG,ESP
+?,R16,2,(Tue) 8 Mar 2005 (W10),Olympique Lyon (8),7-2,3-1,Werder Bremen (8),,,FRA,GER
+?,R16,2,(Wed) 9 Mar 2005 (W10),Arsenal FC (8),1-0,0-0,Bayern München (8),,,ENG,GER
+?,R16,2,(Wed) 9 Mar 2005 (W10),AS Monaco (10),0-2,0-1,PSV Eindhoven (10),,,FRA,NED
+?,R16,2,(Wed) 9 Mar 2005 (W10),Bayer 04 Leverkusen (10),1-3,0-2,Liverpool FC (10),,,GER,ENG
+?,R16,2,(Wed) 9 Mar 2005 (W10),Juventus (10),1-0,0-0,Real Madrid CF (10),2-0 (a.e.t.),,ITA,ESP
+?,R16,2,(Tue) 15 Mar 2005 (W11),Internazionale (10),3-1,1-0,FC Porto (8),,,ITA,POR
+?,QF,1,(Tue) 5 Apr 2005 (W14),Olympique Lyon (9),1-1,1-0,PSV Eindhoven (11),,,FRA,NED
+?,QF,1,(Tue) 5 Apr 2005 (W14),Liverpool FC (11),2-1,2-0,Juventus (11),,,ENG,ITA
+?,QF,1,(Wed) 6 Apr 2005 (W14),AC Milan (9),2-0,1-0,Internazionale (11),,,ITA,ITA
+?,QF,1,(Wed) 6 Apr 2005 (W14),Chelsea FC (9),4-2,1-0,Bayern München (9),,,ENG,GER
+?,QF,2,(Tue) 12 Apr 2005 (W15),Internazionale (12),0-3,0-1,AC Milan (10),,,ITA,ITA
+?,QF,2,(Tue) 12 Apr 2005 (W15),Bayern München (10),3-2,0-1,Chelsea FC (10),,,GER,ENG
+?,QF,2,(Wed) 13 Apr 2005 (W15),PSV Eindhoven (12),1-1,0-1,Olympique Lyon (10),1-1 (a.e.t.),,NED,FRA
+?,QF,2,(Wed) 13 Apr 2005 (W15),Juventus (12),0-0,0-0,Liverpool FC (12),,,ITA,ENG
+?,SF,1,(Tue) 26 Apr 2005 (W17),AC Milan (11),2-0,1-0,PSV Eindhoven (13),,,ITA,NED
+?,SF,1,(Wed) 27 Apr 2005 (W17),Chelsea FC (11),0-0,0-0,Liverpool FC (13),,,ENG,ENG
+?,SF,2,(Tue) 3 May 2005 (W18),Liverpool FC (14),1-0,1-0,Chelsea FC (12),,,ENG,ENG
+?,SF,2,(Wed) 4 May 2005 (W18),PSV Eindhoven (14),3-1,1-0,AC Milan (12),,,NED,ITA
+?,final,,(Wed) 25 May 2005 (W21),Liverpool FC (15),3-3,0-0,AC Milan (13),3-3 (a.e.t.),,ENG,ITA

@@ -1,0 +1,30 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,Round1,1,(Sun) 4 Sep 1955 (W35),Sporting CP (1),3-3,1-1,Partizan Belgrade (1),,,POR,SRB
+?,Round1,1,(Wed) 7 Sep 1955 (W36),Budapesti Voros Lobogo (1),6-3,3-2,RSC Anderlecht (1),,,HUN,BEL
+?,Round1,1,(Thu) 8 Sep 1955 (W36),Servette Geneve (1),0-2,0-0,Real Madrid CF (1),,,SUI,ESP
+?,Round1,1,(Wed) 14 Sep 1955 (W37),Rot-Weiss Essen (1),0-4,0-2,Hibernian FC (1),,,GER,SCO
+?,Round1,1,(Tue) 20 Sep 1955 (W38),Djurgardens IF (1),0-0,0-0,Gwardia Warszawa (1),,,SWE,POL
+?,Round1,1,(Wed) 21 Sep 1955 (W38),Aarhus GF (1),0-2,0-1,Stade Reims (1),,,DEN,FRA
+?,Round1,1,(Wed) 21 Sep 1955 (W38),Rapid Wien (1),6-1,1-1,PSV Eindhoven (1),,,AUT,NED
+?,Round1,2,(Wed) 12 Oct 1955 (W41),Gwardia Warszawa (2),1-4,1-4,Djurgardens IF (2),,,POL,SWE
+?,Round1,2,(Wed) 12 Oct 1955 (W41),Hibernian FC (2),1-1,1-0,Rot-Weiss Essen (2),,,SCO,GER
+?,Round1,2,(Wed) 12 Oct 1955 (W41),Real Madrid CF (2),5-0,2-0,Servette Geneve (2),,,ESP,SUI
+?,Round1,2,(Wed) 12 Oct 1955 (W41),Partizan Belgrade (2),5-2,2-0,Sporting CP (2),,,SRB,POR
+?,Round1,2,(Wed) 19 Oct 1955 (W42),RSC Anderlecht (2),1-4,1-1,Budapesti Voros Lobogo (2),,,BEL,HUN
+?,Round1,2,(Wed) 26 Oct 1955 (W43),Stade Reims (2),2-2,0-0,Aarhus GF (2),,,FRA,DEN
+?,Round1,1,(Tue) 1 Nov 1955 (W44),AC Milan (1),3-4,3-2,1. FC Saarbrücken (1),,,ITA,GER
+?,Round1,2,(Tue) 1 Nov 1955 (W44),PSV Eindhoven (2),1-0,1-0,Rapid Wien (2),,,NED,AUT
+?,Round1,2,(Wed) 23 Nov 1955 (W47),1. FC Saarbrücken (2),1-4,1-1,AC Milan (2),,,GER,ITA
+?,QF,1,(Wed) 23 Nov 1955 (W47),Djurgardens IF (3),1-3,1-1,Hibernian FC (3),,,SWE,SCO
+?,QF,2,(Mon) 28 Nov 1955 (W48),Hibernian FC (4),1-0,0-0,Djurgardens IF (4),,,SCO,SWE
+?,QF,1,(Wed) 14 Dec 1955 (W50),Stade Reims (3),4-2,3-1,Budapesti Voros Lobogo (3),,,FRA,HUN
+?,QF,1,(Sun) 25 Dec 1955 (W51),Real Madrid CF (3),4-0,3-0,Partizan Belgrade (3),,,ESP,SRB
+?,QF,2,(Wed) 28 Dec 1955 (W52),Budapesti Voros Lobogo (4),4-4,1-3,Stade Reims (4),,,HUN,FRA
+?,QF,1,(Wed) 18 Jan 1956 (W3),Rapid Wien (3),1-1,1-1,AC Milan (3),,,AUT,ITA
+?,QF,2,(Sun) 29 Jan 1956 (W4),Partizan Belgrade (4),3-0,1-0,Real Madrid CF (4),,,SRB,ESP
+?,QF,2,(Sun) 12 Feb 1956 (W6),AC Milan (4),7-2,3-1,Rapid Wien (4),,,ITA,AUT
+?,SF,1,(Wed) 4 Apr 1956 (W14),Stade Reims (5),2-0,0-0,Hibernian FC (5),,,FRA,SCO
+?,SF,2,(Wed) 18 Apr 1956 (W16),Hibernian FC (6),0-1,0-0,Stade Reims (6),,,SCO,FRA
+?,SF,1,(Thu) 19 Apr 1956 (W16),Real Madrid CF (5),4-2,3-2,AC Milan (5),,,ESP,ITA
+?,SF,2,(Tue) 1 May 1956 (W18),AC Milan (6),2-1,0-0,Real Madrid CF (6),,,ITA,ESP
+?,final,,(Wed) 13 Jun 1956 (W24),Real Madrid CF (7),4-3,0-0,Stade Reims (7),,,ESP,FRA

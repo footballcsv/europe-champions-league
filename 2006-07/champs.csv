@@ -1,0 +1,208 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,Q-1,1,(Tue) 11 Jul 2006 (W28),Birkirkara (1),0-3,0-0,B36 Torshavn (1),,,MLT,FRO
+?,Q-1,1,(Tue) 11 Jul 2006 (W28),Sioni Bolnisi (1),2-0,0-0,Baku (1),,,GEO,AZE
+?,Q-1,1,(Tue) 11 Jul 2006 (W28),F91 Dudelange (1),0-1,0-0,Rabotnicki (1),,,LUX,MKD
+?,Q-1,1,(Tue) 11 Jul 2006 (W28),TVMK (1),2-3,0-0,FH (1),,,EST,ISL
+?,Q-1,1,(Tue) 11 Jul 2006 (W28),KS Elbasani (1),1-0,0-0,FK Ekranas (1),,,ALB,LTU
+?,Q-1,1,(Tue) 11 Jul 2006 (W28),Linfield (1),1-3,0-0,HNK Gorica (1),,,NIR,CRO
+?,Q-1,1,(Tue) 11 Jul 2006 (W28),Pyunik (1),0-0,0-0,Sheriff Tiraspol (1),,,ARM,MDA
+?,Q-1,1,(Wed) 12 Jul 2006 (W28),Liepajas Metalurgs (1),1-0,0-0,Aktobe (1),,,LVA,KAZ
+?,Q-1,1,(Wed) 12 Jul 2006 (W28),Cork City (1),1-0,0-0,Apollon Limassol (1),,,IRL,CYP
+?,Q-1,1,(Wed) 12 Jul 2006 (W28),MYPA (1),1-0,0-0,The New Saints (1),,,FIN,WAL
+?,Q-1,1,(Wed) 12 Jul 2006 (W28),Shakhtyor Soligorsk (1),0-1,0-0,NK Siroki Brijeg (1),,,BLR,BIH
+?,Q-1,2,(Tue) 18 Jul 2006 (W29),Baku (2),1-0,0-0,Sioni Bolnisi (2),,,AZE,GEO
+?,Q-1,2,(Tue) 18 Jul 2006 (W29),Rabotnicki (2),0-0,0-0,F91 Dudelange (2),,,MKD,LUX
+?,Q-1,2,(Tue) 18 Jul 2006 (W29),FK Ekranas (2),3-0,0-0,KS Elbasani (2),,,LTU,ALB
+?,Q-1,2,(Tue) 18 Jul 2006 (W29),Sheriff Tiraspol (2),2-0,0-0,Pyunik (2),,,MDA,ARM
+?,Q-1,2,(Wed) 19 Jul 2006 (W29),Aktobe (2),1-1,0-0,Liepajas Metalurgs (2),,,KAZ,LVA
+?,Q-1,2,(Wed) 19 Jul 2006 (W29),Apollon Limassol (2),1-1,0-0,Cork City (2),,,CYP,IRL
+?,Q-1,2,(Wed) 19 Jul 2006 (W29),B36 Torshavn (2),2-2,0-0,Birkirkara (2),,,FRO,MLT
+?,Q-1,2,(Wed) 19 Jul 2006 (W29),FH (2),1-1,0-0,TVMK (2),,,ISL,EST
+?,Q-1,2,(Wed) 19 Jul 2006 (W29),HNK Gorica (2),2-2,0-0,Linfield (2),,,CRO,NIR
+?,Q-1,2,(Wed) 19 Jul 2006 (W29),The New Saints (2),0-1,0-0,MYPA (2),,,WAL,FIN
+?,Q-1,2,(Wed) 19 Jul 2006 (W29),NK Siroki Brijeg (2),1-0,0-0,Shakhtyor Soligorsk (2),,,BIH,BLR
+?,Q-2,1,(Tue) 25 Jul 2006 (W30),FK Ekranas (3),1-4,0-0,Dinamo Zagreb (1),,,LTU,CRO
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),Sheriff Tiraspol (3),1-1,0-0,Spartak Moskva (1),,,MDA,RUS
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),Fenerbahçe İstanbul SK (1),4-0,0-0,B36 Torshavn (3),,,TUR,FRO
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),Cork City (3),0-1,0-0,Crvena Zvezda (1),,,IRL,SRB
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),Debreceni VSC (1),1-1,0-0,Rabotnicki (3),,,HUN,MKD
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),Liepajas Metalurgs (3),1-4,0-0,Dinamo Kiev (1),,,LVA,UKR
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),Djurgardens IF (1),1-0,0-0,MFK Ruzomberok (1),,,SWE,SVK
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),FC Zurich (1),2-1,0-0,FC RB Salzburg (1),,,SUI,AUT
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),FH (3),0-1,0-0,Legia Warsaw (1),,,ISL,POL
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),Heart of Midlothian (1),3-0,0-0,NK Siroki Brijeg (3),,,SCO,BIH
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),HNK Gorica (3),0-2,0-0,Steaua Bucuresti (1),,,CRO,ROU
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),Kobenhavn (1),2-0,0-0,MYPA (3),,,DEN,FIN
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),Levski Sofia (1),2-0,0-0,Sioni Bolnisi (3),,,BUL,GEO
+?,Q-2,1,(Wed) 26 Jul 2006 (W30),Mlada Boleslav (1),3-1,0-0,Valerenga IF (1),,,CZE,NOR
+?,Q-2,2,(Tue) 1 Aug 2006 (W31),B36 Torshavn (4),0-5,0-0,Fenerbahçe İstanbul SK (2),,,FRO,TUR
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),Spartak Moskva (2),0-0,0-0,Sheriff Tiraspol (4),,,RUS,MDA
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),Crvena Zvezda (2),3-0,0-0,Cork City (4),,,SRB,IRL
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),Rabotnicki (4),4-1,0-0,Debreceni VSC (2),,,MKD,HUN
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),Dinamo Kiev (2),4-0,0-0,Liepajas Metalurgs (4),,,UKR,LVA
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),Dinamo Zagreb (2),5-2,0-0,FK Ekranas (4),,,CRO,LTU
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),MFK Ruzomberok (2),3-1,0-0,Djurgardens IF (2),,,SVK,SWE
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),FC RB Salzburg (2),2-0,0-0,FC Zurich (2),,,AUT,SUI
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),Legia Warsaw (2),2-0,0-0,FH (4),,,POL,ISL
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),NK Siroki Brijeg (4),0-0,0-0,Heart of Midlothian (2),,,BIH,SCO
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),Steaua Bucuresti (2),3-0,0-0,HNK Gorica (4),,,ROU,CRO
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),MYPA (4),2-2,0-0,Kobenhavn (2),,,FIN,DEN
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),Sioni Bolnisi (4),0-2,0-0,Levski Sofia (2),,,GEO,BUL
+?,Q-2,2,(Wed) 2 Aug 2006 (W31),Valerenga IF (2),2-2,0-0,Mlada Boleslav (2),,,NOR,CZE
+?,Q-3,1,(Tue) 8 Aug 2006 (W32),Dinamo Zagreb (3),0-3,0-0,Arsenal FC (1),,,CRO,ENG
+?,Q-3,1,(Tue) 8 Aug 2006 (W32),Austria Wien (1),1-1,0-0,SL Benfica (1),,,AUT,POR
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),Hamburger SV (1),0-0,0-0,CA Osasuna (1),,,GER,ESP
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),Levski Sofia (3),2-0,0-0,AC Chievo Verona (1),,,BUL,ITA
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),AC Milan (1),1-0,0-0,Crvena Zvezda (3),,,ITA,SRB
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),Heart of Midlothian (3),1-2,0-0,AEK Athens (1),,,SCO,GRE
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),Kobenhavn (3),1-2,0-0,AFC Ajax (1),,,DEN,NED
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),CSKA Moskva (1),3-0,0-0,MFK Ruzomberok (3),,,RUS,SVK
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),Dinamo Kiev (3),3-1,0-0,Fenerbahçe İstanbul SK (3),,,UKR,TUR
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),Galatasaray İstanbul AŞ (1),5-2,0-0,Mlada Boleslav (3),,,TUR,CZE
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),Shakhtar Donetsk (1),1-0,0-0,Legia Warsaw (3),,,UKR,POL
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),Lille OSC (1),3-0,0-0,Rabotnicki (5),,,FRA,MKD
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),Liverpool FC (1),2-1,0-0,Maccabi Haifa (1),,,ENG,ISR
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),FC RB Salzburg (3),1-0,0-0,Valencia CF (1),,,AUT,ESP
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),Slovan Liberec (1),0-0,0-0,Spartak Moskva (3),,,CZE,RUS
+?,Q-3,1,(Wed) 9 Aug 2006 (W32),Standard Liege (1),2-2,0-0,Steaua Bucuresti (3),,,BEL,ROU
+?,Q-3,2,(Tue) 22 Aug 2006 (W34),CA Osasuna (2),1-1,0-0,Hamburger SV (2),,,ESP,GER
+?,Q-3,2,(Tue) 22 Aug 2006 (W34),Crvena Zvezda (4),1-2,0-0,AC Milan (2),,,SRB,ITA
+?,Q-3,2,(Tue) 22 Aug 2006 (W34),SL Benfica (2),3-0,0-0,Austria Wien (2),,,POR,AUT
+?,Q-3,2,(Tue) 22 Aug 2006 (W34),Maccabi Haifa (2),1-1,0-0,Liverpool FC (2),,,ISR,ENG
+?,Q-3,2,(Tue) 22 Aug 2006 (W34),Valencia CF (2),3-0,0-0,FC RB Salzburg (4),,,ESP,AUT
+?,Q-3,2,(Wed) 23 Aug 2006 (W34),AC Chievo Verona (2),2-2,0-0,Levski Sofia (4),,,ITA,BUL
+?,Q-3,2,(Wed) 23 Aug 2006 (W34),AEK Athens (2),3-0,0-0,Heart of Midlothian (4),,,GRE,SCO
+?,Q-3,2,(Wed) 23 Aug 2006 (W34),AFC Ajax (2),0-2,0-0,Kobenhavn (4),,,NED,DEN
+?,Q-3,2,(Wed) 23 Aug 2006 (W34),Arsenal FC (2),2-1,0-0,Dinamo Zagreb (4),,,ENG,CRO
+?,Q-3,2,(Wed) 23 Aug 2006 (W34),MFK Ruzomberok (4),0-2,0-0,CSKA Moskva (2),,,SVK,RUS
+?,Q-3,2,(Wed) 23 Aug 2006 (W34),Fenerbahçe İstanbul SK (4),2-2,0-0,Dinamo Kiev (4),,,TUR,UKR
+?,Q-3,2,(Wed) 23 Aug 2006 (W34),Mlada Boleslav (4),1-1,0-0,Galatasaray İstanbul AŞ (2),,,CZE,TUR
+?,Q-3,2,(Wed) 23 Aug 2006 (W34),Legia Warsaw (4),2-3,0-0,Shakhtar Donetsk (2),,,POL,UKR
+?,Q-3,2,(Wed) 23 Aug 2006 (W34),Rabotnicki (6),0-1,0-0,Lille OSC (2),,,MKD,FRA
+?,Q-3,2,(Wed) 23 Aug 2006 (W34),Spartak Moskva (4),2-1,0-0,Slovan Liberec (2),,,RUS,CZE
+?,Q-3,2,(Wed) 23 Aug 2006 (W34),Steaua Bucuresti (4),2-1,0-0,Standard Liege (2),,,ROU,BEL
+?,GroupC,groups,(Tue) 12 Sep 2006 (W37),PSV Eindhoven (1),0-0,0-0,Liverpool FC (3),,,NED,ENG
+?,GroupD,groups,(Tue) 12 Sep 2006 (W37),AS Roma (1),4-0,0-0,Shakhtar Donetsk (3),,,ITA,UKR
+?,GroupA,groups,(Tue) 12 Sep 2006 (W37),FC Barcelona (1),5-0,2-0,Levski Sofia (5),,,ESP,BUL
+?,GroupB,groups,(Tue) 12 Sep 2006 (W37),Bayern München (1),4-0,0-0,Spartak Moskva (5),,,GER,RUS
+?,GroupA,groups,(Tue) 12 Sep 2006 (W37),Chelsea FC (1),2-0,1-0,Werder Bremen (1),,,ENG,GER
+?,GroupC,groups,(Tue) 12 Sep 2006 (W37),Galatasaray İstanbul AŞ (3),0-0,0-0,Girondins Bordeaux (1),,,TUR,FRA
+?,GroupB,groups,(Tue) 12 Sep 2006 (W37),Sporting CP (1),1-0,0-0,Internazionale (1),,,POR,ITA
+?,GroupD,groups,(Tue) 12 Sep 2006 (W37),Olympiacos (1),2-4,1-2,Valencia CF (3),,,GRE,ESP
+?,GroupH,groups,(Wed) 13 Sep 2006 (W37),AC Milan (3),3-0,2-0,AEK Athens (3),,,ITA,GRE
+?,GroupG,groups,(Wed) 13 Sep 2006 (W37),Hamburger SV (3),1-2,0-1,Arsenal FC (3),,,GER,ENG
+?,GroupF,groups,(Wed) 13 Sep 2006 (W37),Manchester United FC (1),3-2,2-2,Celtic FC (1),,,ENG,SCO
+?,GroupG,groups,(Wed) 13 Sep 2006 (W37),FC Porto (1),0-0,0-0,CSKA Moskva (3),,,POR,RUS
+?,GroupE,groups,(Wed) 13 Sep 2006 (W37),Dinamo Kiev (5),1-4,1-3,Steaua Bucuresti (5),,,UKR,ROU
+?,GroupF,groups,(Wed) 13 Sep 2006 (W37),Kobenhavn (5),0-0,0-0,SL Benfica (3),,,DEN,POR
+?,GroupH,groups,(Wed) 13 Sep 2006 (W37),RSC Anderlecht (1),1-1,1-0,Lille OSC (3),,,BEL,FRA
+?,GroupE,groups,(Wed) 13 Sep 2006 (W37),Olympique Lyon (1),2-0,2-0,Real Madrid CF (1),,,FRA,ESP
+?,GroupH,groups,(Tue) 26 Sep 2006 (W39),Lille OSC (4),0-0,0-0,AC Milan (4),,,FRA,ITA
+?,GroupH,groups,(Tue) 26 Sep 2006 (W39),AEK Athens (4),1-1,1-1,RSC Anderlecht (2),,,GRE,BEL
+?,GroupG,groups,(Tue) 26 Sep 2006 (W39),Arsenal FC (4),2-0,1-0,FC Porto (2),,,ENG,POR
+?,GroupF,groups,(Tue) 26 Sep 2006 (W39),Celtic FC (2),1-0,1-0,Kobenhavn (6),,,SCO,DEN
+?,GroupG,groups,(Tue) 26 Sep 2006 (W39),CSKA Moskva (4),1-0,0-0,Hamburger SV (4),,,RUS,GER
+?,GroupE,groups,(Tue) 26 Sep 2006 (W39),Real Madrid CF (2),5-1,3-0,Dinamo Kiev (6),,,ESP,UKR
+?,GroupF,groups,(Tue) 26 Sep 2006 (W39),SL Benfica (4),0-1,0-0,Manchester United FC (2),,,POR,ENG
+?,GroupE,groups,(Tue) 26 Sep 2006 (W39),Steaua Bucuresti (6),0-3,0-1,Olympique Lyon (2),,,ROU,FRA
+?,GroupD,groups,(Wed) 27 Sep 2006 (W39),Valencia CF (4),2-1,2-1,AS Roma (2),,,ESP,ITA
+?,GroupA,groups,(Wed) 27 Sep 2006 (W39),Werder Bremen (2),1-1,0-0,FC Barcelona (2),,,GER,ESP
+?,GroupB,groups,(Wed) 27 Sep 2006 (W39),Internazionale (2),0-2,0-0,Bayern München (2),,,ITA,GER
+?,GroupA,groups,(Wed) 27 Sep 2006 (W39),Levski Sofia (6),1-3,0-1,Chelsea FC (2),,,BUL,ENG
+?,GroupC,groups,(Wed) 27 Sep 2006 (W39),Liverpool FC (4),3-2,2-0,Galatasaray İstanbul AŞ (4),,,ENG,TUR
+?,GroupC,groups,(Wed) 27 Sep 2006 (W39),Girondins Bordeaux (2),0-1,0-0,PSV Eindhoven (2),,,FRA,NED
+?,GroupD,groups,(Wed) 27 Sep 2006 (W39),Shakhtar Donetsk (4),2-2,1-1,Olympiacos (2),,,UKR,GRE
+?,GroupB,groups,(Wed) 27 Sep 2006 (W39),Spartak Moskva (6),1-1,1-0,Sporting CP (2),,,RUS,POR
+?,GroupH,groups,(Tue) 17 Oct 2006 (W42),RSC Anderlecht (3),0-1,0-0,AC Milan (5),,,BEL,ITA
+?,GroupH,groups,(Tue) 17 Oct 2006 (W42),Lille OSC (5),3-1,0-0,AEK Athens (5),,,FRA,GRE
+?,GroupG,groups,(Tue) 17 Oct 2006 (W42),CSKA Moskva (5),1-0,1-0,Arsenal FC (5),,,RUS,ENG
+?,GroupF,groups,(Tue) 17 Oct 2006 (W42),Celtic FC (3),3-0,0-0,SL Benfica (5),,,SCO,POR
+?,GroupE,groups,(Tue) 17 Oct 2006 (W42),Dinamo Kiev (7),0-3,0-2,Olympique Lyon (3),,,UKR,FRA
+?,GroupG,groups,(Tue) 17 Oct 2006 (W42),FC Porto (3),4-1,2-0,Hamburger SV (5),,,POR,GER
+?,GroupF,groups,(Tue) 17 Oct 2006 (W42),Manchester United FC (3),3-0,1-0,Kobenhavn (7),,,ENG,DEN
+?,GroupE,groups,(Tue) 17 Oct 2006 (W42),Steaua Bucuresti (7),1-4,0-2,Real Madrid CF (3),,,ROU,ESP
+?,GroupD,groups,(Wed) 18 Oct 2006 (W42),Olympiacos (3),0-1,0-0,AS Roma (3),,,GRE,ITA
+?,GroupA,groups,(Wed) 18 Oct 2006 (W42),Chelsea FC (3),1-0,0-0,FC Barcelona (3),,,ENG,ESP
+?,GroupB,groups,(Wed) 18 Oct 2006 (W42),Sporting CP (3),0-1,0-1,Bayern München (3),,,POR,GER
+?,GroupC,groups,(Wed) 18 Oct 2006 (W42),Galatasaray İstanbul AŞ (5),1-2,1-0,PSV Eindhoven (3),,,TUR,NED
+?,GroupC,groups,(Wed) 18 Oct 2006 (W42),Girondins Bordeaux (3),0-1,0-0,Liverpool FC (5),,,FRA,ENG
+?,GroupB,groups,(Wed) 18 Oct 2006 (W42),Internazionale (3),2-1,2-0,Spartak Moskva (7),,,ITA,RUS
+?,GroupA,groups,(Wed) 18 Oct 2006 (W42),Werder Bremen (3),2-0,1-0,Levski Sofia (7),,,GER,BUL
+?,GroupD,groups,(Wed) 18 Oct 2006 (W42),Valencia CF (5),2-0,2-0,Shakhtar Donetsk (5),,,ESP,UKR
+?,GroupD,groups,(Tue) 31 Oct 2006 (W44),AS Roma (4),1-1,0-1,Olympiacos (4),,,ITA,GRE
+?,GroupA,groups,(Tue) 31 Oct 2006 (W44),FC Barcelona (4),2-2,1-0,Chelsea FC (4),,,ESP,ENG
+?,GroupB,groups,(Tue) 31 Oct 2006 (W44),Bayern München (4),0-0,0-0,Sporting CP (4),,,GER,POR
+?,GroupC,groups,(Tue) 31 Oct 2006 (W44),PSV Eindhoven (4),2-0,0-0,Galatasaray İstanbul AŞ (6),,,NED,TUR
+?,GroupC,groups,(Tue) 31 Oct 2006 (W44),Liverpool FC (6),3-0,1-0,Girondins Bordeaux (4),,,ENG,FRA
+?,GroupB,groups,(Tue) 31 Oct 2006 (W44),Spartak Moskva (8),0-1,0-1,Internazionale (4),,,RUS,ITA
+?,GroupA,groups,(Tue) 31 Oct 2006 (W44),Levski Sofia (8),0-3,0-3,Werder Bremen (4),,,BUL,GER
+?,GroupD,groups,(Tue) 31 Oct 2006 (W44),Shakhtar Donetsk (6),2-2,2-1,Valencia CF (6),,,UKR,ESP
+?,GroupH,groups,(Wed) 1 Nov 2006 (W44),AC Milan (6),4-1,2-0,RSC Anderlecht (4),,,ITA,BEL
+?,GroupH,groups,(Wed) 1 Nov 2006 (W44),AEK Athens (6),1-0,0-0,Lille OSC (6),,,GRE,FRA
+?,GroupG,groups,(Wed) 1 Nov 2006 (W44),Arsenal FC (6),0-0,0-0,CSKA Moskva (6),,,ENG,RUS
+?,GroupF,groups,(Wed) 1 Nov 2006 (W44),SL Benfica (6),3-0,2-0,Celtic FC (4),,,POR,SCO
+?,GroupE,groups,(Wed) 1 Nov 2006 (W44),Olympique Lyon (4),1-0,1-0,Dinamo Kiev (8),,,FRA,UKR
+?,GroupG,groups,(Wed) 1 Nov 2006 (W44),Hamburger SV (6),1-3,0-1,FC Porto (4),,,GER,POR
+?,GroupF,groups,(Wed) 1 Nov 2006 (W44),Kobenhavn (8),1-0,0-0,Manchester United FC (4),,,DEN,ENG
+?,GroupE,groups,(Wed) 1 Nov 2006 (W44),Real Madrid CF (4),1-0,0-0,Steaua Bucuresti (8),,,ESP,ROU
+?,GroupH,groups,(Tue) 21 Nov 2006 (W47),AEK Athens (7),1-0,1-0,AC Milan (7),,,GRE,ITA
+?,GroupG,groups,(Tue) 21 Nov 2006 (W47),Arsenal FC (7),3-1,0-1,Hamburger SV (7),,,ENG,GER
+?,GroupF,groups,(Tue) 21 Nov 2006 (W47),Celtic FC (5),1-0,0-0,Manchester United FC (5),,,SCO,ENG
+?,GroupG,groups,(Tue) 21 Nov 2006 (W47),CSKA Moskva (7),0-2,0-1,FC Porto (5),,,RUS,POR
+?,GroupE,groups,(Tue) 21 Nov 2006 (W47),Steaua Bucuresti (9),1-1,0-1,Dinamo Kiev (9),,,ROU,UKR
+?,GroupF,groups,(Tue) 21 Nov 2006 (W47),SL Benfica (7),3-1,3-0,Kobenhavn (9),,,POR,DEN
+?,GroupH,groups,(Tue) 21 Nov 2006 (W47),Lille OSC (7),2-2,1-1,RSC Anderlecht (5),,,FRA,BEL
+?,GroupE,groups,(Tue) 21 Nov 2006 (W47),Real Madrid CF (5),2-2,1-2,Olympique Lyon (5),,,ESP,FRA
+?,GroupC,groups,(Wed) 22 Nov 2006 (W47),Liverpool FC (7),2-0,0-0,PSV Eindhoven (5),,,ENG,NED
+?,GroupD,groups,(Wed) 22 Nov 2006 (W47),Shakhtar Donetsk (7),1-0,0-0,AS Roma (5),,,UKR,ITA
+?,GroupA,groups,(Wed) 22 Nov 2006 (W47),Levski Sofia (9),0-2,0-1,FC Barcelona (5),,,BUL,ESP
+?,GroupB,groups,(Wed) 22 Nov 2006 (W47),Spartak Moskva (9),2-2,1-2,Bayern München (5),,,RUS,GER
+?,GroupA,groups,(Wed) 22 Nov 2006 (W47),Werder Bremen (5),1-0,1-0,Chelsea FC (5),,,GER,ENG
+?,GroupC,groups,(Wed) 22 Nov 2006 (W47),Girondins Bordeaux (5),3-1,1-0,Galatasaray İstanbul AŞ (7),,,FRA,TUR
+?,GroupB,groups,(Wed) 22 Nov 2006 (W47),Internazionale (5),1-0,1-0,Sporting CP (5),,,ITA,POR
+?,GroupD,groups,(Wed) 22 Nov 2006 (W47),Valencia CF (7),2-0,1-0,Olympiacos (5),,,ESP,GRE
+?,GroupD,groups,(Tue) 5 Dec 2006 (W49),AS Roma (6),1-0,1-0,Valencia CF (8),,,ITA,ESP
+?,GroupA,groups,(Tue) 5 Dec 2006 (W49),FC Barcelona (6),2-0,2-0,Werder Bremen (6),,,ESP,GER
+?,GroupB,groups,(Tue) 5 Dec 2006 (W49),Bayern München (6),1-1,0-0,Internazionale (6),,,GER,ITA
+?,GroupA,groups,(Tue) 5 Dec 2006 (W49),Chelsea FC (6),2-0,1-0,Levski Sofia (10),,,ENG,BUL
+?,GroupC,groups,(Tue) 5 Dec 2006 (W49),Galatasaray İstanbul AŞ (8),3-2,2-1,Liverpool FC (8),,,TUR,ENG
+?,GroupC,groups,(Tue) 5 Dec 2006 (W49),PSV Eindhoven (6),1-3,0-3,Girondins Bordeaux (6),,,NED,FRA
+?,GroupD,groups,(Tue) 5 Dec 2006 (W49),Olympiacos (6),1-1,0-1,Shakhtar Donetsk (8),,,GRE,UKR
+?,GroupB,groups,(Tue) 5 Dec 2006 (W49),Sporting CP (6),1-3,1-2,Spartak Moskva (10),,,POR,RUS
+?,GroupH,groups,(Wed) 6 Dec 2006 (W49),AC Milan (8),0-2,0-1,Lille OSC (8),,,ITA,FRA
+?,GroupH,groups,(Wed) 6 Dec 2006 (W49),RSC Anderlecht (6),2-2,1-0,AEK Athens (8),,,BEL,GRE
+?,GroupG,groups,(Wed) 6 Dec 2006 (W49),FC Porto (6),0-0,0-0,Arsenal FC (8),,,POR,ENG
+?,GroupF,groups,(Wed) 6 Dec 2006 (W49),Kobenhavn (10),3-1,2-0,Celtic FC (6),,,DEN,SCO
+?,GroupG,groups,(Wed) 6 Dec 2006 (W49),Hamburger SV (8),3-2,1-1,CSKA Moskva (8),,,GER,RUS
+?,GroupE,groups,(Wed) 6 Dec 2006 (W49),Dinamo Kiev (10),2-2,2-0,Real Madrid CF (6),,,UKR,ESP
+?,GroupF,groups,(Wed) 6 Dec 2006 (W49),Manchester United FC (6),3-1,1-1,SL Benfica (8),,,ENG,POR
+?,GroupE,groups,(Wed) 6 Dec 2006 (W49),Olympique Lyon (6),1-1,1-1,Steaua Bucuresti (10),,,FRA,ROU
+?,R16,1,(Tue) 20 Feb 2007 (W8),Real Madrid CF (7),3-2,3-1,Bayern München (7),,,ESP,GER
+?,R16,1,(Tue) 20 Feb 2007 (W8),Celtic FC (7),0-0,0-0,AC Milan (9),,,SCO,ITA
+?,R16,1,(Tue) 20 Feb 2007 (W8),PSV Eindhoven (7),1-0,0-0,Arsenal FC (9),,,NED,ENG
+?,R16,1,(Tue) 20 Feb 2007 (W8),Lille OSC (9),0-1,0-0,Manchester United FC (7),,,FRA,ENG
+?,R16,1,(Wed) 21 Feb 2007 (W8),FC Barcelona (7),1-2,1-1,Liverpool FC (9),,,ESP,ENG
+?,R16,1,(Wed) 21 Feb 2007 (W8),Internazionale (7),2-2,1-0,Valencia CF (9),,,ITA,ESP
+?,R16,1,(Wed) 21 Feb 2007 (W8),AS Roma (7),0-0,0-0,Olympique Lyon (7),,,ITA,FRA
+?,R16,1,(Wed) 21 Feb 2007 (W8),FC Porto (7),1-1,1-1,Chelsea FC (7),,,POR,ENG
+?,R16,2,(Tue) 6 Mar 2007 (W10),Liverpool FC (10),0-1,0-0,FC Barcelona (8),,,ENG,ESP
+?,R16,2,(Tue) 6 Mar 2007 (W10),Valencia CF (10),0-0,0-0,Internazionale (8),,,ESP,ITA
+?,R16,2,(Tue) 6 Mar 2007 (W10),Olympique Lyon (8),0-2,0-2,AS Roma (8),,,FRA,ITA
+?,R16,2,(Tue) 6 Mar 2007 (W10),Chelsea FC (8),2-1,0-1,FC Porto (8),,,ENG,POR
+?,R16,2,(Wed) 7 Mar 2007 (W10),Bayern München (8),2-1,1-0,Real Madrid CF (8),,,GER,ESP
+?,R16,2,(Wed) 7 Mar 2007 (W10),AC Milan (10),0-0,0-0,Celtic FC (8),1-0 (a.e.t.),,ITA,SCO
+?,R16,2,(Wed) 7 Mar 2007 (W10),Arsenal FC (10),1-1,0-0,PSV Eindhoven (8),,,ENG,NED
+?,R16,2,(Wed) 7 Mar 2007 (W10),Manchester United FC (8),1-0,0-0,Lille OSC (10),,,ENG,FRA
+?,QF,1,(Tue) 3 Apr 2007 (W14),PSV Eindhoven (9),0-3,0-1,Liverpool FC (11),,,NED,ENG
+?,QF,1,(Tue) 3 Apr 2007 (W14),AC Milan (11),2-2,1-0,Bayern München (9),,,ITA,GER
+?,QF,1,(Wed) 4 Apr 2007 (W14),AS Roma (9),2-1,1-0,Manchester United FC (9),,,ITA,ENG
+?,QF,1,(Wed) 4 Apr 2007 (W14),Chelsea FC (9),1-1,0-1,Valencia CF (11),,,ENG,ESP
+?,QF,2,(Tue) 10 Apr 2007 (W15),Manchester United FC (10),7-1,4-0,AS Roma (10),,,ENG,ITA
+?,QF,2,(Tue) 10 Apr 2007 (W15),Valencia CF (12),1-2,1-0,Chelsea FC (10),,,ESP,ENG
+?,QF,2,(Wed) 11 Apr 2007 (W15),Liverpool FC (12),1-0,0-0,PSV Eindhoven (10),,,ENG,NED
+?,QF,2,(Wed) 11 Apr 2007 (W15),Bayern München (10),0-2,0-2,AC Milan (12),,,GER,ITA
+?,SF,1,(Tue) 24 Apr 2007 (W17),Manchester United FC (11),3-2,1-2,AC Milan (13),,,ENG,ITA
+?,SF,1,(Wed) 25 Apr 2007 (W17),Chelsea FC (11),1-0,1-0,Liverpool FC (13),,,ENG,ENG
+?,SF,2,(Tue) 1 May 2007 (W18),Liverpool FC (14),1-0,1-0,Chelsea FC (12),1-0 (a.e.t.),,ENG,ENG
+?,SF,2,(Wed) 2 May 2007 (W18),AC Milan (14),3-0,2-0,Manchester United FC (12),,,ITA,ENG
+?,final,,(Wed) 23 May 2007 (W21),AC Milan (15),2-1,0-0,Liverpool FC (15),,,ITA,ENG

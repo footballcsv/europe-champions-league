@@ -1,2 +1,3 @@
-# europe-champions-league
-Football data for European Champions League (incl. European Champion Clubs' Cup)
+# European Champions League (incl. European Cup)
+
+Football data for European Champions League (incl. European Cup / European Champion Clubs' Cup)

@@ -1,0 +1,206 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,Q-1,1,(Wed) 16 Jul 2003 (W28),Dinamo Tbilisi (1),3-0,0-0,KF Tirana (1),,,GEO,ALB
+?,Q-1,1,(Wed) 16 Jul 2003 (W28),Sliema Wanderers (1),2-0,0-0,Skonto (1),,,MLT,LVA
+?,Q-1,1,(Wed) 16 Jul 2003 (W28),Vardar Skopje (1),3-0,0-0,Barry Town (1),,,MKD,WAL
+?,Q-1,1,(Wed) 16 Jul 2003 (W28),BATE Borisov (1),1-0,0-0,Bohemians (1),,,BLR,IRL
+?,Q-1,1,(Wed) 16 Jul 2003 (W28),HB (1),0-1,0-0,FBK Kaunas (1),,,FRO,LTU
+?,Q-1,1,(Wed) 16 Jul 2003 (W28),Grevenmacher (1),0-0,0-0,FK Leotar (1),,,LUX,BIH
+?,Q-1,1,(Wed) 16 Jul 2003 (W28),Sheriff Tiraspol (1),1-0,0-0,Flora Tallinn (1),,,MDA,EST
+?,Q-1,1,(Wed) 16 Jul 2003 (W28),Glentoran (1),0-0,0-0,HJK Helsinki (1),,,NIR,FIN
+?,Q-1,1,(Wed) 16 Jul 2003 (W28),Omonia Nicosia (1),0-0,0-0,Irtysh Pavlodar (1),,,CYP,KAZ
+?,Q-1,1,(Wed) 16 Jul 2003 (W28),Pyunik (1),1-0,0-0,KR Reykjavik (1),,,ARM,ISL
+?,Q-1,2,(Wed) 23 Jul 2003 (W29),KF Tirana (2),3-0,0-0,Dinamo Tbilisi (2),3-0 (a.e.t.),,ALB,GEO
+?,Q-1,2,(Wed) 23 Jul 2003 (W29),Skonto (2),3-1,0-0,Sliema Wanderers (2),,,LVA,MLT
+?,Q-1,2,(Wed) 23 Jul 2003 (W29),Barry Town (2),2-1,0-0,Vardar Skopje (2),,,WAL,MKD
+?,Q-1,2,(Wed) 23 Jul 2003 (W29),Bohemians (2),3-0,0-0,BATE Borisov (2),,,IRL,BLR
+?,Q-1,2,(Wed) 23 Jul 2003 (W29),FBK Kaunas (2),4-1,0-0,HB (2),,,LTU,FRO
+?,Q-1,2,(Wed) 23 Jul 2003 (W29),FK Leotar (2),2-0,0-0,Grevenmacher (2),,,BIH,LUX
+?,Q-1,2,(Wed) 23 Jul 2003 (W29),Flora Tallinn (2),1-1,0-0,Sheriff Tiraspol (2),,,EST,MDA
+?,Q-1,2,(Wed) 23 Jul 2003 (W29),HJK Helsinki (2),1-0,0-0,Glentoran (2),,,FIN,NIR
+?,Q-1,2,(Wed) 23 Jul 2003 (W29),Irtysh Pavlodar (2),1-2,0-0,Omonia Nicosia (2),,,KAZ,CYP
+?,Q-1,2,(Wed) 23 Jul 2003 (W29),KR Reykjavik (2),1-1,0-0,Pyunik (2),,,ISL,ARM
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),Bohemians (3),0-1,0-0,Rosenborg BK (1),,,IRL,NOR
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),FBK Kaunas (3),0-4,0-0,Celtic FC (1),,,LTU,SCO
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),CSKA Moskva (1),1-2,0-0,Vardar Skopje (3),,,RUS,MKD
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),Pyunik (3),0-2,0-0,CSKA Sofia (1),,,ARM,BUL
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),NK Maribor (1),1-1,0-0,Dinamo Zagreb (1),,,SVN,CRO
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),FK Leotar (3),1-2,0-0,Slavia Praha (1),,,BIH,CZE
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),KF Tirana (3),1-5,0-0,Grazer AK (1),,,ALB,AUT
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),MTK (1),3-1,0-0,HJK Helsinki (3),,,HUN,FIN
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),Kobenhavn (1),4-1,0-0,Sliema Wanderers (3),,,DEN,MLT
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),MSK Zilina (1),1-0,0-0,Maccabi Tel Aviv (1),,,SVK,ISR
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),Wisla Krakow (1),5-2,0-0,Omonia Nicosia (3),,,POL,CYP
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),Rapid Bucuresti (1),0-0,0-0,RSC Anderlecht (1),,,ROU,BEL
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),Sheriff Tiraspol (3),0-0,0-0,Shakhtar Donetsk (1),,,MDA,UKR
+?,Q-2,1,(Wed) 30 Jul 2003 (W30),Partizan Belgrade (1),1-1,0-0,Djurgardens IF (1),,,SRB,SWE
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),Rosenborg BK (2),4-0,0-0,Bohemians (4),,,NOR,IRL
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),Celtic FC (2),1-0,0-0,FBK Kaunas (4),,,SCO,LTU
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),Vardar Skopje (4),1-1,0-0,CSKA Moskva (2),,,MKD,RUS
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),CSKA Sofia (2),1-0,0-0,Pyunik (4),,,BUL,ARM
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),Dinamo Zagreb (2),2-1,0-0,NK Maribor (2),,,CRO,SVN
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),Slavia Praha (2),2-0,0-0,FK Leotar (4),,,CZE,BIH
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),Grazer AK (2),2-1,0-0,KF Tirana (4),,,AUT,ALB
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),HJK Helsinki (4),1-0,0-0,MTK (2),,,FIN,HUN
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),Sliema Wanderers (4),0-6,0-0,Kobenhavn (2),,,MLT,DEN
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),Maccabi Tel Aviv (2),1-1,0-0,MSK Zilina (2),,,ISR,SVK
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),Omonia Nicosia (4),2-2,0-0,Wisla Krakow (2),,,CYP,POL
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),RSC Anderlecht (2),3-2,0-0,Rapid Bucuresti (2),,,BEL,ROU
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),Shakhtar Donetsk (2),2-0,0-0,Sheriff Tiraspol (4),,,UKR,MDA
+?,Q-2,2,(Wed) 6 Aug 2003 (W31),Djurgardens IF (2),2-2,0-0,Partizan Belgrade (2),,,SWE,SRB
+?,Q-3,1,(Tue) 12 Aug 2003 (W32),Grazer AK (3),1-1,0-0,AFC Ajax (1),,,AUT,NED
+?,Q-3,1,(Tue) 12 Aug 2003 (W32),Celta Vigo (1),3-0,0-0,Slavia Praha (3),,,ESP,CZE
+?,Q-3,1,(Tue) 12 Aug 2003 (W32),MTK (3),0-4,0-0,Celtic FC (3),,,HUN,SCO
+?,Q-3,1,(Tue) 12 Aug 2003 (W32),MSK Zilina (3),0-2,0-0,Chelsea FC (1),,,SVK,ENG
+?,Q-3,1,(Tue) 12 Aug 2003 (W32),Dinamo Kiev (1),3-1,0-0,Dinamo Zagreb (3),,,UKR,CRO
+?,Q-3,1,(Tue) 12 Aug 2003 (W32),Vardar Skopje (5),2-3,0-0,Sparta Praha (1),,,MKD,CZE
+?,Q-3,1,(Wed) 13 Aug 2003 (W32),Club Brugge (1),2-1,0-0,Borussia Dortmund (1),,,BEL,GER
+?,Q-3,1,(Wed) 13 Aug 2003 (W32),Grasshoppers Zurich (1),1-0,0-0,AEK Athens (1),,,SUI,GRE
+?,Q-3,1,(Wed) 13 Aug 2003 (W32),Austria Wien (1),0-1,0-0,Olympique Marseille (1),,,AUT,FRA
+?,Q-3,1,(Wed) 13 Aug 2003 (W32),Galatasaray İstanbul AŞ (1),3-0,0-0,CSKA Sofia (3),,,TUR,BUL
+?,Q-3,1,(Wed) 13 Aug 2003 (W32),Rosenborg BK (3),0-0,0-0,Deportivo La Coruna (1),,,NOR,ESP
+?,Q-3,1,(Wed) 13 Aug 2003 (W32),Rangers FC (1),1-1,0-0,Kobenhavn (3),,,SCO,DEN
+?,Q-3,1,(Wed) 13 Aug 2003 (W32),SS Lazio (1),3-1,0-0,SL Benfica (1),,,ITA,POR
+?,Q-3,1,(Wed) 13 Aug 2003 (W32),Shakhtar Donetsk (3),1-0,0-0,Lokomotiv Moskva (1),,,UKR,RUS
+?,Q-3,1,(Wed) 13 Aug 2003 (W32),RSC Anderlecht (3),3-1,0-0,Wisla Krakow (3),,,BEL,POL
+?,Q-3,1,(Wed) 13 Aug 2003 (W32),Partizan Belgrade (3),0-1,0-0,Newcastle United FC (1),,,SRB,ENG
+?,Q-3,2,(Tue) 19 Aug 2003 (W33),Borussia Dortmund (2),2-1,0-0,Club Brugge (2),2-1 (a.e.t.),,GER,BEL
+?,Q-3,2,(Tue) 19 Aug 2003 (W33),AEK Athens (2),3-1,0-0,Grasshoppers Zurich (2),,,GRE,SUI
+?,Q-3,2,(Tue) 19 Aug 2003 (W33),Olympique Marseille (2),0-0,0-0,Austria Wien (2),,,FRA,AUT
+?,Q-3,2,(Tue) 19 Aug 2003 (W33),Deportivo La Coruna (2),1-0,0-0,Rosenborg BK (4),,,ESP,NOR
+?,Q-3,2,(Tue) 19 Aug 2003 (W33),Kobenhavn (4),1-2,0-0,Rangers FC (2),,,DEN,SCO
+?,Q-3,2,(Tue) 19 Aug 2003 (W33),SL Benfica (2),0-1,0-0,SS Lazio (2),,,POR,ITA
+?,Q-3,2,(Tue) 19 Aug 2003 (W33),Wisla Krakow (4),0-1,0-0,RSC Anderlecht (4),,,POL,BEL
+?,Q-3,2,(Tue) 19 Aug 2003 (W33),Newcastle United FC (2),0-1,0-0,Partizan Belgrade (4),0-1 (a.e.t.),,ENG,SRB
+?,Q-3,2,(Wed) 20 Aug 2003 (W33),AFC Ajax (2),1-1,0-0,Grazer AK (4),2-1 (a.e.t.),,NED,AUT
+?,Q-3,2,(Wed) 20 Aug 2003 (W33),Slavia Praha (4),2-0,0-0,Celta Vigo (2),,,CZE,ESP
+?,Q-3,2,(Wed) 20 Aug 2003 (W33),Celtic FC (4),1-0,0-0,MTK (4),,,SCO,HUN
+?,Q-3,2,(Wed) 20 Aug 2003 (W33),Chelsea FC (2),3-0,0-0,MSK Zilina (4),,,ENG,SVK
+?,Q-3,2,(Wed) 20 Aug 2003 (W33),CSKA Sofia (4),0-3,0-0,Galatasaray İstanbul AŞ (2),,,BUL,TUR
+?,Q-3,2,(Wed) 20 Aug 2003 (W33),Dinamo Zagreb (4),0-2,0-0,Dinamo Kiev (2),,,CRO,UKR
+?,Q-3,2,(Wed) 20 Aug 2003 (W33),Lokomotiv Moskva (2),3-1,0-0,Shakhtar Donetsk (4),,,RUS,UKR
+?,Q-3,2,(Wed) 20 Aug 2003 (W33),Sparta Praha (2),2-2,0-0,Vardar Skopje (6),,,CZE,MKD
+?,GroupH,groups,(Tue) 16 Sep 2003 (W37),AC Milan (1),1-0,0-0,AFC Ajax (3),,,ITA,NED
+?,GroupG,groups,(Tue) 16 Sep 2003 (W37),Beşiktaş İstanbul JK (1),0-2,0-1,SS Lazio (3),,,TUR,ITA
+?,GroupH,groups,(Tue) 16 Sep 2003 (W37),Club Brugge (3),1-1,0-0,Celta Vigo (3),,,BEL,ESP
+?,GroupG,groups,(Tue) 16 Sep 2003 (W37),Sparta Praha (3),0-1,0-0,Chelsea FC (3),,,CZE,ENG
+?,GroupE,groups,(Tue) 16 Sep 2003 (W37),Manchester United FC (1),5-0,4-0,Panathinaikos FC (1),,,ENG,GRE
+?,GroupF,groups,(Tue) 16 Sep 2003 (W37),Real Madrid CF (1),4-2,2-1,Olympique Marseille (3),,,ESP,FRA
+?,GroupE,groups,(Tue) 16 Sep 2003 (W37),Rangers FC (3),2-1,0-1,VfB Stuttgart (1),,,SCO,GER
+?,GroupF,groups,(Tue) 16 Sep 2003 (W37),Partizan Belgrade (5),1-1,0-1,FC Porto (1),,,SRB,POR
+?,GroupC,groups,(Wed) 17 Sep 2003 (W37),AEK Athens (3),1-1,0-1,Deportivo La Coruna (3),,,GRE,ESP
+?,GroupB,groups,(Wed) 17 Sep 2003 (W37),Arsenal FC (1),0-3,0-3,Internazionale (1),,,ENG,ITA
+?,GroupC,groups,(Wed) 17 Sep 2003 (W37),PSV Eindhoven (1),1-2,0-1,AS Monaco (1),,,NED,FRA
+?,GroupA,groups,(Wed) 17 Sep 2003 (W37),Bayern München (1),2-1,0-0,Celtic FC (5),,,GER,SCO
+?,GroupB,groups,(Wed) 17 Sep 2003 (W37),Dinamo Kiev (3),2-0,0-0,Lokomotiv Moskva (3),,,UKR,RUS
+?,GroupD,groups,(Wed) 17 Sep 2003 (W37),Juventus (1),2-1,1-1,Galatasaray İstanbul AŞ (3),,,ITA,TUR
+?,GroupD,groups,(Wed) 17 Sep 2003 (W37),Real Sociedad (1),1-0,0-0,Olympiacos (1),,,ESP,GRE
+?,GroupA,groups,(Wed) 17 Sep 2003 (W37),Olympique Lyon (1),1-0,1-0,RSC Anderlecht (5),,,FRA,BEL
+?,GroupC,groups,(Tue) 30 Sep 2003 (W39),AS Monaco (2),4-0,2-0,AEK Athens (4),,,FRA,GRE
+?,GroupB,groups,(Tue) 30 Sep 2003 (W39),Lokomotiv Moskva (4),0-0,0-0,Arsenal FC (2),,,RUS,ENG
+?,GroupA,groups,(Tue) 30 Sep 2003 (W39),RSC Anderlecht (6),1-1,0-0,Bayern München (2),,,BEL,GER
+?,GroupA,groups,(Tue) 30 Sep 2003 (W39),Celtic FC (6),2-0,0-0,Olympique Lyon (2),,,SCO,FRA
+?,GroupC,groups,(Tue) 30 Sep 2003 (W39),Deportivo La Coruna (4),2-0,1-0,PSV Eindhoven (2),,,ESP,NED
+?,GroupB,groups,(Tue) 30 Sep 2003 (W39),Internazionale (2),2-1,1-1,Dinamo Kiev (4),,,ITA,UKR
+?,GroupD,groups,(Tue) 30 Sep 2003 (W39),Galatasaray İstanbul AŞ (4),1-2,0-1,Real Sociedad (2),,,TUR,ESP
+?,GroupD,groups,(Tue) 30 Sep 2003 (W39),Olympiacos (2),1-2,1-1,Juventus (2),,,GRE,ITA
+?,GroupH,groups,(Wed) 1 Oct 2003 (W39),Celta Vigo (4),0-0,0-0,AC Milan (2),,,ESP,ITA
+?,GroupH,groups,(Wed) 1 Oct 2003 (W39),AFC Ajax (4),2-0,1-0,Club Brugge (4),,,NED,BEL
+?,GroupG,groups,(Wed) 1 Oct 2003 (W39),Chelsea FC (4),0-2,0-2,Beşiktaş İstanbul JK (2),,,ENG,TUR
+?,GroupF,groups,(Wed) 1 Oct 2003 (W39),FC Porto (2),1-3,1-2,Real Madrid CF (2),,,POR,ESP
+?,GroupG,groups,(Wed) 1 Oct 2003 (W39),SS Lazio (4),2-2,0-2,Sparta Praha (4),,,ITA,CZE
+?,GroupE,groups,(Wed) 1 Oct 2003 (W39),VfB Stuttgart (2),2-1,0-0,Manchester United FC (2),,,GER,ENG
+?,GroupE,groups,(Wed) 1 Oct 2003 (W39),Panathinaikos FC (2),1-1,0-1,Rangers FC (4),,,GRE,SCO
+?,GroupF,groups,(Wed) 1 Oct 2003 (W39),Olympique Marseille (4),3-0,0-0,Partizan Belgrade (6),,,FRA,SRB
+?,GroupC,groups,(Tue) 21 Oct 2003 (W42),AEK Athens (5),0-1,0-1,PSV Eindhoven (3),,,GRE,NED
+?,GroupB,groups,(Tue) 21 Oct 2003 (W42),Dinamo Kiev (5),2-1,1-0,Arsenal FC (3),,,UKR,ENG
+?,GroupC,groups,(Tue) 21 Oct 2003 (W42),Deportivo La Coruna (5),1-0,0-0,AS Monaco (3),,,ESP,FRA
+?,GroupA,groups,(Tue) 21 Oct 2003 (W42),Olympique Lyon (3),1-1,0-1,Bayern München (3),,,FRA,GER
+?,GroupA,groups,(Tue) 21 Oct 2003 (W42),RSC Anderlecht (7),1-0,0-0,Celtic FC (7),,,BEL,SCO
+?,GroupD,groups,(Tue) 21 Oct 2003 (W42),Galatasaray İstanbul AŞ (5),1-0,1-0,Olympiacos (3),,,TUR,GRE
+?,GroupB,groups,(Tue) 21 Oct 2003 (W42),Lokomotiv Moskva (5),3-0,1-0,Internazionale (3),,,RUS,ITA
+?,GroupD,groups,(Tue) 21 Oct 2003 (W42),Juventus (3),4-2,3-0,Real Sociedad (3),,,ITA,ESP
+?,GroupH,groups,(Wed) 22 Oct 2003 (W42),AC Milan (3),0-1,0-1,Club Brugge (5),,,ITA,BEL
+?,GroupH,groups,(Wed) 22 Oct 2003 (W42),AFC Ajax (5),1-0,0-0,Celta Vigo (5),,,NED,ESP
+?,GroupG,groups,(Wed) 22 Oct 2003 (W42),Sparta Praha (5),2-1,0-0,Beşiktaş İstanbul JK (3),,,CZE,TUR
+?,GroupG,groups,(Wed) 22 Oct 2003 (W42),Chelsea FC (5),2-1,0-1,SS Lazio (5),,,ENG,ITA
+?,GroupF,groups,(Wed) 22 Oct 2003 (W42),Olympique Marseille (5),2-3,1-2,FC Porto (3),,,FRA,POR
+?,GroupE,groups,(Wed) 22 Oct 2003 (W42),Rangers FC (5),0-1,0-1,Manchester United FC (3),,,SCO,ENG
+?,GroupE,groups,(Wed) 22 Oct 2003 (W42),VfB Stuttgart (3),2-0,2-0,Panathinaikos FC (3),,,GER,GRE
+?,GroupF,groups,(Wed) 22 Oct 2003 (W42),Real Madrid CF (3),1-0,1-0,Partizan Belgrade (7),,,ESP,SRB
+?,GroupH,groups,(Tue) 4 Nov 2003 (W44),Club Brugge (6),0-1,0-0,AC Milan (4),,,BEL,ITA
+?,GroupH,groups,(Tue) 4 Nov 2003 (W44),Celta Vigo (6),3-2,2-0,AFC Ajax (6),,,ESP,NED
+?,GroupG,groups,(Tue) 4 Nov 2003 (W44),Beşiktaş İstanbul JK (4),1-0,0-0,Sparta Praha (6),,,TUR,CZE
+?,GroupG,groups,(Tue) 4 Nov 2003 (W44),SS Lazio (6),0-4,0-1,Chelsea FC (6),,,ITA,ENG
+?,GroupF,groups,(Tue) 4 Nov 2003 (W44),FC Porto (4),1-0,1-0,Olympique Marseille (6),,,POR,FRA
+?,GroupE,groups,(Tue) 4 Nov 2003 (W44),Manchester United FC (4),3-0,2-0,Rangers FC (6),,,ENG,SCO
+?,GroupE,groups,(Tue) 4 Nov 2003 (W44),Panathinaikos FC (4),1-3,0-0,VfB Stuttgart (4),,,GRE,GER
+?,GroupF,groups,(Tue) 4 Nov 2003 (W44),Partizan Belgrade (8),0-0,0-0,Real Madrid CF (4),,,SRB,ESP
+?,GroupC,groups,(Wed) 5 Nov 2003 (W44),PSV Eindhoven (4),2-0,0-0,AEK Athens (6),,,NED,GRE
+?,GroupB,groups,(Wed) 5 Nov 2003 (W44),Arsenal FC (4),1-0,0-0,Dinamo Kiev (6),,,ENG,UKR
+?,GroupC,groups,(Wed) 5 Nov 2003 (W44),AS Monaco (4),8-3,5-2,Deportivo La Coruna (6),,,FRA,ESP
+?,GroupA,groups,(Wed) 5 Nov 2003 (W44),Bayern München (4),1-2,1-1,Olympique Lyon (4),,,GER,FRA
+?,GroupA,groups,(Wed) 5 Nov 2003 (W44),Celtic FC (8),3-1,3-0,RSC Anderlecht (8),,,SCO,BEL
+?,GroupD,groups,(Wed) 5 Nov 2003 (W44),Olympiacos (4),3-0,2-0,Galatasaray İstanbul AŞ (6),,,GRE,TUR
+?,GroupB,groups,(Wed) 5 Nov 2003 (W44),Internazionale (4),1-1,1-0,Lokomotiv Moskva (6),,,ITA,RUS
+?,GroupD,groups,(Wed) 5 Nov 2003 (W44),Real Sociedad (4),0-0,0-0,Juventus (4),,,ESP,ITA
+?,GroupC,groups,(Tue) 25 Nov 2003 (W47),Deportivo La Coruna (7),3-0,1-0,AEK Athens (7),,,ESP,GRE
+?,GroupB,groups,(Tue) 25 Nov 2003 (W47),Internazionale (5),1-5,1-1,Arsenal FC (5),,,ITA,ENG
+?,GroupC,groups,(Tue) 25 Nov 2003 (W47),AS Monaco (5),1-1,1-0,PSV Eindhoven (5),,,FRA,NED
+?,GroupA,groups,(Tue) 25 Nov 2003 (W47),Celtic FC (9),0-0,0-0,Bayern München (5),,,SCO,GER
+?,GroupB,groups,(Tue) 25 Nov 2003 (W47),Lokomotiv Moskva (7),3-2,2-1,Dinamo Kiev (7),,,RUS,UKR
+?,GroupD,groups,(Tue) 25 Nov 2003 (W47),Olympiacos (5),2-2,0-1,Real Sociedad (5),,,GRE,ESP
+?,GroupA,groups,(Tue) 25 Nov 2003 (W47),RSC Anderlecht (9),1-0,0-0,Olympique Lyon (5),,,BEL,FRA
+?,GroupH,groups,(Wed) 26 Nov 2003 (W47),AFC Ajax (7),0-1,0-0,AC Milan (5),,,NED,ITA
+?,GroupG,groups,(Wed) 26 Nov 2003 (W47),SS Lazio (7),1-1,0-1,Beşiktaş İstanbul JK (5),,,ITA,TUR
+?,GroupH,groups,(Wed) 26 Nov 2003 (W47),Celta Vigo (7),1-1,0-0,Club Brugge (7),,,ESP,BEL
+?,GroupG,groups,(Wed) 26 Nov 2003 (W47),Chelsea FC (7),0-0,0-0,Sparta Praha (7),,,ENG,CZE
+?,GroupE,groups,(Wed) 26 Nov 2003 (W47),Panathinaikos FC (5),0-1,0-0,Manchester United FC (5),,,GRE,ENG
+?,GroupF,groups,(Wed) 26 Nov 2003 (W47),Olympique Marseille (7),1-2,0-1,Real Madrid CF (5),,,FRA,ESP
+?,GroupE,groups,(Wed) 26 Nov 2003 (W47),VfB Stuttgart (5),1-0,1-0,Rangers FC (7),,,GER,SCO
+?,GroupF,groups,(Wed) 26 Nov 2003 (W47),FC Porto (5),2-1,1-0,Partizan Belgrade (9),,,POR,SRB
+?,GroupD,groups,(Tue) 2 Dec 2003 (W48),Galatasaray İstanbul AŞ (7),2-0,0-0,Juventus (5),,,TUR,ITA
+?,GroupH,groups,(Tue) 9 Dec 2003 (W49),AC Milan (6),1-2,1-1,Celta Vigo (8),,,ITA,ESP
+?,GroupH,groups,(Tue) 9 Dec 2003 (W49),Club Brugge (8),2-1,1-1,AFC Ajax (8),,,BEL,NED
+?,GroupG,groups,(Tue) 9 Dec 2003 (W49),Beşiktaş İstanbul JK (6),0-2,0-0,Chelsea FC (8),,,TUR,ENG
+?,GroupF,groups,(Tue) 9 Dec 2003 (W49),Real Madrid CF (6),1-1,1-1,FC Porto (6),,,ESP,POR
+?,GroupG,groups,(Tue) 9 Dec 2003 (W49),Sparta Praha (8),1-0,0-0,SS Lazio (8),,,CZE,ITA
+?,GroupE,groups,(Tue) 9 Dec 2003 (W49),Manchester United FC (6),2-0,1-0,VfB Stuttgart (6),,,ENG,GER
+?,GroupE,groups,(Tue) 9 Dec 2003 (W49),Rangers FC (8),1-3,1-1,Panathinaikos FC (6),,,SCO,GRE
+?,GroupF,groups,(Tue) 9 Dec 2003 (W49),Partizan Belgrade (10),1-1,0-0,Olympique Marseille (8),,,SRB,FRA
+?,GroupC,groups,(Wed) 10 Dec 2003 (W49),AEK Athens (8),0-0,0-0,AS Monaco (6),,,GRE,FRA
+?,GroupB,groups,(Wed) 10 Dec 2003 (W49),Arsenal FC (6),2-0,1-0,Lokomotiv Moskva (8),,,ENG,RUS
+?,GroupA,groups,(Wed) 10 Dec 2003 (W49),Bayern München (6),1-0,1-0,RSC Anderlecht (10),,,GER,BEL
+?,GroupA,groups,(Wed) 10 Dec 2003 (W49),Olympique Lyon (6),3-2,1-1,Celtic FC (10),,,FRA,SCO
+?,GroupC,groups,(Wed) 10 Dec 2003 (W49),PSV Eindhoven (6),3-2,1-0,Deportivo La Coruna (8),,,NED,ESP
+?,GroupB,groups,(Wed) 10 Dec 2003 (W49),Dinamo Kiev (8),1-1,0-0,Internazionale (6),,,UKR,ITA
+?,GroupD,groups,(Wed) 10 Dec 2003 (W49),Real Sociedad (6),1-1,0-1,Galatasaray İstanbul AŞ (8),,,ESP,TUR
+?,GroupD,groups,(Wed) 10 Dec 2003 (W49),Juventus (6),7-0,4-0,Olympiacos (6),,,ITA,GRE
+?,R16,1,(Tue) 24 Feb 2004 (W8),Lokomotiv Moskva (9),2-1,1-0,AS Monaco (7),,,RUS,FRA
+?,R16,1,(Tue) 24 Feb 2004 (W8),Sparta Praha (9),0-0,0-0,AC Milan (7),,,CZE,ITA
+?,R16,1,(Tue) 24 Feb 2004 (W8),Celta Vigo (9),2-3,1-1,Arsenal FC (7),,,ESP,ENG
+?,R16,1,(Tue) 24 Feb 2004 (W8),Bayern München (7),1-1,0-0,Real Madrid CF (7),,,GER,ESP
+?,R16,1,(Wed) 25 Feb 2004 (W8),VfB Stuttgart (7),0-1,0-1,Chelsea FC (9),,,GER,ENG
+?,R16,1,(Wed) 25 Feb 2004 (W8),Deportivo La Coruna (9),1-0,1-0,Juventus (7),,,ESP,ITA
+?,R16,1,(Wed) 25 Feb 2004 (W8),FC Porto (7),2-1,1-1,Manchester United FC (7),,,POR,ENG
+?,R16,1,(Wed) 25 Feb 2004 (W8),Real Sociedad (7),0-1,0-1,Olympique Lyon (7),,,ESP,FRA
+?,R16,2,(Tue) 9 Mar 2004 (W10),Chelsea FC (10),0-0,0-0,VfB Stuttgart (8),,,ENG,GER
+?,R16,2,(Tue) 9 Mar 2004 (W10),Juventus (8),0-1,0-1,Deportivo La Coruna (10),,,ITA,ESP
+?,R16,2,(Tue) 9 Mar 2004 (W10),Manchester United FC (8),1-1,1-0,FC Porto (8),,,ENG,POR
+?,R16,2,(Tue) 9 Mar 2004 (W10),Olympique Lyon (8),1-0,0-0,Real Sociedad (8),,,FRA,ESP
+?,R16,2,(Wed) 10 Mar 2004 (W10),AS Monaco (8),1-0,0-0,Lokomotiv Moskva (10),,,FRA,RUS
+?,R16,2,(Wed) 10 Mar 2004 (W10),AC Milan (8),4-1,1-0,Sparta Praha (10),,,ITA,CZE
+?,R16,2,(Wed) 10 Mar 2004 (W10),Arsenal FC (8),2-0,2-0,Celta Vigo (10),,,ENG,ESP
+?,R16,2,(Wed) 10 Mar 2004 (W10),Real Madrid CF (8),1-0,1-0,Bayern München (8),,,ESP,GER
+?,QF,1,(Tue) 23 Mar 2004 (W12),AC Milan (9),4-1,1-1,Deportivo La Coruna (11),,,ITA,ESP
+?,QF,1,(Tue) 23 Mar 2004 (W12),FC Porto (9),2-0,1-0,Olympique Lyon (9),,,POR,FRA
+?,QF,1,(Wed) 24 Mar 2004 (W12),Real Madrid CF (9),4-2,0-1,AS Monaco (9),,,ESP,FRA
+?,QF,1,(Wed) 24 Mar 2004 (W12),Chelsea FC (11),1-1,0-0,Arsenal FC (9),,,ENG,ENG
+?,QF,2,(Tue) 6 Apr 2004 (W14),AS Monaco (10),3-1,1-1,Real Madrid CF (10),,,FRA,ESP
+?,QF,2,(Tue) 6 Apr 2004 (W14),Arsenal FC (10),1-2,1-0,Chelsea FC (12),,,ENG,ENG
+?,QF,2,(Wed) 7 Apr 2004 (W14),Deportivo La Coruna (12),4-0,3-0,AC Milan (10),,,ESP,ITA
+?,QF,2,(Wed) 7 Apr 2004 (W14),Olympique Lyon (10),2-2,1-1,FC Porto (10),,,FRA,POR
+?,SF,1,(Tue) 20 Apr 2004 (W16),AS Monaco (11),3-1,1-1,Chelsea FC (13),,,FRA,ENG
+?,SF,1,(Wed) 21 Apr 2004 (W16),FC Porto (11),0-0,0-0,Deportivo La Coruna (13),,,POR,ESP
+?,SF,2,(Tue) 4 May 2004 (W18),Deportivo La Coruna (14),0-1,0-0,FC Porto (12),,,ESP,POR
+?,SF,2,(Wed) 5 May 2004 (W18),Chelsea FC (14),2-2,2-1,AS Monaco (12),,,ENG,FRA
+?,final,,(Wed) 26 May 2004 (W21),FC Porto (13),3-0,0-0,AS Monaco (13),,,POR,FRA

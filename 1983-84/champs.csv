@@ -1,0 +1,60 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,Round1,1,(Wed) 14 Sep 1983 (W37),CSKA Sofia (1),3-0,0-0,Omonia Nicosia (1),,,BUL,CYP
+?,Round1,1,(Wed) 14 Sep 1983 (W37),AFC Ajax (1),0-0,0-0,Olympiacos (1),,,NED,GRE
+?,Round1,1,(Wed) 14 Sep 1983 (W37),AS Roma (1),3-0,0-0,IFK Goteborg (1),,,ITA,SWE
+?,Round1,1,(Wed) 14 Sep 1983 (W37),Lech Poznan (1),2-0,2-0,Athletic Bilbao (1),,,POL,ESP
+?,Round1,1,(Wed) 14 Sep 1983 (W37),Athlone Town (1),2-3,1-2,Standard Liege (1),,,IRL,BEL
+?,Round1,1,(Wed) 14 Sep 1983 (W37),BFC Dynamo (1),4-1,2-1,Jeunesse Esch (1),,,GER,LUX
+?,Round1,1,(Wed) 14 Sep 1983 (W37),Fenerbahçe İstanbul SK (1),0-1,0-0,Bohemians EKD Praha (1),,,TUR,CZE
+?,Round1,1,(Wed) 14 Sep 1983 (W37),FC Kuusysi (1),0-1,0-0,Dinamo Bucuresti (1),,,FIN,ROU
+?,Round1,1,(Wed) 14 Sep 1983 (W37),Dinamo Minsk (1),1-0,1-0,Grasshoppers Zurich (1),,,BLR,SUI
+?,Round1,1,(Wed) 14 Sep 1983 (W37),Hamrun Spartans (1),0-3,0-2,Dundee United (1),,,MLT,SCO
+?,Round1,1,(Wed) 14 Sep 1983 (W37),SL Benfica (1),3-0,0-0,Linfield (1),,,POR,NIR
+?,Round1,1,(Wed) 14 Sep 1983 (W37),Odense BK (1),0-1,0-1,Liverpool FC (1),,,DEN,ENG
+?,Round1,1,(Wed) 14 Sep 1983 (W37),Rapid Wien (1),3-0,2-0,FC Nantes (1),,,AUT,FRA
+?,Round1,1,(Wed) 14 Sep 1983 (W37),Raba ETO Gyor (1),2-1,1-1,Vikingur Reykjavik (1),,,HUN,ISL
+?,Round1,1,(Wed) 14 Sep 1983 (W37),Partizan Belgrade (1),5-1,3-1,Viking FK (1),,,SRB,NOR
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Omonia Nicosia (2),4-1,1-1,CSKA Sofia (2),,,CYP,BUL
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Olympiacos (2),0-0,0-0,AFC Ajax (2),2-0 (a.e.t.),,GRE,NED
+?,Round1,2,(Wed) 28 Sep 1983 (W39),IFK Goteborg (2),2-1,1-0,AS Roma (2),,,SWE,ITA
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Athletic Bilbao (2),4-0,2-0,Lech Poznan (2),,,ESP,POL
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Standard Liege (2),8-2,4-0,Athlone Town (2),,,BEL,IRL
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Jeunesse Esch (2),0-2,0-1,BFC Dynamo (2),,,LUX,GER
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Bohemians EKD Praha (2),4-0,1-0,Fenerbahçe İstanbul SK (2),,,CZE,TUR
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Dinamo Bucuresti (2),3-0,0-0,FC Kuusysi (2),,,ROU,FIN
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Grasshoppers Zurich (2),2-2,1-1,Dinamo Minsk (2),,,SUI,BLR
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Dundee United (2),3-0,2-0,Hamrun Spartans (2),,,SCO,MLT
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Linfield (2),2-3,1-2,SL Benfica (2),,,NIR,POR
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Liverpool FC (2),5-0,3-0,Odense BK (2),,,ENG,DEN
+?,Round1,2,(Wed) 28 Sep 1983 (W39),FC Nantes (2),3-1,2-1,Rapid Wien (2),,,FRA,AUT
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Vikingur Reykjavik (2),0-2,0-0,Raba ETO Gyor (2),,,ISL,HUN
+?,Round1,2,(Wed) 28 Sep 1983 (W39),Viking FK (2),0-0,0-0,Partizan Belgrade (2),,,NOR,SRB
+?,R16,1,(Wed) 19 Oct 1983 (W42),Bohemians EKD Praha (3),2-1,1-1,Rapid Wien (3),,,CZE,AUT
+?,R16,1,(Wed) 19 Oct 1983 (W42),CSKA Sofia (3),0-1,0-0,AS Roma (3),,,BUL,ITA
+?,R16,1,(Wed) 19 Oct 1983 (W42),Liverpool FC (3),0-0,0-0,Athletic Bilbao (3),,,ENG,ESP
+?,R16,1,(Wed) 19 Oct 1983 (W42),Dinamo Bucuresti (3),3-0,1-0,Hamburger SV (1),,,ROU,GER
+?,R16,1,(Wed) 19 Oct 1983 (W42),Raba ETO Gyor (3),3-6,1-4,Dinamo Minsk (3),,,HUN,BLR
+?,R16,1,(Wed) 19 Oct 1983 (W42),Standard Liege (3),0-0,0-0,Dundee United (3),,,BEL,SCO
+?,R16,1,(Wed) 19 Oct 1983 (W42),Olympiacos (3),1-0,1-0,SL Benfica (3),,,GRE,POR
+?,R16,1,(Wed) 19 Oct 1983 (W42),BFC Dynamo (3),2-0,2-0,Partizan Belgrade (3),,,GER,SRB
+?,R16,2,(Wed) 2 Nov 1983 (W44),Rapid Wien (4),1-0,1-0,Bohemians EKD Praha (4),,,AUT,CZE
+?,R16,2,(Wed) 2 Nov 1983 (W44),AS Roma (4),1-0,0-0,CSKA Sofia (4),,,ITA,BUL
+?,R16,2,(Wed) 2 Nov 1983 (W44),Athletic Bilbao (4),0-1,0-0,Liverpool FC (4),,,ESP,ENG
+?,R16,2,(Wed) 2 Nov 1983 (W44),Hamburger SV (2),3-2,1-0,Dinamo Bucuresti (4),,,GER,ROU
+?,R16,2,(Wed) 2 Nov 1983 (W44),Dinamo Minsk (4),3-1,1-1,Raba ETO Gyor (4),,,BLR,HUN
+?,R16,2,(Wed) 2 Nov 1983 (W44),Dundee United (4),4-0,2-0,Standard Liege (4),,,SCO,BEL
+?,R16,2,(Wed) 2 Nov 1983 (W44),SL Benfica (4),3-0,2-0,Olympiacos (4),,,POR,GRE
+?,R16,2,(Wed) 2 Nov 1983 (W44),Partizan Belgrade (4),1-0,1-0,BFC Dynamo (4),,,SRB,GER
+?,QF,1,(Wed) 7 Mar 1984 (W10),Rapid Wien (5),2-1,0-1,Dundee United (5),,,AUT,SCO
+?,QF,1,(Wed) 7 Mar 1984 (W10),AS Roma (5),3-0,0-0,BFC Dynamo (5),,,ITA,GER
+?,QF,1,(Wed) 7 Mar 1984 (W10),Dinamo Minsk (5),1-1,1-0,Dinamo Bucuresti (5),,,BLR,ROU
+?,QF,1,(Wed) 7 Mar 1984 (W10),Liverpool FC (5),1-0,0-0,SL Benfica (5),,,ENG,POR
+?,QF,2,(Wed) 21 Mar 1984 (W12),Dundee United (6),1-0,1-0,Rapid Wien (6),,,SCO,AUT
+?,QF,2,(Wed) 21 Mar 1984 (W12),BFC Dynamo (6),2-1,0-0,AS Roma (6),,,GER,ITA
+?,QF,2,(Wed) 21 Mar 1984 (W12),Dinamo Bucuresti (6),1-0,1-0,Dinamo Minsk (6),,,ROU,BLR
+?,QF,2,(Wed) 21 Mar 1984 (W12),SL Benfica (6),1-4,0-2,Liverpool FC (6),,,POR,ENG
+?,SF,1,(Wed) 11 Apr 1984 (W15),Dundee United (7),2-0,0-0,AS Roma (7),,,SCO,ITA
+?,SF,1,(Wed) 11 Apr 1984 (W15),Liverpool FC (7),1-0,1-0,Dinamo Bucuresti (7),,,ENG,ROU
+?,SF,2,(Wed) 25 Apr 1984 (W17),AS Roma (8),3-0,2-0,Dundee United (8),,,ITA,SCO
+?,SF,2,(Wed) 25 Apr 1984 (W17),Dinamo Bucuresti (8),1-2,1-1,Liverpool FC (8),,,ROU,ENG
+?,final,,(Wed) 30 May 1984 (W22),Liverpool FC (9),1-1,0-0,AS Roma (9),1-1 (a.e.t.),,ENG,ITA

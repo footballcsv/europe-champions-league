@@ -1,0 +1,62 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,Round1,1,(Wed) 11 Sep 1963 (W36),Lyn Oslo (1),2-4,2-1,Borussia Dortmund (1),,,NOR,GER
+?,Round1,1,(Wed) 11 Sep 1963 (W36),Dundalk (1),0-3,0-1,FC Zurich (1),,,IRL,SUI
+?,Round1,1,(Wed) 11 Sep 1963 (W36),Galatasaray İstanbul AŞ (1),4-0,1-0,Ferencvaros (1),,,TUR,HUN
+?,Round1,1,(Wed) 11 Sep 1963 (W36),Partizan Belgrade (1),3-0,0-0,Anorthosis Famagusta (1),,,SRB,CYP
+?,Round1,1,(Wed) 11 Sep 1963 (W36),FK Partizani Tirana (1),1-0,1-0,Spartak Plovdiv (1),,,ALB,BUL
+?,Round1,1,(Sun) 15 Sep 1963 (W36),Dukla Praha (1),6-0,2-0,Valletta (1),,,CZE,MLT
+?,Round1,1,(Wed) 18 Sep 1963 (W37),Gornik Zabrze (1),1-0,0-0,Austria Wien (1),,,POL,AUT
+?,Round1,1,(Wed) 18 Sep 1963 (W37),AS Monaco (1),7-2,5-0,AEK Athens (1),,,FRA,GRE
+?,Round1,1,(Wed) 18 Sep 1963 (W37),Dinamo Bucuresti (1),2-0,1-0,SC Motor Jena (1),,,ROU,GER
+?,Round1,1,(Wed) 18 Sep 1963 (W37),Everton FC (1),0-0,0-0,Internazionale (1),,,ENG,ITA
+?,Round1,2,(Wed) 25 Sep 1963 (W38),SC Motor Jena (2),0-1,0-0,Dinamo Bucuresti (2),,,GER,ROU
+?,Round1,2,(Wed) 25 Sep 1963 (W38),FC Zurich (2),1-2,0-1,Dundalk (2),,,SUI,IRL
+?,Round1,1,(Wed) 25 Sep 1963 (W38),Esbjerg fB (1),3-4,2-1,PSV Eindhoven (1),,,DEN,NED
+?,Round1,2,(Wed) 25 Sep 1963 (W38),Internazionale (2),1-0,0-0,Everton FC (2),,,ITA,ENG
+?,Round1,1,(Wed) 25 Sep 1963 (W38),Haka Valkeakoski (1),4-1,2-1,Jeunesse Esch (1),,,FIN,LUX
+?,Round1,1,(Wed) 25 Sep 1963 (W38),Standard Liege (1),1-0,1-0,IFK Norrkoping (1),,,BEL,SWE
+?,Round1,1,(Wed) 25 Sep 1963 (W38),Lisburn Distillery (1),3-3,2-1,SL Benfica (1),,,NIR,POR
+?,Round1,1,(Wed) 25 Sep 1963 (W38),Rangers FC (1),0-1,0-0,Real Madrid CF (1),,,SCO,ESP
+?,Round1,2,(Sun) 29 Sep 1963 (W38),Valletta (2),0-2,0-0,Dukla Praha (2),,,MLT,CZE
+?,Round1,2,(Tue) 1 Oct 1963 (W39),Anorthosis Famagusta (2),1-3,1-1,Partizan Belgrade (2),,,CYP,SRB
+?,Round1,2,(Wed) 2 Oct 1963 (W39),Austria Wien (2),1-0,0-0,Gornik Zabrze (2),,,AUT,POL
+?,Round1,2,(Wed) 2 Oct 1963 (W39),AEK Athens (2),1-1,0-0,AS Monaco (2),,,GRE,FRA
+?,Round1,2,(Wed) 2 Oct 1963 (W39),Borussia Dortmund (2),3-1,1-0,Lyn Oslo (2),,,GER,NOR
+?,Round1,2,(Wed) 2 Oct 1963 (W39),SL Benfica (2),5-0,2-0,Lisburn Distillery (2),,,POR,NIR
+?,Round1,2,(Wed) 2 Oct 1963 (W39),Spartak Plovdiv (2),3-1,2-1,FK Partizani Tirana (2),,,BUL,ALB
+?,Round1,2,(Thu) 3 Oct 1963 (W39),IFK Norrkoping (2),2-0,1-0,Standard Liege (2),,,SWE,BEL
+?,Round1,replay,(Wed) 9 Oct 1963 (W40),Austria Wien (3),1-2,0-2,Gornik Zabrze (3),,,AUT,POL
+?,Round1,2,(Wed) 9 Oct 1963 (W40),PSV Eindhoven (2),7-1,4-1,Esbjerg fB (2),,,NED,DEN
+?,Round1,2,(Wed) 9 Oct 1963 (W40),Jeunesse Esch (2),4-0,2-0,Haka Valkeakoski (2),,,LUX,FIN
+?,Round1,2,(Wed) 9 Oct 1963 (W40),Real Madrid CF (2),6-0,4-0,Rangers FC (2),,,ESP,SCO
+?,Round1,2,(Sat) 12 Oct 1963 (W40),Ferencvaros (2),2-0,1-0,Galatasaray İstanbul AŞ (2),,,HUN,TUR
+?,R16,1,(Wed) 6 Nov 1963 (W44),SL Benfica (3),2-1,0-0,Borussia Dortmund (3),,,POR,GER
+?,R16,1,(Wed) 13 Nov 1963 (W45),Dinamo Bucuresti (3),1-3,0-2,Real Madrid CF (3),,,ROU,ESP
+?,R16,1,(Wed) 13 Nov 1963 (W45),Gornik Zabrze (4),2-0,1-0,Dukla Praha (3),,,POL,CZE
+?,R16,1,(Wed) 13 Nov 1963 (W45),Spartak Plovdiv (3),0-1,0-0,PSV Eindhoven (3),,,BUL,NED
+?,R16,1,(Thu) 14 Nov 1963 (W45),FC Zurich (3),2-0,1-0,Galatasaray İstanbul AŞ (3),,,SUI,TUR
+?,R16,2,(Mon) 18 Nov 1963 (W46),Real Madrid CF (4),5-3,2-1,Dinamo Bucuresti (4),,,ESP,ROU
+?,R16,2,(Wed) 20 Nov 1963 (W46),Dukla Praha (4),4-1,2-0,Gornik Zabrze (5),,,CZE,POL
+?,R16,1,(Wed) 20 Nov 1963 (W46),Jeunesse Esch (3),2-1,1-1,Partizan Belgrade (3),,,LUX,SRB
+?,R16,2,(Wed) 27 Nov 1963 (W47),Galatasaray İstanbul AŞ (4),2-0,1-0,FC Zurich (4),,,TUR,SUI
+?,R16,1,(Wed) 27 Nov 1963 (W47),IFK Norrkoping (3),1-1,0-0,AC Milan (1),,,SWE,ITA
+?,R16,1,(Wed) 27 Nov 1963 (W47),Internazionale (3),1-0,0-0,AS Monaco (3),,,ITA,FRA
+?,R16,2,(Wed) 27 Nov 1963 (W47),PSV Eindhoven (4),0-0,0-0,Spartak Plovdiv (4),,,NED,BUL
+?,R16,2,(Wed) 27 Nov 1963 (W47),Partizan Belgrade (4),6-2,3-1,Jeunesse Esch (4),,,SRB,LUX
+?,R16,2,(Wed) 4 Dec 1963 (W48),AC Milan (2),5-2,3-1,IFK Norrkoping (4),,,ITA,SWE
+?,R16,2,(Wed) 4 Dec 1963 (W48),AS Monaco (4),1-3,0-2,Internazionale (4),,,FRA,ITA
+?,R16,2,(Wed) 4 Dec 1963 (W48),Borussia Dortmund (4),5-0,3-0,SL Benfica (4),,,GER,POR
+?,R16,replay,(Wed) 11 Dec 1963 (W49),FC Zurich (5),1-1,0-0,Galatasaray İstanbul AŞ (5),2-2 (a.e.t.),,SUI,TUR
+?,QF,1,(Wed) 29 Jan 1964 (W4),Real Madrid CF (5),4-1,2-0,AC Milan (3),,,ESP,ITA
+?,QF,2,(Thu) 13 Feb 1964 (W6),AC Milan (4),2-0,1-0,Real Madrid CF (6),,,ITA,ESP
+?,QF,1,(Wed) 26 Feb 1964 (W8),Partizan Belgrade (5),0-2,0-0,Internazionale (5),,,SRB,ITA
+?,QF,1,(Wed) 4 Mar 1964 (W9),Dukla Praha (5),0-4,0-1,Borussia Dortmund (5),,,CZE,GER
+?,QF,1,(Wed) 4 Mar 1964 (W9),PSV Eindhoven (5),1-0,0-0,FC Zurich (6),,,NED,SUI
+?,QF,2,(Wed) 4 Mar 1964 (W9),Internazionale (6),2-1,2-0,Partizan Belgrade (6),,,ITA,SRB
+?,QF,2,(Wed) 11 Mar 1964 (W10),FC Zurich (7),3-1,2-1,PSV Eindhoven (6),,,SUI,NED
+?,QF,2,(Wed) 18 Mar 1964 (W11),Borussia Dortmund (6),1-3,1-1,Dukla Praha (6),,,GER,CZE
+?,SF,1,(Wed) 15 Apr 1964 (W15),Borussia Dortmund (7),2-2,2-2,Internazionale (7),,,GER,ITA
+?,SF,1,(Wed) 15 Apr 1964 (W15),FC Zurich (8),1-2,0-2,Real Madrid CF (7),,,SUI,ESP
+?,SF,2,(Wed) 29 Apr 1964 (W17),Internazionale (8),2-0,0-0,Borussia Dortmund (8),,,ITA,GER
+?,SF,2,(Wed) 29 Apr 1964 (W17),Real Madrid CF (8),6-0,3-0,FC Zurich (9),,,ESP,SUI
+?,final,,(Wed) 27 May 1964 (W21),Internazionale (9),3-1,0-0,Real Madrid CF (9),,,ITA,ESP

@@ -1,0 +1,62 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Abderden (1),2-1,1-0,BFC Dynamo (1),,,SCO,GER
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Levski Sofia (1),1-1,0-0,VfB Stuttgart (1),,,BUL,GER
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Linfield (1),0-0,0-0,Shamrock Rovers (1),,,NIR,IRL
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Valerenga IF (1),3-3,1-2,AC Sparta Praha (1),,,NOR,CZE
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Girondins Bordeaux (1),3-2,1-1,Athletic Bilbao (1),,,FRA,ESP
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Austria Wien (1),4-0,3-0,Valletta (1),,,AUT,MLT
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Avenir Beggen (1),0-8,0-3,IFK Goteborg (1),,,LUX,SWE
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Grasshoppers Zurich (1),3-1,1-1,Budapest Honved SE (1),,,SUI,HUN
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Crvena Zvezda (1),3-2,0-2,SL Benfica (1),,,SRB,POR
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Dinamo Bucuresti (1),4-1,4-1,Omonia Nicosia (1),,,ROU,CYP
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Trabzonspor AŞ (1),1-0,1-0,Dnepr Dnepropetrovsk (1),,,TUR,UKR
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Feyenoord Rotterdam (1),0-0,0-0,Panathinaikos FC (1),,,NED,GRE
+?,Round1,1,(Wed) 19 Sep 1984 (W38),IA Akranes (1),2-2,0-0,KSK Beveren (1),,,ISL,BEL
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Ilves Tampere (1),0-4,0-2,Juventus (1),,,FIN,ITA
+?,Round1,1,(Wed) 19 Sep 1984 (W38),KS Elbasani (1),0-3,0-0,Lyngby BK (1),,,ALB,DEN
+?,Round1,1,(Wed) 19 Sep 1984 (W38),Lech Poznan (1),0-1,0-0,Liverpool FC (1),,,POL,ENG
+?,Round1,2,(Wed) 3 Oct 1984 (W40),BFC Dynamo (2),2-1,0-0,Abderden (2),2-1 (a.e.t.),,GER,SCO
+?,Round1,2,(Wed) 3 Oct 1984 (W40),VfB Stuttgart (2),2-2,2-1,Levski Sofia (2),,,GER,BUL
+?,Round1,2,(Wed) 3 Oct 1984 (W40),Shamrock Rovers (2),1-1,0-1,Linfield (2),,,IRL,NIR
+?,Round1,2,(Wed) 3 Oct 1984 (W40),AC Sparta Praha (2),2-0,2-0,Valerenga IF (2),,,CZE,NOR
+?,Round1,2,(Wed) 3 Oct 1984 (W40),Athletic Bilbao (2),0-0,0-0,Girondins Bordeaux (2),,,ESP,FRA
+?,Round1,2,(Wed) 3 Oct 1984 (W40),Valletta (2),0-4,0-1,Austria Wien (2),,,MLT,AUT
+?,Round1,2,(Wed) 3 Oct 1984 (W40),IFK Goteborg (2),9-0,4-0,Avenir Beggen (2),,,SWE,LUX
+?,Round1,2,(Wed) 3 Oct 1984 (W40),Budapest Honved SE (2),2-1,1-1,Grasshoppers Zurich (2),,,HUN,SUI
+?,Round1,2,(Wed) 3 Oct 1984 (W40),SL Benfica (2),2-0,0-0,Crvena Zvezda (2),,,POR,SRB
+?,Round1,2,(Wed) 3 Oct 1984 (W40),Omonia Nicosia (2),2-1,0-0,Dinamo Bucuresti (2),,,CYP,ROU
+?,Round1,2,(Wed) 3 Oct 1984 (W40),Dnepr Dnepropetrovsk (2),3-0,0-0,Trabzonspor AŞ (2),,,UKR,TUR
+?,Round1,2,(Wed) 3 Oct 1984 (W40),Panathinaikos FC (2),2-1,2-0,Feyenoord Rotterdam (2),,,GRE,NED
+?,Round1,2,(Wed) 3 Oct 1984 (W40),KSK Beveren (2),5-0,2-0,IA Akranes (2),,,BEL,ISL
+?,Round1,2,(Wed) 3 Oct 1984 (W40),Juventus (2),2-1,0-1,Ilves Tampere (2),,,ITA,FIN
+?,Round1,2,(Wed) 3 Oct 1984 (W40),Lyngby BK (2),3-0,0-0,KS Elbasani (2),,,DEN,ALB
+?,Round1,2,(Wed) 3 Oct 1984 (W40),Liverpool FC (2),4-0,3-0,Lech Poznan (2),,,ENG,POL
+?,R16,1,(Wed) 24 Oct 1984 (W43),Levski Sofia (3),3-1,2-1,Dnepr Dnepropetrovsk (3),,,BUL,UKR
+?,R16,1,(Wed) 24 Oct 1984 (W43),IFK Goteborg (3),1-0,0-0,KSK Beveren (3),,,SWE,BEL
+?,R16,1,(Wed) 24 Oct 1984 (W43),AC Sparta Praha (3),0-0,0-0,Lyngby BK (3),,,CZE,DEN
+?,R16,1,(Wed) 24 Oct 1984 (W43),BFC Dynamo (3),3-3,1-2,Austria Wien (3),,,GER,AUT
+?,R16,1,(Wed) 24 Oct 1984 (W43),Girondins Bordeaux (3),1-0,1-0,Dinamo Bucuresti (3),,,FRA,ROU
+?,R16,1,(Wed) 24 Oct 1984 (W43),Juventus (3),2-0,2-0,Grasshoppers Zurich (3),,,ITA,SUI
+?,R16,1,(Wed) 24 Oct 1984 (W43),Panathinaikos FC (3),2-1,1-1,Linfield (3),,,GRE,NIR
+?,R16,1,(Wed) 24 Oct 1984 (W43),Liverpool FC (3),3-1,1-0,SL Benfica (3),,,ENG,POR
+?,R16,2,(Wed) 7 Nov 1984 (W45),Dnepr Dnepropetrovsk (4),2-0,2-0,Levski Sofia (4),,,UKR,BUL
+?,R16,2,(Wed) 7 Nov 1984 (W45),KSK Beveren (4),1-0,0-0,IFK Goteborg (4),2-1 (a.e.t.),,BEL,SWE
+?,R16,2,(Wed) 7 Nov 1984 (W45),Lyngby BK (4),1-2,1-0,AC Sparta Praha (4),,,DEN,CZE
+?,R16,2,(Wed) 7 Nov 1984 (W45),Austria Wien (4),2-1,1-0,BFC Dynamo (4),,,AUT,GER
+?,R16,2,(Wed) 7 Nov 1984 (W45),Dinamo Bucuresti (4),1-0,1-0,Girondins Bordeaux (4),1-1 (a.e.t.),,ROU,FRA
+?,R16,2,(Wed) 7 Nov 1984 (W45),Grasshoppers Zurich (4),2-4,1-2,Juventus (4),,,SUI,ITA
+?,R16,2,(Wed) 7 Nov 1984 (W45),Linfield (4),3-3,3-2,Panathinaikos FC (4),,,NIR,GRE
+?,R16,2,(Wed) 7 Nov 1984 (W45),SL Benfica (4),1-0,1-0,Liverpool FC (4),,,POR,ENG
+?,QF,1,(Wed) 6 Mar 1985 (W9),Girondins Bordeaux (5),1-1,1-1,Dnepr Dnepropetrovsk (5),,,FRA,UKR
+?,QF,1,(Wed) 6 Mar 1985 (W9),Juventus (5),3-0,1-0,AC Sparta Praha (5),,,ITA,CZE
+?,QF,1,(Wed) 6 Mar 1985 (W9),Austria Wien (5),1-1,1-0,Liverpool FC (5),,,AUT,ENG
+?,QF,1,(Wed) 6 Mar 1985 (W9),IFK Goteborg (5),0-1,0-0,Panathinaikos FC (5),,,SWE,GRE
+?,QF,2,(Wed) 20 Mar 1985 (W11),Dnepr Dnepropetrovsk (6),1-1,1-0,Girondins Bordeaux (6),1-1 (a.e.t.),,UKR,FRA
+?,QF,2,(Wed) 20 Mar 1985 (W11),AC Sparta Praha (6),1-0,0-0,Juventus (6),,,CZE,ITA
+?,QF,2,(Wed) 20 Mar 1985 (W11),Liverpool FC (6),4-1,2-0,Austria Wien (6),,,ENG,AUT
+?,QF,2,(Wed) 20 Mar 1985 (W11),Panathinaikos FC (6),2-2,1-1,IFK Goteborg (6),,,GRE,SWE
+?,SF,1,(Wed) 10 Apr 1985 (W14),Juventus (7),3-0,1-0,Girondins Bordeaux (7),,,ITA,FRA
+?,SF,1,(Wed) 10 Apr 1985 (W14),Liverpool FC (7),4-0,1-0,Panathinaikos FC (7),,,ENG,GRE
+?,SF,2,(Wed) 24 Apr 1985 (W16),Girondins Bordeaux (8),2-0,1-0,Juventus (8),,,FRA,ITA
+?,SF,2,(Wed) 24 Apr 1985 (W16),Panathinaikos FC (8),0-1,0-0,Liverpool FC (8),,,GRE,ENG
+?,final,,(Wed) 29 May 1985 (W21),Juventus (9),1-0,0-0,Liverpool FC (9),,,ITA,ENG

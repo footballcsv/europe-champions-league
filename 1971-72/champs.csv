@@ -1,0 +1,64 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,PrelimF,1,(Thu) 19 Aug 1971 (W33),Valencia CF (1),3-1,0-0,Union Luxembourg (1),,,ESP,LUX
+?,PrelimF,2,(Tue) 24 Aug 1971 (W34),Union Luxembourg (2),0-1,0-0,Valencia CF (2),,,LUX,ESP
+?,Round1,1,(Wed) 15 Sep 1971 (W37),Dinamo Bucuresti (1),0-0,0-0,Spartak TAZ Trnava (1),,,ROU,SVK
+?,Round1,1,(Wed) 15 Sep 1971 (W37),Valencia CF (3),0-0,0-0,Hajduk Split (1),,,ESP,CRO
+?,Round1,1,(Wed) 15 Sep 1971 (W37),Internazionale (1),4-1,3-1,AEK Athens (1),,,ITA,GRE
+?,Round1,1,(Wed) 15 Sep 1971 (W37),AFC Ajax (1),2-0,2-0,Dynamo Dresden (1),,,NED,GER
+?,Round1,1,(Wed) 15 Sep 1971 (W37),Stromsgodset IF (1),1-3,0-2,Arsenal FC (1),,,NOR,ENG
+?,Round1,1,(Wed) 15 Sep 1971 (W37),B 1903 Kobenhavn (1),2-1,2-1,Celtic FC (1),,,DEN,SCO
+?,Round1,1,(Wed) 15 Sep 1971 (W37),Cork Hibernians (1),0-5,0-5,Borussia Monchengladbach (1),,,IRL,GER
+?,Round1,1,(Wed) 15 Sep 1971 (W37),Galatasaray İstanbul AŞ (1),1-1,0-1,CSKA Moskva (1),,,TUR,RUS
+?,Round1,1,(Wed) 15 Sep 1971 (W37),FC Reipas Lahti (1),1-1,0-0,Grasshoppers Zurich (1),,,FIN,SUI
+?,Round1,1,(Wed) 15 Sep 1971 (W37),Feyenoord Rotterdam (1),8-0,4-0,Omonia Nicosia (1),,,NED,CYP
+?,Round1,1,(Wed) 15 Sep 1971 (W37),Olympique Marseille (1),2-1,1-1,Gornik Zabrze (1),,,FRA,POL
+?,Round1,1,(Wed) 15 Sep 1971 (W37),Standard Liege (1),2-0,1-0,Linfield (1),,,BEL,NIR
+?,Round1,1,(Wed) 15 Sep 1971 (W37),Ujpesti Dozsa SC (1),4-0,3-0,Malmo FF (1),,,HUN,SWE
+?,Round1,1,(Wed) 15 Sep 1971 (W37),SSW Innsbruck (1),0-4,0-2,SL Benfica (1),,,AUT,POR
+?,Round1,1,(Wed) 15 Sep 1971 (W37),CSKA Sofia (1),3-0,2-0,FK Partizani Tirana (1),,,BUL,ALB
+?,Round1,2,(Wed) 22 Sep 1971 (W38),Omonia Nicosia (2),0-9,0-5,Feyenoord Rotterdam (2),,,CYP,NED
+?,Round1,1,(Sun) 26 Sep 1971 (W38),IA Akranes (1),0-4,0-1,Sliema Wanderers (1),,,ISL,MLT
+?,Round1,2,(Wed) 29 Sep 1971 (W39),Spartak TAZ Trnava (2),2-2,1-0,Dinamo Bucuresti (2),,,SVK,ROU
+?,Round1,2,(Wed) 29 Sep 1971 (W39),Hajduk Split (2),1-1,1-0,Valencia CF (4),,,CRO,ESP
+?,Round1,2,(Wed) 29 Sep 1971 (W39),AEK Athens (2),3-2,2-1,Internazionale (2),,,GRE,ITA
+?,Round1,2,(Wed) 29 Sep 1971 (W39),Dynamo Dresden (2),0-0,0-0,AFC Ajax (2),,,GER,NED
+?,Round1,2,(Wed) 29 Sep 1971 (W39),Arsenal FC (2),4-0,2-0,Stromsgodset IF (2),,,ENG,NOR
+?,Round1,2,(Wed) 29 Sep 1971 (W39),Celtic FC (2),3-0,1-0,B 1903 Kobenhavn (2),,,SCO,DEN
+?,Round1,2,(Wed) 29 Sep 1971 (W39),Borussia Monchengladbach (2),2-1,0-1,Cork Hibernians (2),,,GER,IRL
+?,Round1,2,(Wed) 29 Sep 1971 (W39),CSKA Moskva (2),3-0,1-0,Galatasaray İstanbul AŞ (2),,,RUS,TUR
+?,Round1,2,(Wed) 29 Sep 1971 (W39),Grasshoppers Zurich (2),8-0,4-0,FC Reipas Lahti (2),,,SUI,FIN
+?,Round1,2,(Wed) 29 Sep 1971 (W39),Gornik Zabrze (2),1-1,1-0,Olympique Marseille (2),,,POL,FRA
+?,Round1,2,(Wed) 29 Sep 1971 (W39),Sliema Wanderers (2),0-0,0-0,IA Akranes (2),,,MLT,ISL
+?,Round1,2,(Wed) 29 Sep 1971 (W39),Linfield (2),2-3,0-1,Standard Liege (2),,,NIR,BEL
+?,Round1,2,(Wed) 29 Sep 1971 (W39),Malmo FF (2),1-0,1-0,Ujpesti Dozsa SC (2),,,SWE,HUN
+?,Round1,2,(Wed) 29 Sep 1971 (W39),SL Benfica (2),3-1,1-0,SSW Innsbruck (2),,,POR,AUT
+?,Round1,2,(Wed) 29 Sep 1971 (W39),FK Partizani Tirana (2),0-1,0-0,CSKA Sofia (2),,,ALB,BUL
+?,R16,1,(Wed) 20 Oct 1971 (W42),Olympique Marseille (3),1-2,1-1,AFC Ajax (3),,,FRA,NED
+?,R16,1,(Wed) 20 Oct 1971 (W42),Grasshoppers Zurich (3),0-2,0-1,Arsenal FC (3),,,SUI,ENG
+?,R16,1,(Wed) 20 Oct 1971 (W42),Celtic FC (3),5-0,3-0,Sliema Wanderers (3),,,SCO,MLT
+?,R16,1,(Wed) 20 Oct 1971 (W42),CSKA Moskva (3),1-0,1-0,Standard Liege (3),,,RUS,BEL
+?,R16,1,(Wed) 20 Oct 1971 (W42),SL Benfica (3),2-1,0-0,CSKA Sofia (3),,,POR,BUL
+?,R16,1,(Wed) 20 Oct 1971 (W42),Dinamo Bucuresti (3),0-3,0-2,Feyenoord Rotterdam (3),,,ROU,NED
+?,R16,1,(Wed) 20 Oct 1971 (W42),Valencia CF (5),0-1,0-0,Ujpesti Dozsa SC (3),,,ESP,HUN
+?,R16,2,(Wed) 3 Nov 1971 (W44),AFC Ajax (4),4-1,2-1,Olympique Marseille (4),,,NED,FRA
+?,R16,2,(Wed) 3 Nov 1971 (W44),Arsenal FC (4),3-0,1-0,Grasshoppers Zurich (4),,,ENG,SUI
+?,R16,1,(Wed) 3 Nov 1971 (W44),Internazionale (3),4-2,2-1,Borussia Monchengladbach (3),,,ITA,GER
+?,R16,2,(Wed) 3 Nov 1971 (W44),Sliema Wanderers (4),1-2,1-1,Celtic FC (4),,,MLT,SCO
+?,R16,2,(Wed) 3 Nov 1971 (W44),Standard Liege (4),2-0,1-0,CSKA Moskva (4),,,BEL,RUS
+?,R16,2,(Wed) 3 Nov 1971 (W44),CSKA Sofia (4),0-0,0-0,SL Benfica (4),,,BUL,POR
+?,R16,2,(Wed) 3 Nov 1971 (W44),Feyenoord Rotterdam (4),2-0,0-0,Dinamo Bucuresti (4),,,NED,ROU
+?,R16,2,(Wed) 3 Nov 1971 (W44),Ujpesti Dozsa SC (4),2-1,0-0,Valencia CF (6),,,HUN,ESP
+?,R16,2,(Wed) 1 Dec 1971 (W48),Borussia Monchengladbach (4),0-0,0-0,Internazionale (4),,,GER,ITA
+?,QF,1,(Wed) 8 Mar 1972 (W10),Internazionale (5),1-0,0-0,Standard Liege (5),,,ITA,BEL
+?,QF,1,(Wed) 8 Mar 1972 (W10),AFC Ajax (5),2-1,1-1,Arsenal FC (5),,,NED,ENG
+?,QF,1,(Wed) 8 Mar 1972 (W10),Ujpesti Dozsa SC (5),1-2,0-1,Celtic FC (5),,,HUN,SCO
+?,QF,1,(Wed) 8 Mar 1972 (W10),Feyenoord Rotterdam (5),1-0,0-0,SL Benfica (5),,,NED,POR
+?,QF,2,(Wed) 22 Mar 1972 (W12),Standard Liege (6),2-1,0-0,Internazionale (6),,,BEL,ITA
+?,QF,2,(Wed) 22 Mar 1972 (W12),Arsenal FC (6),0-1,0-1,AFC Ajax (6),,,ENG,NED
+?,QF,2,(Wed) 22 Mar 1972 (W12),Celtic FC (6),1-1,0-1,Ujpesti Dozsa SC (6),,,SCO,HUN
+?,QF,2,(Wed) 22 Mar 1972 (W12),SL Benfica (6),5-1,2-0,Feyenoord Rotterdam (6),,,POR,NED
+?,SF,1,(Wed) 5 Apr 1972 (W14),Internazionale (7),0-0,0-0,Celtic FC (7),,,ITA,SCO
+?,SF,1,(Wed) 5 Apr 1972 (W14),AFC Ajax (7),1-0,0-0,SL Benfica (7),,,NED,POR
+?,SF,2,(Wed) 19 Apr 1972 (W16),Celtic FC (8),0-0,0-0,Internazionale (8),0-0 (a.e.t.),,SCO,ITA
+?,SF,2,(Wed) 19 Apr 1972 (W16),SL Benfica (8),0-0,0-0,AFC Ajax (8),,,POR,NED
+?,final,,(Wed) 31 May 1972 (W22),AFC Ajax (9),2-0,0-0,Internazionale (9),,,NED,ITA

@@ -1,0 +1,214 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,Q-1,1,(Tue) 28 Jun 2011 (W26),FC Santa Coloma (1),0-2,0-0,F91 Dudelange (1),,,AND,LUX
+?,Q-1,1,(Tue) 28 Jun 2011 (W26),Tre Fiori (1),0-3,0-0,Valletta (1),,,SMR,MLT
+?,Q-1,2,(Tue) 5 Jul 2011 (W27),F91 Dudelange (2),2-0,0-0,FC Santa Coloma (2),,,LUX,AND
+?,Q-1,2,(Wed) 6 Jul 2011 (W27),Valletta (2),2-1,0-0,Tre Fiori (2),,,MLT,SMR
+?,Q-2,1,(Tue) 12 Jul 2011 (W28),NK Maribor (1),2-0,0-0,F91 Dudelange (3),,,SVN,LUX
+?,Q-2,1,(Tue) 12 Jul 2011 (W28),Valletta (3),2-3,0-0,FK Ekranas (1),,,MLT,LTU
+?,Q-2,1,(Tue) 12 Jul 2011 (W28),FK Mogren (1),1-2,0-0,PFC Litex Lovech (1),,,MNE,BUL
+?,Q-2,1,(Tue) 12 Jul 2011 (W28),Shamrock Rovers (1),1-0,0-0,Flora Tallinn (1),,,IRL,EST
+?,Q-2,1,(Tue) 12 Jul 2011 (W28),Pyunik (1),0-4,0-0,Viktoria Plzen (1),,,ARM,CZE
+?,Q-2,1,(Tue) 12 Jul 2011 (W28),SK Slovan Bratislava (1),2-0,0-0,Tobol (1),,,SVK,KAZ
+?,Q-2,1,(Wed) 13 Jul 2011 (W28),Skenderbeu Korce (1),0-2,0-0,APOEL Nikosia (1),,,ALB,CYP
+?,Q-2,1,(Wed) 13 Jul 2011 (W28),Bangor City (1),0-3,0-0,HJK Helsinki (1),,,NIR,FIN
+?,Q-2,1,(Wed) 13 Jul 2011 (W28),Linfield (1),1-1,0-0,BATE Borisov (1),,,NIR,BLR
+?,Q-2,1,(Wed) 13 Jul 2011 (W28),Maccabi Haifa (1),5-1,0-0,Borac Banja Luka (1),,,ISR,BIH
+?,Q-2,1,(Wed) 13 Jul 2011 (W28),Rosenborg BK (1),5-0,0-0,Breidablik (1),,,NOR,ISL
+?,Q-2,1,(Wed) 13 Jul 2011 (W28),Zestafoni (1),3-0,0-0,Dacia Chisinau (1),,,GEO,MDA
+?,Q-2,1,(Wed) 13 Jul 2011 (W28),Dinamo Zagreb (1),3-0,0-0,Neftchi PFC Baku (1),,,CRO,AZE
+?,Q-2,1,(Wed) 13 Jul 2011 (W28),Malmo FF (1),2-0,0-0,HB (1),,,SWE,FRO
+?,Q-2,1,(Wed) 13 Jul 2011 (W28),Skonto (1),0-1,0-0,Wisla Krakow (1),,,LVA,POL
+?,Q-2,1,(Wed) 13 Jul 2011 (W28),SK Sturm Graz (1),2-0,0-0,Videoton (1),,,AUT,HUN
+?,Q-2,1,(Wed) 13 Jul 2011 (W28),Partizan Belgrade (1),4-0,0-0,Shkendija (1),,,SRB,MKD
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),HJK Helsinki (2),10-0,0-0,Bangor City (2),,,FIN,NIR
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),BATE Borisov (2),2-0,0-0,Linfield (2),,,BLR,NIR
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),Neftchi PFC Baku (2),0-0,0-0,Dinamo Zagreb (2),,,AZE,CRO
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),F91 Dudelange (4),1-3,0-0,NK Maribor (2),,,LUX,SVN
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),FK Ekranas (2),1-0,0-0,Valletta (4),,,LTU,MLT
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),PFC Litex Lovech (2),3-0,0-0,FK Mogren (2),,,BUL,MNE
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),Flora Tallinn (2),0-0,0-0,Shamrock Rovers (2),,,EST,IRL
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),HB (2),1-1,0-0,Malmo FF (2),,,FRO,SWE
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),Viktoria Plzen (2),5-1,0-0,Pyunik (2),,,CZE,ARM
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),Tobol (2),1-1,0-0,SK Slovan Bratislava (2),,,KAZ,SVK
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),Wisla Krakow (2),2-0,0-0,Skonto (2),,,POL,LVA
+?,Q-2,2,(Tue) 19 Jul 2011 (W29),Shkendija (2),0-1,0-0,Partizan Belgrade (2),,,MKD,SRB
+?,Q-2,2,(Wed) 20 Jul 2011 (W29),APOEL Nikosia (2),4-0,0-0,Skenderbeu Korce (2),,,CYP,ALB
+?,Q-2,2,(Wed) 20 Jul 2011 (W29),Borac Banja Luka (2),3-2,0-0,Maccabi Haifa (2),,,BIH,ISR
+?,Q-2,2,(Wed) 20 Jul 2011 (W29),Breidablik (2),2-0,0-0,Rosenborg BK (2),,,ISL,NOR
+?,Q-2,2,(Wed) 20 Jul 2011 (W29),Dacia Chisinau (2),2-0,0-0,Zestafoni (2),,,MDA,GEO
+?,Q-2,2,(Wed) 20 Jul 2011 (W29),Videoton (2),3-2,0-0,SK Sturm Graz (2),,,HUN,AUT
+?,Q-3,1,(Tue) 26 Jul 2011 (W30),APOEL Nikosia (3),0-0,0-0,SK Slovan Bratislava (3),,,CYP,SVK
+?,Q-3,1,(Tue) 26 Jul 2011 (W30),FK Ekranas (3),0-0,0-0,BATE Borisov (3),,,LTU,BLR
+?,Q-3,1,(Tue) 26 Jul 2011 (W30),Dinamo Kiev (1),0-2,0-0,Rubin Kazan (1),,,UKR,RUS
+?,Q-3,1,(Tue) 26 Jul 2011 (W30),Rangers FC (1),0-1,0-0,Malmo FF (3),,,SCO,SWE
+?,Q-3,1,(Tue) 26 Jul 2011 (W30),PFC Litex Lovech (3),1-2,0-0,Wisla Krakow (3),,,BUL,POL
+?,Q-3,1,(Tue) 26 Jul 2011 (W30),Zestafoni (3),1-1,0-0,SK Sturm Graz (3),,,GEO,AUT
+?,Q-3,1,(Tue) 26 Jul 2011 (W30),FC Twente (1),2-0,0-0,Vaslui (1),,,NED,ROU
+?,Q-3,1,(Tue) 26 Jul 2011 (W30),KRC Genk (1),2-1,0-0,Partizan Belgrade (3),,,BEL,SRB
+?,Q-3,1,(Wed) 27 Jul 2011 (W30),HJK Helsinki (3),1-2,0-0,Dinamo Zagreb (3),,,FIN,CRO
+?,Q-3,1,(Wed) 27 Jul 2011 (W30),Standard Liege (1),1-1,0-0,FC Zurich (1),,,BEL,SUI
+?,Q-3,1,(Wed) 27 Jul 2011 (W30),Kobenhavn (1),1-0,0-0,Shamrock Rovers (3),,,DEN,IRL
+?,Q-3,1,(Wed) 27 Jul 2011 (W30),Maccabi Haifa (3),2-1,0-0,NK Maribor (3),,,ISR,SVN
+?,Q-3,1,(Wed) 27 Jul 2011 (W30),Odense BK (1),1-1,0-0,Panathinaikos FC (1),,,DEN,GRE
+?,Q-3,1,(Wed) 27 Jul 2011 (W30),Rosenborg BK (3),0-1,0-0,Viktoria Plzen (3),,,NOR,CZE
+?,Q-3,1,(Wed) 27 Jul 2011 (W30),SL Benfica (1),2-0,0-0,Trabzonspor AŞ (1),,,POR,TUR
+?,Q-3,2,(Tue) 2 Aug 2011 (W31),BATE Borisov (4),3-1,0-0,FK Ekranas (4),,,BLR,LTU
+?,Q-3,2,(Tue) 2 Aug 2011 (W31),Shamrock Rovers (4),0-2,0-0,Kobenhavn (2),,,IRL,DEN
+?,Q-3,2,(Tue) 2 Aug 2011 (W31),Panathinaikos FC (2),3-4,0-0,Odense BK (2),,,GRE,DEN
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),SK Slovan Bratislava (4),0-2,0-0,APOEL Nikosia (4),,,SVK,CYP
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),Rubin Kazan (2),2-1,0-0,Dinamo Kiev (2),,,RUS,UKR
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),Dinamo Zagreb (4),1-0,0-0,HJK Helsinki (4),,,CRO,FIN
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),FC Zurich (2),1-0,0-0,Standard Liege (2),,,SUI,BEL
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),NK Maribor (4),1-1,0-0,Maccabi Haifa (4),,,SVN,ISR
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),Malmo FF (4),1-1,0-0,Rangers FC (2),,,SWE,SCO
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),Wisla Krakow (4),3-1,0-0,PFC Litex Lovech (4),,,POL,BUL
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),Viktoria Plzen (4),3-2,0-0,Rosenborg BK (4),,,CZE,NOR
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),Trabzonspor AŞ (2),1-1,0-0,SL Benfica (2),,,TUR,POR
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),SK Sturm Graz (4),1-0,0-0,Zestafoni (4),,,AUT,GEO
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),Vaslui (2),0-0,0-0,FC Twente (2),,,ROU,NED
+?,Q-3,2,(Wed) 3 Aug 2011 (W31),Partizan Belgrade (4),1-1,0-0,KRC Genk (2),,,SRB,BEL
+?,Q-PO,1,(Tue) 16 Aug 2011 (W33),Arsenal FC (1),1-0,0-0,Udinese Calcio (1),,,ENG,ITA
+?,Q-PO,1,(Tue) 16 Aug 2011 (W33),BATE Borisov (5),1-1,0-0,SK Sturm Graz (5),,,BLR,AUT
+?,Q-PO,1,(Tue) 16 Aug 2011 (W33),Kobenhavn (3),1-3,0-0,Viktoria Plzen (5),,,DEN,CZE
+?,Q-PO,1,(Tue) 16 Aug 2011 (W33),Olympique Lyon (1),3-1,0-0,Rubin Kazan (3),,,FRA,RUS
+?,Q-PO,1,(Tue) 16 Aug 2011 (W33),FC Twente (3),2-2,0-0,SL Benfica (3),,,NED,POR
+?,Q-PO,1,(Wed) 17 Aug 2011 (W33),Maccabi Haifa (5),2-1,0-0,KRC Genk (3),,,ISR,BEL
+?,Q-PO,1,(Wed) 17 Aug 2011 (W33),Wisla Krakow (5),1-0,0-0,APOEL Nikosia (5),,,POL,CYP
+?,Q-PO,1,(Wed) 17 Aug 2011 (W33),Bayern München (1),2-0,0-0,FC Zurich (3),,,GER,SUI
+?,Q-PO,1,(Wed) 17 Aug 2011 (W33),Dinamo Zagreb (5),4-1,0-0,Malmo FF (5),,,CRO,SWE
+?,Q-PO,1,(Wed) 17 Aug 2011 (W33),Odense BK (3),1-0,0-0,Villarreal CF (1),,,DEN,ESP
+?,Q-PO,2,(Tue) 23 Aug 2011 (W34),KRC Genk (4),2-1,0-0,Maccabi Haifa (6),2-1 (a.e.t.),,BEL,ISR
+?,Q-PO,2,(Tue) 23 Aug 2011 (W34),APOEL Nikosia (6),3-1,0-0,Wisla Krakow (6),,,CYP,POL
+?,Q-PO,2,(Tue) 23 Aug 2011 (W34),FC Zurich (4),0-1,0-0,Bayern München (2),,,SUI,GER
+?,Q-PO,2,(Tue) 23 Aug 2011 (W34),Malmo FF (6),2-0,0-0,Dinamo Zagreb (6),,,SWE,CRO
+?,Q-PO,2,(Tue) 23 Aug 2011 (W34),Villarreal CF (2),3-0,0-0,Odense BK (4),,,ESP,DEN
+?,Q-PO,2,(Wed) 24 Aug 2011 (W34),Udinese Calcio (2),1-2,0-0,Arsenal FC (2),,,ITA,ENG
+?,Q-PO,2,(Wed) 24 Aug 2011 (W34),SK Sturm Graz (6),0-2,0-0,BATE Borisov (6),,,AUT,BLR
+?,Q-PO,2,(Wed) 24 Aug 2011 (W34),Viktoria Plzen (6),2-1,0-0,Kobenhavn (4),,,CZE,DEN
+?,Q-PO,2,(Wed) 24 Aug 2011 (W34),Rubin Kazan (4),1-1,0-0,Olympique Lyon (2),,,RUS,FRA
+?,Q-PO,2,(Wed) 24 Aug 2011 (W34),SL Benfica (4),3-1,0-0,FC Twente (4),,,POR,NED
+?,GroupH,groups,(Tue) 13 Sep 2011 (W37),FC Barcelona (1),2-2,1-1,AC Milan (1),,,ESP,ITA
+?,GroupG,groups,(Tue) 13 Sep 2011 (W37),APOEL Nikosia (7),2-1,0-0,Zenit St. Petersburg (1),,,CYP,RUS
+?,GroupF,groups,(Tue) 13 Sep 2011 (W37),Borussia Dortmund (1),1-1,0-1,Arsenal FC (3),,,GER,ENG
+?,GroupH,groups,(Tue) 13 Sep 2011 (W37),Viktoria Plzen (7),1-1,1-0,BATE Borisov (7),,,CZE,BLR
+?,GroupE,groups,(Tue) 13 Sep 2011 (W37),Chelsea FC (1),2-0,0-0,Bayer 04 Leverkusen (1),,,ENG,GER
+?,GroupG,groups,(Tue) 13 Sep 2011 (W37),FC Porto (1),2-1,1-1,Shakhtar Donetsk (1),,,POR,UKR
+?,GroupE,groups,(Tue) 13 Sep 2011 (W37),KRC Genk (5),0-0,0-0,Valencia CF (1),,,BEL,ESP
+?,GroupF,groups,(Tue) 13 Sep 2011 (W37),Olympiacos (1),0-1,0-0,Olympique Marseille (1),,,GRE,FRA
+?,GroupD,groups,(Wed) 14 Sep 2011 (W37),AFC Ajax (1),0-0,0-0,Olympique Lyon (3),,,NED,FRA
+?,GroupC,groups,(Wed) 14 Sep 2011 (W37),Basel (1),2-1,1-0,Otelul Galati (1),,,SUI,ROU
+?,GroupA,groups,(Wed) 14 Sep 2011 (W37),Villarreal CF (3),0-2,0-1,Bayern München (3),,,ESP,GER
+?,GroupB,groups,(Wed) 14 Sep 2011 (W37),Lille OSC (1),2-2,1-0,CSKA Moskva (1),,,FRA,RUS
+?,GroupD,groups,(Wed) 14 Sep 2011 (W37),Dinamo Zagreb (7),0-1,0-0,Real Madrid CF (1),,,CRO,ESP
+?,GroupB,groups,(Wed) 14 Sep 2011 (W37),Internazionale (1),0-1,0-0,Trabzonspor AŞ (3),,,ITA,TUR
+?,GroupA,groups,(Wed) 14 Sep 2011 (W37),Manchester City FC (1),1-1,0-0,SSC Napoli (1),,,ENG,ITA
+?,GroupC,groups,(Wed) 14 Sep 2011 (W37),SL Benfica (5),1-1,1-1,Manchester United FC (1),,,POR,ENG
+?,GroupD,groups,(Tue) 27 Sep 2011 (W39),Real Madrid CF (2),3-0,2-0,AFC Ajax (2),,,ESP,NED
+?,GroupC,groups,(Tue) 27 Sep 2011 (W39),Manchester United FC (2),3-3,2-0,Basel (2),,,ENG,SUI
+?,GroupA,groups,(Tue) 27 Sep 2011 (W39),Bayern München (4),2-0,2-0,Manchester City FC (2),,,GER,ENG
+?,GroupB,groups,(Tue) 27 Sep 2011 (W39),CSKA Moskva (2),2-3,1-2,Internazionale (2),,,RUS,ITA
+?,GroupD,groups,(Tue) 27 Sep 2011 (W39),Olympique Lyon (4),2-0,2-0,Dinamo Zagreb (8),,,FRA,CRO
+?,GroupB,groups,(Tue) 27 Sep 2011 (W39),Trabzonspor AŞ (4),1-1,0-1,Lille OSC (2),,,TUR,FRA
+?,GroupC,groups,(Tue) 27 Sep 2011 (W39),Otelul Galati (2),0-1,0-1,SL Benfica (6),,,ROU,POR
+?,GroupA,groups,(Tue) 27 Sep 2011 (W39),SSC Napoli (2),2-0,2-0,Villarreal CF (4),,,ITA,ESP
+?,GroupH,groups,(Wed) 28 Sep 2011 (W39),AC Milan (2),2-0,0-0,Viktoria Plzen (8),,,ITA,CZE
+?,GroupG,groups,(Wed) 28 Sep 2011 (W39),Shakhtar Donetsk (2),1-1,0-0,APOEL Nikosia (8),,,UKR,CYP
+?,GroupF,groups,(Wed) 28 Sep 2011 (W39),Arsenal FC (4),2-1,2-1,Olympiacos (2),,,ENG,GRE
+?,GroupH,groups,(Wed) 28 Sep 2011 (W39),BATE Borisov (8),0-5,0-3,FC Barcelona (2),,,BLR,ESP
+?,GroupE,groups,(Wed) 28 Sep 2011 (W39),Bayer 04 Leverkusen (2),2-0,1-0,KRC Genk (6),,,GER,BEL
+?,GroupF,groups,(Wed) 28 Sep 2011 (W39),Olympique Marseille (2),3-0,1-0,Borussia Dortmund (2),,,FRA,GER
+?,GroupE,groups,(Wed) 28 Sep 2011 (W39),Valencia CF (2),1-1,0-0,Chelsea FC (2),,,ESP,ENG
+?,GroupG,groups,(Wed) 28 Sep 2011 (W39),Zenit St. Petersburg (2),3-1,1-1,FC Porto (2),,,RUS,POR
+?,GroupD,groups,(Tue) 18 Oct 2011 (W42),Dinamo Zagreb (9),0-2,0-0,AFC Ajax (3),,,CRO,NED
+?,GroupC,groups,(Tue) 18 Oct 2011 (W42),Basel (3),0-2,0-1,SL Benfica (7),,,SUI,POR
+?,GroupA,groups,(Tue) 18 Oct 2011 (W42),SSC Napoli (3),1-1,1-1,Bayern München (5),,,ITA,GER
+?,GroupB,groups,(Tue) 18 Oct 2011 (W42),CSKA Moskva (3),3-0,1-0,Trabzonspor AŞ (5),,,RUS,TUR
+?,GroupB,groups,(Tue) 18 Oct 2011 (W42),Lille OSC (3),0-1,0-1,Internazionale (3),,,FRA,ITA
+?,GroupA,groups,(Tue) 18 Oct 2011 (W42),Manchester City FC (3),2-1,1-1,Villarreal CF (5),,,ENG,ESP
+?,GroupC,groups,(Tue) 18 Oct 2011 (W42),Otelul Galati (3),0-2,0-0,Manchester United FC (3),,,ROU,ENG
+?,GroupD,groups,(Tue) 18 Oct 2011 (W42),Real Madrid CF (3),4-0,1-0,Olympique Lyon (5),,,ESP,FRA
+?,GroupH,groups,(Wed) 19 Oct 2011 (W42),AC Milan (3),2-0,1-0,BATE Borisov (9),,,ITA,BLR
+?,GroupG,groups,(Wed) 19 Oct 2011 (W42),FC Porto (3),1-1,1-1,APOEL Nikosia (9),,,POR,CYP
+?,GroupF,groups,(Wed) 19 Oct 2011 (W42),Olympique Marseille (3),0-1,0-0,Arsenal FC (5),,,FRA,ENG
+?,GroupH,groups,(Wed) 19 Oct 2011 (W42),FC Barcelona (3),2-0,1-0,Viktoria Plzen (9),,,ESP,CZE
+?,GroupE,groups,(Wed) 19 Oct 2011 (W42),Bayer 04 Leverkusen (3),2-1,0-1,Valencia CF (3),,,GER,ESP
+?,GroupF,groups,(Wed) 19 Oct 2011 (W42),Olympiacos (3),3-1,2-1,Borussia Dortmund (3),,,GRE,GER
+?,GroupE,groups,(Wed) 19 Oct 2011 (W42),Chelsea FC (3),5-0,4-0,KRC Genk (7),,,ENG,BEL
+?,GroupG,groups,(Wed) 19 Oct 2011 (W42),Shakhtar Donetsk (3),2-2,2-1,Zenit St. Petersburg (3),,,UKR,RUS
+?,GroupH,groups,(Tue) 1 Nov 2011 (W44),BATE Borisov (10),1-1,0-1,AC Milan (4),,,BLR,ITA
+?,GroupG,groups,(Tue) 1 Nov 2011 (W44),APOEL Nikosia (10),2-1,1-0,FC Porto (4),,,CYP,POR
+?,GroupF,groups,(Tue) 1 Nov 2011 (W44),Arsenal FC (6),0-0,0-0,Olympique Marseille (4),,,ENG,FRA
+?,GroupH,groups,(Tue) 1 Nov 2011 (W44),Viktoria Plzen (10),0-4,0-2,FC Barcelona (4),,,CZE,ESP
+?,GroupE,groups,(Tue) 1 Nov 2011 (W44),Valencia CF (4),3-1,1-1,Bayer 04 Leverkusen (4),,,ESP,GER
+?,GroupF,groups,(Tue) 1 Nov 2011 (W44),Borussia Dortmund (4),1-0,1-0,Olympiacos (4),,,GER,GRE
+?,GroupE,groups,(Tue) 1 Nov 2011 (W44),KRC Genk (8),1-1,0-1,Chelsea FC (4),,,BEL,ENG
+?,GroupG,groups,(Tue) 1 Nov 2011 (W44),Zenit St. Petersburg (4),1-0,1-0,Shakhtar Donetsk (4),,,RUS,UKR
+?,GroupD,groups,(Wed) 2 Nov 2011 (W44),AFC Ajax (4),4-0,2-0,Dinamo Zagreb (10),,,NED,CRO
+?,GroupC,groups,(Wed) 2 Nov 2011 (W44),SL Benfica (8),1-1,1-0,Basel (4),,,POR,SUI
+?,GroupA,groups,(Wed) 2 Nov 2011 (W44),Bayern München (6),3-2,3-1,SSC Napoli (4),,,GER,ITA
+?,GroupB,groups,(Wed) 2 Nov 2011 (W44),Trabzonspor AŞ (6),0-0,0-0,CSKA Moskva (4),,,TUR,RUS
+?,GroupB,groups,(Wed) 2 Nov 2011 (W44),Internazionale (4),2-1,1-0,Lille OSC (4),,,ITA,FRA
+?,GroupA,groups,(Wed) 2 Nov 2011 (W44),Villarreal CF (6),0-3,0-2,Manchester City FC (4),,,ESP,ENG
+?,GroupC,groups,(Wed) 2 Nov 2011 (W44),Manchester United FC (4),2-0,1-0,Otelul Galati (4),,,ENG,ROU
+?,GroupD,groups,(Wed) 2 Nov 2011 (W44),Olympique Lyon (6),0-2,0-1,Real Madrid CF (4),,,FRA,ESP
+?,GroupD,groups,(Tue) 22 Nov 2011 (W47),Olympique Lyon (7),0-0,0-0,AFC Ajax (5),,,FRA,NED
+?,GroupC,groups,(Tue) 22 Nov 2011 (W47),Otelul Galati (5),2-3,0-3,Basel (5),,,ROU,SUI
+?,GroupA,groups,(Tue) 22 Nov 2011 (W47),Bayern München (7),3-1,2-0,Villarreal CF (7),,,GER,ESP
+?,GroupB,groups,(Tue) 22 Nov 2011 (W47),CSKA Moskva (5),0-2,0-0,Lille OSC (5),,,RUS,FRA
+?,GroupD,groups,(Tue) 22 Nov 2011 (W47),Real Madrid CF (5),6-2,4-0,Dinamo Zagreb (11),,,ESP,CRO
+?,GroupB,groups,(Tue) 22 Nov 2011 (W47),Trabzonspor AŞ (7),1-1,1-1,Internazionale (5),,,TUR,ITA
+?,GroupA,groups,(Tue) 22 Nov 2011 (W47),SSC Napoli (5),2-1,1-1,Manchester City FC (5),,,ITA,ENG
+?,GroupC,groups,(Tue) 22 Nov 2011 (W47),Manchester United FC (5),2-2,1-1,SL Benfica (9),,,ENG,POR
+?,GroupH,groups,(Wed) 23 Nov 2011 (W47),AC Milan (5),2-3,1-2,FC Barcelona (5),,,ITA,ESP
+?,GroupG,groups,(Wed) 23 Nov 2011 (W47),Zenit St. Petersburg (5),0-0,0-0,APOEL Nikosia (11),,,RUS,CYP
+?,GroupF,groups,(Wed) 23 Nov 2011 (W47),Arsenal FC (7),2-1,0-0,Borussia Dortmund (5),,,ENG,GER
+?,GroupH,groups,(Wed) 23 Nov 2011 (W47),BATE Borisov (11),0-1,0-1,Viktoria Plzen (11),,,BLR,CZE
+?,GroupE,groups,(Wed) 23 Nov 2011 (W47),Bayer 04 Leverkusen (5),2-1,0-0,Chelsea FC (5),,,GER,ENG
+?,GroupG,groups,(Wed) 23 Nov 2011 (W47),Shakhtar Donetsk (5),0-2,0-0,FC Porto (5),,,UKR,POR
+?,GroupE,groups,(Wed) 23 Nov 2011 (W47),Valencia CF (5),7-0,4-0,KRC Genk (9),,,ESP,BEL
+?,GroupF,groups,(Wed) 23 Nov 2011 (W47),Olympique Marseille (5),0-1,0-0,Olympiacos (5),,,FRA,GRE
+?,GroupH,groups,(Tue) 6 Dec 2011 (W49),Viktoria Plzen (12),2-2,0-0,AC Milan (6),,,CZE,ITA
+?,GroupG,groups,(Tue) 6 Dec 2011 (W49),APOEL Nikosia (12),0-2,0-0,Shakhtar Donetsk (6),,,CYP,UKR
+?,GroupF,groups,(Tue) 6 Dec 2011 (W49),Olympiacos (6),3-1,2-0,Arsenal FC (8),,,GRE,ENG
+?,GroupH,groups,(Tue) 6 Dec 2011 (W49),FC Barcelona (6),4-0,1-0,BATE Borisov (12),,,ESP,BLR
+?,GroupE,groups,(Tue) 6 Dec 2011 (W49),KRC Genk (10),1-1,1-0,Bayer 04 Leverkusen (6),,,BEL,GER
+?,GroupF,groups,(Tue) 6 Dec 2011 (W49),Borussia Dortmund (6),2-3,2-1,Olympique Marseille (6),,,GER,FRA
+?,GroupE,groups,(Tue) 6 Dec 2011 (W49),Chelsea FC (6),3-0,2-0,Valencia CF (6),,,ENG,ESP
+?,GroupG,groups,(Tue) 6 Dec 2011 (W49),FC Porto (6),0-0,0-0,Zenit St. Petersburg (6),,,POR,RUS
+?,GroupD,groups,(Wed) 7 Dec 2011 (W49),AFC Ajax (6),0-3,0-2,Real Madrid CF (6),,,NED,ESP
+?,GroupC,groups,(Wed) 7 Dec 2011 (W49),Basel (6),2-1,1-0,Manchester United FC (6),,,SUI,ENG
+?,GroupA,groups,(Wed) 7 Dec 2011 (W49),Manchester City FC (6),2-0,1-0,Bayern München (8),,,ENG,GER
+?,GroupB,groups,(Wed) 7 Dec 2011 (W49),Internazionale (6),1-2,0-0,CSKA Moskva (6),,,ITA,RUS
+?,GroupD,groups,(Wed) 7 Dec 2011 (W49),Dinamo Zagreb (12),1-7,1-1,Olympique Lyon (8),,,CRO,FRA
+?,GroupB,groups,(Wed) 7 Dec 2011 (W49),Lille OSC (6),0-0,0-0,Trabzonspor AŞ (8),,,FRA,TUR
+?,GroupC,groups,(Wed) 7 Dec 2011 (W49),SL Benfica (10),1-0,1-0,Otelul Galati (6),,,POR,ROU
+?,GroupA,groups,(Wed) 7 Dec 2011 (W49),Villarreal CF (8),0-2,0-0,SSC Napoli (6),,,ESP,ITA
+?,R16,1,(Tue) 14 Feb 2012 (W7),Olympique Lyon (9),1-0,0-0,APOEL Nikosia (13),,,FRA,CYP
+?,R16,1,(Tue) 14 Feb 2012 (W7),Bayer 04 Leverkusen (7),1-3,0-1,FC Barcelona (7),,,GER,ESP
+?,R16,1,(Wed) 15 Feb 2012 (W7),AC Milan (7),4-0,2-0,Arsenal FC (9),,,ITA,ENG
+?,R16,1,(Wed) 15 Feb 2012 (W7),Zenit St. Petersburg (7),3-2,1-1,SL Benfica (11),,,RUS,POR
+?,R16,1,(Tue) 21 Feb 2012 (W8),SSC Napoli (7),3-1,2-1,Chelsea FC (7),,,ITA,ENG
+?,R16,1,(Tue) 21 Feb 2012 (W8),CSKA Moskva (7),1-1,0-1,Real Madrid CF (7),,,RUS,ESP
+?,R16,1,(Wed) 22 Feb 2012 (W8),Olympique Marseille (7),1-0,0-0,Internazionale (7),,,FRA,ITA
+?,R16,1,(Wed) 22 Feb 2012 (W8),Basel (7),1-0,0-0,Bayern München (9),,,SUI,GER
+?,R16,2,(Tue) 6 Mar 2012 (W10),Arsenal FC (10),3-0,3-0,AC Milan (8),,,ENG,ITA
+?,R16,2,(Tue) 6 Mar 2012 (W10),SL Benfica (12),2-0,1-0,Zenit St. Petersburg (8),,,POR,RUS
+?,R16,2,(Wed) 7 Mar 2012 (W10),APOEL Nikosia (14),1-0,1-0,Olympique Lyon (10),1-0 (a.e.t.),,CYP,FRA
+?,R16,2,(Wed) 7 Mar 2012 (W10),FC Barcelona (8),7-1,2-0,Bayer 04 Leverkusen (8),,,ESP,GER
+?,R16,2,(Tue) 13 Mar 2012 (W11),Internazionale (8),2-1,0-0,Olympique Marseille (8),,,ITA,FRA
+?,R16,2,(Tue) 13 Mar 2012 (W11),Bayern München (10),7-0,3-0,Basel (8),,,GER,SUI
+?,R16,2,(Wed) 14 Mar 2012 (W11),Chelsea FC (8),3-1,1-0,SSC Napoli (8),4-1 (a.e.t.),,ENG,ITA
+?,R16,2,(Wed) 14 Mar 2012 (W11),Real Madrid CF (8),4-1,1-0,CSKA Moskva (8),,,ESP,RUS
+?,QF,1,(Tue) 27 Mar 2012 (W13),APOEL Nikosia (15),0-3,0-0,Real Madrid CF (9),,,CYP,ESP
+?,QF,1,(Tue) 27 Mar 2012 (W13),SL Benfica (13),0-1,0-0,Chelsea FC (9),,,POR,ENG
+?,QF,1,(Wed) 28 Mar 2012 (W13),AC Milan (9),0-0,0-0,FC Barcelona (9),,,ITA,ESP
+?,QF,1,(Wed) 28 Mar 2012 (W13),Olympique Marseille (9),0-2,0-1,Bayern München (11),,,FRA,GER
+?,QF,2,(Tue) 3 Apr 2012 (W14),FC Barcelona (10),3-1,2-1,AC Milan (10),,,ESP,ITA
+?,QF,2,(Tue) 3 Apr 2012 (W14),Bayern München (12),2-0,2-0,Olympique Marseille (10),,,GER,FRA
+?,QF,2,(Wed) 4 Apr 2012 (W14),Real Madrid CF (10),5-2,2-0,APOEL Nikosia (16),,,ESP,CYP
+?,QF,2,(Wed) 4 Apr 2012 (W14),Chelsea FC (10),2-1,1-0,SL Benfica (14),,,ENG,POR
+?,SF,1,(Tue) 17 Apr 2012 (W16),Bayern München (13),2-1,1-0,Real Madrid CF (11),,,GER,ESP
+?,SF,1,(Wed) 18 Apr 2012 (W16),Chelsea FC (11),1-0,1-0,FC Barcelona (11),,,ENG,ESP
+?,SF,2,(Tue) 24 Apr 2012 (W17),FC Barcelona (12),2-2,2-1,Chelsea FC (12),,,ESP,ENG
+?,SF,2,(Wed) 25 Apr 2012 (W17),Real Madrid CF (12),2-1,2-1,Bayern München (14),2-1 (a.e.t.),,ESP,GER
+?,final,,(Sat) 19 May 2012 (W20),Chelsea FC (13),1-1,0-0,Bayern München (15),1-1 (a.e.t.),,ENG,GER

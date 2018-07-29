@@ -1,0 +1,66 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,PrelimF,1,(Wed) 31 Aug 1966 (W35),Waterford AFC (1),1-6,0-0,ASK Vorwarts Berlin (1),,,IRL,GER
+?,Round1,1,(Wed) 7 Sep 1966 (W36),Admira Wien (1),0-1,0-0,Vojvodina (1),,,AUT,SRB
+?,Round1,1,(Wed) 7 Sep 1966 (W36),Aris Bonnevoie (1),3-3,1-2,Linfield (1),,,LUX,NIR
+?,PrelimF,2,(Wed) 7 Sep 1966 (W36),ASK Vorwarts Berlin (2),6-0,0-0,Waterford AFC (2),,,GER,IRL
+?,PrelimF,1,(Wed) 7 Sep 1966 (W36),Sliema Wanderers (1),1-2,0-0,CSKA Sofia (1),,,MLT,BUL
+?,Round1,1,(Wed) 7 Sep 1966 (W36),KR Reykjavik (1),2-3,1-2,FC Nantes (1),,,ISL,FRA
+?,Round1,2,(Wed) 14 Sep 1966 (W37),Linfield (2),6-1,3-0,Aris Bonnevoie (2),,,NIR,LUX
+?,PrelimF,2,(Wed) 14 Sep 1966 (W37),CSKA Sofia (2),6-0,0-0,Sliema Wanderers (2),,,BUL,MLT
+?,Round1,1,(Wed) 14 Sep 1966 (W37),Haka Valkeakoski (1),1-10,1-7,RSC Anderlecht (1),,,FIN,BEL
+?,Round1,2,(Tue) 20 Sep 1966 (W38),Vojvodina (2),0-0,0-0,Admira Wien (2),,,SRB,AUT
+?,Round1,1,(Tue) 20 Sep 1966 (W38),TSV 1860 Munchen (1),8-0,5-0,Omonia Nicosia (1),,,GER,CYP
+?,Round1,2,(Sun) 25 Sep 1966 (W38),Omonia Nicosia (2),1-2,0-1,TSV 1860 Munchen (2),,,CYP,GER
+?,Round1,1,(Wed) 28 Sep 1966 (W39),Gornik Zabrze (1),2-1,1-0,ASK Vorwarts Berlin (3),,,POL,GER
+?,Round1,1,(Wed) 28 Sep 1966 (W39),Liverpool FC (1),2-0,0-0,Petrolul Ploiesti (1),,,ENG,ROU
+?,Round1,1,(Wed) 28 Sep 1966 (W39),AFC Ajax (1),2-0,1-0,Beşiktaş İstanbul JK (1),,,NED,TUR
+?,Round1,1,(Wed) 28 Sep 1966 (W39),Malmo FF (1),0-2,0-2,Atletico Madrid (1),,,SWE,ESP
+?,Round1,1,(Wed) 28 Sep 1966 (W39),Celtic FC (1),2-0,0-0,FC Zurich (1),,,SCO,SUI
+?,Round1,1,(Wed) 28 Sep 1966 (W39),CSKA Sofia (3),3-1,0-1,Olympiacos (1),,,BUL,GRE
+?,Round1,1,(Wed) 28 Sep 1966 (W39),Esbjerg fB (1),0-2,0-0,Dukla Praha (1),,,DEN,CZE
+?,Round1,2,(Wed) 28 Sep 1966 (W39),RSC Anderlecht (2),2-0,1-0,Haka Valkeakoski (2),,,BEL,FIN
+?,Round1,1,(Wed) 28 Sep 1966 (W39),Internazionale (1),1-0,0-0,Torpedo Moskva (1),,,ITA,RUS
+?,Round1,2,(Tue) 4 Oct 1966 (W40),Dukla Praha (2),4-0,2-0,Esbjerg fB (2),,,CZE,DEN
+?,Round1,2,(Wed) 5 Oct 1966 (W40),Beşiktaş İstanbul JK (2),1-2,0-0,AFC Ajax (2),,,TUR,NED
+?,Round1,1,(Wed) 5 Oct 1966 (W40),Budapesti Vasas (1),5-0,1-0,Sporting CP (1),,,HUN,POR
+?,Round1,2,(Wed) 5 Oct 1966 (W40),FC Zurich (2),0-3,0-2,Celtic FC (2),,,SUI,SCO
+?,Round1,2,(Wed) 5 Oct 1966 (W40),Olympiacos (2),1-0,1-0,CSKA Sofia (4),,,GRE,BUL
+?,Round1,2,(Wed) 5 Oct 1966 (W40),FC Nantes (2),5-2,3-0,KR Reykjavik (2),,,FRA,ISL
+?,Round1,2,(Wed) 12 Oct 1966 (W41),ASK Vorwarts Berlin (4),2-1,2-1,Gornik Zabrze (2),,,GER,POL
+?,Round1,2,(Wed) 12 Oct 1966 (W41),Petrolul Ploiesti (2),3-1,1-0,Liverpool FC (2),,,ROU,ENG
+?,Round1,2,(Wed) 12 Oct 1966 (W41),Atletico Madrid (2),3-1,1-1,Malmo FF (2),,,ESP,SWE
+?,Round1,2,(Wed) 12 Oct 1966 (W41),Sporting CP (2),0-2,0-0,Budapesti Vasas (2),,,POR,HUN
+?,Round1,2,(Wed) 12 Oct 1966 (W41),Torpedo Moskva (2),0-0,0-0,Internazionale (2),,,RUS,ITA
+?,Round1,replay,(Wed) 19 Oct 1966 (W42),Liverpool FC (3),2-0,2-0,Petrolul Ploiesti (3),,,ENG,ROU
+?,R16,1,(Tue) 25 Oct 1966 (W43),Valerenga IF (1),1-4,1-4,Linfield (3),,,NOR,NIR
+?,Round1,replay,(Wed) 26 Oct 1966 (W43),Gornik Zabrze (3),3-1,2-0,ASK Vorwarts Berlin (5),,,POL,GER
+?,R16,2,(Tue) 8 Nov 1966 (W45),Linfield (4),1-1,1-0,Valerenga IF (2),,,NIR,NOR
+?,R16,1,(Wed) 16 Nov 1966 (W46),Vojvodina (3),3-1,1-0,Atletico Madrid (3),,,SRB,ESP
+?,R16,1,(Wed) 16 Nov 1966 (W46),Internazionale (3),2-1,0-0,Budapesti Vasas (3),,,ITA,HUN
+?,R16,1,(Thu) 17 Nov 1966 (W46),Dukla Praha (3),4-1,2-1,RSC Anderlecht (3),,,CZE,BEL
+?,R16,1,(Thu) 17 Nov 1966 (W46),TSV 1860 Munchen (3),1-0,1-0,Real Madrid CF (1),,,GER,ESP
+?,R16,1,(Wed) 23 Nov 1966 (W47),CSKA Sofia (5),4-0,2-0,Gornik Zabrze (4),,,BUL,POL
+?,R16,1,(Wed) 30 Nov 1966 (W48),FC Nantes (3),1-3,1-1,Celtic FC (3),,,FRA,SCO
+?,R16,2,(Wed) 30 Nov 1966 (W48),Real Madrid CF (2),3-1,2-1,TSV 1860 Munchen (4),,,ESP,GER
+?,R16,1,(Wed) 7 Dec 1966 (W49),AFC Ajax (3),5-1,4-0,Liverpool FC (4),,,NED,ENG
+?,R16,2,(Wed) 7 Dec 1966 (W49),Celtic FC (4),3-1,1-1,FC Nantes (4),,,SCO,FRA
+?,R16,2,(Wed) 7 Dec 1966 (W49),Gornik Zabrze (5),3-0,3-0,CSKA Sofia (6),,,POL,BUL
+?,R16,2,(Wed) 7 Dec 1966 (W49),RSC Anderlecht (4),1-2,0-1,Dukla Praha (4),,,BEL,CZE
+?,R16,2,(Thu) 8 Dec 1966 (W49),Budapesti Vasas (4),0-2,0-1,Internazionale (4),,,HUN,ITA
+?,R16,2,(Wed) 14 Dec 1966 (W50),Atletico Madrid (4),2-0,2-0,Vojvodina (4),,,ESP,SRB
+?,R16,2,(Wed) 14 Dec 1966 (W50),Liverpool FC (5),2-2,0-0,AFC Ajax (4),,,ENG,NED
+?,R16,replay,(Wed) 21 Dec 1966 (W51),Atletico Madrid (5),2-2,2-1,Vojvodina (5),2-3 (a.e.t.),,ESP,SRB
+?,QF,1,(Wed) 15 Feb 1967 (W7),Internazionale (5),1-0,0-0,Real Madrid CF (3),,,ITA,ESP
+?,QF,1,(Wed) 1 Mar 1967 (W9),AFC Ajax (5),1-1,0-0,Dukla Praha (5),,,NED,CZE
+?,QF,1,(Wed) 1 Mar 1967 (W9),Vojvodina (6),1-0,0-0,Celtic FC (5),,,SRB,SCO
+?,QF,1,(Wed) 1 Mar 1967 (W9),Linfield (5),2-2,2-1,CSKA Sofia (7),,,NIR,BUL
+?,QF,2,(Wed) 1 Mar 1967 (W9),Real Madrid CF (4),0-2,0-1,Internazionale (6),,,ESP,ITA
+?,QF,2,(Wed) 8 Mar 1967 (W10),Dukla Praha (6),2-1,0-0,AFC Ajax (6),,,CZE,NED
+?,QF,2,(Wed) 8 Mar 1967 (W10),Celtic FC (6),2-0,0-0,Vojvodina (7),,,SCO,SRB
+?,QF,2,(Wed) 15 Mar 1967 (W11),CSKA Sofia (8),1-0,0-0,Linfield (6),,,BUL,NIR
+?,SF,1,(Wed) 12 Apr 1967 (W15),Celtic FC (7),3-1,1-1,Dukla Praha (7),,,SCO,CZE
+?,SF,1,(Wed) 19 Apr 1967 (W16),Internazionale (7),1-1,1-0,CSKA Sofia (9),,,ITA,BUL
+?,SF,2,(Tue) 25 Apr 1967 (W17),Dukla Praha (8),0-0,0-0,Celtic FC (8),,,CZE,SCO
+?,SF,2,(Wed) 26 Apr 1967 (W17),CSKA Sofia (10),1-1,0-0,Internazionale (8),,,BUL,ITA
+?,SF,replay,(Wed) 3 May 1967 (W18),Internazionale (9),1-0,1-0,CSKA Sofia (11),,,ITA,BUL
+?,final,,(Thu) 25 May 1967 (W21),Celtic FC (9),2-1,0-0,Internazionale (10),,,SCO,ITA

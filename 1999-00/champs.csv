@@ -1,0 +1,236 @@
+Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+?,Q-1,1,(Tue) 13 Jul 1999 (W28),IB Vestmannaeyja (1),1-0,0-0,KF Tirana (1),,,ISL,ALB
+?,Q-1,1,(Wed) 14 Jul 1999 (W28),Sloga Jugomagnat Skopje (1),1-0,0-0,Kapaz (1),,,MKD,AZE
+?,Q-1,1,(Wed) 14 Jul 1999 (W28),Zalgiris Vilnius (1),2-0,0-0,Araks Ararat (1),,,LTU,ARM
+?,Q-1,1,(Wed) 14 Jul 1999 (W28),Barry Town (1),0-0,0-0,Valletta (1),,,WAL,MLT
+?,Q-1,1,(Wed) 14 Jul 1999 (W28),PFC Litex Lovech (1),3-0,0-0,Glentoran (1),,,BUL,NIR
+?,Q-1,1,(Wed) 14 Jul 1999 (W28),HB (1),1-1,0-0,Haka Valkeakoski (1),,,FRO,FIN
+?,Q-1,1,(Wed) 14 Jul 1999 (W28),Jeunesse Esch (1),0-2,0-0,Skonto (1),,,LUX,LVA
+?,Q-1,1,(Wed) 14 Jul 1999 (W28),St Patrick's Athletic (1),0-5,0-0,Zimbru Chisinau (1),,,IRL,MDA
+?,Q-1,1,(Wed) 14 Jul 1999 (W28),Partizan Belgrade (1),6-0,0-0,Flora Tallinn (1),,,SRB,EST
+?,Q-1,2,(Wed) 21 Jul 1999 (W29),Kapaz (2),2-1,0-0,Sloga Jugomagnat Skopje (2),,,AZE,MKD
+?,Q-1,2,(Wed) 21 Jul 1999 (W29),Araks Ararat (2),0-3,0-0,Zalgiris Vilnius (2),,,ARM,LTU
+?,Q-1,2,(Wed) 21 Jul 1999 (W29),Valletta (2),3-2,0-0,Barry Town (2),,,MLT,WAL
+?,Q-1,2,(Wed) 21 Jul 1999 (W29),Glentoran (2),0-2,0-0,PFC Litex Lovech (2),,,NIR,BUL
+?,Q-1,2,(Wed) 21 Jul 1999 (W29),Haka Valkeakoski (2),6-0,0-0,HB (2),,,FIN,FRO
+?,Q-1,2,(Wed) 21 Jul 1999 (W29),KF Tirana (2),1-2,0-0,IB Vestmannaeyja (2),,,ALB,ISL
+?,Q-1,2,(Wed) 21 Jul 1999 (W29),Skonto (2),8-0,0-0,Jeunesse Esch (2),,,LVA,LUX
+?,Q-1,2,(Wed) 21 Jul 1999 (W29),Zimbru Chisinau (2),5-0,0-0,St Patrick's Athletic (2),,,MDA,IRL
+?,Q-1,2,(Wed) 21 Jul 1999 (W29),Flora Tallinn (2),1-4,0-0,Partizan Belgrade (2),,,EST,SRB
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),PFC Litex Lovech (3),4-1,0-0,Widzew Lodz (1),,,BUL,POL
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),Beşiktaş İstanbul JK (1),1-1,0-0,Hapoel Haifa (1),,,TUR,ISR
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),Dnepr Mogilev (1),0-1,0-0,AIK Solna (1),,,BLR,SWE
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),Anorthosis Famagusta (1),2-1,0-0,SK Slovan Bratislava (1),,,CYP,SVK
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),Sloga Jugomagnat Skopje (3),0-1,0-0,Brondby IF (1),,,MKD,DEN
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),CSKA Moskva (1),2-0,0-0,Molde FK (1),,,RUS,NOR
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),Dinamo Kiev (1),2-0,0-0,Zalgiris Vilnius (3),,,UKR,LTU
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),Dinamo Tbilisi (1),2-1,0-0,Zimbru Chisinau (3),,,GEO,MDA
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),Haka Valkeakoski (3),1-4,0-0,Rangers FC (1),,,FIN,SCO
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),IB Vestmannaeyja (3),0-2,0-0,MTK (1),,,ISL,HUN
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),NK Maribor (1),5-1,0-0,KRC Genk (1),,,SVN,BEL
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),Rapid Bucuresti (1),3-3,0-0,Skonto (3),,,ROU,LVA
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),Rapid Wien (1),3-0,0-0,Valletta (3),,,AUT,MLT
+?,Q-2,1,(Wed) 28 Jul 1999 (W30),Partizan Belgrade (3),3-1,0-0,HNK Rijeka (1),,,SRB,CRO
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),Widzew Lodz (2),4-1,0-0,PFC Litex Lovech (4),4-1 (a.e.t.),,POL,BUL
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),Hapoel Haifa (2),0-0,0-0,Beşiktaş İstanbul JK (2),,,ISR,TUR
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),AIK Solna (2),2-0,0-0,Dnepr Mogilev (2),,,SWE,BLR
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),SK Slovan Bratislava (2),1-1,0-0,Anorthosis Famagusta (2),,,SVK,CYP
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),Brondby IF (2),1-0,0-0,Sloga Jugomagnat Skopje (4),,,DEN,MKD
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),Molde FK (2),4-0,0-0,CSKA Moskva (2),,,NOR,RUS
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),Zalgiris Vilnius (4),0-1,0-0,Dinamo Kiev (2),,,LTU,UKR
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),Zimbru Chisinau (4),2-0,0-0,Dinamo Tbilisi (2),,,MDA,GEO
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),Rangers FC (2),3-0,0-0,Haka Valkeakoski (4),,,SCO,FIN
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),MTK (2),3-1,0-0,IB Vestmannaeyja (4),,,HUN,ISL
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),KRC Genk (2),3-0,0-0,NK Maribor (2),,,BEL,SVN
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),Skonto (4),2-1,0-0,Rapid Bucuresti (2),,,LVA,ROU
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),Valletta (4),0-2,0-0,Rapid Wien (2),,,MLT,AUT
+?,Q-2,2,(Wed) 4 Aug 1999 (W31),HNK Rijeka (2),0-3,0-0,Partizan Belgrade (4),,,CRO,SRB
+?,Q-3,1,(Tue) 10 Aug 1999 (W32),Olympique Lyon (1),0-1,0-0,NK Maribor (3),,,FRA,SVN
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Molde FK (3),0-0,0-0,RCD Mallorca (1),,,NOR,ESP
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Aalborg BK (1),1-2,0-0,Dinamo Kiev (3),,,DEN,UKR
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),ACF Fiorentina (1),3-1,0-0,Widzew Lodz (3),,,ITA,POL
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),AEK Athens (1),0-0,0-0,AIK Solna (3),,,GRE,SWE
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Hertha BSC (1),2-0,0-0,Anorthosis Famagusta (3),,,GER,CYP
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Brondby IF (3),1-2,0-0,Boavista FC (1),,,DEN,POR
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Teplice (1),0-1,0-0,Borussia Dortmund (1),,,CZE,GER
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Chelsea FC (1),3-0,0-0,Skonto (5),,,ENG,LVA
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Dinamo Zagreb (1),0-0,0-0,MTK (3),,,CRO,HUN
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Rapid Wien (3),0-3,0-0,Galatasaray İstanbul AŞ (1),,,AUT,TUR
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Hapoel Haifa (3),0-2,0-0,Valencia CF (1),,,ISR,ESP
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Rangers FC (3),2-0,0-0,Parma (1),,,SCO,ITA
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Zimbru Chisinau (5),0-0,0-0,PSV Eindhoven (1),,,MDA,NED
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),SK Sturm Graz (1),2-1,0-0,Servette Geneve (1),,,AUT,SUI
+?,Q-3,1,(Wed) 11 Aug 1999 (W32),Spartak Moskva (1),2-0,0-0,Partizan Belgrade (5),,,RUS,SRB
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),RCD Mallorca (2),1-1,0-0,Molde FK (4),,,ESP,NOR
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),Dinamo Kiev (4),2-2,0-0,Aalborg BK (2),,,UKR,DEN
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),Widzew Lodz (4),0-2,0-0,ACF Fiorentina (2),,,POL,ITA
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),AIK Solna (4),1-0,0-0,AEK Athens (2),,,SWE,GRE
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),Anorthosis Famagusta (4),0-0,0-0,Hertha BSC (2),,,CYP,GER
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),Boavista FC (2),2-1,0-0,Brondby IF (4),4-2 (a.e.t.),,POR,DEN
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),Borussia Dortmund (2),1-0,0-0,Teplice (2),,,GER,CZE
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),Skonto (6),0-0,0-0,Chelsea FC (2),,,LVA,ENG
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),MTK (4),0-2,0-0,Dinamo Zagreb (2),,,HUN,CRO
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),Galatasaray İstanbul AŞ (2),1-0,0-0,Rapid Wien (4),,,TUR,AUT
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),Valencia CF (2),2-0,0-0,Hapoel Haifa (4),,,ESP,ISR
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),NK Maribor (4),2-0,0-0,Olympique Lyon (2),,,SVN,FRA
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),Parma (2),1-0,0-0,Rangers FC (4),,,ITA,SCO
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),PSV Eindhoven (2),2-0,0-0,Zimbru Chisinau (6),,,NED,MDA
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),Servette Geneve (2),2-2,0-0,SK Sturm Graz (2),,,SUI,AUT
+?,Q-3,2,(Wed) 25 Aug 1999 (W34),Partizan Belgrade (6),1-3,0-0,Spartak Moskva (2),,,SRB,RUS
+?,GroupB-prelim,groups,(Tue) 14 Sep 1999 (W37),ACF Fiorentina (3),0-0,0-0,Arsenal FC (1),,,ITA,ENG
+?,GroupB-prelim,groups,(Tue) 14 Sep 1999 (W37),AIK Solna (5),1-2,0-0,FC Barcelona (1),,,SWE,ESP
+?,GroupA-prelim,groups,(Tue) 14 Sep 1999 (W37),Bayer 04 Leverkusen (1),1-1,1-1,SS Lazio (1),,,GER,ITA
+?,GroupC-prelim,groups,(Tue) 14 Sep 1999 (W37),Boavista FC (3),0-3,0-2,Rosenborg BK (1),,,POR,NOR
+?,GroupC-prelim,groups,(Tue) 14 Sep 1999 (W37),Feyenoord Rotterdam (1),1-1,0-0,Borussia Dortmund (3),,,NED,GER
+?,GroupA-prelim,groups,(Tue) 14 Sep 1999 (W37),Dinamo Kiev (5),0-1,0-0,NK Maribor (5),,,UKR,SVN
+?,GroupD-prelim,groups,(Tue) 14 Sep 1999 (W37),Manchester United FC (1),0-0,0-0,Dinamo Zagreb (3),,,ENG,CRO
+?,GroupD-prelim,groups,(Tue) 14 Sep 1999 (W37),Olympique Marseille (1),2-0,2-0,SK Sturm Graz (3),,,FRA,AUT
+?,GroupH-prelim,groups,(Wed) 15 Sep 1999 (W37),Chelsea FC (3),0-0,0-0,AC Milan (1),,,ENG,ITA
+?,GroupF-prelim,groups,(Wed) 15 Sep 1999 (W37),Bayern München (1),2-1,1-0,PSV Eindhoven (3),,,GER,NED
+?,GroupE-prelim,groups,(Wed) 15 Sep 1999 (W37),Molde FK (5),0-1,0-0,FC Porto (1),,,NOR,POR
+?,GroupH-prelim,groups,(Wed) 15 Sep 1999 (W37),Galatasaray İstanbul AŞ (3),2-2,1-2,Hertha BSC (3),,,TUR,GER
+?,GroupG-prelim,groups,(Wed) 15 Sep 1999 (W37),Sparta Praha (1),0-0,0-0,Girondins Bordeaux (1),,,CZE,FRA
+?,GroupE-prelim,groups,(Wed) 15 Sep 1999 (W37),Olympiacos (1),3-3,1-2,Real Madrid CF (1),,,GRE,ESP
+?,GroupF-prelim,groups,(Wed) 15 Sep 1999 (W37),Valencia CF (3),2-0,0-0,Rangers FC (5),,,ESP,SCO
+?,GroupG-prelim,groups,(Wed) 15 Sep 1999 (W37),Willem II Tilburg (1),1-3,0-2,Spartak Moskva (3),,,NED,RUS
+?,GroupH-prelim,groups,(Tue) 21 Sep 1999 (W38),AC Milan (2),2-1,2-0,Galatasaray İstanbul AŞ (4),,,ITA,TUR
+?,GroupF-prelim,groups,(Tue) 21 Sep 1999 (W38),Rangers FC (6),1-1,1-0,Bayern München (2),,,SCO,GER
+?,GroupH-prelim,groups,(Tue) 21 Sep 1999 (W38),Hertha BSC (4),2-1,1-0,Chelsea FC (4),,,GER,ENG
+?,GroupE-prelim,groups,(Tue) 21 Sep 1999 (W38),FC Porto (2),2-0,1-0,Olympiacos (2),,,POR,GRE
+?,GroupG-prelim,groups,(Tue) 21 Sep 1999 (W38),Girondins Bordeaux (2),3-2,2-1,Willem II Tilburg (2),,,FRA,NED
+?,GroupE-prelim,groups,(Tue) 21 Sep 1999 (W38),Real Madrid CF (2),4-1,1-0,Molde FK (6),,,ESP,NOR
+?,GroupF-prelim,groups,(Tue) 21 Sep 1999 (W38),PSV Eindhoven (4),1-1,0-1,Valencia CF (4),,,NED,ESP
+?,GroupG-prelim,groups,(Tue) 21 Sep 1999 (W38),Spartak Moskva (4),1-1,0-1,Sparta Praha (2),,,RUS,CZE
+?,GroupB-prelim,groups,(Wed) 22 Sep 1999 (W38),FC Barcelona (2),4-2,2-0,ACF Fiorentina (4),,,ESP,ITA
+?,GroupB-prelim,groups,(Wed) 22 Sep 1999 (W38),Arsenal FC (2),3-1,1-0,AIK Solna (6),,,ENG,SWE
+?,GroupA-prelim,groups,(Wed) 22 Sep 1999 (W38),NK Maribor (6),0-2,0-0,Bayer 04 Leverkusen (2),,,SVN,GER
+?,GroupC-prelim,groups,(Wed) 22 Sep 1999 (W38),Borussia Dortmund (4),3-1,1-1,Boavista FC (4),,,GER,POR
+?,GroupA-prelim,groups,(Wed) 22 Sep 1999 (W38),SS Lazio (2),2-1,0-0,Dinamo Kiev (6),,,ITA,UKR
+?,GroupD-prelim,groups,(Wed) 22 Sep 1999 (W38),Dinamo Zagreb (4),1-2,0-1,Olympique Marseille (2),,,CRO,FRA
+?,GroupC-prelim,groups,(Wed) 22 Sep 1999 (W38),Rosenborg BK (2),2-2,2-2,Feyenoord Rotterdam (2),,,NOR,NED
+?,GroupD-prelim,groups,(Wed) 22 Sep 1999 (W38),SK Sturm Graz (4),0-3,0-3,Manchester United FC (2),,,AUT,ENG
+?,GroupH-prelim,groups,(Tue) 28 Sep 1999 (W39),AC Milan (3),1-1,0-0,Hertha BSC (5),,,ITA,GER
+?,GroupF-prelim,groups,(Tue) 28 Sep 1999 (W39),Bayern München (3),1-1,1-0,Valencia CF (5),,,GER,ESP
+?,GroupH-prelim,groups,(Tue) 28 Sep 1999 (W39),Chelsea FC (5),1-0,0-0,Galatasaray İstanbul AŞ (5),,,ENG,TUR
+?,GroupE-prelim,groups,(Tue) 28 Sep 1999 (W39),Real Madrid CF (3),3-1,2-1,FC Porto (3),,,ESP,POR
+?,GroupG-prelim,groups,(Tue) 28 Sep 1999 (W39),Girondins Bordeaux (3),2-1,1-0,Spartak Moskva (5),,,FRA,RUS
+?,GroupE-prelim,groups,(Tue) 28 Sep 1999 (W39),Olympiacos (3),3-1,1-0,Molde FK (7),,,GRE,NOR
+?,GroupF-prelim,groups,(Tue) 28 Sep 1999 (W39),PSV Eindhoven (5),0-1,0-0,Rangers FC (7),,,NED,SCO
+?,GroupG-prelim,groups,(Tue) 28 Sep 1999 (W39),Sparta Praha (3),4-0,3-0,Willem II Tilburg (3),,,CZE,NED
+?,GroupB-prelim,groups,(Wed) 29 Sep 1999 (W39),AIK Solna (7),0-0,0-0,ACF Fiorentina (5),,,SWE,ITA
+?,GroupB-prelim,groups,(Wed) 29 Sep 1999 (W39),FC Barcelona (3),1-1,1-0,Arsenal FC (3),,,ESP,ENG
+?,GroupA-prelim,groups,(Wed) 29 Sep 1999 (W39),Bayer 04 Leverkusen (3),1-1,0-0,Dinamo Kiev (7),,,GER,UKR
+?,GroupC-prelim,groups,(Wed) 29 Sep 1999 (W39),Boavista FC (5),1-1,0-0,Feyenoord Rotterdam (3),,,POR,NED
+?,GroupC-prelim,groups,(Wed) 29 Sep 1999 (W39),Rosenborg BK (3),2-2,1-2,Borussia Dortmund (5),,,NOR,GER
+?,GroupD-prelim,groups,(Wed) 29 Sep 1999 (W39),Dinamo Zagreb (5),3-0,2-0,SK Sturm Graz (5),,,CRO,AUT
+?,GroupA-prelim,groups,(Wed) 29 Sep 1999 (W39),SS Lazio (3),4-0,0-0,NK Maribor (7),,,ITA,SVN
+?,GroupD-prelim,groups,(Wed) 29 Sep 1999 (W39),Manchester United FC (3),2-1,0-1,Olympique Marseille (3),,,ENG,FRA
+?,GroupB-prelim,groups,(Tue) 19 Oct 1999 (W42),ACF Fiorentina (6),3-0,2-0,AIK Solna (8),,,ITA,SWE
+?,GroupB-prelim,groups,(Tue) 19 Oct 1999 (W42),Arsenal FC (4),2-4,1-2,FC Barcelona (4),,,ENG,ESP
+?,GroupA-prelim,groups,(Tue) 19 Oct 1999 (W42),Dinamo Kiev (8),4-2,2-1,Bayer 04 Leverkusen (4),,,UKR,GER
+?,GroupC-prelim,groups,(Tue) 19 Oct 1999 (W42),Feyenoord Rotterdam (4),1-1,0-0,Boavista FC (6),,,NED,POR
+?,GroupC-prelim,groups,(Tue) 19 Oct 1999 (W42),Borussia Dortmund (6),0-3,0-1,Rosenborg BK (4),,,GER,NOR
+?,GroupD-prelim,groups,(Tue) 19 Oct 1999 (W42),SK Sturm Graz (6),1-0,1-0,Dinamo Zagreb (6),,,AUT,CRO
+?,GroupA-prelim,groups,(Tue) 19 Oct 1999 (W42),NK Maribor (8),0-4,0-1,SS Lazio (4),,,SVN,ITA
+?,GroupD-prelim,groups,(Tue) 19 Oct 1999 (W42),Olympique Marseille (4),1-0,0-0,Manchester United FC (4),,,FRA,ENG
+?,GroupH-prelim,groups,(Wed) 20 Oct 1999 (W42),Hertha BSC (6),1-0,1-0,AC Milan (4),,,GER,ITA
+?,GroupF-prelim,groups,(Wed) 20 Oct 1999 (W42),Valencia CF (6),1-1,1-1,Bayern München (4),,,ESP,GER
+?,GroupH-prelim,groups,(Wed) 20 Oct 1999 (W42),Galatasaray İstanbul AŞ (6),0-5,0-1,Chelsea FC (6),,,TUR,ENG
+?,GroupE-prelim,groups,(Wed) 20 Oct 1999 (W42),FC Porto (4),2-1,2-0,Real Madrid CF (4),,,POR,ESP
+?,GroupG-prelim,groups,(Wed) 20 Oct 1999 (W42),Spartak Moskva (6),1-2,0-1,Girondins Bordeaux (4),,,RUS,FRA
+?,GroupE-prelim,groups,(Wed) 20 Oct 1999 (W42),Molde FK (8),3-2,0-2,Olympiacos (4),,,NOR,GRE
+?,GroupF-prelim,groups,(Wed) 20 Oct 1999 (W42),Rangers FC (8),4-1,2-1,PSV Eindhoven (6),,,SCO,NED
+?,GroupG-prelim,groups,(Wed) 20 Oct 1999 (W42),Willem II Tilburg (4),3-4,2-1,Sparta Praha (4),,,NED,CZE
+?,GroupH-prelim,groups,(Tue) 26 Oct 1999 (W43),AC Milan (5),1-1,0-0,Chelsea FC (7),,,ITA,ENG
+?,GroupF-prelim,groups,(Tue) 26 Oct 1999 (W43),PSV Eindhoven (7),2-1,1-0,Bayern München (5),,,NED,GER
+?,GroupE-prelim,groups,(Tue) 26 Oct 1999 (W43),FC Porto (5),3-1,2-0,Molde FK (9),,,POR,NOR
+?,GroupH-prelim,groups,(Tue) 26 Oct 1999 (W43),Hertha BSC (7),1-4,1-0,Galatasaray İstanbul AŞ (7),,,GER,TUR
+?,GroupG-prelim,groups,(Tue) 26 Oct 1999 (W43),Girondins Bordeaux (5),0-0,0-0,Sparta Praha (5),,,FRA,CZE
+?,GroupE-prelim,groups,(Tue) 26 Oct 1999 (W43),Real Madrid CF (5),3-0,1-0,Olympiacos (5),,,ESP,GRE
+?,GroupF-prelim,groups,(Tue) 26 Oct 1999 (W43),Rangers FC (9),1-2,0-2,Valencia CF (7),,,SCO,ESP
+?,GroupG-prelim,groups,(Tue) 26 Oct 1999 (W43),Spartak Moskva (7),1-1,1-0,Willem II Tilburg (5),,,RUS,NED
+?,GroupB-prelim,groups,(Wed) 27 Oct 1999 (W43),Arsenal FC (5),0-1,0-0,ACF Fiorentina (7),,,ENG,ITA
+?,GroupB-prelim,groups,(Wed) 27 Oct 1999 (W43),FC Barcelona (5),5-0,3-0,AIK Solna (9),,,ESP,SWE
+?,GroupA-prelim,groups,(Wed) 27 Oct 1999 (W43),SS Lazio (5),1-1,1-1,Bayer 04 Leverkusen (5),,,ITA,GER
+?,GroupC-prelim,groups,(Wed) 27 Oct 1999 (W43),Rosenborg BK (5),2-0,0-0,Boavista FC (7),,,NOR,POR
+?,GroupC-prelim,groups,(Wed) 27 Oct 1999 (W43),Borussia Dortmund (7),1-1,1-0,Feyenoord Rotterdam (5),,,GER,NED
+?,GroupA-prelim,groups,(Wed) 27 Oct 1999 (W43),NK Maribor (9),1-2,0-1,Dinamo Kiev (9),,,SVN,UKR
+?,GroupD-prelim,groups,(Wed) 27 Oct 1999 (W43),Dinamo Zagreb (7),1-2,0-1,Manchester United FC (5),,,CRO,ENG
+?,GroupD-prelim,groups,(Wed) 27 Oct 1999 (W43),SK Sturm Graz (7),3-2,1-0,Olympique Marseille (5),,,AUT,FRA
+?,GroupB-prelim,groups,(Tue) 2 Nov 1999 (W44),ACF Fiorentina (8),3-3,1-2,FC Barcelona (6),,,ITA,ESP
+?,GroupB-prelim,groups,(Tue) 2 Nov 1999 (W44),AIK Solna (10),2-3,1-1,Arsenal FC (6),,,SWE,ENG
+?,GroupA-prelim,groups,(Tue) 2 Nov 1999 (W44),Bayer 04 Leverkusen (6),0-0,0-0,NK Maribor (10),,,GER,SVN
+?,GroupC-prelim,groups,(Tue) 2 Nov 1999 (W44),Boavista FC (8),1-0,1-0,Borussia Dortmund (8),,,POR,GER
+?,GroupA-prelim,groups,(Tue) 2 Nov 1999 (W44),Dinamo Kiev (10),0-1,0-1,SS Lazio (6),,,UKR,ITA
+?,GroupD-prelim,groups,(Tue) 2 Nov 1999 (W44),Olympique Marseille (6),2-2,0-1,Dinamo Zagreb (8),,,FRA,CRO
+?,GroupC-prelim,groups,(Tue) 2 Nov 1999 (W44),Feyenoord Rotterdam (6),1-0,0-0,Rosenborg BK (6),,,NED,NOR
+?,GroupD-prelim,groups,(Tue) 2 Nov 1999 (W44),Manchester United FC (6),2-1,0-0,SK Sturm Graz (8),,,ENG,AUT
+?,GroupH-prelim,groups,(Wed) 3 Nov 1999 (W44),Galatasaray İstanbul AŞ (8),3-2,1-1,AC Milan (6),,,TUR,ITA
+?,GroupF-prelim,groups,(Wed) 3 Nov 1999 (W44),Bayern München (6),1-0,1-0,Rangers FC (10),,,GER,SCO
+?,GroupH-prelim,groups,(Wed) 3 Nov 1999 (W44),Chelsea FC (8),2-0,2-0,Hertha BSC (8),,,ENG,GER
+?,GroupE-prelim,groups,(Wed) 3 Nov 1999 (W44),Olympiacos (6),1-0,0-0,FC Porto (6),,,GRE,POR
+?,GroupG-prelim,groups,(Wed) 3 Nov 1999 (W44),Willem II Tilburg (6),0-0,0-0,Girondins Bordeaux (6),,,NED,FRA
+?,GroupE-prelim,groups,(Wed) 3 Nov 1999 (W44),Molde FK (10),0-1,0-1,Real Madrid CF (6),,,NOR,ESP
+?,GroupF-prelim,groups,(Wed) 3 Nov 1999 (W44),Valencia CF (8),1-0,0-0,PSV Eindhoven (8),,,ESP,NED
+?,GroupG-prelim,groups,(Wed) 3 Nov 1999 (W44),Sparta Praha (6),5-2,2-2,Spartak Moskva (8),,,CZE,RUS
+?,GroupB-inter,groups,(Tue) 23 Nov 1999 (W47),ACF Fiorentina (9),2-0,1-0,Manchester United FC (7),,,ITA,ENG
+?,GroupA-inter,groups,(Tue) 23 Nov 1999 (W47),Hertha BSC (9),1-1,1-1,FC Barcelona (7),,,GER,ESP
+?,GroupA-inter,groups,(Tue) 23 Nov 1999 (W47),Sparta Praha (7),0-2,0-0,FC Porto (7),,,CZE,POR
+?,GroupB-inter,groups,(Tue) 23 Nov 1999 (W47),Valencia CF (9),3-0,0-0,Girondins Bordeaux (7),,,ESP,FRA
+?,GroupC-inter,groups,(Wed) 24 Nov 1999 (W47),Rosenborg BK (7),1-1,0-1,Bayern München (7),,,NOR,GER
+?,GroupD-inter,groups,(Wed) 24 Nov 1999 (W47),Chelsea FC (9),3-1,1-0,Feyenoord Rotterdam (7),,,ENG,NED
+?,GroupC-inter,groups,(Wed) 24 Nov 1999 (W47),Dinamo Kiev (11),1-2,0-1,Real Madrid CF (7),,,UKR,ESP
+?,GroupD-inter,groups,(Wed) 24 Nov 1999 (W47),Olympique Marseille (7),0-2,0-0,SS Lazio (7),,,FRA,ITA
+?,GroupC-inter,groups,(Tue) 7 Dec 1999 (W49),Bayern München (8),2-1,1-0,Dinamo Kiev (12),,,GER,UKR
+?,GroupD-inter,groups,(Tue) 7 Dec 1999 (W49),SS Lazio (8),0-0,0-0,Chelsea FC (10),,,ITA,ENG
+?,GroupD-inter,groups,(Tue) 7 Dec 1999 (W49),Feyenoord Rotterdam (8),3-0,0-0,Olympique Marseille (8),,,NED,FRA
+?,GroupC-inter,groups,(Tue) 7 Dec 1999 (W49),Real Madrid CF (8),3-1,1-0,Rosenborg BK (8),,,ESP,NOR
+?,GroupB-inter,groups,(Wed) 8 Dec 1999 (W49),Girondins Bordeaux (8),0-0,0-0,ACF Fiorentina (10),,,FRA,ITA
+?,GroupA-inter,groups,(Wed) 8 Dec 1999 (W49),FC Barcelona (8),5-0,2-0,Sparta Praha (8),,,ESP,CZE
+?,GroupA-inter,groups,(Wed) 8 Dec 1999 (W49),FC Porto (8),1-0,0-0,Hertha BSC (10),,,POR,GER
+?,GroupB-inter,groups,(Wed) 8 Dec 1999 (W49),Manchester United FC (8),3-0,1-0,Valencia CF (10),,,ENG,ESP
+?,GroupC-inter,groups,(Tue) 29 Feb 2000 (W9),Real Madrid CF (9),2-4,1-3,Bayern München (9),,,ESP,GER
+?,GroupD-inter,groups,(Tue) 29 Feb 2000 (W9),Olympique Marseille (9),1-0,1-0,Chelsea FC (11),,,FRA,ENG
+?,GroupC-inter,groups,(Tue) 29 Feb 2000 (W9),Dinamo Kiev (13),2-1,2-0,Rosenborg BK (9),,,UKR,NOR
+?,GroupD-inter,groups,(Tue) 29 Feb 2000 (W9),SS Lazio (9),1-2,1-0,Feyenoord Rotterdam (9),,,ITA,NED
+?,GroupB-inter,groups,(Wed) 1 Mar 2000 (W9),ACF Fiorentina (11),1-0,1-0,Valencia CF (11),,,ITA,ESP
+?,GroupA-inter,groups,(Wed) 1 Mar 2000 (W9),FC Barcelona (9),4-2,3-1,FC Porto (9),,,ESP,POR
+?,GroupB-inter,groups,(Wed) 1 Mar 2000 (W9),Manchester United FC (9),2-0,1-0,Girondins Bordeaux (9),,,ENG,FRA
+?,GroupA-inter,groups,(Wed) 1 Mar 2000 (W9),Hertha BSC (11),1-1,1-0,Sparta Praha (9),,,GER,CZE
+?,GroupB-inter,groups,(Tue) 7 Mar 2000 (W10),Valencia CF (12),2-0,1-0,ACF Fiorentina (12),,,ESP,ITA
+?,GroupA-inter,groups,(Tue) 7 Mar 2000 (W10),FC Porto (10),0-2,0-1,FC Barcelona (10),,,POR,ESP
+?,GroupB-inter,groups,(Tue) 7 Mar 2000 (W10),Girondins Bordeaux (10),1-2,1-1,Manchester United FC (10),,,FRA,ENG
+?,GroupA-inter,groups,(Tue) 7 Mar 2000 (W10),Sparta Praha (10),1-0,0-0,Hertha BSC (12),,,CZE,GER
+?,GroupC-inter,groups,(Wed) 8 Mar 2000 (W10),Bayern München (10),4-1,2-0,Real Madrid CF (10),,,GER,ESP
+?,GroupD-inter,groups,(Wed) 8 Mar 2000 (W10),Chelsea FC (12),1-0,1-0,Olympique Marseille (10),,,ENG,FRA
+?,GroupC-inter,groups,(Wed) 8 Mar 2000 (W10),Rosenborg BK (10),1-2,1-1,Dinamo Kiev (14),,,NOR,UKR
+?,GroupD-inter,groups,(Wed) 8 Mar 2000 (W10),Feyenoord Rotterdam (10),0-0,0-0,SS Lazio (10),,,NED,ITA
+?,GroupC-inter,groups,(Tue) 14 Mar 2000 (W11),Bayern München (11),2-1,2-0,Rosenborg BK (11),,,GER,NOR
+?,GroupD-inter,groups,(Tue) 14 Mar 2000 (W11),Feyenoord Rotterdam (11),1-3,0-1,Chelsea FC (13),,,NED,ENG
+?,GroupC-inter,groups,(Tue) 14 Mar 2000 (W11),Real Madrid CF (11),2-2,1-1,Dinamo Kiev (15),,,ESP,UKR
+?,GroupD-inter,groups,(Tue) 14 Mar 2000 (W11),SS Lazio (11),5-1,3-0,Olympique Marseille (11),,,ITA,FRA
+?,GroupB-inter,groups,(Wed) 15 Mar 2000 (W11),Manchester United FC (11),3-1,2-1,ACF Fiorentina (13),,,ENG,ITA
+?,GroupA-inter,groups,(Wed) 15 Mar 2000 (W11),FC Barcelona (11),3-1,1-1,Hertha BSC (13),,,ESP,GER
+?,GroupA-inter,groups,(Wed) 15 Mar 2000 (W11),FC Porto (11),2-2,1-0,Sparta Praha (11),,,POR,CZE
+?,GroupB-inter,groups,(Wed) 15 Mar 2000 (W11),Girondins Bordeaux (11),1-4,0-1,Valencia CF (13),,,FRA,ESP
+?,GroupB-inter,groups,(Tue) 21 Mar 2000 (W12),ACF Fiorentina (14),3-3,0-1,Girondins Bordeaux (12),,,ITA,FRA
+?,GroupA-inter,groups,(Tue) 21 Mar 2000 (W12),Sparta Praha (12),1-2,1-0,FC Barcelona (12),,,CZE,ESP
+?,GroupA-inter,groups,(Tue) 21 Mar 2000 (W12),Hertha BSC (14),0-1,0-0,FC Porto (12),,,GER,POR
+?,GroupB-inter,groups,(Tue) 21 Mar 2000 (W12),Valencia CF (14),0-0,0-0,Manchester United FC (12),,,ESP,ENG
+?,GroupC-inter,groups,(Wed) 22 Mar 2000 (W12),Dinamo Kiev (16),2-0,1-0,Bayern München (12),,,UKR,GER
+?,GroupD-inter,groups,(Wed) 22 Mar 2000 (W12),Chelsea FC (14),1-2,1-0,SS Lazio (12),,,ENG,ITA
+?,GroupD-inter,groups,(Wed) 22 Mar 2000 (W12),Olympique Marseille (12),0-0,0-0,Feyenoord Rotterdam (12),,,FRA,NED
+?,GroupC-inter,groups,(Wed) 22 Mar 2000 (W12),Rosenborg BK (12),0-1,0-1,Real Madrid CF (12),,,NOR,ESP
+?,QF,1,(Tue) 4 Apr 2000 (W14),FC Porto (13),1-1,0-0,Bayern München (13),,,POR,GER
+?,QF,1,(Tue) 4 Apr 2000 (W14),Real Madrid CF (13),0-0,0-0,Manchester United FC (13),,,ESP,ENG
+?,QF,1,(Wed) 5 Apr 2000 (W14),Chelsea FC (15),3-1,3-0,FC Barcelona (13),,,ENG,ESP
+?,QF,1,(Wed) 5 Apr 2000 (W14),Valencia CF (15),5-2,3-1,SS Lazio (13),,,ESP,ITA
+?,QF,2,(Tue) 18 Apr 2000 (W16),FC Barcelona (14),3-1,2-0,Chelsea FC (16),5-1 (a.e.t.),,ESP,ENG
+?,QF,2,(Tue) 18 Apr 2000 (W16),SS Lazio (14),1-0,0-0,Valencia CF (16),,,ITA,ESP
+?,QF,2,(Wed) 19 Apr 2000 (W16),Bayern München (14),2-1,1-0,FC Porto (14),,,GER,POR
+?,QF,2,(Wed) 19 Apr 2000 (W16),Manchester United FC (14),2-3,0-1,Real Madrid CF (14),,,ENG,ESP
+?,SF,1,(Tue) 2 May 2000 (W18),Real Madrid CF (15),2-0,2-0,Bayern München (15),,,ESP,GER
+?,SF,1,(Tue) 2 May 2000 (W18),Valencia CF (17),4-1,3-1,FC Barcelona (15),,,ESP,ESP
+?,SF,2,(Wed) 10 May 2000 (W19),Bayern München (16),2-1,1-1,Real Madrid CF (16),,,GER,ESP
+?,SF,2,(Wed) 10 May 2000 (W19),FC Barcelona (16),2-1,0-0,Valencia CF (18),,,ESP,ESP
+?,final,,(Wed) 24 May 2000 (W21),Real Madrid CF (17),3-0,0-0,Valencia CF (19),,,ESP,ESP
