@@ -1,9 +1,9 @@
 Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-,Round 1,1,,(Wed) 31 Aug 1960 (W35),Fredrikstad FK (1),4-3,1-2,AFC Ajax (1),,,NOR,NED
-,Round 1,1,,(Wed) 31 Aug 1960 (W35),Limerick FC (1),0-5,0-0,BSC Young Boys (1),,,IRL,SUI
-,Round 1,1,,(Thu) 1 Sep 1960 (W35),Helsingfors IFK (1),1-3,0-2,IFK Malmo (1),,,FIN,SWE
-,Round 1,1,,(Wed) 7 Sep 1960 (W36),Stade Reims (1),6-1,3-0,Jeunesse Esch (1),,,FRA,LUX
-,Round 1,2,,(Wed) 7 Sep 1960 (W36),AFC Ajax (2),0-0,0-0,Fredrikstad FK (2),,,NED,NOR
+,Round 1,1,,(Wed) 31 Aug 1960 (W35),Fredrikstad FK (1) NOR,4-3,1-2,AFC Ajax (1) NED,,,,
+,Round 1,1,,(Wed) 31 Aug 1960 (W35),Limerick FC IRL (1),0-5,0-0,BSC Young Boys (1) SUI,,,,
+,Round 1,1,,(Thu) 1 Sep 1960 (W35),Helsingfors IFK (1) FIN,1-3,0-2,IFK Malmo (1) SWE,,,,
+,Round 1,1,,(Wed) 7 Sep 1960 (W36),Stade Reims / FRA (1),6-1,3-0,Jeunesse Esch / LUX (1),,,,
+,Round 1,2,,(Wed) 7 Sep 1960 (W36),AFC Ajax › NED (2),0-0,0-0,Fredrikstad FK › NOR (2),,,,
 ,Round 1,1,,(Wed) 14 Sep 1960 (W37),Rapid Wien (1),4-0,2-0,Beşiktaş İstanbul JK (1),,,AUT,TUR
 ,Round 1,1,,(Wed) 21 Sep 1960 (W38),Juventus (1),2-0,2-0,CDNA Sofia (1),,,ITA,BUL
 ,Round 1,1,,(Wed) 21 Sep 1960 (W38),Aarhus GF (1),3-0,1-0,Legia Warsaw (1),,,DEN,POL
