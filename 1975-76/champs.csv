@@ -1,62 +1,62 @@
-Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-?,Round1,1,(Tue) 16 Sep 1975 (W37),CSKA Sofia (1),2-1,0-1,Juventus (1),,,BUL,ITA
-?,Round1,1,(Wed) 17 Sep 1975 (W37),Malmo FF (1),2-1,1-0,Magdeburg (1),,,SWE,GER
-?,Round1,1,(Wed) 17 Sep 1975 (W37),Ujpesti Dozsa SC (1),4-0,2-0,FC Zurich (1),,,HUN,SUI
-?,Round1,1,(Wed) 17 Sep 1975 (W37),KB Kobenhavn (1),0-2,0-0,AS Saint-Etienne (1),,,DEN,FRA
-?,Round1,1,(Wed) 17 Sep 1975 (W37),Jeunesse Esch (1),0-5,0-2,Bayern München (1),,,LUX,GER
-?,Round1,1,(Wed) 17 Sep 1975 (W37),Rangers FC (1),4-1,2-1,Bohemians (1),,,SCO,IRL
-?,Round1,1,(Wed) 17 Sep 1975 (W37),Borussia Monchengladbach (1),1-1,0-1,SSW Innsbruck (1),,,GER,AUT
-?,Round1,1,(Wed) 17 Sep 1975 (W37),SK Slovan Bratislava (1),1-0,0-0,Derby County FC (1),,,SVK,ENG
-?,Round1,1,(Wed) 17 Sep 1975 (W37),Real Madrid CF (1),4-1,1-0,Dinamo Bucuresti (1),,,ESP,ROU
-?,Round1,1,(Wed) 17 Sep 1975 (W37),Olympiacos (1),2-2,1-2,Dinamo Kiev (1),,,GRE,UKR
-?,Round1,1,(Wed) 17 Sep 1975 (W37),SL Benfica (1),7-0,3-0,Fenerbahçe İstanbul SK (1),,,POR,TUR
-?,Round1,1,(Wed) 17 Sep 1975 (W37),Floriana (1),0-5,0-1,Hajduk Split (1),,,MLT,CRO
-?,Round1,1,(Wed) 17 Sep 1975 (W37),Ruch Chorzow (1),5-0,3-0,Kuopion PS (1),,,POL,FIN
-?,Round1,1,(Wed) 17 Sep 1975 (W37),Linfield (1),1-2,1-2,PSV Eindhoven (1),,,NIR,NED
-?,Round1,1,(Wed) 17 Sep 1975 (W37),RWD Molenbeek (1),3-2,1-1,Viking FK (1),,,BEL,NOR
-?,Round1,1,(Sun) 21 Sep 1975 (W37),Omonia Nicosia (1),2-1,0-1,IA Akranes (1),,,CYP,ISL
-?,Round1,2,(Sun) 28 Sep 1975 (W38),IA Akranes (2),4-0,1-0,Omonia Nicosia (2),,,ISL,CYP
-?,Round1,2,(Wed) 1 Oct 1975 (W39),Magdeburg (2),2-1,1-0,Malmo FF (2),2-1 (a.e.t.),,GER,SWE
-?,Round1,2,(Wed) 1 Oct 1975 (W39),FC Zurich (2),5-1,4-0,Ujpesti Dozsa SC (2),,,SUI,HUN
-?,Round1,2,(Wed) 1 Oct 1975 (W39),AS Saint-Etienne (2),3-1,2-0,KB Kobenhavn (2),,,FRA,DEN
-?,Round1,2,(Wed) 1 Oct 1975 (W39),Bayern München (2),3-1,1-0,Jeunesse Esch (2),,,GER,LUX
-?,Round1,2,(Wed) 1 Oct 1975 (W39),Bohemians (2),1-1,0-1,Rangers FC (2),,,IRL,SCO
-?,Round1,2,(Wed) 1 Oct 1975 (W39),SSW Innsbruck (2),1-6,1-1,Borussia Monchengladbach (2),,,AUT,GER
-?,Round1,2,(Wed) 1 Oct 1975 (W39),Juventus (2),2-0,1-0,CSKA Sofia (2),,,ITA,BUL
-?,Round1,2,(Wed) 1 Oct 1975 (W39),Derby County FC (2),3-0,1-0,SK Slovan Bratislava (2),,,ENG,SVK
-?,Round1,2,(Wed) 1 Oct 1975 (W39),Dinamo Bucuresti (2),1-0,1-0,Real Madrid CF (2),,,ROU,ESP
-?,Round1,2,(Wed) 1 Oct 1975 (W39),Dinamo Kiev (2),1-0,0-0,Olympiacos (2),,,UKR,GRE
-?,Round1,2,(Wed) 1 Oct 1975 (W39),Fenerbahçe İstanbul SK (2),1-0,0-0,SL Benfica (2),,,TUR,POR
-?,Round1,2,(Wed) 1 Oct 1975 (W39),Hajduk Split (2),3-0,1-0,Floriana (2),,,CRO,MLT
-?,Round1,2,(Wed) 1 Oct 1975 (W39),Kuopion PS (2),2-2,0-1,Ruch Chorzow (2),,,FIN,POL
-?,Round1,2,(Wed) 1 Oct 1975 (W39),PSV Eindhoven (2),8-0,5-0,Linfield (2),,,NED,NIR
-?,Round1,2,(Wed) 1 Oct 1975 (W39),Viking FK (2),0-1,0-0,RWD Molenbeek (2),,,NOR,BEL
-?,R16,1,(Wed) 22 Oct 1975 (W42),AS Saint-Etienne (3),2-0,1-0,Rangers FC (3),,,FRA,SCO
-?,R16,1,(Wed) 22 Oct 1975 (W42),Malmo FF (3),1-0,1-0,Bayern München (3),,,SWE,GER
-?,R16,1,(Wed) 22 Oct 1975 (W42),Borussia Monchengladbach (3),2-0,2-0,Juventus (3),,,GER,ITA
-?,R16,1,(Wed) 22 Oct 1975 (W42),Derby County FC (3),4-1,3-1,Real Madrid CF (3),,,ENG,ESP
-?,R16,1,(Wed) 22 Oct 1975 (W42),Dinamo Kiev (3),3-0,2-0,IA Akranes (3),,,UKR,ISL
-?,R16,1,(Wed) 22 Oct 1975 (W42),Hajduk Split (3),4-0,3-0,RWD Molenbeek (3),,,CRO,BEL
-?,R16,1,(Wed) 22 Oct 1975 (W42),Ruch Chorzow (3),1-3,1-0,PSV Eindhoven (3),,,POL,NED
-?,R16,1,(Wed) 22 Oct 1975 (W42),SL Benfica (3),5-2,3-1,Ujpesti Dozsa SC (3),,,POR,HUN
-?,R16,2,(Wed) 5 Nov 1975 (W44),Rangers FC (4),1-2,0-0,AS Saint-Etienne (4),,,SCO,FRA
-?,R16,2,(Wed) 5 Nov 1975 (W44),Bayern München (4),2-0,0-0,Malmo FF (4),,,GER,SWE
-?,R16,2,(Wed) 5 Nov 1975 (W44),Juventus (4),2-2,1-0,Borussia Monchengladbach (4),,,ITA,GER
-?,R16,2,(Wed) 5 Nov 1975 (W44),Real Madrid CF (4),4-1,1-0,Derby County FC (4),5-1 (a.e.t.),,ESP,ENG
-?,R16,2,(Wed) 5 Nov 1975 (W44),IA Akranes (4),0-2,0-1,Dinamo Kiev (4),,,ISL,UKR
-?,R16,2,(Wed) 5 Nov 1975 (W44),RWD Molenbeek (4),2-3,1-0,Hajduk Split (4),,,BEL,CRO
-?,R16,2,(Wed) 5 Nov 1975 (W44),PSV Eindhoven (4),4-0,3-0,Ruch Chorzow (4),,,NED,POL
-?,R16,2,(Wed) 5 Nov 1975 (W44),Ujpesti Dozsa SC (4),3-1,1-0,SL Benfica (4),,,HUN,POR
-?,QF,1,(Wed) 3 Mar 1976 (W9),Borussia Monchengladbach (5),2-2,2-1,Real Madrid CF (5),,,GER,ESP
-?,QF,1,(Wed) 3 Mar 1976 (W9),Dinamo Kiev (5),2-0,1-0,AS Saint-Etienne (5),,,UKR,FRA
-?,QF,1,(Wed) 3 Mar 1976 (W9),SL Benfica (5),0-0,0-0,Bayern München (5),,,POR,GER
-?,QF,1,(Wed) 3 Mar 1976 (W9),Hajduk Split (5),2-0,2-0,PSV Eindhoven (5),,,CRO,NED
-?,QF,2,(Wed) 17 Mar 1976 (W11),Real Madrid CF (6),1-1,0-1,Borussia Monchengladbach (6),,,ESP,GER
-?,QF,2,(Wed) 17 Mar 1976 (W11),AS Saint-Etienne (6),2-0,0-0,Dinamo Kiev (6),3-0 (a.e.t.),,FRA,UKR
-?,QF,2,(Wed) 17 Mar 1976 (W11),Bayern München (6),5-1,0-0,SL Benfica (6),,,GER,POR
-?,QF,2,(Wed) 17 Mar 1976 (W11),PSV Eindhoven (6),2-0,0-0,Hajduk Split (6),3-0 (a.e.t.),,NED,CRO
-?,SF,1,(Wed) 31 Mar 1976 (W13),AS Saint-Etienne (7),1-0,1-0,PSV Eindhoven (7),,,FRA,NED
-?,SF,1,(Wed) 31 Mar 1976 (W13),Real Madrid CF (7),1-1,1-1,Bayern München (7),,,ESP,GER
-?,SF,2,(Wed) 14 Apr 1976 (W15),PSV Eindhoven (8),0-0,0-0,AS Saint-Etienne (8),,,NED,FRA
-?,SF,2,(Wed) 14 Apr 1976 (W15),Bayern München (8),2-0,2-0,Real Madrid CF (8),,,GER,ESP
-?,final,,(Wed) 12 May 1976 (W19),Bayern München (9),1-0,0-0,AS Saint-Etienne (9),,,GER,FRA
+Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+,Round 1,,,(Tue) 16 Sep 1975 (W37),CSKA Sofia (1),2-1,0-1,Juventus (1),,,BUL,ITA
+,Round 1,,,(Wed) 17 Sep 1975 (W37),Malmo FF (1),2-1,1-0,Magdeburg (1),,,SWE,GER
+,Round 1,,,(Wed) 17 Sep 1975 (W37),Ujpesti Dozsa SC (1),4-0,2-0,FC Zurich (1),,,HUN,SUI
+,Round 1,,,(Wed) 17 Sep 1975 (W37),KB Kobenhavn (1),0-2,0-0,AS Saint-Etienne (1),,,DEN,FRA
+,Round 1,,,(Wed) 17 Sep 1975 (W37),Jeunesse Esch (1),0-5,0-2,Bayern München (1),,,LUX,GER
+,Round 1,,,(Wed) 17 Sep 1975 (W37),Rangers FC (1),4-1,2-1,Bohemians (1),,,SCO,IRL
+,Round 1,,,(Wed) 17 Sep 1975 (W37),Borussia Monchengladbach (1),1-1,0-1,SSW Innsbruck (1),,,GER,AUT
+,Round 1,,,(Wed) 17 Sep 1975 (W37),SK Slovan Bratislava (1),1-0,0-0,Derby County FC (1),,,SVK,ENG
+,Round 1,,,(Wed) 17 Sep 1975 (W37),Real Madrid CF (1),4-1,1-0,Dinamo Bucuresti (1),,,ESP,ROU
+,Round 1,,,(Wed) 17 Sep 1975 (W37),Olympiacos (1),2-2,1-2,Dinamo Kiev (1),,,GRE,UKR
+,Round 1,,,(Wed) 17 Sep 1975 (W37),SL Benfica (1),7-0,3-0,Fenerbahçe İstanbul SK (1),,,POR,TUR
+,Round 1,,,(Wed) 17 Sep 1975 (W37),Floriana (1),0-5,0-1,Hajduk Split (1),,,MLT,CRO
+,Round 1,,,(Wed) 17 Sep 1975 (W37),Ruch Chorzow (1),5-0,3-0,Kuopion PS (1),,,POL,FIN
+,Round 1,,,(Wed) 17 Sep 1975 (W37),Linfield (1),1-2,1-2,PSV Eindhoven (1),,,NIR,NED
+,Round 1,,,(Wed) 17 Sep 1975 (W37),RWD Molenbeek (1),3-2,1-1,Viking FK (1),,,BEL,NOR
+,Round 1,,,(Sun) 21 Sep 1975 (W37),Omonia Nicosia (1),2-1,0-1,IA Akranes (1),,,CYP,ISL
+,Round 1,,,(Sun) 28 Sep 1975 (W38),IA Akranes (2),4-0,1-0,Omonia Nicosia (2),,,ISL,CYP
+,Round 1,,,(Wed) 1 Oct 1975 (W39),Magdeburg (2),2-1,1-0,Malmo FF (2),2-1 (a.e.t.),1-2 (pen.),GER,SWE
+,Round 1,,,(Wed) 1 Oct 1975 (W39),FC Zurich (2),5-1,4-0,Ujpesti Dozsa SC (2),,,SUI,HUN
+,Round 1,,,(Wed) 1 Oct 1975 (W39),AS Saint-Etienne (2),3-1,2-0,KB Kobenhavn (2),,,FRA,DEN
+,Round 1,,,(Wed) 1 Oct 1975 (W39),Bayern München (2),3-1,1-0,Jeunesse Esch (2),,,GER,LUX
+,Round 1,,,(Wed) 1 Oct 1975 (W39),Bohemians (2),1-1,0-1,Rangers FC (2),,,IRL,SCO
+,Round 1,,,(Wed) 1 Oct 1975 (W39),SSW Innsbruck (2),1-6,1-1,Borussia Monchengladbach (2),,,AUT,GER
+,Round 1,,,(Wed) 1 Oct 1975 (W39),Juventus (2),2-0,1-0,CSKA Sofia (2),,,ITA,BUL
+,Round 1,,,(Wed) 1 Oct 1975 (W39),Derby County FC (2),3-0,1-0,SK Slovan Bratislava (2),,,ENG,SVK
+,Round 1,,,(Wed) 1 Oct 1975 (W39),Dinamo Bucuresti (2),1-0,1-0,Real Madrid CF (2),,,ROU,ESP
+,Round 1,,,(Wed) 1 Oct 1975 (W39),Dinamo Kiev (2),1-0,0-0,Olympiacos (2),,,UKR,GRE
+,Round 1,,,(Wed) 1 Oct 1975 (W39),Fenerbahçe İstanbul SK (2),1-0,0-0,SL Benfica (2),,,TUR,POR
+,Round 1,,,(Wed) 1 Oct 1975 (W39),Hajduk Split (2),3-0,1-0,Floriana (2),,,CRO,MLT
+,Round 1,,,(Wed) 1 Oct 1975 (W39),Kuopion PS (2),2-2,0-1,Ruch Chorzow (2),,,FIN,POL
+,Round 1,,,(Wed) 1 Oct 1975 (W39),PSV Eindhoven (2),8-0,5-0,Linfield (2),,,NED,NIR
+,Round 1,,,(Wed) 1 Oct 1975 (W39),Viking FK (2),0-1,0-0,RWD Molenbeek (2),,,NOR,BEL
+,Round of 16,,,(Wed) 22 Oct 1975 (W42),AS Saint-Etienne (3),2-0,1-0,Rangers FC (3),,,FRA,SCO
+,Round of 16,,,(Wed) 22 Oct 1975 (W42),Malmo FF (3),1-0,1-0,Bayern München (3),,,SWE,GER
+,Round of 16,,,(Wed) 22 Oct 1975 (W42),Borussia Monchengladbach (3),2-0,2-0,Juventus (3),,,GER,ITA
+,Round of 16,,,(Wed) 22 Oct 1975 (W42),Derby County FC (3),4-1,3-1,Real Madrid CF (3),,,ENG,ESP
+,Round of 16,,,(Wed) 22 Oct 1975 (W42),Dinamo Kiev (3),3-0,2-0,IA Akranes (3),,,UKR,ISL
+,Round of 16,,,(Wed) 22 Oct 1975 (W42),Hajduk Split (3),4-0,3-0,RWD Molenbeek (3),,,CRO,BEL
+,Round of 16,,,(Wed) 22 Oct 1975 (W42),Ruch Chorzow (3),1-3,1-0,PSV Eindhoven (3),,,POL,NED
+,Round of 16,,,(Wed) 22 Oct 1975 (W42),SL Benfica (3),5-2,3-1,Ujpesti Dozsa SC (3),,,POR,HUN
+,Round of 16,,,(Wed) 5 Nov 1975 (W44),Rangers FC (4),1-2,0-0,AS Saint-Etienne (4),,,SCO,FRA
+,Round of 16,,,(Wed) 5 Nov 1975 (W44),Bayern München (4),2-0,0-0,Malmo FF (4),,,GER,SWE
+,Round of 16,,,(Wed) 5 Nov 1975 (W44),Juventus (4),2-2,1-0,Borussia Monchengladbach (4),,,ITA,GER
+,Round of 16,,,(Wed) 5 Nov 1975 (W44),Real Madrid CF (4),4-1,1-0,Derby County FC (4),5-1 (a.e.t.),,ESP,ENG
+,Round of 16,,,(Wed) 5 Nov 1975 (W44),IA Akranes (4),0-2,0-1,Dinamo Kiev (4),,,ISL,UKR
+,Round of 16,,,(Wed) 5 Nov 1975 (W44),RWD Molenbeek (4),2-3,1-0,Hajduk Split (4),,,BEL,CRO
+,Round of 16,,,(Wed) 5 Nov 1975 (W44),PSV Eindhoven (4),4-0,3-0,Ruch Chorzow (4),,,NED,POL
+,Round of 16,,,(Wed) 5 Nov 1975 (W44),Ujpesti Dozsa SC (4),3-1,1-0,SL Benfica (4),,,HUN,POR
+,Quarterfinals,,,(Wed) 3 Mar 1976 (W9),Borussia Monchengladbach (5),2-2,2-1,Real Madrid CF (5),,,GER,ESP
+,Quarterfinals,,,(Wed) 3 Mar 1976 (W9),Dinamo Kiev (5),2-0,1-0,AS Saint-Etienne (5),,,UKR,FRA
+,Quarterfinals,,,(Wed) 3 Mar 1976 (W9),SL Benfica (5),0-0,0-0,Bayern München (5),,,POR,GER
+,Quarterfinals,,,(Wed) 3 Mar 1976 (W9),Hajduk Split (5),2-0,2-0,PSV Eindhoven (5),,,CRO,NED
+,Quarterfinals,,,(Wed) 17 Mar 1976 (W11),Real Madrid CF (6),1-1,0-1,Borussia Monchengladbach (6),,,ESP,GER
+,Quarterfinals,,,(Wed) 17 Mar 1976 (W11),AS Saint-Etienne (6),2-0,0-0,Dinamo Kiev (6),3-0 (a.e.t.),,FRA,UKR
+,Quarterfinals,,,(Wed) 17 Mar 1976 (W11),Bayern München (6),5-1,0-0,SL Benfica (6),,,GER,POR
+,Quarterfinals,,,(Wed) 17 Mar 1976 (W11),PSV Eindhoven (6),2-0,0-0,Hajduk Split (6),3-0 (a.e.t.),,NED,CRO
+,Semifinals,,,(Wed) 31 Mar 1976 (W13),AS Saint-Etienne (7),1-0,1-0,PSV Eindhoven (7),,,FRA,NED
+,Semifinals,,,(Wed) 31 Mar 1976 (W13),Real Madrid CF (7),1-1,1-1,Bayern München (7),,,ESP,GER
+,Semifinals,,,(Wed) 14 Apr 1976 (W15),PSV Eindhoven (8),0-0,0-0,AS Saint-Etienne (8),,,NED,FRA
+,Semifinals,,,(Wed) 14 Apr 1976 (W15),Bayern München (8),2-0,2-0,Real Madrid CF (8),,,GER,ESP
+,Final,,,(Wed) 12 May 1976 (W19),Bayern München (9),1-0,0-0,AS Saint-Etienne (9),,,GER,FRA

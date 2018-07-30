@@ -1,78 +1,78 @@
-Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-?,prelim,1,(Wed) 7 Aug 1996 (W32),Widzew Lodz (1),2-1,0-0,Brondby IF (1),,,POL,DEN
-?,prelim,1,(Wed) 7 Aug 1996 (W32),Rangers FC (1),3-1,0-0,Alania Vladikavkaz (1),,,SCO,RUS
-?,prelim,1,(Wed) 7 Aug 1996 (W32),Club Brugge (1),2-2,0-0,Steaua Bucuresti (1),,,BEL,ROU
-?,prelim,1,(Wed) 7 Aug 1996 (W32),Rapid Wien (1),2-0,0-0,Dinamo Kiev (1),,,AUT,UKR
-?,prelim,1,(Wed) 7 Aug 1996 (W32),Maccabi Tel Aviv (1),0-1,0-0,Fenerbahçe İstanbul SK (1),,,ISR,TUR
-?,prelim,1,(Wed) 7 Aug 1996 (W32),IFK Goteborg (1),3-0,0-0,Ferencvaros (1),,,SWE,HUN
-?,prelim,1,(Wed) 7 Aug 1996 (W32),Grasshoppers Zurich (1),5-0,0-0,Slavia Praha (1),,,SUI,CZE
-?,prelim,1,(Wed) 7 Aug 1996 (W32),Panathinaikos FC (1),1-0,0-0,Rosenborg BK (1),,,GRE,NOR
-?,prelim,2,(Wed) 21 Aug 1996 (W34),Brondby IF (2),3-2,0-0,Widzew Lodz (2),,,DEN,POL
-?,prelim,2,(Wed) 21 Aug 1996 (W34),Alania Vladikavkaz (2),2-7,0-0,Rangers FC (2),,,RUS,SCO
-?,prelim,2,(Wed) 21 Aug 1996 (W34),Steaua Bucuresti (2),3-0,0-0,Club Brugge (2),,,ROU,BEL
-?,prelim,2,(Wed) 21 Aug 1996 (W34),Dinamo Kiev (2),2-4,0-0,Rapid Wien (2),,,UKR,AUT
-?,prelim,2,(Wed) 21 Aug 1996 (W34),Fenerbahçe İstanbul SK (2),1-1,0-0,Maccabi Tel Aviv (2),,,TUR,ISR
-?,prelim,2,(Wed) 21 Aug 1996 (W34),Ferencvaros (2),1-1,0-0,IFK Goteborg (2),,,HUN,SWE
-?,prelim,2,(Wed) 21 Aug 1996 (W34),Slavia Praha (2),0-1,0-0,Grasshoppers Zurich (2),,,CZE,SUI
-?,prelim,2,(Wed) 21 Aug 1996 (W34),Rosenborg BK (2),1-0,0-0,Panathinaikos FC (2),3-0 (a.e.t.),,NOR,GRE
-?,GroupD,groups,(Wed) 11 Sep 1996 (W37),AC Milan (1),2-3,1-0,FC Porto (1),,,ITA,POR
-?,GroupA,groups,(Wed) 11 Sep 1996 (W37),AJ Auxerre (1),0-1,0-1,AFC Ajax (1),,,FRA,NED
-?,GroupB,groups,(Wed) 11 Sep 1996 (W37),Atletico Madrid (1),4-0,2-0,Steaua Bucuresti (3),,,ESP,ROU
-?,GroupB,groups,(Wed) 11 Sep 1996 (W37),Borussia Dortmund (1),2-1,1-0,Widzew Lodz (3),,,GER,POL
-?,GroupC,groups,(Wed) 11 Sep 1996 (W37),Rapid Wien (3),1-1,0-1,Fenerbahçe İstanbul SK (3),,,AUT,TUR
-?,GroupA,groups,(Wed) 11 Sep 1996 (W37),Grasshoppers Zurich (3),3-0,2-0,Rangers FC (3),,,SUI,SCO
-?,GroupD,groups,(Wed) 11 Sep 1996 (W37),IFK Goteborg (3),2-3,1-1,Rosenborg BK (3),,,SWE,NOR
-?,GroupC,groups,(Wed) 11 Sep 1996 (W37),Juventus (1),1-0,1-0,Manchester United FC (1),,,ITA,ENG
-?,GroupD,groups,(Wed) 25 Sep 1996 (W39),Rosenborg BK (4),1-4,1-3,AC Milan (2),,,NOR,ITA
-?,GroupA,groups,(Wed) 25 Sep 1996 (W39),AFC Ajax (2),0-1,0-0,Grasshoppers Zurich (4),,,NED,SUI
-?,GroupA,groups,(Wed) 25 Sep 1996 (W39),Rangers FC (4),1-2,0-0,AJ Auxerre (2),,,SCO,FRA
-?,GroupB,groups,(Wed) 25 Sep 1996 (W39),Widzew Lodz (4),1-4,1-2,Atletico Madrid (2),,,POL,ESP
-?,GroupB,groups,(Wed) 25 Sep 1996 (W39),Steaua Bucuresti (4),0-3,0-2,Borussia Dortmund (2),,,ROU,GER
-?,GroupD,groups,(Wed) 25 Sep 1996 (W39),FC Porto (2),2-1,1-0,IFK Goteborg (4),,,POR,SWE
-?,GroupC,groups,(Wed) 25 Sep 1996 (W39),Fenerbahçe İstanbul SK (4),0-1,0-1,Juventus (2),,,TUR,ITA
-?,GroupC,groups,(Wed) 25 Sep 1996 (W39),Manchester United FC (2),2-0,2-0,Rapid Wien (4),,,ENG,AUT
-?,GroupD,groups,(Wed) 16 Oct 1996 (W42),IFK Goteborg (5),2-1,0-0,AC Milan (3),,,SWE,ITA
-?,GroupA,groups,(Wed) 16 Oct 1996 (W42),AFC Ajax (3),4-1,2-0,Rangers FC (5),,,NED,SCO
-?,GroupA,groups,(Wed) 16 Oct 1996 (W42),AJ Auxerre (3),1-0,1-0,Grasshoppers Zurich (5),,,FRA,SUI
-?,GroupB,groups,(Wed) 16 Oct 1996 (W42),Atletico Madrid (3),0-1,0-0,Borussia Dortmund (3),,,ESP,GER
-?,GroupD,groups,(Wed) 16 Oct 1996 (W42),Rosenborg BK (5),0-1,0-0,FC Porto (3),,,NOR,POR
-?,GroupC,groups,(Wed) 16 Oct 1996 (W42),Fenerbahçe İstanbul SK (5),0-2,0-0,Manchester United FC (3),,,TUR,ENG
-?,GroupC,groups,(Wed) 16 Oct 1996 (W42),Rapid Wien (5),1-1,1-1,Juventus (3),,,AUT,ITA
-?,GroupB,groups,(Wed) 16 Oct 1996 (W42),Steaua Bucuresti (5),1-0,0-0,Widzew Lodz (5),,,ROU,POL
-?,GroupD,groups,(Wed) 30 Oct 1996 (W44),AC Milan (4),4-2,3-2,IFK Goteborg (6),,,ITA,SWE
-?,GroupA,groups,(Wed) 30 Oct 1996 (W44),Rangers FC (6),0-1,0-1,AFC Ajax (4),,,SCO,NED
-?,GroupA,groups,(Wed) 30 Oct 1996 (W44),Grasshoppers Zurich (6),3-1,2-0,AJ Auxerre (4),,,SUI,FRA
-?,GroupB,groups,(Wed) 30 Oct 1996 (W44),Borussia Dortmund (4),1-2,1-2,Atletico Madrid (4),,,GER,ESP
-?,GroupD,groups,(Wed) 30 Oct 1996 (W44),FC Porto (4),3-0,2-0,Rosenborg BK (6),,,POR,NOR
-?,GroupC,groups,(Wed) 30 Oct 1996 (W44),Manchester United FC (4),0-1,0-0,Fenerbahçe İstanbul SK (6),,,ENG,TUR
-?,GroupC,groups,(Wed) 30 Oct 1996 (W44),Juventus (4),5-0,3-0,Rapid Wien (6),,,ITA,AUT
-?,GroupB,groups,(Wed) 30 Oct 1996 (W44),Widzew Lodz (6),2-0,1-0,Steaua Bucuresti (6),,,POL,ROU
-?,GroupD,groups,(Wed) 20 Nov 1996 (W47),FC Porto (5),1-1,0-0,AC Milan (5),,,POR,ITA
-?,GroupA,groups,(Wed) 20 Nov 1996 (W47),AFC Ajax (5),1-2,1-1,AJ Auxerre (5),,,NED,FRA
-?,GroupB,groups,(Wed) 20 Nov 1996 (W47),Steaua Bucuresti (7),1-1,0-1,Atletico Madrid (5),,,ROU,ESP
-?,GroupB,groups,(Wed) 20 Nov 1996 (W47),Widzew Lodz (7),2-2,2-1,Borussia Dortmund (5),,,POL,GER
-?,GroupA,groups,(Wed) 20 Nov 1996 (W47),Rangers FC (7),2-1,0-0,Grasshoppers Zurich (7),,,SCO,SUI
-?,GroupC,groups,(Thu) 28 Nov 1996 (W48),Fenerbahçe İstanbul SK (7),1-0,0-0,Rapid Wien (7),,,TUR,AUT
-?,GroupD,groups,(Thu) 28 Nov 1996 (W48),Rosenborg BK (7),1-0,0-0,IFK Goteborg (7),,,NOR,SWE
-?,GroupC,groups,(Thu) 28 Nov 1996 (W48),Manchester United FC (5),0-1,0-1,Juventus (5),,,ENG,ITA
-?,GroupD,groups,(Wed) 4 Dec 1996 (W49),AC Milan (6),1-2,1-1,Rosenborg BK (8),,,ITA,NOR
-?,GroupA,groups,(Wed) 4 Dec 1996 (W49),Grasshoppers Zurich (8),0-1,0-1,AFC Ajax (6),,,SUI,NED
-?,GroupA,groups,(Wed) 4 Dec 1996 (W49),AJ Auxerre (6),2-1,2-1,Rangers FC (8),,,FRA,SCO
-?,GroupB,groups,(Wed) 4 Dec 1996 (W49),Atletico Madrid (6),1-0,0-0,Widzew Lodz (8),,,ESP,POL
-?,GroupB,groups,(Wed) 4 Dec 1996 (W49),Borussia Dortmund (6),5-3,3-1,Steaua Bucuresti (8),,,GER,ROU
-?,GroupD,groups,(Wed) 4 Dec 1996 (W49),IFK Goteborg (8),0-2,0-0,FC Porto (6),,,SWE,POR
-?,GroupC,groups,(Wed) 4 Dec 1996 (W49),Juventus (6),2-0,1-0,Fenerbahçe İstanbul SK (8),,,ITA,TUR
-?,GroupC,groups,(Wed) 4 Dec 1996 (W49),Rapid Wien (8),0-2,0-1,Manchester United FC (6),,,AUT,ENG
-?,QF,1,(Wed) 5 Mar 1997 (W9),AFC Ajax (7),1-1,0-1,Atletico Madrid (7),,,NED,ESP
-?,QF,1,(Wed) 5 Mar 1997 (W9),Borussia Dortmund (7),3-1,1-0,AJ Auxerre (7),,,GER,FRA
-?,QF,1,(Wed) 5 Mar 1997 (W9),Manchester United FC (7),4-0,2-0,FC Porto (7),,,ENG,POR
-?,QF,1,(Wed) 5 Mar 1997 (W9),Rosenborg BK (9),1-1,0-0,Juventus (7),,,NOR,ITA
-?,QF,2,(Wed) 19 Mar 1997 (W11),Atletico Madrid (8),1-1,1-0,AFC Ajax (8),2-3 (a.e.t.),,ESP,NED
-?,QF,2,(Wed) 19 Mar 1997 (W11),AJ Auxerre (8),0-1,0-0,Borussia Dortmund (8),,,FRA,GER
-?,QF,2,(Wed) 19 Mar 1997 (W11),FC Porto (8),0-0,0-0,Manchester United FC (8),,,POR,ENG
-?,QF,2,(Wed) 19 Mar 1997 (W11),Juventus (8),2-0,1-0,Rosenborg BK (10),,,ITA,NOR
-?,SF,1,(Wed) 9 Apr 1997 (W14),AFC Ajax (9),1-2,0-2,Juventus (9),,,NED,ITA
-?,SF,1,(Wed) 9 Apr 1997 (W14),Borussia Dortmund (9),1-0,0-0,Manchester United FC (9),,,GER,ENG
-?,SF,2,(Wed) 23 Apr 1997 (W16),Juventus (10),4-1,2-0,AFC Ajax (10),,,ITA,NED
-?,SF,2,(Wed) 23 Apr 1997 (W16),Manchester United FC (10),0-1,0-1,Borussia Dortmund (10),,,ENG,GER
-?,final,,(Wed) 28 May 1997 (W21),Borussia Dortmund (11),3-1,0-0,Juventus (11),,,GER,ITA
+Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+Qualifying,Preliminary Round,,,(Wed) 7 Aug 1996 (W32),Widzew Lodz (1),2-1,0-0,Brondby IF (1),,,POL,DEN
+Qualifying,Preliminary Round,,,(Wed) 7 Aug 1996 (W32),Rangers FC (1),3-1,0-0,Alania Vladikavkaz (1),,,SCO,RUS
+Qualifying,Preliminary Round,,,(Wed) 7 Aug 1996 (W32),Club Brugge (1),2-2,0-0,Steaua Bucuresti (1),,,BEL,ROU
+Qualifying,Preliminary Round,,,(Wed) 7 Aug 1996 (W32),Rapid Wien (1),2-0,0-0,Dinamo Kiev (1),,,AUT,UKR
+Qualifying,Preliminary Round,,,(Wed) 7 Aug 1996 (W32),Maccabi Tel Aviv (1),0-1,0-0,Fenerbahçe İstanbul SK (1),,,ISR,TUR
+Qualifying,Preliminary Round,,,(Wed) 7 Aug 1996 (W32),IFK Goteborg (1),3-0,0-0,Ferencvaros (1),,,SWE,HUN
+Qualifying,Preliminary Round,,,(Wed) 7 Aug 1996 (W32),Grasshoppers Zurich (1),5-0,0-0,Slavia Praha (1),,,SUI,CZE
+Qualifying,Preliminary Round,,,(Wed) 7 Aug 1996 (W32),Panathinaikos FC (1),1-0,0-0,Rosenborg BK (1),,,GRE,NOR
+Qualifying,Preliminary Round,,,(Wed) 21 Aug 1996 (W34),Brondby IF (2),3-2,0-0,Widzew Lodz (2),,,DEN,POL
+Qualifying,Preliminary Round,,,(Wed) 21 Aug 1996 (W34),Alania Vladikavkaz (2),2-7,0-0,Rangers FC (2),,,RUS,SCO
+Qualifying,Preliminary Round,,,(Wed) 21 Aug 1996 (W34),Steaua Bucuresti (2),3-0,0-0,Club Brugge (2),,,ROU,BEL
+Qualifying,Preliminary Round,,,(Wed) 21 Aug 1996 (W34),Dinamo Kiev (2),2-4,0-0,Rapid Wien (2),,,UKR,AUT
+Qualifying,Preliminary Round,,,(Wed) 21 Aug 1996 (W34),Fenerbahçe İstanbul SK (2),1-1,0-0,Maccabi Tel Aviv (2),,,TUR,ISR
+Qualifying,Preliminary Round,,,(Wed) 21 Aug 1996 (W34),Ferencvaros (2),1-1,0-0,IFK Goteborg (2),,,HUN,SWE
+Qualifying,Preliminary Round,,,(Wed) 21 Aug 1996 (W34),Slavia Praha (2),0-1,0-0,Grasshoppers Zurich (2),,,CZE,SUI
+Qualifying,Preliminary Round,,,(Wed) 21 Aug 1996 (W34),Rosenborg BK (2),1-0,0-0,Panathinaikos FC (2),3-0 (a.e.t.),,NOR,GRE
+Group,Matchday ?,D,,(Wed) 11 Sep 1996 (W37),AC Milan (1),2-3,1-0,FC Porto (1),,,ITA,POR
+Group,Matchday ?,A,,(Wed) 11 Sep 1996 (W37),AJ Auxerre (1),0-1,0-1,AFC Ajax (1),,,FRA,NED
+Group,Matchday ?,B,,(Wed) 11 Sep 1996 (W37),Atletico Madrid (1),4-0,2-0,Steaua Bucuresti (3),,,ESP,ROU
+Group,Matchday ?,B,,(Wed) 11 Sep 1996 (W37),Borussia Dortmund (1),2-1,1-0,Widzew Lodz (3),,,GER,POL
+Group,Matchday ?,C,,(Wed) 11 Sep 1996 (W37),Rapid Wien (3),1-1,0-1,Fenerbahçe İstanbul SK (3),,,AUT,TUR
+Group,Matchday ?,A,,(Wed) 11 Sep 1996 (W37),Grasshoppers Zurich (3),3-0,2-0,Rangers FC (3),,,SUI,SCO
+Group,Matchday ?,D,,(Wed) 11 Sep 1996 (W37),IFK Goteborg (3),2-3,1-1,Rosenborg BK (3),,,SWE,NOR
+Group,Matchday ?,C,,(Wed) 11 Sep 1996 (W37),Juventus (1),1-0,1-0,Manchester United FC (1),,,ITA,ENG
+Group,Matchday ?,D,,(Wed) 25 Sep 1996 (W39),Rosenborg BK (4),1-4,1-3,AC Milan (2),,,NOR,ITA
+Group,Matchday ?,A,,(Wed) 25 Sep 1996 (W39),AFC Ajax (2),0-1,0-0,Grasshoppers Zurich (4),,,NED,SUI
+Group,Matchday ?,A,,(Wed) 25 Sep 1996 (W39),Rangers FC (4),1-2,0-0,AJ Auxerre (2),,,SCO,FRA
+Group,Matchday ?,B,,(Wed) 25 Sep 1996 (W39),Widzew Lodz (4),1-4,1-2,Atletico Madrid (2),,,POL,ESP
+Group,Matchday ?,B,,(Wed) 25 Sep 1996 (W39),Steaua Bucuresti (4),0-3,0-2,Borussia Dortmund (2),,,ROU,GER
+Group,Matchday ?,D,,(Wed) 25 Sep 1996 (W39),FC Porto (2),2-1,1-0,IFK Goteborg (4),,,POR,SWE
+Group,Matchday ?,C,,(Wed) 25 Sep 1996 (W39),Fenerbahçe İstanbul SK (4),0-1,0-1,Juventus (2),,,TUR,ITA
+Group,Matchday ?,C,,(Wed) 25 Sep 1996 (W39),Manchester United FC (2),2-0,2-0,Rapid Wien (4),,,ENG,AUT
+Group,Matchday ?,D,,(Wed) 16 Oct 1996 (W42),IFK Goteborg (5),2-1,0-0,AC Milan (3),,,SWE,ITA
+Group,Matchday ?,A,,(Wed) 16 Oct 1996 (W42),AFC Ajax (3),4-1,2-0,Rangers FC (5),,,NED,SCO
+Group,Matchday ?,A,,(Wed) 16 Oct 1996 (W42),AJ Auxerre (3),1-0,1-0,Grasshoppers Zurich (5),,,FRA,SUI
+Group,Matchday ?,B,,(Wed) 16 Oct 1996 (W42),Atletico Madrid (3),0-1,0-0,Borussia Dortmund (3),,,ESP,GER
+Group,Matchday ?,D,,(Wed) 16 Oct 1996 (W42),Rosenborg BK (5),0-1,0-0,FC Porto (3),,,NOR,POR
+Group,Matchday ?,C,,(Wed) 16 Oct 1996 (W42),Fenerbahçe İstanbul SK (5),0-2,0-0,Manchester United FC (3),,,TUR,ENG
+Group,Matchday ?,C,,(Wed) 16 Oct 1996 (W42),Rapid Wien (5),1-1,1-1,Juventus (3),,,AUT,ITA
+Group,Matchday ?,B,,(Wed) 16 Oct 1996 (W42),Steaua Bucuresti (5),1-0,0-0,Widzew Lodz (5),,,ROU,POL
+Group,Matchday ?,D,,(Wed) 30 Oct 1996 (W44),AC Milan (4),4-2,3-2,IFK Goteborg (6),,,ITA,SWE
+Group,Matchday ?,A,,(Wed) 30 Oct 1996 (W44),Rangers FC (6),0-1,0-1,AFC Ajax (4),,,SCO,NED
+Group,Matchday ?,A,,(Wed) 30 Oct 1996 (W44),Grasshoppers Zurich (6),3-1,2-0,AJ Auxerre (4),,,SUI,FRA
+Group,Matchday ?,B,,(Wed) 30 Oct 1996 (W44),Borussia Dortmund (4),1-2,1-2,Atletico Madrid (4),,,GER,ESP
+Group,Matchday ?,D,,(Wed) 30 Oct 1996 (W44),FC Porto (4),3-0,2-0,Rosenborg BK (6),,,POR,NOR
+Group,Matchday ?,C,,(Wed) 30 Oct 1996 (W44),Manchester United FC (4),0-1,0-0,Fenerbahçe İstanbul SK (6),,,ENG,TUR
+Group,Matchday ?,C,,(Wed) 30 Oct 1996 (W44),Juventus (4),5-0,3-0,Rapid Wien (6),,,ITA,AUT
+Group,Matchday ?,B,,(Wed) 30 Oct 1996 (W44),Widzew Lodz (6),2-0,1-0,Steaua Bucuresti (6),,,POL,ROU
+Group,Matchday ?,D,,(Wed) 20 Nov 1996 (W47),FC Porto (5),1-1,0-0,AC Milan (5),,,POR,ITA
+Group,Matchday ?,A,,(Wed) 20 Nov 1996 (W47),AFC Ajax (5),1-2,1-1,AJ Auxerre (5),,,NED,FRA
+Group,Matchday ?,B,,(Wed) 20 Nov 1996 (W47),Steaua Bucuresti (7),1-1,0-1,Atletico Madrid (5),,,ROU,ESP
+Group,Matchday ?,B,,(Wed) 20 Nov 1996 (W47),Widzew Lodz (7),2-2,2-1,Borussia Dortmund (5),,,POL,GER
+Group,Matchday ?,A,,(Wed) 20 Nov 1996 (W47),Rangers FC (7),2-1,0-0,Grasshoppers Zurich (7),,,SCO,SUI
+Group,Matchday ?,C,,(Thu) 28 Nov 1996 (W48),Fenerbahçe İstanbul SK (7),1-0,0-0,Rapid Wien (7),,,TUR,AUT
+Group,Matchday ?,D,,(Thu) 28 Nov 1996 (W48),Rosenborg BK (7),1-0,0-0,IFK Goteborg (7),,,NOR,SWE
+Group,Matchday ?,C,,(Thu) 28 Nov 1996 (W48),Manchester United FC (5),0-1,0-1,Juventus (5),,,ENG,ITA
+Group,Matchday ?,D,,(Wed) 4 Dec 1996 (W49),AC Milan (6),1-2,1-1,Rosenborg BK (8),,,ITA,NOR
+Group,Matchday ?,A,,(Wed) 4 Dec 1996 (W49),Grasshoppers Zurich (8),0-1,0-1,AFC Ajax (6),,,SUI,NED
+Group,Matchday ?,A,,(Wed) 4 Dec 1996 (W49),AJ Auxerre (6),2-1,2-1,Rangers FC (8),,,FRA,SCO
+Group,Matchday ?,B,,(Wed) 4 Dec 1996 (W49),Atletico Madrid (6),1-0,0-0,Widzew Lodz (8),,,ESP,POL
+Group,Matchday ?,B,,(Wed) 4 Dec 1996 (W49),Borussia Dortmund (6),5-3,3-1,Steaua Bucuresti (8),,,GER,ROU
+Group,Matchday ?,D,,(Wed) 4 Dec 1996 (W49),IFK Goteborg (8),0-2,0-0,FC Porto (6),,,SWE,POR
+Group,Matchday ?,C,,(Wed) 4 Dec 1996 (W49),Juventus (6),2-0,1-0,Fenerbahçe İstanbul SK (8),,,ITA,TUR
+Group,Matchday ?,C,,(Wed) 4 Dec 1996 (W49),Rapid Wien (8),0-2,0-1,Manchester United FC (6),,,AUT,ENG
+Knockout,Quarterfinals,,,(Wed) 5 Mar 1997 (W9),AFC Ajax (7),1-1,0-1,Atletico Madrid (7),,,NED,ESP
+Knockout,Quarterfinals,,,(Wed) 5 Mar 1997 (W9),Borussia Dortmund (7),3-1,1-0,AJ Auxerre (7),,,GER,FRA
+Knockout,Quarterfinals,,,(Wed) 5 Mar 1997 (W9),Manchester United FC (7),4-0,2-0,FC Porto (7),,,ENG,POR
+Knockout,Quarterfinals,,,(Wed) 5 Mar 1997 (W9),Rosenborg BK (9),1-1,0-0,Juventus (7),,,NOR,ITA
+Knockout,Quarterfinals,,,(Wed) 19 Mar 1997 (W11),Atletico Madrid (8),1-1,1-0,AFC Ajax (8),2-3 (a.e.t.),,ESP,NED
+Knockout,Quarterfinals,,,(Wed) 19 Mar 1997 (W11),AJ Auxerre (8),0-1,0-0,Borussia Dortmund (8),,,FRA,GER
+Knockout,Quarterfinals,,,(Wed) 19 Mar 1997 (W11),FC Porto (8),0-0,0-0,Manchester United FC (8),,,POR,ENG
+Knockout,Quarterfinals,,,(Wed) 19 Mar 1997 (W11),Juventus (8),2-0,1-0,Rosenborg BK (10),,,ITA,NOR
+Knockout,Semifinals,,,(Wed) 9 Apr 1997 (W14),AFC Ajax (9),1-2,0-2,Juventus (9),,,NED,ITA
+Knockout,Semifinals,,,(Wed) 9 Apr 1997 (W14),Borussia Dortmund (9),1-0,0-0,Manchester United FC (9),,,GER,ENG
+Knockout,Semifinals,,,(Wed) 23 Apr 1997 (W16),Juventus (10),4-1,2-0,AFC Ajax (10),,,ITA,NED
+Knockout,Semifinals,,,(Wed) 23 Apr 1997 (W16),Manchester United FC (10),0-1,0-1,Borussia Dortmund (10),,,ENG,GER
+Knockout,Final,,,(Wed) 28 May 1997 (W21),Borussia Dortmund (11),3-1,0-0,Juventus (11),,,GER,ITA

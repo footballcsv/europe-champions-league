@@ -1,214 +1,214 @@
-Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-?,Q-1,1,(Tue) 2 Jul 2013 (W26),Lusitanos (1),2-2,0-0,EB / Streymur (1),,,AND,FRO
-?,Q-1,1,(Tue) 2 Jul 2013 (W26),Shirak (1),3-0,0-0,Tre Penne (1),,,ARM,SMR
-?,Q-1,2,(Tue) 9 Jul 2013 (W27),EB / Streymur (2),5-1,0-0,Lusitanos (2),,,FRO,AND
-?,Q-1,2,(Tue) 9 Jul 2013 (W27),Tre Penne (2),1-0,0-0,Shirak (2),,,SMR,ARM
-?,Q-2,1,(Tue) 16 Jul 2013 (W28),BATE Borisov (1),0-1,0-0,Shakhter Karagandy (1),,,BLR,KAZ
-?,Q-2,1,(Tue) 16 Jul 2013 (W28),Birkirkara (1),0-0,0-0,NK Maribor (1),,,MLT,SVN
-?,Q-2,1,(Tue) 16 Jul 2013 (W28),Dinamo Tbilisi (1),6-1,0-0,EB / Streymur (3),,,GEO,FRO
-?,Q-2,1,(Tue) 16 Jul 2013 (W28),Fola Esch (1),0-5,0-0,Dinamo Zagreb (1),,,LUX,CRO
-?,Q-2,1,(Tue) 16 Jul 2013 (W28),FK Ekranas (1),0-1,0-0,FH (1),,,LTU,ISL
-?,Q-2,1,(Tue) 16 Jul 2013 (W28),Sheriff Tiraspol (1),1-1,0-0,Sutjeska Niksic (1),,,MDA,MNE
-?,Q-2,1,(Tue) 16 Jul 2013 (W28),Steaua Bucuresti (1),3-0,0-0,Vardar Skopje (1),,,ROU,MKD
-?,Q-2,1,(Tue) 16 Jul 2013 (W28),Viktoria Plzen (1),4-3,0-0,Zeljeznicar Sarajevo (1),,,CZE,BIH
-?,Q-2,1,(Wed) 17 Jul 2013 (W28),Cliftonville (1),0-3,0-0,Celtic FC (1),,,NIR,SCO
-?,Q-2,1,(Wed) 17 Jul 2013 (W28),Elfsborg (1),7-1,0-0,Daugava Daugavpils (1),,,SWE,LVA
-?,Q-2,1,(Wed) 17 Jul 2013 (W28),Gyori ETO (1),0-2,0-0,Maccabi Tel Aviv (1),,,HUN,ISR
-?,Q-2,1,(Wed) 17 Jul 2013 (W28),HJK Helsinki (1),0-0,0-0,Nomme Kalju (1),,,FIN,EST
-?,Q-2,1,(Wed) 17 Jul 2013 (W28),The New Saints (1),1-3,0-0,Legia Warsaw (1),,,WAL,POL
-?,Q-2,1,(Wed) 17 Jul 2013 (W28),Sligo Rovers (1),0-1,0-0,Molde FK (1),,,IRL,NOR
-?,Q-2,1,(Wed) 17 Jul 2013 (W28),Neftchi PFC Baku (1),0-0,0-0,Skenderbeu Korce (1),,,AZE,ALB
-?,Q-2,1,(Wed) 17 Jul 2013 (W28),SK Slovan Bratislava (1),2-1,0-0,PFC Ludogorets Razgrad (1),,,SVK,BUL
-?,Q-2,1,(Wed) 17 Jul 2013 (W28),Shirak (3),1-1,0-0,Partizan Belgrade (1),,,ARM,SRB
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),Shakhter Karagandy (2),1-0,0-0,BATE Borisov (2),,,KAZ,BLR
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),Celtic FC (2),2-0,0-0,Cliftonville (2),,,SCO,NIR
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),Daugava Daugavpils (2),0-4,0-0,Elfsborg (2),,,LVA,SWE
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),EB / Streymur (4),1-3,0-0,Dinamo Tbilisi (2),,,FRO,GEO
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),Dinamo Zagreb (2),1-0,0-0,Fola Esch (2),,,CRO,LUX
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),FH (2),2-1,0-0,FK Ekranas (2),,,ISL,LTU
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),Maccabi Tel Aviv (2),2-1,0-0,Gyori ETO (2),,,ISR,HUN
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),Nomme Kalju (2),2-1,0-0,HJK Helsinki (2),,,EST,FIN
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),Molde FK (2),2-0,0-0,Sligo Rovers (2),,,NOR,IRL
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),Skenderbeu Korce (2),0-0,0-0,Neftchi PFC Baku (2),1-0 (a.e.t.),,ALB,AZE
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),Sutjeska Niksic (2),0-5,0-0,Sheriff Tiraspol (2),,,MNE,MDA
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),Vardar Skopje (2),1-2,0-0,Steaua Bucuresti (2),,,MKD,ROU
-?,Q-2,2,(Tue) 23 Jul 2013 (W29),Zeljeznicar Sarajevo (2),1-2,0-0,Viktoria Plzen (2),,,BIH,CZE
-?,Q-2,2,(Wed) 24 Jul 2013 (W29),NK Maribor (2),2-0,0-0,Birkirkara (2),,,SVN,MLT
-?,Q-2,2,(Wed) 24 Jul 2013 (W29),Legia Warsaw (2),1-0,0-0,The New Saints (2),,,POL,WAL
-?,Q-2,2,(Wed) 24 Jul 2013 (W29),PFC Ludogorets Razgrad (2),3-0,0-0,SK Slovan Bratislava (2),,,BUL,SVK
-?,Q-2,2,(Wed) 24 Jul 2013 (W29),Partizan Belgrade (2),0-0,0-0,Shirak (4),,,SRB,ARM
-?,Q-3,1,(Tue) 30 Jul 2013 (W30),Austria Wien (1),1-0,0-0,FH (3),,,AUT,ISL
-?,Q-3,1,(Tue) 30 Jul 2013 (W30),Basel (1),1-0,0-0,Maccabi Tel Aviv (3),,,SUI,ISR
-?,Q-3,1,(Tue) 30 Jul 2013 (W30),Dinamo Tbilisi (3),0-2,0-0,Steaua Bucuresti (3),,,GEO,ROU
-?,Q-3,1,(Tue) 30 Jul 2013 (W30),Dinamo Zagreb (3),1-0,0-0,Sheriff Tiraspol (3),,,CRO,MDA
-?,Q-3,1,(Tue) 30 Jul 2013 (W30),Olympique Lyon (1),1-0,0-0,Grasshoppers Zurich (1),,,FRA,SUI
-?,Q-3,1,(Tue) 30 Jul 2013 (W30),PAOK FC (1),0-2,0-0,Metalist Kharkiv (1),,,GRE,UKR
-?,Q-3,1,(Tue) 30 Jul 2013 (W30),Nomme Kalju (3),0-4,0-0,Viktoria Plzen (3),,,EST,CZE
-?,Q-3,1,(Tue) 30 Jul 2013 (W30),Nordsjaelland (1),0-1,0-0,Zenit St. Petersburg (1),,,DEN,RUS
-?,Q-3,1,(Tue) 30 Jul 2013 (W30),PSV Eindhoven (1),2-0,0-0,Zulte-Waregem (1),,,NED,BEL
-?,Q-3,1,(Tue) 30 Jul 2013 (W30),Shakhter Karagandy (3),3-0,0-0,Skenderbeu Korce (3),,,KAZ,ALB
-?,Q-3,1,(Wed) 31 Jul 2013 (W30),APOEL Nikosia (1),1-1,0-0,NK Maribor (3),,,CYP,SVN
-?,Q-3,1,(Wed) 31 Jul 2013 (W30),Molde FK (3),1-1,0-0,Legia Warsaw (3),,,NOR,POL
-?,Q-3,1,(Wed) 31 Jul 2013 (W30),Celtic FC (3),1-0,0-0,Elfsborg (3),,,SCO,SWE
-?,Q-3,1,(Wed) 31 Jul 2013 (W30),FC RB Salzburg (1),1-1,0-0,Fenerbahçe İstanbul SK (1),,,AUT,TUR
-?,Q-3,1,(Wed) 31 Jul 2013 (W30),PFC Ludogorets Razgrad (3),2-1,0-0,Partizan Belgrade (3),,,BUL,SRB
-?,Q-3,2,(Tue) 6 Aug 2013 (W31),NK Maribor (4),0-0,0-0,APOEL Nikosia (2),,,SVN,CYP
-?,Q-3,2,(Tue) 6 Aug 2013 (W31),Maccabi Tel Aviv (4),3-3,0-0,Basel (2),,,ISR,SUI
-?,Q-3,2,(Tue) 6 Aug 2013 (W31),Steaua Bucuresti (4),1-1,0-0,Dinamo Tbilisi (4),,,ROU,GEO
-?,Q-3,2,(Tue) 6 Aug 2013 (W31),Fenerbahçe İstanbul SK (2),3-1,0-0,FC RB Salzburg (2),,,TUR,AUT
-?,Q-3,2,(Tue) 6 Aug 2013 (W31),Grasshoppers Zurich (2),0-1,0-0,Olympique Lyon (2),,,SUI,FRA
-?,Q-3,2,(Tue) 6 Aug 2013 (W31),Skenderbeu Korce (4),3-2,0-0,Shakhter Karagandy (4),,,ALB,KAZ
-?,Q-3,2,(Tue) 6 Aug 2013 (W31),Partizan Belgrade (4),0-1,0-0,PFC Ludogorets Razgrad (4),,,SRB,BUL
-?,Q-3,2,(Wed) 7 Aug 2013 (W31),Legia Warsaw (4),0-0,0-0,Molde FK (4),,,POL,NOR
-?,Q-3,2,(Wed) 7 Aug 2013 (W31),FH (4),0-0,0-0,Austria Wien (2),,,ISL,AUT
-?,Q-3,2,(Wed) 7 Aug 2013 (W31),Elfsborg (4),0-0,0-0,Celtic FC (4),,,SWE,SCO
-?,Q-3,2,(Wed) 7 Aug 2013 (W31),Sheriff Tiraspol (4),0-3,0-0,Dinamo Zagreb (4),,,MDA,CRO
-?,Q-3,2,(Wed) 7 Aug 2013 (W31),Metalist Kharkiv (2),1-1,0-0,PAOK FC (2),,,UKR,GRE
-?,Q-3,2,(Wed) 7 Aug 2013 (W31),Viktoria Plzen (4),6-2,0-0,Nomme Kalju (4),,,CZE,EST
-?,Q-3,2,(Wed) 7 Aug 2013 (W31),Zenit St. Petersburg (2),5-0,0-0,Nordsjaelland (2),,,RUS,DEN
-?,Q-3,2,(Wed) 7 Aug 2013 (W31),Zulte-Waregem (2),0-3,0-0,PSV Eindhoven (2),,,BEL,NED
-?,Q-PO,1,(Tue) 20 Aug 2013 (W33),PSV Eindhoven (3),1-1,0-0,AC Milan (1),,,NED,ITA
-?,Q-PO,1,(Tue) 20 Aug 2013 (W33),Shakhter Karagandy (5),2-0,0-0,Celtic FC (5),,,KAZ,SCO
-?,Q-PO,1,(Tue) 20 Aug 2013 (W33),Viktoria Plzen (5),3-1,0-0,NK Maribor (5),,,CZE,SVN
-?,Q-PO,1,(Tue) 20 Aug 2013 (W33),Olympique Lyon (3),0-2,0-0,Real Sociedad (1),,,FRA,ESP
-?,Q-PO,1,(Tue) 20 Aug 2013 (W33),Pacos de Ferreira (1),1-4,0-0,Zenit St. Petersburg (3),,,POR,RUS
-?,Q-PO,1,(Wed) 21 Aug 2013 (W33),Steaua Bucuresti (5),1-1,0-0,Legia Warsaw (5),,,ROU,POL
-?,Q-PO,1,(Wed) 21 Aug 2013 (W33),Fenerbahçe İstanbul SK (3),0-3,0-0,Arsenal FC (1),,,TUR,ENG
-?,Q-PO,1,(Wed) 21 Aug 2013 (W33),Dinamo Zagreb (5),0-2,0-0,Austria Wien (3),,,CRO,AUT
-?,Q-PO,1,(Wed) 21 Aug 2013 (W33),PFC Ludogorets Razgrad (5),2-4,0-0,Basel (3),,,BUL,SUI
-?,Q-PO,1,(Wed) 21 Aug 2013 (W33),FC Schalke 04 (1),1-1,0-0,PAOK FC (3),,,GER,GRE
-?,Q-PO,2,(Tue) 27 Aug 2013 (W34),Legia Warsaw (6),2-2,0-0,Steaua Bucuresti (6),,,POL,ROU
-?,Q-PO,2,(Tue) 27 Aug 2013 (W34),Arsenal FC (2),2-0,0-0,Fenerbahçe İstanbul SK (4),,,ENG,TUR
-?,Q-PO,2,(Tue) 27 Aug 2013 (W34),Austria Wien (4),2-3,0-0,Dinamo Zagreb (6),,,AUT,CRO
-?,Q-PO,2,(Tue) 27 Aug 2013 (W34),Basel (4),2-0,0-0,PFC Ludogorets Razgrad (6),,,SUI,BUL
-?,Q-PO,2,(Tue) 27 Aug 2013 (W34),PAOK FC (4),2-3,0-0,FC Schalke 04 (2),,,GRE,GER
-?,Q-PO,2,(Wed) 28 Aug 2013 (W34),AC Milan (2),3-0,0-0,PSV Eindhoven (4),,,ITA,NED
-?,Q-PO,2,(Wed) 28 Aug 2013 (W34),Celtic FC (6),3-0,0-0,Shakhter Karagandy (6),,,SCO,KAZ
-?,Q-PO,2,(Wed) 28 Aug 2013 (W34),NK Maribor (6),0-1,0-0,Viktoria Plzen (6),,,SVN,CZE
-?,Q-PO,2,(Wed) 28 Aug 2013 (W34),Real Sociedad (2),2-0,0-0,Olympique Lyon (4),,,ESP,FRA
-?,Q-PO,2,(Wed) 28 Aug 2013 (W34),Zenit St. Petersburg (4),4-2,0-0,Pacos de Ferreira (2),,,RUS,POR
-?,GroupA,groups,(Tue) 17 Sep 2013 (W37),Manchester United FC (1),4-2,1-0,Bayer 04 Leverkusen (1),,,ENG,GER
-?,GroupD,groups,(Tue) 17 Sep 2013 (W37),Bayern München (1),3-0,2-0,CSKA Moskva (1),,,GER,RUS
-?,GroupB,groups,(Tue) 17 Sep 2013 (W37),Galatasaray İstanbul AŞ (1),1-6,0-1,Real Madrid CF (1),,,TUR,ESP
-?,GroupB,groups,(Tue) 17 Sep 2013 (W37),Kobenhavn (1),1-1,1-0,Juventus (1),,,DEN,ITA
-?,GroupD,groups,(Tue) 17 Sep 2013 (W37),Viktoria Plzen (7),0-3,0-0,Manchester City FC (1),,,CZE,ENG
-?,GroupC,groups,(Tue) 17 Sep 2013 (W37),Olympiacos (1),1-4,1-1,Paris Saint-Germain (1),,,GRE,FRA
-?,GroupA,groups,(Tue) 17 Sep 2013 (W37),Real Sociedad (3),0-2,0-0,Shakhtar Donetsk (1),,,ESP,UKR
-?,GroupC,groups,(Tue) 17 Sep 2013 (W37),SL Benfica (1),2-0,2-0,RSC Anderlecht (1),,,POR,BEL
-?,GroupH,groups,(Wed) 18 Sep 2013 (W37),AC Milan (3),2-0,0-0,Celtic FC (7),,,ITA,SCO
-?,GroupH,groups,(Wed) 18 Sep 2013 (W37),FC Barcelona (1),4-0,1-0,AFC Ajax (1),,,ESP,NED
-?,GroupF,groups,(Wed) 18 Sep 2013 (W37),Olympique Marseille (1),1-2,0-0,Arsenal FC (3),,,FRA,ENG
-?,GroupG,groups,(Wed) 18 Sep 2013 (W37),Atletico Madrid (1),3-1,1-0,Zenit St. Petersburg (5),,,ESP,RUS
-?,GroupG,groups,(Wed) 18 Sep 2013 (W37),Austria Wien (5),0-1,0-0,FC Porto (1),,,AUT,POR
-?,GroupE,groups,(Wed) 18 Sep 2013 (W37),Chelsea FC (1),1-2,1-0,Basel (5),,,ENG,SUI
-?,GroupF,groups,(Wed) 18 Sep 2013 (W37),SSC Napoli (1),2-1,1-0,Borussia Dortmund (1),,,ITA,GER
-?,GroupE,groups,(Wed) 18 Sep 2013 (W37),FC Schalke 04 (3),3-0,0-0,Steaua Bucuresti (7),,,GER,ROU
-?,GroupH,groups,(Tue) 1 Oct 2013 (W39),AFC Ajax (2),1-1,0-0,AC Milan (4),,,NED,ITA
-?,GroupF,groups,(Tue) 1 Oct 2013 (W39),Arsenal FC (4),2-0,2-0,SSC Napoli (2),,,ENG,ITA
-?,GroupG,groups,(Tue) 1 Oct 2013 (W39),FC Porto (2),1-2,1-0,Atletico Madrid (2),,,POR,ESP
-?,GroupG,groups,(Tue) 1 Oct 2013 (W39),Zenit St. Petersburg (6),0-0,0-0,Austria Wien (6),,,RUS,AUT
-?,GroupH,groups,(Tue) 1 Oct 2013 (W39),Celtic FC (8),0-1,0-0,FC Barcelona (2),,,SCO,ESP
-?,GroupE,groups,(Tue) 1 Oct 2013 (W39),Basel (6),0-1,0-0,FC Schalke 04 (4),,,SUI,GER
-?,GroupF,groups,(Tue) 1 Oct 2013 (W39),Borussia Dortmund (2),3-0,1-0,Olympique Marseille (2),,,GER,FRA
-?,GroupE,groups,(Tue) 1 Oct 2013 (W39),Steaua Bucuresti (8),0-4,0-2,Chelsea FC (2),,,ROU,ENG
-?,GroupA,groups,(Wed) 2 Oct 2013 (W39),Bayer 04 Leverkusen (2),2-1,1-0,Real Sociedad (4),,,GER,ESP
-?,GroupD,groups,(Wed) 2 Oct 2013 (W39),Manchester City FC (2),1-3,0-1,Bayern München (2),,,ENG,GER
-?,GroupD,groups,(Wed) 2 Oct 2013 (W39),CSKA Moskva (2),3-2,2-1,Viktoria Plzen (8),,,RUS,CZE
-?,GroupB,groups,(Wed) 2 Oct 2013 (W39),Juventus (2),2-2,0-1,Galatasaray İstanbul AŞ (2),,,ITA,TUR
-?,GroupB,groups,(Wed) 2 Oct 2013 (W39),Real Madrid CF (2),4-0,1-0,Kobenhavn (2),,,ESP,DEN
-?,GroupA,groups,(Wed) 2 Oct 2013 (W39),Shakhtar Donetsk (2),1-1,0-1,Manchester United FC (2),,,UKR,ENG
-?,GroupC,groups,(Wed) 2 Oct 2013 (W39),RSC Anderlecht (2),0-3,0-1,Olympiacos (2),,,BEL,GRE
-?,GroupC,groups,(Wed) 2 Oct 2013 (W39),Paris Saint-Germain (2),3-0,3-0,SL Benfica (2),,,FRA,POR
-?,GroupH,groups,(Tue) 22 Oct 2013 (W42),AC Milan (5),1-1,1-1,FC Barcelona (3),,,ITA,ESP
-?,GroupH,groups,(Tue) 22 Oct 2013 (W42),Celtic FC (9),2-1,1-0,AFC Ajax (3),,,SCO,NED
-?,GroupF,groups,(Tue) 22 Oct 2013 (W42),Arsenal FC (5),1-2,1-1,Borussia Dortmund (3),,,ENG,GER
-?,GroupG,groups,(Tue) 22 Oct 2013 (W42),Austria Wien (7),0-3,0-2,Atletico Madrid (3),,,AUT,ESP
-?,GroupE,groups,(Tue) 22 Oct 2013 (W42),Steaua Bucuresti (9),1-1,0-0,Basel (7),,,ROU,SUI
-?,GroupE,groups,(Tue) 22 Oct 2013 (W42),FC Schalke 04 (5),0-3,0-1,Chelsea FC (3),,,GER,ENG
-?,GroupG,groups,(Tue) 22 Oct 2013 (W42),FC Porto (3),0-1,0-0,Zenit St. Petersburg (7),,,POR,RUS
-?,GroupF,groups,(Tue) 22 Oct 2013 (W42),Olympique Marseille (3),1-2,0-1,SSC Napoli (3),,,FRA,ITA
-?,GroupA,groups,(Wed) 23 Oct 2013 (W42),Bayer 04 Leverkusen (3),4-0,1-0,Shakhtar Donetsk (3),,,GER,UKR
-?,GroupD,groups,(Wed) 23 Oct 2013 (W42),Bayern München (3),5-0,2-0,Viktoria Plzen (9),,,GER,CZE
-?,GroupD,groups,(Wed) 23 Oct 2013 (W42),CSKA Moskva (3),1-2,1-2,Manchester City FC (3),,,RUS,ENG
-?,GroupB,groups,(Wed) 23 Oct 2013 (W42),Galatasaray İstanbul AŞ (3),3-1,3-0,Kobenhavn (3),,,TUR,DEN
-?,GroupB,groups,(Wed) 23 Oct 2013 (W42),Real Madrid CF (3),2-1,2-1,Juventus (3),,,ESP,ITA
-?,GroupA,groups,(Wed) 23 Oct 2013 (W42),Manchester United FC (3),1-0,1-0,Real Sociedad (5),,,ENG,ESP
-?,GroupC,groups,(Wed) 23 Oct 2013 (W42),SL Benfica (3),1-1,0-1,Olympiacos (3),,,POR,GRE
-?,GroupC,groups,(Wed) 23 Oct 2013 (W42),RSC Anderlecht (3),0-5,0-3,Paris Saint-Germain (3),,,BEL,FRA
-?,GroupA,groups,(Tue) 5 Nov 2013 (W44),Shakhtar Donetsk (4),0-0,0-0,Bayer 04 Leverkusen (4),,,UKR,GER
-?,GroupD,groups,(Tue) 5 Nov 2013 (W44),Viktoria Plzen (10),0-1,0-0,Bayern München (4),,,CZE,GER
-?,GroupD,groups,(Tue) 5 Nov 2013 (W44),Manchester City FC (4),5-2,3-1,CSKA Moskva (4),,,ENG,RUS
-?,GroupB,groups,(Tue) 5 Nov 2013 (W44),Kobenhavn (4),1-0,1-0,Galatasaray İstanbul AŞ (4),,,DEN,TUR
-?,GroupB,groups,(Tue) 5 Nov 2013 (W44),Juventus (4),2-2,1-0,Real Madrid CF (4),,,ITA,ESP
-?,GroupA,groups,(Tue) 5 Nov 2013 (W44),Real Sociedad (6),0-0,0-0,Manchester United FC (4),,,ESP,ENG
-?,GroupC,groups,(Tue) 5 Nov 2013 (W44),Olympiacos (4),1-0,1-0,SL Benfica (4),,,GRE,POR
-?,GroupC,groups,(Tue) 5 Nov 2013 (W44),Paris Saint-Germain (4),1-1,0-0,RSC Anderlecht (4),,,FRA,BEL
-?,GroupH,groups,(Wed) 6 Nov 2013 (W44),FC Barcelona (4),3-1,2-1,AC Milan (6),,,ESP,ITA
-?,GroupH,groups,(Wed) 6 Nov 2013 (W44),AFC Ajax (4),1-0,0-0,Celtic FC (10),,,NED,SCO
-?,GroupF,groups,(Wed) 6 Nov 2013 (W44),Borussia Dortmund (4),0-1,0-0,Arsenal FC (6),,,GER,ENG
-?,GroupG,groups,(Wed) 6 Nov 2013 (W44),Atletico Madrid (4),4-0,3-0,Austria Wien (8),,,ESP,AUT
-?,GroupE,groups,(Wed) 6 Nov 2013 (W44),Basel (8),1-1,0-1,Steaua Bucuresti (10),,,SUI,ROU
-?,GroupE,groups,(Wed) 6 Nov 2013 (W44),Chelsea FC (4),3-0,1-0,FC Schalke 04 (6),,,ENG,GER
-?,GroupG,groups,(Wed) 6 Nov 2013 (W44),Zenit St. Petersburg (8),1-1,1-1,FC Porto (4),,,RUS,POR
-?,GroupF,groups,(Wed) 6 Nov 2013 (W44),SSC Napoli (4),3-2,2-1,Olympique Marseille (4),,,ITA,FRA
-?,GroupH,groups,(Tue) 26 Nov 2013 (W47),Celtic FC (11),0-3,0-1,AC Milan (7),,,SCO,ITA
-?,GroupH,groups,(Tue) 26 Nov 2013 (W47),AFC Ajax (5),2-1,2-0,FC Barcelona (5),,,NED,ESP
-?,GroupF,groups,(Tue) 26 Nov 2013 (W47),Arsenal FC (7),2-0,1-0,Olympique Marseille (5),,,ENG,FRA
-?,GroupG,groups,(Tue) 26 Nov 2013 (W47),Zenit St. Petersburg (9),1-1,0-0,Atletico Madrid (5),,,RUS,ESP
-?,GroupG,groups,(Tue) 26 Nov 2013 (W47),FC Porto (5),1-1,0-1,Austria Wien (9),,,POR,AUT
-?,GroupE,groups,(Tue) 26 Nov 2013 (W47),Basel (9),1-0,0-0,Chelsea FC (5),,,SUI,ENG
-?,GroupF,groups,(Tue) 26 Nov 2013 (W47),Borussia Dortmund (5),3-1,1-0,SSC Napoli (5),,,GER,ITA
-?,GroupE,groups,(Tue) 26 Nov 2013 (W47),Steaua Bucuresti (11),0-0,0-0,FC Schalke 04 (7),,,ROU,GER
-?,GroupA,groups,(Wed) 27 Nov 2013 (W47),Bayer 04 Leverkusen (5),0-5,0-2,Manchester United FC (5),,,GER,ENG
-?,GroupD,groups,(Wed) 27 Nov 2013 (W47),CSKA Moskva (5),1-3,0-1,Bayern München (5),,,RUS,GER
-?,GroupB,groups,(Wed) 27 Nov 2013 (W47),Real Madrid CF (5),4-1,1-1,Galatasaray İstanbul AŞ (5),,,ESP,TUR
-?,GroupB,groups,(Wed) 27 Nov 2013 (W47),Juventus (5),3-1,1-0,Kobenhavn (5),,,ITA,DEN
-?,GroupD,groups,(Wed) 27 Nov 2013 (W47),Manchester City FC (5),4-2,1-1,Viktoria Plzen (11),,,ENG,CZE
-?,GroupC,groups,(Wed) 27 Nov 2013 (W47),Paris Saint-Germain (5),2-1,1-0,Olympiacos (5),,,FRA,GRE
-?,GroupA,groups,(Wed) 27 Nov 2013 (W47),Shakhtar Donetsk (5),4-0,1-0,Real Sociedad (7),,,UKR,ESP
-?,GroupC,groups,(Wed) 27 Nov 2013 (W47),RSC Anderlecht (5),2-3,1-1,SL Benfica (5),,,BEL,POR
-?,GroupA,groups,(Tue) 10 Dec 2013 (W49),Real Sociedad (8),0-1,0-0,Bayer 04 Leverkusen (6),,,ESP,GER
-?,GroupD,groups,(Tue) 10 Dec 2013 (W49),Bayern München (6),2-3,2-1,Manchester City FC (6),,,GER,ENG
-?,GroupD,groups,(Tue) 10 Dec 2013 (W49),Viktoria Plzen (12),2-1,0-0,CSKA Moskva (6),,,CZE,RUS
-?,GroupB,groups,(Tue) 10 Dec 2013 (W49),Kobenhavn (6),0-2,0-1,Real Madrid CF (6),,,DEN,ESP
-?,GroupA,groups,(Tue) 10 Dec 2013 (W49),Manchester United FC (6),1-0,0-0,Shakhtar Donetsk (6),,,ENG,UKR
-?,GroupC,groups,(Tue) 10 Dec 2013 (W49),Olympiacos (6),3-1,1-1,RSC Anderlecht (6),,,GRE,BEL
-?,GroupC,groups,(Tue) 10 Dec 2013 (W49),SL Benfica (6),2-1,1-1,Paris Saint-Germain (6),,,POR,FRA
-?,GroupH,groups,(Wed) 11 Dec 2013 (W49),AC Milan (8),0-0,0-0,AFC Ajax (6),,,ITA,NED
-?,GroupF,groups,(Wed) 11 Dec 2013 (W49),SSC Napoli (6),2-0,0-0,Arsenal FC (8),,,ITA,ENG
-?,GroupG,groups,(Wed) 11 Dec 2013 (W49),Atletico Madrid (6),2-0,2-0,FC Porto (6),,,ESP,POR
-?,GroupG,groups,(Wed) 11 Dec 2013 (W49),Austria Wien (10),4-1,1-1,Zenit St. Petersburg (10),,,AUT,RUS
-?,GroupH,groups,(Wed) 11 Dec 2013 (W49),FC Barcelona (6),6-1,3-0,Celtic FC (12),,,ESP,SCO
-?,GroupE,groups,(Wed) 11 Dec 2013 (W49),FC Schalke 04 (8),2-0,0-0,Basel (10),,,GER,SUI
-?,GroupF,groups,(Wed) 11 Dec 2013 (W49),Olympique Marseille (6),1-2,1-1,Borussia Dortmund (6),,,FRA,GER
-?,GroupE,groups,(Wed) 11 Dec 2013 (W49),Chelsea FC (6),1-0,1-0,Steaua Bucuresti (12),,,ENG,ROU
-?,GroupB,groups,(Wed) 11 Dec 2013 (W49),Galatasaray İstanbul AŞ (6),1-0,0-0,Juventus (6),,,TUR,ITA
-?,R16,1,(Tue) 18 Feb 2014 (W7),Manchester City FC (7),0-2,0-0,FC Barcelona (7),,,ENG,ESP
-?,R16,1,(Tue) 18 Feb 2014 (W7),Bayer 04 Leverkusen (7),0-4,0-3,Paris Saint-Germain (7),,,GER,FRA
-?,R16,1,(Wed) 19 Feb 2014 (W7),AC Milan (9),0-1,0-0,Atletico Madrid (7),,,ITA,ESP
-?,R16,1,(Wed) 19 Feb 2014 (W7),Arsenal FC (9),0-2,0-0,Bayern München (7),,,ENG,GER
-?,R16,1,(Tue) 25 Feb 2014 (W8),Zenit St. Petersburg (11),2-4,0-2,Borussia Dortmund (7),,,RUS,GER
-?,R16,1,(Tue) 25 Feb 2014 (W8),Olympiacos (7),2-0,1-0,Manchester United FC (7),,,GRE,ENG
-?,R16,1,(Wed) 26 Feb 2014 (W8),Galatasaray İstanbul AŞ (7),1-1,0-1,Chelsea FC (7),,,TUR,ENG
-?,R16,1,(Wed) 26 Feb 2014 (W8),FC Schalke 04 (9),1-6,0-2,Real Madrid CF (7),,,GER,ESP
-?,R16,2,(Tue) 11 Mar 2014 (W10),Atletico Madrid (8),4-1,2-1,AC Milan (10),,,ESP,ITA
-?,R16,2,(Tue) 11 Mar 2014 (W10),Bayern München (8),1-1,0-0,Arsenal FC (10),,,GER,ENG
-?,R16,2,(Wed) 12 Mar 2014 (W10),FC Barcelona (8),2-1,0-0,Manchester City FC (8),,,ESP,ENG
-?,R16,2,(Wed) 12 Mar 2014 (W10),Paris Saint-Germain (8),2-1,1-1,Bayer 04 Leverkusen (8),,,FRA,GER
-?,R16,2,(Tue) 18 Mar 2014 (W11),Chelsea FC (8),2-0,2-0,Galatasaray İstanbul AŞ (8),,,ENG,TUR
-?,R16,2,(Tue) 18 Mar 2014 (W11),Real Madrid CF (8),3-1,1-1,FC Schalke 04 (10),,,ESP,GER
-?,R16,2,(Wed) 19 Mar 2014 (W11),Borussia Dortmund (8),1-2,1-1,Zenit St. Petersburg (12),,,GER,RUS
-?,R16,2,(Wed) 19 Mar 2014 (W11),Manchester United FC (8),3-0,2-0,Olympiacos (8),,,ENG,GRE
-?,QF,1,(Tue) 1 Apr 2014 (W13),FC Barcelona (9),1-1,0-0,Atletico Madrid (9),,,ESP,ESP
-?,QF,1,(Tue) 1 Apr 2014 (W13),Manchester United FC (9),1-1,0-0,Bayern München (9),,,ENG,GER
-?,QF,1,(Wed) 2 Apr 2014 (W13),Paris Saint-Germain (9),3-1,1-1,Chelsea FC (9),,,FRA,ENG
-?,QF,1,(Wed) 2 Apr 2014 (W13),Real Madrid CF (9),3-0,2-0,Borussia Dortmund (9),,,ESP,GER
-?,QF,2,(Tue) 8 Apr 2014 (W14),Chelsea FC (10),2-0,1-0,Paris Saint-Germain (10),,,ENG,FRA
-?,QF,2,(Tue) 8 Apr 2014 (W14),Borussia Dortmund (10),2-0,2-0,Real Madrid CF (10),,,GER,ESP
-?,QF,2,(Wed) 9 Apr 2014 (W14),Atletico Madrid (10),1-0,1-0,FC Barcelona (10),,,ESP,ESP
-?,QF,2,(Wed) 9 Apr 2014 (W14),Bayern München (10),3-1,0-0,Manchester United FC (10),,,GER,ENG
-?,SF,1,(Tue) 22 Apr 2014 (W16),Atletico Madrid (11),0-0,0-0,Chelsea FC (11),,,ESP,ENG
-?,SF,1,(Wed) 23 Apr 2014 (W16),Real Madrid CF (11),1-0,1-0,Bayern München (11),,,ESP,GER
-?,SF,2,(Tue) 29 Apr 2014 (W17),Bayern München (12),0-4,0-3,Real Madrid CF (12),,,GER,ESP
-?,SF,2,(Wed) 30 Apr 2014 (W17),Chelsea FC (12),1-3,1-1,Atletico Madrid (12),,,ENG,ESP
-?,final,,(Sat) 24 May 2014 (W20),Real Madrid CF (13),1-1,0-0,Atletico Madrid (13),4-1 (a.e.t.),,ESP,ESP
+Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+Qualifying,Qualifying Round 1,,,(Tue) 2 Jul 2013 (W26),Lusitanos (1),2-2,0-0,EB / Streymur (1),,,AND,FRO
+Qualifying,Qualifying Round 1,,,(Tue) 2 Jul 2013 (W26),Shirak (1),3-0,0-0,Tre Penne (1),,,ARM,SMR
+Qualifying,Qualifying Round 1,,,(Tue) 9 Jul 2013 (W27),EB / Streymur (2),5-1,0-0,Lusitanos (2),,,FRO,AND
+Qualifying,Qualifying Round 1,,,(Tue) 9 Jul 2013 (W27),Tre Penne (2),1-0,0-0,Shirak (2),,,SMR,ARM
+Qualifying,Qualifying Round 2,,,(Tue) 16 Jul 2013 (W28),BATE Borisov (1),0-1,0-0,Shakhter Karagandy (1),,,BLR,KAZ
+Qualifying,Qualifying Round 2,,,(Tue) 16 Jul 2013 (W28),Birkirkara (1),0-0,0-0,NK Maribor (1),,,MLT,SVN
+Qualifying,Qualifying Round 2,,,(Tue) 16 Jul 2013 (W28),Dinamo Tbilisi (1),6-1,0-0,EB / Streymur (3),,,GEO,FRO
+Qualifying,Qualifying Round 2,,,(Tue) 16 Jul 2013 (W28),Fola Esch (1),0-5,0-0,Dinamo Zagreb (1),,,LUX,CRO
+Qualifying,Qualifying Round 2,,,(Tue) 16 Jul 2013 (W28),FK Ekranas (1),0-1,0-0,FH (1),,,LTU,ISL
+Qualifying,Qualifying Round 2,,,(Tue) 16 Jul 2013 (W28),Sheriff Tiraspol (1),1-1,0-0,Sutjeska Niksic (1),,,MDA,MNE
+Qualifying,Qualifying Round 2,,,(Tue) 16 Jul 2013 (W28),Steaua Bucuresti (1),3-0,0-0,Vardar Skopje (1),,,ROU,MKD
+Qualifying,Qualifying Round 2,,,(Tue) 16 Jul 2013 (W28),Viktoria Plzen (1),4-3,0-0,Zeljeznicar Sarajevo (1),,,CZE,BIH
+Qualifying,Qualifying Round 2,,,(Wed) 17 Jul 2013 (W28),Cliftonville (1),0-3,0-0,Celtic FC (1),,,NIR,SCO
+Qualifying,Qualifying Round 2,,,(Wed) 17 Jul 2013 (W28),Elfsborg (1),7-1,0-0,Daugava Daugavpils (1),,,SWE,LVA
+Qualifying,Qualifying Round 2,,,(Wed) 17 Jul 2013 (W28),Gyori ETO (1),0-2,0-0,Maccabi Tel Aviv (1),,,HUN,ISR
+Qualifying,Qualifying Round 2,,,(Wed) 17 Jul 2013 (W28),HJK Helsinki (1),0-0,0-0,Nomme Kalju (1),,,FIN,EST
+Qualifying,Qualifying Round 2,,,(Wed) 17 Jul 2013 (W28),The New Saints (1),1-3,0-0,Legia Warsaw (1),,,WAL,POL
+Qualifying,Qualifying Round 2,,,(Wed) 17 Jul 2013 (W28),Sligo Rovers (1),0-1,0-0,Molde FK (1),,,IRL,NOR
+Qualifying,Qualifying Round 2,,,(Wed) 17 Jul 2013 (W28),Neftchi PFC Baku (1),0-0,0-0,Skenderbeu Korce (1),,,AZE,ALB
+Qualifying,Qualifying Round 2,,,(Wed) 17 Jul 2013 (W28),SK Slovan Bratislava (1),2-1,0-0,PFC Ludogorets Razgrad (1),,,SVK,BUL
+Qualifying,Qualifying Round 2,,,(Wed) 17 Jul 2013 (W28),Shirak (3),1-1,0-0,Partizan Belgrade (1),,,ARM,SRB
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),Shakhter Karagandy (2),1-0,0-0,BATE Borisov (2),,,KAZ,BLR
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),Celtic FC (2),2-0,0-0,Cliftonville (2),,,SCO,NIR
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),Daugava Daugavpils (2),0-4,0-0,Elfsborg (2),,,LVA,SWE
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),EB / Streymur (4),1-3,0-0,Dinamo Tbilisi (2),,,FRO,GEO
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),Dinamo Zagreb (2),1-0,0-0,Fola Esch (2),,,CRO,LUX
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),FH (2),2-1,0-0,FK Ekranas (2),,,ISL,LTU
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),Maccabi Tel Aviv (2),2-1,0-0,Gyori ETO (2),,,ISR,HUN
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),Nomme Kalju (2),2-1,0-0,HJK Helsinki (2),,,EST,FIN
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),Molde FK (2),2-0,0-0,Sligo Rovers (2),,,NOR,IRL
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),Skenderbeu Korce (2),0-0,0-0,Neftchi PFC Baku (2),1-0 (a.e.t.),,ALB,AZE
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),Sutjeska Niksic (2),0-5,0-0,Sheriff Tiraspol (2),,,MNE,MDA
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),Vardar Skopje (2),1-2,0-0,Steaua Bucuresti (2),,,MKD,ROU
+Qualifying,Qualifying Round 2,,,(Tue) 23 Jul 2013 (W29),Zeljeznicar Sarajevo (2),1-2,0-0,Viktoria Plzen (2),,,BIH,CZE
+Qualifying,Qualifying Round 2,,,(Wed) 24 Jul 2013 (W29),NK Maribor (2),2-0,0-0,Birkirkara (2),,,SVN,MLT
+Qualifying,Qualifying Round 2,,,(Wed) 24 Jul 2013 (W29),Legia Warsaw (2),1-0,0-0,The New Saints (2),,,POL,WAL
+Qualifying,Qualifying Round 2,,,(Wed) 24 Jul 2013 (W29),PFC Ludogorets Razgrad (2),3-0,0-0,SK Slovan Bratislava (2),,,BUL,SVK
+Qualifying,Qualifying Round 2,,,(Wed) 24 Jul 2013 (W29),Partizan Belgrade (2),0-0,0-0,Shirak (4),,,SRB,ARM
+Qualifying,Qualifying Round 3,,,(Tue) 30 Jul 2013 (W30),Austria Wien (1),1-0,0-0,FH (3),,,AUT,ISL
+Qualifying,Qualifying Round 3,,,(Tue) 30 Jul 2013 (W30),Basel (1),1-0,0-0,Maccabi Tel Aviv (3),,,SUI,ISR
+Qualifying,Qualifying Round 3,,,(Tue) 30 Jul 2013 (W30),Dinamo Tbilisi (3),0-2,0-0,Steaua Bucuresti (3),,,GEO,ROU
+Qualifying,Qualifying Round 3,,,(Tue) 30 Jul 2013 (W30),Dinamo Zagreb (3),1-0,0-0,Sheriff Tiraspol (3),,,CRO,MDA
+Qualifying,Qualifying Round 3,,,(Tue) 30 Jul 2013 (W30),Olympique Lyon (1),1-0,0-0,Grasshoppers Zurich (1),,,FRA,SUI
+Qualifying,Qualifying Round 3,,,(Tue) 30 Jul 2013 (W30),PAOK FC (1),0-2,0-0,Metalist Kharkiv (1),,,GRE,UKR
+Qualifying,Qualifying Round 3,,,(Tue) 30 Jul 2013 (W30),Nomme Kalju (3),0-4,0-0,Viktoria Plzen (3),,,EST,CZE
+Qualifying,Qualifying Round 3,,,(Tue) 30 Jul 2013 (W30),Nordsjaelland (1),0-1,0-0,Zenit St. Petersburg (1),,,DEN,RUS
+Qualifying,Qualifying Round 3,,,(Tue) 30 Jul 2013 (W30),PSV Eindhoven (1),2-0,0-0,Zulte-Waregem (1),,,NED,BEL
+Qualifying,Qualifying Round 3,,,(Tue) 30 Jul 2013 (W30),Shakhter Karagandy (3),3-0,0-0,Skenderbeu Korce (3),,,KAZ,ALB
+Qualifying,Qualifying Round 3,,,(Wed) 31 Jul 2013 (W30),APOEL Nikosia (1),1-1,0-0,NK Maribor (3),,,CYP,SVN
+Qualifying,Qualifying Round 3,,,(Wed) 31 Jul 2013 (W30),Molde FK (3),1-1,0-0,Legia Warsaw (3),,,NOR,POL
+Qualifying,Qualifying Round 3,,,(Wed) 31 Jul 2013 (W30),Celtic FC (3),1-0,0-0,Elfsborg (3),,,SCO,SWE
+Qualifying,Qualifying Round 3,,,(Wed) 31 Jul 2013 (W30),FC RB Salzburg (1),1-1,0-0,Fenerbahçe İstanbul SK (1),,,AUT,TUR
+Qualifying,Qualifying Round 3,,,(Wed) 31 Jul 2013 (W30),PFC Ludogorets Razgrad (3),2-1,0-0,Partizan Belgrade (3),,,BUL,SRB
+Qualifying,Qualifying Round 3,,,(Tue) 6 Aug 2013 (W31),NK Maribor (4),0-0,0-0,APOEL Nikosia (2),,,SVN,CYP
+Qualifying,Qualifying Round 3,,,(Tue) 6 Aug 2013 (W31),Maccabi Tel Aviv (4),3-3,0-0,Basel (2),,,ISR,SUI
+Qualifying,Qualifying Round 3,,,(Tue) 6 Aug 2013 (W31),Steaua Bucuresti (4),1-1,0-0,Dinamo Tbilisi (4),,,ROU,GEO
+Qualifying,Qualifying Round 3,,,(Tue) 6 Aug 2013 (W31),Fenerbahçe İstanbul SK (2),3-1,0-0,FC RB Salzburg (2),,,TUR,AUT
+Qualifying,Qualifying Round 3,,,(Tue) 6 Aug 2013 (W31),Grasshoppers Zurich (2),0-1,0-0,Olympique Lyon (2),,,SUI,FRA
+Qualifying,Qualifying Round 3,,,(Tue) 6 Aug 2013 (W31),Skenderbeu Korce (4),3-2,0-0,Shakhter Karagandy (4),,,ALB,KAZ
+Qualifying,Qualifying Round 3,,,(Tue) 6 Aug 2013 (W31),Partizan Belgrade (4),0-1,0-0,PFC Ludogorets Razgrad (4),,,SRB,BUL
+Qualifying,Qualifying Round 3,,,(Wed) 7 Aug 2013 (W31),Legia Warsaw (4),0-0,0-0,Molde FK (4),,,POL,NOR
+Qualifying,Qualifying Round 3,,,(Wed) 7 Aug 2013 (W31),FH (4),0-0,0-0,Austria Wien (2),,,ISL,AUT
+Qualifying,Qualifying Round 3,,,(Wed) 7 Aug 2013 (W31),Elfsborg (4),0-0,0-0,Celtic FC (4),,,SWE,SCO
+Qualifying,Qualifying Round 3,,,(Wed) 7 Aug 2013 (W31),Sheriff Tiraspol (4),0-3,0-0,Dinamo Zagreb (4),,,MDA,CRO
+Qualifying,Qualifying Round 3,,,(Wed) 7 Aug 2013 (W31),Metalist Kharkiv (2),1-1,0-0,PAOK FC (2),,,UKR,GRE
+Qualifying,Qualifying Round 3,,,(Wed) 7 Aug 2013 (W31),Viktoria Plzen (4),6-2,0-0,Nomme Kalju (4),,,CZE,EST
+Qualifying,Qualifying Round 3,,,(Wed) 7 Aug 2013 (W31),Zenit St. Petersburg (2),5-0,0-0,Nordsjaelland (2),,,RUS,DEN
+Qualifying,Qualifying Round 3,,,(Wed) 7 Aug 2013 (W31),Zulte-Waregem (2),0-3,0-0,PSV Eindhoven (2),,,BEL,NED
+Qualifying,Playoff Round,,,(Tue) 20 Aug 2013 (W33),PSV Eindhoven (3),1-1,0-0,AC Milan (1),,,NED,ITA
+Qualifying,Playoff Round,,,(Tue) 20 Aug 2013 (W33),Shakhter Karagandy (5),2-0,0-0,Celtic FC (5),,,KAZ,SCO
+Qualifying,Playoff Round,,,(Tue) 20 Aug 2013 (W33),Viktoria Plzen (5),3-1,0-0,NK Maribor (5),,,CZE,SVN
+Qualifying,Playoff Round,,,(Tue) 20 Aug 2013 (W33),Olympique Lyon (3),0-2,0-0,Real Sociedad (1),,,FRA,ESP
+Qualifying,Playoff Round,,,(Tue) 20 Aug 2013 (W33),Pacos de Ferreira (1),1-4,0-0,Zenit St. Petersburg (3),,,POR,RUS
+Qualifying,Playoff Round,,,(Wed) 21 Aug 2013 (W33),Steaua Bucuresti (5),1-1,0-0,Legia Warsaw (5),,,ROU,POL
+Qualifying,Playoff Round,,,(Wed) 21 Aug 2013 (W33),Fenerbahçe İstanbul SK (3),0-3,0-0,Arsenal FC (1),,,TUR,ENG
+Qualifying,Playoff Round,,,(Wed) 21 Aug 2013 (W33),Dinamo Zagreb (5),0-2,0-0,Austria Wien (3),,,CRO,AUT
+Qualifying,Playoff Round,,,(Wed) 21 Aug 2013 (W33),PFC Ludogorets Razgrad (5),2-4,0-0,Basel (3),,,BUL,SUI
+Qualifying,Playoff Round,,,(Wed) 21 Aug 2013 (W33),FC Schalke 04 (1),1-1,0-0,PAOK FC (3),,,GER,GRE
+Qualifying,Playoff Round,,,(Tue) 27 Aug 2013 (W34),Legia Warsaw (6),2-2,0-0,Steaua Bucuresti (6),,,POL,ROU
+Qualifying,Playoff Round,,,(Tue) 27 Aug 2013 (W34),Arsenal FC (2),2-0,0-0,Fenerbahçe İstanbul SK (4),,,ENG,TUR
+Qualifying,Playoff Round,,,(Tue) 27 Aug 2013 (W34),Austria Wien (4),2-3,0-0,Dinamo Zagreb (6),,,AUT,CRO
+Qualifying,Playoff Round,,,(Tue) 27 Aug 2013 (W34),Basel (4),2-0,0-0,PFC Ludogorets Razgrad (6),,,SUI,BUL
+Qualifying,Playoff Round,,,(Tue) 27 Aug 2013 (W34),PAOK FC (4),2-3,0-0,FC Schalke 04 (2),,,GRE,GER
+Qualifying,Playoff Round,,,(Wed) 28 Aug 2013 (W34),AC Milan (2),3-0,0-0,PSV Eindhoven (4),,,ITA,NED
+Qualifying,Playoff Round,,,(Wed) 28 Aug 2013 (W34),Celtic FC (6),3-0,0-0,Shakhter Karagandy (6),,,SCO,KAZ
+Qualifying,Playoff Round,,,(Wed) 28 Aug 2013 (W34),NK Maribor (6),0-1,0-0,Viktoria Plzen (6),,,SVN,CZE
+Qualifying,Playoff Round,,,(Wed) 28 Aug 2013 (W34),Real Sociedad (2),2-0,0-0,Olympique Lyon (4),,,ESP,FRA
+Qualifying,Playoff Round,,,(Wed) 28 Aug 2013 (W34),Zenit St. Petersburg (4),4-2,0-0,Pacos de Ferreira (2),,,RUS,POR
+Group,Matchday ?,A,,(Tue) 17 Sep 2013 (W37),Manchester United FC (1),4-2,1-0,Bayer 04 Leverkusen (1),,,ENG,GER
+Group,Matchday ?,D,,(Tue) 17 Sep 2013 (W37),Bayern München (1),3-0,2-0,CSKA Moskva (1),,,GER,RUS
+Group,Matchday ?,B,,(Tue) 17 Sep 2013 (W37),Galatasaray İstanbul AŞ (1),1-6,0-1,Real Madrid CF (1),,,TUR,ESP
+Group,Matchday ?,B,,(Tue) 17 Sep 2013 (W37),Kobenhavn (1),1-1,1-0,Juventus (1),,,DEN,ITA
+Group,Matchday ?,D,,(Tue) 17 Sep 2013 (W37),Viktoria Plzen (7),0-3,0-0,Manchester City FC (1),,,CZE,ENG
+Group,Matchday ?,C,,(Tue) 17 Sep 2013 (W37),Olympiacos (1),1-4,1-1,Paris Saint-Germain (1),,,GRE,FRA
+Group,Matchday ?,A,,(Tue) 17 Sep 2013 (W37),Real Sociedad (3),0-2,0-0,Shakhtar Donetsk (1),,,ESP,UKR
+Group,Matchday ?,C,,(Tue) 17 Sep 2013 (W37),SL Benfica (1),2-0,2-0,RSC Anderlecht (1),,,POR,BEL
+Group,Matchday ?,H,,(Wed) 18 Sep 2013 (W37),AC Milan (3),2-0,0-0,Celtic FC (7),,,ITA,SCO
+Group,Matchday ?,H,,(Wed) 18 Sep 2013 (W37),FC Barcelona (1),4-0,1-0,AFC Ajax (1),,,ESP,NED
+Group,Matchday ?,F,,(Wed) 18 Sep 2013 (W37),Olympique Marseille (1),1-2,0-0,Arsenal FC (3),,,FRA,ENG
+Group,Matchday ?,G,,(Wed) 18 Sep 2013 (W37),Atletico Madrid (1),3-1,1-0,Zenit St. Petersburg (5),,,ESP,RUS
+Group,Matchday ?,G,,(Wed) 18 Sep 2013 (W37),Austria Wien (5),0-1,0-0,FC Porto (1),,,AUT,POR
+Group,Matchday ?,E,,(Wed) 18 Sep 2013 (W37),Chelsea FC (1),1-2,1-0,Basel (5),,,ENG,SUI
+Group,Matchday ?,F,,(Wed) 18 Sep 2013 (W37),SSC Napoli (1),2-1,1-0,Borussia Dortmund (1),,,ITA,GER
+Group,Matchday ?,E,,(Wed) 18 Sep 2013 (W37),FC Schalke 04 (3),3-0,0-0,Steaua Bucuresti (7),,,GER,ROU
+Group,Matchday ?,H,,(Tue) 1 Oct 2013 (W39),AFC Ajax (2),1-1,0-0,AC Milan (4),,,NED,ITA
+Group,Matchday ?,F,,(Tue) 1 Oct 2013 (W39),Arsenal FC (4),2-0,2-0,SSC Napoli (2),,,ENG,ITA
+Group,Matchday ?,G,,(Tue) 1 Oct 2013 (W39),FC Porto (2),1-2,1-0,Atletico Madrid (2),,,POR,ESP
+Group,Matchday ?,G,,(Tue) 1 Oct 2013 (W39),Zenit St. Petersburg (6),0-0,0-0,Austria Wien (6),,,RUS,AUT
+Group,Matchday ?,H,,(Tue) 1 Oct 2013 (W39),Celtic FC (8),0-1,0-0,FC Barcelona (2),,,SCO,ESP
+Group,Matchday ?,E,,(Tue) 1 Oct 2013 (W39),Basel (6),0-1,0-0,FC Schalke 04 (4),,,SUI,GER
+Group,Matchday ?,F,,(Tue) 1 Oct 2013 (W39),Borussia Dortmund (2),3-0,1-0,Olympique Marseille (2),,,GER,FRA
+Group,Matchday ?,E,,(Tue) 1 Oct 2013 (W39),Steaua Bucuresti (8),0-4,0-2,Chelsea FC (2),,,ROU,ENG
+Group,Matchday ?,A,,(Wed) 2 Oct 2013 (W39),Bayer 04 Leverkusen (2),2-1,1-0,Real Sociedad (4),,,GER,ESP
+Group,Matchday ?,D,,(Wed) 2 Oct 2013 (W39),Manchester City FC (2),1-3,0-1,Bayern München (2),,,ENG,GER
+Group,Matchday ?,D,,(Wed) 2 Oct 2013 (W39),CSKA Moskva (2),3-2,2-1,Viktoria Plzen (8),,,RUS,CZE
+Group,Matchday ?,B,,(Wed) 2 Oct 2013 (W39),Juventus (2),2-2,0-1,Galatasaray İstanbul AŞ (2),,,ITA,TUR
+Group,Matchday ?,B,,(Wed) 2 Oct 2013 (W39),Real Madrid CF (2),4-0,1-0,Kobenhavn (2),,,ESP,DEN
+Group,Matchday ?,A,,(Wed) 2 Oct 2013 (W39),Shakhtar Donetsk (2),1-1,0-1,Manchester United FC (2),,,UKR,ENG
+Group,Matchday ?,C,,(Wed) 2 Oct 2013 (W39),RSC Anderlecht (2),0-3,0-1,Olympiacos (2),,,BEL,GRE
+Group,Matchday ?,C,,(Wed) 2 Oct 2013 (W39),Paris Saint-Germain (2),3-0,3-0,SL Benfica (2),,,FRA,POR
+Group,Matchday ?,H,,(Tue) 22 Oct 2013 (W42),AC Milan (5),1-1,1-1,FC Barcelona (3),,,ITA,ESP
+Group,Matchday ?,H,,(Tue) 22 Oct 2013 (W42),Celtic FC (9),2-1,1-0,AFC Ajax (3),,,SCO,NED
+Group,Matchday ?,F,,(Tue) 22 Oct 2013 (W42),Arsenal FC (5),1-2,1-1,Borussia Dortmund (3),,,ENG,GER
+Group,Matchday ?,G,,(Tue) 22 Oct 2013 (W42),Austria Wien (7),0-3,0-2,Atletico Madrid (3),,,AUT,ESP
+Group,Matchday ?,E,,(Tue) 22 Oct 2013 (W42),Steaua Bucuresti (9),1-1,0-0,Basel (7),,,ROU,SUI
+Group,Matchday ?,E,,(Tue) 22 Oct 2013 (W42),FC Schalke 04 (5),0-3,0-1,Chelsea FC (3),,,GER,ENG
+Group,Matchday ?,G,,(Tue) 22 Oct 2013 (W42),FC Porto (3),0-1,0-0,Zenit St. Petersburg (7),,,POR,RUS
+Group,Matchday ?,F,,(Tue) 22 Oct 2013 (W42),Olympique Marseille (3),1-2,0-1,SSC Napoli (3),,,FRA,ITA
+Group,Matchday ?,A,,(Wed) 23 Oct 2013 (W42),Bayer 04 Leverkusen (3),4-0,1-0,Shakhtar Donetsk (3),,,GER,UKR
+Group,Matchday ?,D,,(Wed) 23 Oct 2013 (W42),Bayern München (3),5-0,2-0,Viktoria Plzen (9),,,GER,CZE
+Group,Matchday ?,D,,(Wed) 23 Oct 2013 (W42),CSKA Moskva (3),1-2,1-2,Manchester City FC (3),,,RUS,ENG
+Group,Matchday ?,B,,(Wed) 23 Oct 2013 (W42),Galatasaray İstanbul AŞ (3),3-1,3-0,Kobenhavn (3),,,TUR,DEN
+Group,Matchday ?,B,,(Wed) 23 Oct 2013 (W42),Real Madrid CF (3),2-1,2-1,Juventus (3),,,ESP,ITA
+Group,Matchday ?,A,,(Wed) 23 Oct 2013 (W42),Manchester United FC (3),1-0,1-0,Real Sociedad (5),,,ENG,ESP
+Group,Matchday ?,C,,(Wed) 23 Oct 2013 (W42),SL Benfica (3),1-1,0-1,Olympiacos (3),,,POR,GRE
+Group,Matchday ?,C,,(Wed) 23 Oct 2013 (W42),RSC Anderlecht (3),0-5,0-3,Paris Saint-Germain (3),,,BEL,FRA
+Group,Matchday ?,A,,(Tue) 5 Nov 2013 (W44),Shakhtar Donetsk (4),0-0,0-0,Bayer 04 Leverkusen (4),,,UKR,GER
+Group,Matchday ?,D,,(Tue) 5 Nov 2013 (W44),Viktoria Plzen (10),0-1,0-0,Bayern München (4),,,CZE,GER
+Group,Matchday ?,D,,(Tue) 5 Nov 2013 (W44),Manchester City FC (4),5-2,3-1,CSKA Moskva (4),,,ENG,RUS
+Group,Matchday ?,B,,(Tue) 5 Nov 2013 (W44),Kobenhavn (4),1-0,1-0,Galatasaray İstanbul AŞ (4),,,DEN,TUR
+Group,Matchday ?,B,,(Tue) 5 Nov 2013 (W44),Juventus (4),2-2,1-0,Real Madrid CF (4),,,ITA,ESP
+Group,Matchday ?,A,,(Tue) 5 Nov 2013 (W44),Real Sociedad (6),0-0,0-0,Manchester United FC (4),,,ESP,ENG
+Group,Matchday ?,C,,(Tue) 5 Nov 2013 (W44),Olympiacos (4),1-0,1-0,SL Benfica (4),,,GRE,POR
+Group,Matchday ?,C,,(Tue) 5 Nov 2013 (W44),Paris Saint-Germain (4),1-1,0-0,RSC Anderlecht (4),,,FRA,BEL
+Group,Matchday ?,H,,(Wed) 6 Nov 2013 (W44),FC Barcelona (4),3-1,2-1,AC Milan (6),,,ESP,ITA
+Group,Matchday ?,H,,(Wed) 6 Nov 2013 (W44),AFC Ajax (4),1-0,0-0,Celtic FC (10),,,NED,SCO
+Group,Matchday ?,F,,(Wed) 6 Nov 2013 (W44),Borussia Dortmund (4),0-1,0-0,Arsenal FC (6),,,GER,ENG
+Group,Matchday ?,G,,(Wed) 6 Nov 2013 (W44),Atletico Madrid (4),4-0,3-0,Austria Wien (8),,,ESP,AUT
+Group,Matchday ?,E,,(Wed) 6 Nov 2013 (W44),Basel (8),1-1,0-1,Steaua Bucuresti (10),,,SUI,ROU
+Group,Matchday ?,E,,(Wed) 6 Nov 2013 (W44),Chelsea FC (4),3-0,1-0,FC Schalke 04 (6),,,ENG,GER
+Group,Matchday ?,G,,(Wed) 6 Nov 2013 (W44),Zenit St. Petersburg (8),1-1,1-1,FC Porto (4),,,RUS,POR
+Group,Matchday ?,F,,(Wed) 6 Nov 2013 (W44),SSC Napoli (4),3-2,2-1,Olympique Marseille (4),,,ITA,FRA
+Group,Matchday ?,H,,(Tue) 26 Nov 2013 (W47),Celtic FC (11),0-3,0-1,AC Milan (7),,,SCO,ITA
+Group,Matchday ?,H,,(Tue) 26 Nov 2013 (W47),AFC Ajax (5),2-1,2-0,FC Barcelona (5),,,NED,ESP
+Group,Matchday ?,F,,(Tue) 26 Nov 2013 (W47),Arsenal FC (7),2-0,1-0,Olympique Marseille (5),,,ENG,FRA
+Group,Matchday ?,G,,(Tue) 26 Nov 2013 (W47),Zenit St. Petersburg (9),1-1,0-0,Atletico Madrid (5),,,RUS,ESP
+Group,Matchday ?,G,,(Tue) 26 Nov 2013 (W47),FC Porto (5),1-1,0-1,Austria Wien (9),,,POR,AUT
+Group,Matchday ?,E,,(Tue) 26 Nov 2013 (W47),Basel (9),1-0,0-0,Chelsea FC (5),,,SUI,ENG
+Group,Matchday ?,F,,(Tue) 26 Nov 2013 (W47),Borussia Dortmund (5),3-1,1-0,SSC Napoli (5),,,GER,ITA
+Group,Matchday ?,E,,(Tue) 26 Nov 2013 (W47),Steaua Bucuresti (11),0-0,0-0,FC Schalke 04 (7),,,ROU,GER
+Group,Matchday ?,A,,(Wed) 27 Nov 2013 (W47),Bayer 04 Leverkusen (5),0-5,0-2,Manchester United FC (5),,,GER,ENG
+Group,Matchday ?,D,,(Wed) 27 Nov 2013 (W47),CSKA Moskva (5),1-3,0-1,Bayern München (5),,,RUS,GER
+Group,Matchday ?,B,,(Wed) 27 Nov 2013 (W47),Real Madrid CF (5),4-1,1-1,Galatasaray İstanbul AŞ (5),,,ESP,TUR
+Group,Matchday ?,B,,(Wed) 27 Nov 2013 (W47),Juventus (5),3-1,1-0,Kobenhavn (5),,,ITA,DEN
+Group,Matchday ?,D,,(Wed) 27 Nov 2013 (W47),Manchester City FC (5),4-2,1-1,Viktoria Plzen (11),,,ENG,CZE
+Group,Matchday ?,C,,(Wed) 27 Nov 2013 (W47),Paris Saint-Germain (5),2-1,1-0,Olympiacos (5),,,FRA,GRE
+Group,Matchday ?,A,,(Wed) 27 Nov 2013 (W47),Shakhtar Donetsk (5),4-0,1-0,Real Sociedad (7),,,UKR,ESP
+Group,Matchday ?,C,,(Wed) 27 Nov 2013 (W47),RSC Anderlecht (5),2-3,1-1,SL Benfica (5),,,BEL,POR
+Group,Matchday ?,A,,(Tue) 10 Dec 2013 (W49),Real Sociedad (8),0-1,0-0,Bayer 04 Leverkusen (6),,,ESP,GER
+Group,Matchday ?,D,,(Tue) 10 Dec 2013 (W49),Bayern München (6),2-3,2-1,Manchester City FC (6),,,GER,ENG
+Group,Matchday ?,D,,(Tue) 10 Dec 2013 (W49),Viktoria Plzen (12),2-1,0-0,CSKA Moskva (6),,,CZE,RUS
+Group,Matchday ?,B,,(Tue) 10 Dec 2013 (W49),Kobenhavn (6),0-2,0-1,Real Madrid CF (6),,,DEN,ESP
+Group,Matchday ?,A,,(Tue) 10 Dec 2013 (W49),Manchester United FC (6),1-0,0-0,Shakhtar Donetsk (6),,,ENG,UKR
+Group,Matchday ?,C,,(Tue) 10 Dec 2013 (W49),Olympiacos (6),3-1,1-1,RSC Anderlecht (6),,,GRE,BEL
+Group,Matchday ?,C,,(Tue) 10 Dec 2013 (W49),SL Benfica (6),2-1,1-1,Paris Saint-Germain (6),,,POR,FRA
+Group,Matchday ?,H,,(Wed) 11 Dec 2013 (W49),AC Milan (8),0-0,0-0,AFC Ajax (6),,,ITA,NED
+Group,Matchday ?,F,,(Wed) 11 Dec 2013 (W49),SSC Napoli (6),2-0,0-0,Arsenal FC (8),,,ITA,ENG
+Group,Matchday ?,G,,(Wed) 11 Dec 2013 (W49),Atletico Madrid (6),2-0,2-0,FC Porto (6),,,ESP,POR
+Group,Matchday ?,G,,(Wed) 11 Dec 2013 (W49),Austria Wien (10),4-1,1-1,Zenit St. Petersburg (10),,,AUT,RUS
+Group,Matchday ?,H,,(Wed) 11 Dec 2013 (W49),FC Barcelona (6),6-1,3-0,Celtic FC (12),,,ESP,SCO
+Group,Matchday ?,E,,(Wed) 11 Dec 2013 (W49),FC Schalke 04 (8),2-0,0-0,Basel (10),,,GER,SUI
+Group,Matchday ?,F,,(Wed) 11 Dec 2013 (W49),Olympique Marseille (6),1-2,1-1,Borussia Dortmund (6),,,FRA,GER
+Group,Matchday ?,E,,(Wed) 11 Dec 2013 (W49),Chelsea FC (6),1-0,1-0,Steaua Bucuresti (12),,,ENG,ROU
+Group,Matchday ?,B,,(Wed) 11 Dec 2013 (W49),Galatasaray İstanbul AŞ (6),1-0,0-0,Juventus (6),,,TUR,ITA
+Knockout,Round of 16,,,(Tue) 18 Feb 2014 (W7),Manchester City FC (7),0-2,0-0,FC Barcelona (7),,,ENG,ESP
+Knockout,Round of 16,,,(Tue) 18 Feb 2014 (W7),Bayer 04 Leverkusen (7),0-4,0-3,Paris Saint-Germain (7),,,GER,FRA
+Knockout,Round of 16,,,(Wed) 19 Feb 2014 (W7),AC Milan (9),0-1,0-0,Atletico Madrid (7),,,ITA,ESP
+Knockout,Round of 16,,,(Wed) 19 Feb 2014 (W7),Arsenal FC (9),0-2,0-0,Bayern München (7),,,ENG,GER
+Knockout,Round of 16,,,(Tue) 25 Feb 2014 (W8),Zenit St. Petersburg (11),2-4,0-2,Borussia Dortmund (7),,,RUS,GER
+Knockout,Round of 16,,,(Tue) 25 Feb 2014 (W8),Olympiacos (7),2-0,1-0,Manchester United FC (7),,,GRE,ENG
+Knockout,Round of 16,,,(Wed) 26 Feb 2014 (W8),Galatasaray İstanbul AŞ (7),1-1,0-1,Chelsea FC (7),,,TUR,ENG
+Knockout,Round of 16,,,(Wed) 26 Feb 2014 (W8),FC Schalke 04 (9),1-6,0-2,Real Madrid CF (7),,,GER,ESP
+Knockout,Round of 16,,,(Tue) 11 Mar 2014 (W10),Atletico Madrid (8),4-1,2-1,AC Milan (10),,,ESP,ITA
+Knockout,Round of 16,,,(Tue) 11 Mar 2014 (W10),Bayern München (8),1-1,0-0,Arsenal FC (10),,,GER,ENG
+Knockout,Round of 16,,,(Wed) 12 Mar 2014 (W10),FC Barcelona (8),2-1,0-0,Manchester City FC (8),,,ESP,ENG
+Knockout,Round of 16,,,(Wed) 12 Mar 2014 (W10),Paris Saint-Germain (8),2-1,1-1,Bayer 04 Leverkusen (8),,,FRA,GER
+Knockout,Round of 16,,,(Tue) 18 Mar 2014 (W11),Chelsea FC (8),2-0,2-0,Galatasaray İstanbul AŞ (8),,,ENG,TUR
+Knockout,Round of 16,,,(Tue) 18 Mar 2014 (W11),Real Madrid CF (8),3-1,1-1,FC Schalke 04 (10),,,ESP,GER
+Knockout,Round of 16,,,(Wed) 19 Mar 2014 (W11),Borussia Dortmund (8),1-2,1-1,Zenit St. Petersburg (12),,,GER,RUS
+Knockout,Round of 16,,,(Wed) 19 Mar 2014 (W11),Manchester United FC (8),3-0,2-0,Olympiacos (8),,,ENG,GRE
+Knockout,Quarterfinals,,,(Tue) 1 Apr 2014 (W13),FC Barcelona (9),1-1,0-0,Atletico Madrid (9),,,ESP,ESP
+Knockout,Quarterfinals,,,(Tue) 1 Apr 2014 (W13),Manchester United FC (9),1-1,0-0,Bayern München (9),,,ENG,GER
+Knockout,Quarterfinals,,,(Wed) 2 Apr 2014 (W13),Paris Saint-Germain (9),3-1,1-1,Chelsea FC (9),,,FRA,ENG
+Knockout,Quarterfinals,,,(Wed) 2 Apr 2014 (W13),Real Madrid CF (9),3-0,2-0,Borussia Dortmund (9),,,ESP,GER
+Knockout,Quarterfinals,,,(Tue) 8 Apr 2014 (W14),Chelsea FC (10),2-0,1-0,Paris Saint-Germain (10),,,ENG,FRA
+Knockout,Quarterfinals,,,(Tue) 8 Apr 2014 (W14),Borussia Dortmund (10),2-0,2-0,Real Madrid CF (10),,,GER,ESP
+Knockout,Quarterfinals,,,(Wed) 9 Apr 2014 (W14),Atletico Madrid (10),1-0,1-0,FC Barcelona (10),,,ESP,ESP
+Knockout,Quarterfinals,,,(Wed) 9 Apr 2014 (W14),Bayern München (10),3-1,0-0,Manchester United FC (10),,,GER,ENG
+Knockout,Semifinals,,,(Tue) 22 Apr 2014 (W16),Atletico Madrid (11),0-0,0-0,Chelsea FC (11),,,ESP,ENG
+Knockout,Semifinals,,,(Wed) 23 Apr 2014 (W16),Real Madrid CF (11),1-0,1-0,Bayern München (11),,,ESP,GER
+Knockout,Semifinals,,,(Tue) 29 Apr 2014 (W17),Bayern München (12),0-4,0-3,Real Madrid CF (12),,,GER,ESP
+Knockout,Semifinals,,,(Wed) 30 Apr 2014 (W17),Chelsea FC (12),1-3,1-1,Atletico Madrid (12),,,ENG,ESP
+Knockout,Final,,,(Sat) 24 May 2014 (W20),Real Madrid CF (13),1-1,0-0,Atletico Madrid (13),4-1 (a.e.t.),,ESP,ESP

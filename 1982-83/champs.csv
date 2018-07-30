@@ -1,60 +1,60 @@
-Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-?,PrelimF,1,(Wed) 25 Aug 1982 (W34),Dinamo Bucuresti (1),3-1,0-0,Valerenga IF (1),,,ROU,NOR
-?,PrelimF,2,(Wed) 1 Sep 1982 (W35),Valerenga IF (2),2-1,0-0,Dinamo Bucuresti (2),,,NOR,ROU
-?,Round1,1,(Tue) 14 Sep 1982 (W37),Dundalk (1),1-4,0-3,Liverpool FC (1),,,IRL,ENG
-?,Round1,1,(Wed) 15 Sep 1982 (W37),KF Tirana (1),1-0,0-0,Linfield (1),,,ALB,NIR
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Celtic FC (1),2-2,2-2,AFC Ajax (1),,,SCO,NED
-?,Round1,1,(Wed) 15 Sep 1982 (W37),AS Monaco (1),0-0,0-0,CSKA Sofia (1),,,FRA,BUL
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Aston Villa FC (1),3-1,3-0,Beşiktaş İstanbul JK (1),,,ENG,TUR
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Avenir Beggen (1),0-5,0-3,Rapid Wien (1),,,LUX,AUT
-?,Round1,1,(Wed) 15 Sep 1982 (W37),BFC Dynamo (1),1-1,1-1,Hamburger SV (1),,,GER,GER
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Dinamo Bucuresti (3),2-0,1-0,Dukla Praha (1),,,ROU,CZE
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Grasshoppers Zurich (1),0-1,0-0,Dinamo Kiev (1),,,SUI,UKR
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Dinamo Zagreb (1),1-0,0-0,Sporting CP (1),,,CRO,POR
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Hibernians (1),1-4,0-2,Widzew Lodz (1),,,MLT,POL
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Omonia Nicosia (1),2-0,1-0,HJK Helsinki (1),,,CYP,FIN
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Hvidovre IF (1),1-4,0-1,Juventus (1),,,DEN,ITA
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Olympiacos (1),2-0,1-0,Osters IF (1),,,GRE,SWE
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Standard Liege (1),5-0,2-0,Raba ETO Gyor (1),,,BEL,HUN
-?,Round1,1,(Wed) 15 Sep 1982 (W37),Vikingur Reykjavik (1),0-1,0-1,Real Sociedad (1),,,ISL,ESP
-?,Round1,2,(Tue) 28 Sep 1982 (W39),Liverpool FC (2),1-0,0-0,Dundalk (2),,,ENG,IRL
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Linfield (2),2-1,0-1,KF Tirana (2),,,NIR,ALB
-?,Round1,2,(Wed) 29 Sep 1982 (W39),AFC Ajax (2),1-2,0-1,Celtic FC (2),,,NED,SCO
-?,Round1,2,(Wed) 29 Sep 1982 (W39),CSKA Sofia (2),0-0,0-0,AS Monaco (2),2-0 (a.e.t.),,BUL,FRA
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Beşiktaş İstanbul JK (2),0-0,0-0,Aston Villa FC (2),,,TUR,ENG
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Rapid Wien (2),8-0,4-0,Avenir Beggen (2),,,AUT,LUX
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Hamburger SV (2),2-0,1-0,BFC Dynamo (2),,,GER,GER
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Dukla Praha (2),2-0,2-0,Dinamo Bucuresti (4),2-1 (a.e.t.),,CZE,ROU
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Dinamo Kiev (2),3-0,2-0,Grasshoppers Zurich (2),,,UKR,SUI
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Sporting CP (2),3-0,2-0,Dinamo Zagreb (2),,,POR,CRO
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Widzew Lodz (2),3-1,1-1,Hibernians (2),,,POL,MLT
-?,Round1,2,(Wed) 29 Sep 1982 (W39),HJK Helsinki (2),3-0,1-0,Omonia Nicosia (2),,,FIN,CYP
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Juventus (2),3-3,1-0,Hvidovre IF (2),,,ITA,DEN
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Osters IF (2),1-0,0-0,Olympiacos (2),,,SWE,GRE
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Raba ETO Gyor (2),3-0,1-0,Standard Liege (2),,,HUN,BEL
-?,Round1,2,(Wed) 29 Sep 1982 (W39),Real Sociedad (2),3-2,2-1,Vikingur Reykjavik (2),,,ESP,ISL
-?,R16,1,(Wed) 20 Oct 1982 (W42),CSKA Sofia (3),2-2,1-1,Sporting CP (3),,,BUL,POR
-?,R16,2,(Wed) 20 Oct 1982 (W42),Liverpool FC (3),5-0,3-0,HJK Helsinki (3),,,ENG,FIN
-?,R16,1,(Wed) 20 Oct 1982 (W42),HJK Helsinki (4),1-0,1-0,Liverpool FC (4),,,FIN,ENG
-?,R16,2,(Wed) 20 Oct 1982 (W42),Juventus (3),2-0,2-0,Standard Liege (3),,,ITA,BEL
-?,R16,1,(Wed) 20 Oct 1982 (W42),Standard Liege (4),1-1,0-1,Juventus (4),,,BEL,ITA
-?,R16,2,(Wed) 3 Nov 1982 (W44),Sporting CP (4),0-0,0-0,CSKA Sofia (4),,,POR,BUL
-?,R16,2,(Wed) 3 Nov 1982 (W44),Aston Villa FC (3),4-2,1-1,Dinamo Bucuresti (5),,,ENG,ROU
-?,R16,1,(Wed) 3 Nov 1982 (W44),Dinamo Bucuresti (6),0-2,0-1,Aston Villa FC (4),,,ROU,ENG
-?,R16,2,(Wed) 3 Nov 1982 (W44),Celtic FC (3),2-1,1-1,Real Sociedad (3),,,SCO,ESP
-?,R16,1,(Wed) 3 Nov 1982 (W44),Real Sociedad (4),2-0,0-0,Celtic FC (4),,,ESP,SCO
-?,R16,2,(Wed) 3 Nov 1982 (W44),Widzew Lodz (3),5-3,3-1,Rapid Wien (3),,,POL,AUT
-?,R16,1,(Wed) 3 Nov 1982 (W44),Rapid Wien (4),2-1,0-0,Widzew Lodz (4),,,AUT,POL
-?,QF,1,(Wed) 2 Mar 1983 (W9),Aston Villa FC (5),1-2,0-1,Juventus (5),,,ENG,ITA
-?,QF,1,(Wed) 2 Mar 1983 (W9),Dinamo Kiev (3),0-3,0-1,Hamburger SV (3),,,UKR,GER
-?,QF,1,(Wed) 2 Mar 1983 (W9),Widzew Lodz (5),2-0,0-0,Liverpool FC (5),,,POL,ENG
-?,QF,1,(Wed) 2 Mar 1983 (W9),Sporting CP (5),1-0,0-0,Real Sociedad (5),,,POR,ESP
-?,QF,2,(Wed) 16 Mar 1983 (W11),Juventus (6),3-1,2-0,Aston Villa FC (6),,,ITA,ENG
-?,QF,2,(Wed) 16 Mar 1983 (W11),Hamburger SV (4),1-2,0-0,Dinamo Kiev (4),,,GER,UKR
-?,QF,2,(Wed) 16 Mar 1983 (W11),Liverpool FC (6),3-2,1-1,Widzew Lodz (6),,,ENG,POL
-?,QF,2,(Wed) 16 Mar 1983 (W11),Real Sociedad (6),2-0,1-0,Sporting CP (6),,,ESP,POR
-?,SF,1,(Wed) 6 Apr 1983 (W14),Real Sociedad (7),1-1,0-0,Hamburger SV (5),,,ESP,GER
-?,SF,1,(Wed) 6 Apr 1983 (W14),Juventus (7),2-0,1-0,Widzew Lodz (7),,,ITA,POL
-?,SF,2,(Wed) 20 Apr 1983 (W16),Hamburger SV (6),2-1,0-0,Real Sociedad (8),,,GER,ESP
-?,SF,2,(Wed) 20 Apr 1983 (W16),Widzew Lodz (8),2-2,0-1,Juventus (8),,,POL,ITA
-?,final,,(Wed) 25 May 1983 (W21),Hamburger SV (7),1-0,0-0,Juventus (9),,,GER,ITA
+Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+,Preliminary Round,,,(Wed) 25 Aug 1982 (W34),Dinamo Bucuresti (1),3-1,0-0,Valerenga IF (1),,,ROU,NOR
+,Preliminary Round,,,(Wed) 1 Sep 1982 (W35),Valerenga IF (2),2-1,0-0,Dinamo Bucuresti (2),,,NOR,ROU
+,Round 1,,,(Tue) 14 Sep 1982 (W37),Dundalk (1),1-4,0-3,Liverpool FC (1),,,IRL,ENG
+,Round 1,,,(Wed) 15 Sep 1982 (W37),KF Tirana (1),1-0,0-0,Linfield (1),,,ALB,NIR
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Celtic FC (1),2-2,2-2,AFC Ajax (1),,,SCO,NED
+,Round 1,,,(Wed) 15 Sep 1982 (W37),AS Monaco (1),0-0,0-0,CSKA Sofia (1),,,FRA,BUL
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Aston Villa FC (1),3-1,3-0,Beşiktaş İstanbul JK (1),,,ENG,TUR
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Avenir Beggen (1),0-5,0-3,Rapid Wien (1),,,LUX,AUT
+,Round 1,,,(Wed) 15 Sep 1982 (W37),BFC Dynamo (1),1-1,1-1,Hamburger SV (1),,,GER,GER
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Dinamo Bucuresti (3),2-0,1-0,Dukla Praha (1),,,ROU,CZE
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Grasshoppers Zurich (1),0-1,0-0,Dinamo Kiev (1),,,SUI,UKR
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Dinamo Zagreb (1),1-0,0-0,Sporting CP (1),,,CRO,POR
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Hibernians (1),1-4,0-2,Widzew Lodz (1),,,MLT,POL
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Omonia Nicosia (1),2-0,1-0,HJK Helsinki (1),,,CYP,FIN
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Hvidovre IF (1),1-4,0-1,Juventus (1),,,DEN,ITA
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Olympiacos (1),2-0,1-0,Osters IF (1),,,GRE,SWE
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Standard Liege (1),5-0,2-0,Raba ETO Gyor (1),,,BEL,HUN
+,Round 1,,,(Wed) 15 Sep 1982 (W37),Vikingur Reykjavik (1),0-1,0-1,Real Sociedad (1),,,ISL,ESP
+,Round 1,,,(Tue) 28 Sep 1982 (W39),Liverpool FC (2),1-0,0-0,Dundalk (2),,,ENG,IRL
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Linfield (2),2-1,0-1,KF Tirana (2),,,NIR,ALB
+,Round 1,,,(Wed) 29 Sep 1982 (W39),AFC Ajax (2),1-2,0-1,Celtic FC (2),,,NED,SCO
+,Round 1,,,(Wed) 29 Sep 1982 (W39),CSKA Sofia (2),0-0,0-0,AS Monaco (2),2-0 (a.e.t.),,BUL,FRA
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Beşiktaş İstanbul JK (2),0-0,0-0,Aston Villa FC (2),,,TUR,ENG
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Rapid Wien (2),8-0,4-0,Avenir Beggen (2),,,AUT,LUX
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Hamburger SV (2),2-0,1-0,BFC Dynamo (2),,,GER,GER
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Dukla Praha (2),2-0,2-0,Dinamo Bucuresti (4),2-1 (a.e.t.),,CZE,ROU
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Dinamo Kiev (2),3-0,2-0,Grasshoppers Zurich (2),,,UKR,SUI
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Sporting CP (2),3-0,2-0,Dinamo Zagreb (2),,,POR,CRO
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Widzew Lodz (2),3-1,1-1,Hibernians (2),,,POL,MLT
+,Round 1,,,(Wed) 29 Sep 1982 (W39),HJK Helsinki (2),3-0,1-0,Omonia Nicosia (2),,,FIN,CYP
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Juventus (2),3-3,1-0,Hvidovre IF (2),,,ITA,DEN
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Osters IF (2),1-0,0-0,Olympiacos (2),,,SWE,GRE
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Raba ETO Gyor (2),3-0,1-0,Standard Liege (2),,,HUN,BEL
+,Round 1,,,(Wed) 29 Sep 1982 (W39),Real Sociedad (2),3-2,2-1,Vikingur Reykjavik (2),,,ESP,ISL
+,Round of 16,,,(Wed) 20 Oct 1982 (W42),CSKA Sofia (3),2-2,1-1,Sporting CP (3),,,BUL,POR
+,Round of 16,,,(Wed) 20 Oct 1982 (W42),Liverpool FC (3),5-0,3-0,HJK Helsinki (3),,,ENG,FIN
+,Round of 16,,,(Wed) 20 Oct 1982 (W42),HJK Helsinki (4),1-0,1-0,Liverpool FC (4),,,FIN,ENG
+,Round of 16,,,(Wed) 20 Oct 1982 (W42),Juventus (3),2-0,2-0,Standard Liege (3),,,ITA,BEL
+,Round of 16,,,(Wed) 20 Oct 1982 (W42),Standard Liege (4),1-1,0-1,Juventus (4),,,BEL,ITA
+,Round of 16,,,(Wed) 3 Nov 1982 (W44),Sporting CP (4),0-0,0-0,CSKA Sofia (4),,,POR,BUL
+,Round of 16,,,(Wed) 3 Nov 1982 (W44),Aston Villa FC (3),4-2,1-1,Dinamo Bucuresti (5),,,ENG,ROU
+,Round of 16,,,(Wed) 3 Nov 1982 (W44),Dinamo Bucuresti (6),0-2,0-1,Aston Villa FC (4),,,ROU,ENG
+,Round of 16,,,(Wed) 3 Nov 1982 (W44),Celtic FC (3),2-1,1-1,Real Sociedad (3),,,SCO,ESP
+,Round of 16,,,(Wed) 3 Nov 1982 (W44),Real Sociedad (4),2-0,0-0,Celtic FC (4),,,ESP,SCO
+,Round of 16,,,(Wed) 3 Nov 1982 (W44),Widzew Lodz (3),5-3,3-1,Rapid Wien (3),,,POL,AUT
+,Round of 16,,,(Wed) 3 Nov 1982 (W44),Rapid Wien (4),2-1,0-0,Widzew Lodz (4),,,AUT,POL
+,Quarterfinals,,,(Wed) 2 Mar 1983 (W9),Aston Villa FC (5),1-2,0-1,Juventus (5),,,ENG,ITA
+,Quarterfinals,,,(Wed) 2 Mar 1983 (W9),Dinamo Kiev (3),0-3,0-1,Hamburger SV (3),,,UKR,GER
+,Quarterfinals,,,(Wed) 2 Mar 1983 (W9),Widzew Lodz (5),2-0,0-0,Liverpool FC (5),,,POL,ENG
+,Quarterfinals,,,(Wed) 2 Mar 1983 (W9),Sporting CP (5),1-0,0-0,Real Sociedad (5),,,POR,ESP
+,Quarterfinals,,,(Wed) 16 Mar 1983 (W11),Juventus (6),3-1,2-0,Aston Villa FC (6),,,ITA,ENG
+,Quarterfinals,,,(Wed) 16 Mar 1983 (W11),Hamburger SV (4),1-2,0-0,Dinamo Kiev (4),,,GER,UKR
+,Quarterfinals,,,(Wed) 16 Mar 1983 (W11),Liverpool FC (6),3-2,1-1,Widzew Lodz (6),,,ENG,POL
+,Quarterfinals,,,(Wed) 16 Mar 1983 (W11),Real Sociedad (6),2-0,1-0,Sporting CP (6),,,ESP,POR
+,Semifinals,,,(Wed) 6 Apr 1983 (W14),Real Sociedad (7),1-1,0-0,Hamburger SV (5),,,ESP,GER
+,Semifinals,,,(Wed) 6 Apr 1983 (W14),Juventus (7),2-0,1-0,Widzew Lodz (7),,,ITA,POL
+,Semifinals,,,(Wed) 20 Apr 1983 (W16),Hamburger SV (6),2-1,0-0,Real Sociedad (8),,,GER,ESP
+,Semifinals,,,(Wed) 20 Apr 1983 (W16),Widzew Lodz (8),2-2,0-1,Juventus (8),,,POL,ITA
+,Final,,,(Wed) 25 May 1983 (W21),Hamburger SV (7),1-0,0-0,Juventus (9),,,GER,ITA

@@ -1,53 +1,53 @@
-Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-?,Round1,1,(Wed) 26 Aug 1959 (W34),OGC Nice (1),3-2,2-1,Shamrock Rovers (1),,,FRA,IRL
-?,Round1,1,(Thu) 3 Sep 1959 (W35),CDNA Sofia (1),2-2,1-1,FC Barcelona (1),,,BUL,ESP
-?,Round1,1,(Wed) 9 Sep 1959 (W36),Linfield (1),2-1,2-1,IFK Goteborg (1),,,NIR,SWE
-?,Round1,1,(Wed) 9 Sep 1959 (W36),Jeunesse Esch (1),5-0,2-0,LKS Lodz (1),,,LUX,POL
-?,Round1,1,(Wed) 9 Sep 1959 (W36),Wiener Sport-Club (1),0-0,0-0,Petrolul Ploiesti (1),,,AUT,ROU
-?,Round1,1,(Fri) 11 Sep 1959 (W36),FK Inter Bratislava (1),2-1,1-1,FC Porto (1),,,SVK,POR
-?,Round1,1,(Sun) 13 Sep 1959 (W36),Olympiacos (1),2-2,2-1,AC Milan (1),,,GRE,ITA
-?,Round1,1,(Sun) 13 Sep 1959 (W36),Fenerbahçe İstanbul SK (1),1-1,0-1,Csepel SC (1),,,TUR,HUN
-?,Round1,2,(Wed) 16 Sep 1959 (W37),Petrolul Ploiesti (2),1-2,0-2,Wiener Sport-Club (2),,,ROU,AUT
-?,Round1,1,(Wed) 16 Sep 1959 (W37),Rangers FC (1),5-2,2-0,RSC Anderlecht (1),,,SCO,BEL
-?,Round1,2,(Wed) 23 Sep 1959 (W38),AC Milan (2),3-1,2-0,Olympiacos (2),,,ITA,GRE
-?,Round1,2,(Wed) 23 Sep 1959 (W38),FC Barcelona (2),6-2,4-1,CDNA Sofia (2),,,ESP,BUL
-?,Round1,2,(Wed) 23 Sep 1959 (W38),Csepel SC (2),2-3,2-1,Fenerbahçe İstanbul SK (2),,,HUN,TUR
-?,Round1,2,(Wed) 23 Sep 1959 (W38),IFK Goteborg (2),6-1,2-1,Linfield (2),,,SWE,NIR
-?,Round1,2,(Wed) 23 Sep 1959 (W38),LKS Lodz (2),2-1,0-1,Jeunesse Esch (2),,,POL,LUX
-?,Round1,2,(Wed) 23 Sep 1959 (W38),Shamrock Rovers (2),1-1,1-1,OGC Nice (2),,,IRL,FRA
-?,Round1,2,(Wed) 23 Sep 1959 (W38),RSC Anderlecht (2),0-2,0-0,Rangers FC (2),,,BEL,SCO
-?,Round1,2,(Tue) 29 Sep 1959 (W39),FC Porto (2),0-2,0-0,FK Inter Bratislava (2),,,POR,SVK
-?,Round1,1,(Wed) 30 Sep 1959 (W39),ASK Vorwarts Berlin (1),2-1,2-1,Wolverhampton Wanderers FC (1),,,GER,ENG
-?,Round1,2,(Wed) 7 Oct 1959 (W40),Wolverhampton Wanderers FC (2),2-0,0-0,ASK Vorwarts Berlin (2),,,ENG,GER
-?,R16,1,(Wed) 21 Oct 1959 (W42),B 1909 Odense (1),0-3,0-0,Wiener Sport-Club (3),,,DEN,AUT
-?,R16,1,(Wed) 21 Oct 1959 (W42),Real Madrid CF (1),7-0,3-0,Jeunesse Esch (3),,,ESP,LUX
-?,R16,1,(Sun) 25 Oct 1959 (W42),Sparta Rotterdam (1),3-1,2-0,IFK Goteborg (3),,,NED,SWE
-?,R16,1,(Wed) 4 Nov 1959 (W44),AC Milan (3),0-2,0-2,FC Barcelona (3),,,ITA,ESP
-?,R16,2,(Wed) 4 Nov 1959 (W44),Wiener Sport-Club (4),2-2,0-1,B 1909 Odense (2),,,AUT,DEN
-?,R16,1,(Wed) 4 Nov 1959 (W44),BSC Young Boys (1),1-4,1-1,Frankfurter SG Eintracht (1),,,SUI,GER
-?,R16,2,(Wed) 4 Nov 1959 (W44),Jeunesse Esch (4),2-5,2-5,Real Madrid CF (2),,,LUX,ESP
-?,R16,2,(Thu) 5 Nov 1959 (W44),IFK Goteborg (4),3-1,1-0,Sparta Rotterdam (2),,,SWE,NED
-?,R16,1,(Wed) 11 Nov 1959 (W45),Crvena Zvezda (1),1-1,1-1,Wolverhampton Wanderers FC (3),,,SRB,ENG
-?,R16,1,(Wed) 11 Nov 1959 (W45),Rangers FC (3),4-3,2-2,FK Inter Bratislava (3),,,SCO,SVK
-?,R16,2,(Wed) 18 Nov 1959 (W46),FK Inter Bratislava (4),1-1,0-0,Rangers FC (4),,,SVK,SCO
-?,R16,1,(Thu) 19 Nov 1959 (W46),Fenerbahçe İstanbul SK (3),2-1,1-1,OGC Nice (3),,,TUR,FRA
-?,R16,2,(Tue) 24 Nov 1959 (W47),Wolverhampton Wanderers FC (4),3-0,1-0,Crvena Zvezda (2),,,ENG,SRB
-?,R16,replay,(Wed) 25 Nov 1959 (W47),Sparta Rotterdam (3),3-1,2-1,IFK Goteborg (5),,,NED,SWE
-?,R16,2,(Wed) 25 Nov 1959 (W47),FC Barcelona (4),5-1,3-1,AC Milan (4),,,ESP,ITA
-?,R16,2,(Wed) 25 Nov 1959 (W47),Frankfurter SG Eintracht (2),1-1,0-0,BSC Young Boys (2),,,GER,SUI
-?,R16,2,(Thu) 3 Dec 1959 (W48),OGC Nice (4),2-1,0-0,Fenerbahçe İstanbul SK (4),,,FRA,TUR
-?,R16,replay,(Wed) 23 Dec 1959 (W51),OGC Nice (5),5-1,3-0,Fenerbahçe İstanbul SK (5),,,FRA,TUR
-?,QF,1,(Thu) 4 Feb 1960 (W5),OGC Nice (6),3-2,0-2,Real Madrid CF (3),,,FRA,ESP
-?,QF,1,(Wed) 10 Feb 1960 (W6),FC Barcelona (5),4-0,2-0,Wolverhampton Wanderers FC (5),,,ESP,ENG
-?,QF,2,(Wed) 2 Mar 1960 (W9),Wolverhampton Wanderers FC (6),2-5,1-3,FC Barcelona (6),,,ENG,ESP
-?,QF,2,(Wed) 2 Mar 1960 (W9),Real Madrid CF (4),4-0,3-0,OGC Nice (7),,,ESP,FRA
-?,QF,1,(Thu) 3 Mar 1960 (W9),Frankfurter SG Eintracht (3),2-1,1-0,Wiener Sport-Club (5),,,GER,AUT
-?,QF,1,(Wed) 9 Mar 1960 (W10),Sparta Rotterdam (4),2-3,1-2,Rangers FC (5),,,NED,SCO
-?,QF,2,(Wed) 16 Mar 1960 (W11),Rangers FC (6),0-1,0-0,Sparta Rotterdam (5),,,SCO,NED
-?,QF,2,(Wed) 16 Mar 1960 (W11),Wiener Sport-Club (6),1-1,1-0,Frankfurter SG Eintracht (4),,,AUT,GER
-?,QF,replay,(Wed) 30 Mar 1960 (W13),Rangers FC (7),3-2,1-1,Sparta Rotterdam (6),,,SCO,NED
-?,SF,1,(Wed) 13 Apr 1960 (W15),Frankfurter SG Eintracht (5),6-1,1-1,Rangers FC (8),,,GER,SCO
-?,SF,1,(Thu) 21 Apr 1960 (W16),Real Madrid CF (5),3-1,2-1,FC Barcelona (7),,,ESP,ESP
-?,SF,2,(Wed) 27 Apr 1960 (W17),FC Barcelona (8),1-3,0-1,Real Madrid CF (6),,,ESP,ESP
-?,SF,2,(Thu) 5 May 1960 (W18),Rangers FC (9),3-6,1-3,Frankfurter SG Eintracht (6),,,SCO,GER
-?,final,,(Wed) 18 May 1960 (W20),Real Madrid CF (7),7-3,0-0,Frankfurter SG Eintracht (7),,,ESP,GER
+Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+,Round 1,,,(Wed) 26 Aug 1959 (W34),OGC Nice (1),3-2,2-1,Shamrock Rovers (1),,,FRA,IRL
+,Round 1,,,(Thu) 3 Sep 1959 (W35),CDNA Sofia (1),2-2,1-1,FC Barcelona (1),,,BUL,ESP
+,Round 1,,,(Wed) 9 Sep 1959 (W36),Linfield (1),2-1,2-1,IFK Goteborg (1),,,NIR,SWE
+,Round 1,,,(Wed) 9 Sep 1959 (W36),Jeunesse Esch (1),5-0,2-0,LKS Lodz (1),,,LUX,POL
+,Round 1,,,(Wed) 9 Sep 1959 (W36),Wiener Sport-Club (1),0-0,0-0,Petrolul Ploiesti (1),,,AUT,ROU
+,Round 1,,,(Fri) 11 Sep 1959 (W36),FK Inter Bratislava (1),2-1,1-1,FC Porto (1),,,SVK,POR
+,Round 1,,,(Sun) 13 Sep 1959 (W36),Olympiacos (1),2-2,2-1,AC Milan (1),,,GRE,ITA
+,Round 1,,,(Sun) 13 Sep 1959 (W36),Fenerbahçe İstanbul SK (1),1-1,0-1,Csepel SC (1),,,TUR,HUN
+,Round 1,,,(Wed) 16 Sep 1959 (W37),Petrolul Ploiesti (2),1-2,0-2,Wiener Sport-Club (2),,,ROU,AUT
+,Round 1,,,(Wed) 16 Sep 1959 (W37),Rangers FC (1),5-2,2-0,RSC Anderlecht (1),,,SCO,BEL
+,Round 1,,,(Wed) 23 Sep 1959 (W38),AC Milan (2),3-1,2-0,Olympiacos (2),,,ITA,GRE
+,Round 1,,,(Wed) 23 Sep 1959 (W38),FC Barcelona (2),6-2,4-1,CDNA Sofia (2),,,ESP,BUL
+,Round 1,,,(Wed) 23 Sep 1959 (W38),Csepel SC (2),2-3,2-1,Fenerbahçe İstanbul SK (2),,,HUN,TUR
+,Round 1,,,(Wed) 23 Sep 1959 (W38),IFK Goteborg (2),6-1,2-1,Linfield (2),,,SWE,NIR
+,Round 1,,,(Wed) 23 Sep 1959 (W38),LKS Lodz (2),2-1,0-1,Jeunesse Esch (2),,,POL,LUX
+,Round 1,,,(Wed) 23 Sep 1959 (W38),Shamrock Rovers (2),1-1,1-1,OGC Nice (2),,,IRL,FRA
+,Round 1,,,(Wed) 23 Sep 1959 (W38),RSC Anderlecht (2),0-2,0-0,Rangers FC (2),,,BEL,SCO
+,Round 1,,,(Tue) 29 Sep 1959 (W39),FC Porto (2),0-2,0-0,FK Inter Bratislava (2),,,POR,SVK
+,Round 1,,,(Wed) 30 Sep 1959 (W39),ASK Vorwarts Berlin (1),2-1,2-1,Wolverhampton Wanderers FC (1),,,GER,ENG
+,Round 1,,,(Wed) 7 Oct 1959 (W40),Wolverhampton Wanderers FC (2),2-0,0-0,ASK Vorwarts Berlin (2),,,ENG,GER
+,Round of 16,,,(Wed) 21 Oct 1959 (W42),B 1909 Odense (1),0-3,0-0,Wiener Sport-Club (3),,,DEN,AUT
+,Round of 16,,,(Wed) 21 Oct 1959 (W42),Real Madrid CF (1),7-0,3-0,Jeunesse Esch (3),,,ESP,LUX
+,Round of 16,,,(Sun) 25 Oct 1959 (W42),Sparta Rotterdam (1),3-1,2-0,IFK Goteborg (3),,,NED,SWE
+,Round of 16,,,(Wed) 4 Nov 1959 (W44),AC Milan (3),0-2,0-2,FC Barcelona (3),,,ITA,ESP
+,Round of 16,,,(Wed) 4 Nov 1959 (W44),Wiener Sport-Club (4),2-2,0-1,B 1909 Odense (2),,,AUT,DEN
+,Round of 16,,,(Wed) 4 Nov 1959 (W44),BSC Young Boys (1),1-4,1-1,Frankfurter SG Eintracht (1),,,SUI,GER
+,Round of 16,,,(Wed) 4 Nov 1959 (W44),Jeunesse Esch (4),2-5,2-5,Real Madrid CF (2),,,LUX,ESP
+,Round of 16,,,(Thu) 5 Nov 1959 (W44),IFK Goteborg (4),3-1,1-0,Sparta Rotterdam (2),,,SWE,NED
+,Round of 16,,,(Wed) 11 Nov 1959 (W45),Crvena Zvezda (1),1-1,1-1,Wolverhampton Wanderers FC (3),,,SRB,ENG
+,Round of 16,,,(Wed) 11 Nov 1959 (W45),Rangers FC (3),4-3,2-2,FK Inter Bratislava (3),,,SCO,SVK
+,Round of 16,,,(Wed) 18 Nov 1959 (W46),FK Inter Bratislava (4),1-1,0-0,Rangers FC (4),,,SVK,SCO
+,Round of 16,,,(Thu) 19 Nov 1959 (W46),Fenerbahçe İstanbul SK (3),2-1,1-1,OGC Nice (3),,,TUR,FRA
+,Round of 16,,,(Tue) 24 Nov 1959 (W47),Wolverhampton Wanderers FC (4),3-0,1-0,Crvena Zvezda (2),,,ENG,SRB
+,Round of 16,,,(Wed) 25 Nov 1959 (W47),Sparta Rotterdam (3),3-1,2-1,IFK Goteborg (5),,,NED,SWE
+,Round of 16,,,(Wed) 25 Nov 1959 (W47),FC Barcelona (4),5-1,3-1,AC Milan (4),,,ESP,ITA
+,Round of 16,,,(Wed) 25 Nov 1959 (W47),Frankfurter SG Eintracht (2),1-1,0-0,BSC Young Boys (2),,,GER,SUI
+,Round of 16,,,(Thu) 3 Dec 1959 (W48),OGC Nice (4),2-1,0-0,Fenerbahçe İstanbul SK (4),,,FRA,TUR
+,Round of 16,,,(Wed) 23 Dec 1959 (W51),OGC Nice (5),5-1,3-0,Fenerbahçe İstanbul SK (5),,,FRA,TUR
+,Quarterfinals,,,(Thu) 4 Feb 1960 (W5),OGC Nice (6),3-2,0-2,Real Madrid CF (3),,,FRA,ESP
+,Quarterfinals,,,(Wed) 10 Feb 1960 (W6),FC Barcelona (5),4-0,2-0,Wolverhampton Wanderers FC (5),,,ESP,ENG
+,Quarterfinals,,,(Wed) 2 Mar 1960 (W9),Wolverhampton Wanderers FC (6),2-5,1-3,FC Barcelona (6),,,ENG,ESP
+,Quarterfinals,,,(Wed) 2 Mar 1960 (W9),Real Madrid CF (4),4-0,3-0,OGC Nice (7),,,ESP,FRA
+,Quarterfinals,,,(Thu) 3 Mar 1960 (W9),Frankfurter SG Eintracht (3),2-1,1-0,Wiener Sport-Club (5),,,GER,AUT
+,Quarterfinals,,,(Wed) 9 Mar 1960 (W10),Sparta Rotterdam (4),2-3,1-2,Rangers FC (5),,,NED,SCO
+,Quarterfinals,,,(Wed) 16 Mar 1960 (W11),Rangers FC (6),0-1,0-0,Sparta Rotterdam (5),,,SCO,NED
+,Quarterfinals,,,(Wed) 16 Mar 1960 (W11),Wiener Sport-Club (6),1-1,1-0,Frankfurter SG Eintracht (4),,,AUT,GER
+,Quarterfinals,,,(Wed) 30 Mar 1960 (W13),Rangers FC (7),3-2,1-1,Sparta Rotterdam (6),,,SCO,NED
+,Semifinals,,,(Wed) 13 Apr 1960 (W15),Frankfurter SG Eintracht (5),6-1,1-1,Rangers FC (8),,,GER,SCO
+,Semifinals,,,(Thu) 21 Apr 1960 (W16),Real Madrid CF (5),3-1,2-1,FC Barcelona (7),,,ESP,ESP
+,Semifinals,,,(Wed) 27 Apr 1960 (W17),FC Barcelona (8),1-3,0-1,Real Madrid CF (6),,,ESP,ESP
+,Semifinals,,,(Thu) 5 May 1960 (W18),Rangers FC (9),3-6,1-3,Frankfurter SG Eintracht (6),,,SCO,GER
+,Final,,,(Wed) 18 May 1960 (W20),Real Madrid CF (7),7-3,0-0,Frankfurter SG Eintracht (7),,,ESP,GER

@@ -1,58 +1,58 @@
-Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-?,Round1,1,(Wed) 13 Sep 1972 (W37),Aris Bonnevoie (1),0-2,0-0,Arges Pitesti (1),,,LUX,ROU
-?,Round1,1,(Wed) 13 Sep 1972 (W37),Ujpesti Dozsa SC (1),2-0,0-0,Basel (1),,,HUN,SUI
-?,Round1,1,(Wed) 13 Sep 1972 (W37),Galatasaray İstanbul AŞ (1),1-1,0-0,Bayern München (1),,,TUR,GER
-?,Round1,1,(Wed) 13 Sep 1972 (W37),Celtic FC (1),2-1,2-0,Rosenborg BK (1),,,SCO,NOR
-?,Round1,1,(Wed) 13 Sep 1972 (W37),CSKA Sofia (1),2-1,1-0,Panathinaikos FC (1),,,BUL,GRE
-?,Round1,1,(Wed) 13 Sep 1972 (W37),Derby County FC (1),2-0,1-0,Zeljeznicar Sarajevo (1),,,ENG,BIH
-?,Round1,1,(Wed) 13 Sep 1972 (W37),SSW Innsbruck (1),0-1,0-0,Dinamo Kiev (1),,,AUT,UKR
-?,Round1,1,(Wed) 13 Sep 1972 (W37),Sliema Wanderers (1),0-5,0-3,Gornik Zabrze (1),,,MLT,POL
-?,Round1,1,(Wed) 13 Sep 1972 (W37),Real Madrid CF (1),3-0,2-0,IB Keflavik (1),,,ESP,ISL
-?,Round1,1,(Wed) 13 Sep 1972 (W37),Olympique Marseille (1),1-0,0-0,Juventus (1),,,FRA,ITA
-?,Round1,1,(Wed) 13 Sep 1972 (W37),Magdeburg (1),6-0,4-0,TPS Turku (1),,,GER,FIN
-?,Round1,1,(Wed) 13 Sep 1972 (W37),Malmo FF (1),1-0,1-0,SL Benfica (1),,,SWE,POR
-?,Round1,1,(Wed) 13 Sep 1972 (W37),Waterford AFC (1),2-1,2-0,Omonia Nicosia (1),,,IRL,CYP
-?,Round1,1,(Wed) 13 Sep 1972 (W37),RSC Anderlecht (1),4-2,1-0,Vejle BK (1),,,BEL,DEN
-?,Round1,2,(Wed) 27 Sep 1972 (W39),Arges Pitesti (2),4-0,3-0,Aris Bonnevoie (2),,,ROU,LUX
-?,Round1,2,(Wed) 27 Sep 1972 (W39),Basel (2),3-2,0-0,Ujpesti Dozsa SC (2),,,SUI,HUN
-?,Round1,2,(Wed) 27 Sep 1972 (W39),Bayern München (2),6-0,3-0,Galatasaray İstanbul AŞ (2),,,GER,TUR
-?,Round1,2,(Wed) 27 Sep 1972 (W39),Rosenborg BK (2),1-3,1-0,Celtic FC (2),,,NOR,SCO
-?,Round1,2,(Wed) 27 Sep 1972 (W39),Zeljeznicar Sarajevo (2),1-2,0-2,Derby County FC (2),,,BIH,ENG
-?,Round1,2,(Wed) 27 Sep 1972 (W39),Dinamo Kiev (2),2-0,1-0,SSW Innsbruck (2),,,UKR,AUT
-?,Round1,2,(Wed) 27 Sep 1972 (W39),Gornik Zabrze (2),5-0,2-0,Sliema Wanderers (2),,,POL,MLT
-?,Round1,2,(Wed) 27 Sep 1972 (W39),IB Keflavik (2),0-1,0-0,Real Madrid CF (2),,,ISL,ESP
-?,Round1,2,(Wed) 27 Sep 1972 (W39),Juventus (2),3-0,3-0,Olympique Marseille (2),,,ITA,FRA
-?,Round1,2,(Wed) 27 Sep 1972 (W39),TPS Turku (2),1-3,0-0,Magdeburg (2),,,FIN,GER
-?,Round1,2,(Wed) 27 Sep 1972 (W39),SL Benfica (2),4-1,3-0,Malmo FF (2),,,POR,SWE
-?,Round1,2,(Wed) 27 Sep 1972 (W39),Omonia Nicosia (2),2-0,1-0,Waterford AFC (2),,,CYP,IRL
-?,Round1,2,(Wed) 27 Sep 1972 (W39),Vejle BK (2),0-3,0-0,RSC Anderlecht (2),,,DEN,BEL
-?,R16,1,(Tue) 24 Oct 1972 (W43),Bayern München (3),9-0,4-0,Omonia Nicosia (3),,,GER,CYP
-?,R16,1,(Wed) 25 Oct 1972 (W43),Arges Pitesti (3),2-1,1-1,Real Madrid CF (3),,,ROU,ESP
-?,R16,1,(Wed) 25 Oct 1972 (W43),Celtic FC (3),2-1,0-1,Ujpesti Dozsa SC (3),,,SCO,HUN
-?,R16,1,(Wed) 25 Oct 1972 (W43),Derby County FC (3),3-0,3-0,SL Benfica (3),,,ENG,POR
-?,R16,1,(Wed) 25 Oct 1972 (W43),Dinamo Kiev (3),2-0,0-0,Gornik Zabrze (3),,,UKR,POL
-?,R16,1,(Wed) 25 Oct 1972 (W43),Juventus (3),1-0,0-0,Magdeburg (3),,,ITA,GER
-?,R16,1,(Wed) 25 Oct 1972 (W43),Spartak TAZ Trnava (1),1-0,0-0,RSC Anderlecht (3),,,SVK,BEL
-?,R16,2,(Thu) 26 Oct 1972 (W43),Omonia Nicosia (4),0-4,0-2,Bayern München (4),,,CYP,GER
-?,Round1,2,(Fri) 27 Oct 1972 (W43),Panathinaikos FC (2),0-2,0-1,CSKA Sofia (2),,,GRE,BUL
-?,R16,1,(Wed) 8 Nov 1972 (W45),CSKA Sofia (3),1-3,1-2,AFC Ajax (1),,,BUL,NED
-?,R16,2,(Wed) 8 Nov 1972 (W45),Ujpesti Dozsa SC (4),3-0,3-0,Celtic FC (4),,,HUN,SCO
-?,R16,2,(Wed) 8 Nov 1972 (W45),SL Benfica (4),0-0,0-0,Derby County FC (4),,,POR,ENG
-?,R16,2,(Wed) 8 Nov 1972 (W45),Gornik Zabrze (4),2-1,1-1,Dinamo Kiev (4),,,POL,UKR
-?,R16,2,(Wed) 8 Nov 1972 (W45),Magdeburg (4),0-1,0-0,Juventus (4),,,GER,ITA
-?,R16,2,(Wed) 8 Nov 1972 (W45),RSC Anderlecht (4),0-1,0-0,Spartak TAZ Trnava (2),,,BEL,SVK
-?,R16,2,(Thu) 9 Nov 1972 (W45),Real Madrid CF (4),3-1,1-1,Arges Pitesti (4),,,ESP,ROU
-?,R16,2,(Wed) 29 Nov 1972 (W48),AFC Ajax (2),3-0,2-0,CSKA Sofia (4),,,NED,BUL
-?,QF,1,(Wed) 7 Mar 1973 (W10),Juventus (5),0-0,0-0,Ujpesti Dozsa SC (5),,,ITA,HUN
-?,QF,1,(Wed) 7 Mar 1973 (W10),AFC Ajax (3),4-0,0-0,Bayern München (5),,,NED,GER
-?,QF,1,(Wed) 7 Mar 1973 (W10),Spartak TAZ Trnava (3),1-0,1-0,Derby County FC (5),,,SVK,ENG
-?,QF,1,(Wed) 7 Mar 1973 (W10),Dinamo Kiev (5),0-0,0-0,Real Madrid CF (5),,,UKR,ESP
-?,QF,2,(Wed) 21 Mar 1973 (W12),Ujpesti Dozsa SC (6),2-2,2-1,Juventus (6),,,HUN,ITA
-?,QF,2,(Wed) 21 Mar 1973 (W12),Bayern München (6),2-1,2-1,AFC Ajax (4),,,GER,NED
-?,QF,2,(Wed) 21 Mar 1973 (W12),Derby County FC (6),2-0,1-0,Spartak TAZ Trnava (4),,,ENG,SVK
-?,QF,2,(Wed) 21 Mar 1973 (W12),Real Madrid CF (6),3-0,2-0,Dinamo Kiev (6),,,ESP,UKR
-?,SF,1,(Wed) 11 Apr 1973 (W15),AFC Ajax (5),2-1,0-0,Real Madrid CF (7),,,NED,ESP
-?,SF,1,(Wed) 11 Apr 1973 (W15),Juventus (7),3-1,1-1,Derby County FC (7),,,ITA,ENG
-?,SF,2,(Wed) 25 Apr 1973 (W17),Real Madrid CF (8),0-1,0-0,AFC Ajax (6),,,ESP,NED
-?,SF,2,(Wed) 25 Apr 1973 (W17),Derby County FC (8),0-0,0-0,Juventus (8),,,ENG,ITA
-?,final,,(Wed) 30 May 1973 (W22),AFC Ajax (7),1-0,0-0,Juventus (9),,,NED,ITA
+Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+,Round 1,,,(Wed) 13 Sep 1972 (W37),Aris Bonnevoie (1),0-2,0-0,Arges Pitesti (1),,,LUX,ROU
+,Round 1,,,(Wed) 13 Sep 1972 (W37),Ujpesti Dozsa SC (1),2-0,0-0,Basel (1),,,HUN,SUI
+,Round 1,,,(Wed) 13 Sep 1972 (W37),Galatasaray İstanbul AŞ (1),1-1,0-0,Bayern München (1),,,TUR,GER
+,Round 1,,,(Wed) 13 Sep 1972 (W37),Celtic FC (1),2-1,2-0,Rosenborg BK (1),,,SCO,NOR
+,Round 1,,,(Wed) 13 Sep 1972 (W37),CSKA Sofia (1),2-1,1-0,Panathinaikos FC (1),,,BUL,GRE
+,Round 1,,,(Wed) 13 Sep 1972 (W37),Derby County FC (1),2-0,1-0,Zeljeznicar Sarajevo (1),,,ENG,BIH
+,Round 1,,,(Wed) 13 Sep 1972 (W37),SSW Innsbruck (1),0-1,0-0,Dinamo Kiev (1),,,AUT,UKR
+,Round 1,,,(Wed) 13 Sep 1972 (W37),Sliema Wanderers (1),0-5,0-3,Gornik Zabrze (1),,,MLT,POL
+,Round 1,,,(Wed) 13 Sep 1972 (W37),Real Madrid CF (1),3-0,2-0,IB Keflavik (1),,,ESP,ISL
+,Round 1,,,(Wed) 13 Sep 1972 (W37),Olympique Marseille (1),1-0,0-0,Juventus (1),,,FRA,ITA
+,Round 1,,,(Wed) 13 Sep 1972 (W37),Magdeburg (1),6-0,4-0,TPS Turku (1),,,GER,FIN
+,Round 1,,,(Wed) 13 Sep 1972 (W37),Malmo FF (1),1-0,1-0,SL Benfica (1),,,SWE,POR
+,Round 1,,,(Wed) 13 Sep 1972 (W37),Waterford AFC (1),2-1,2-0,Omonia Nicosia (1),,,IRL,CYP
+,Round 1,,,(Wed) 13 Sep 1972 (W37),RSC Anderlecht (1),4-2,1-0,Vejle BK (1),,,BEL,DEN
+,Round 1,,,(Wed) 27 Sep 1972 (W39),Arges Pitesti (2),4-0,3-0,Aris Bonnevoie (2),,,ROU,LUX
+,Round 1,,,(Wed) 27 Sep 1972 (W39),Basel (2),3-2,0-0,Ujpesti Dozsa SC (2),,,SUI,HUN
+,Round 1,,,(Wed) 27 Sep 1972 (W39),Bayern München (2),6-0,3-0,Galatasaray İstanbul AŞ (2),,,GER,TUR
+,Round 1,,,(Wed) 27 Sep 1972 (W39),Rosenborg BK (2),1-3,1-0,Celtic FC (2),,,NOR,SCO
+,Round 1,,,(Wed) 27 Sep 1972 (W39),Zeljeznicar Sarajevo (2),1-2,0-2,Derby County FC (2),,,BIH,ENG
+,Round 1,,,(Wed) 27 Sep 1972 (W39),Dinamo Kiev (2),2-0,1-0,SSW Innsbruck (2),,,UKR,AUT
+,Round 1,,,(Wed) 27 Sep 1972 (W39),Gornik Zabrze (2),5-0,2-0,Sliema Wanderers (2),,,POL,MLT
+,Round 1,,,(Wed) 27 Sep 1972 (W39),IB Keflavik (2),0-1,0-0,Real Madrid CF (2),,,ISL,ESP
+,Round 1,,,(Wed) 27 Sep 1972 (W39),Juventus (2),3-0,3-0,Olympique Marseille (2),,,ITA,FRA
+,Round 1,,,(Wed) 27 Sep 1972 (W39),TPS Turku (2),1-3,0-0,Magdeburg (2),,,FIN,GER
+,Round 1,,,(Wed) 27 Sep 1972 (W39),SL Benfica (2),4-1,3-0,Malmo FF (2),,,POR,SWE
+,Round 1,,,(Wed) 27 Sep 1972 (W39),Omonia Nicosia (2),2-0,1-0,Waterford AFC (2),,,CYP,IRL
+,Round 1,,,(Wed) 27 Sep 1972 (W39),Vejle BK (2),0-3,0-0,RSC Anderlecht (2),,,DEN,BEL
+,Round of 16,,,(Tue) 24 Oct 1972 (W43),Bayern München (3),9-0,4-0,Omonia Nicosia (3),,,GER,CYP
+,Round of 16,,,(Wed) 25 Oct 1972 (W43),Arges Pitesti (3),2-1,1-1,Real Madrid CF (3),,,ROU,ESP
+,Round of 16,,,(Wed) 25 Oct 1972 (W43),Celtic FC (3),2-1,0-1,Ujpesti Dozsa SC (3),,,SCO,HUN
+,Round of 16,,,(Wed) 25 Oct 1972 (W43),Derby County FC (3),3-0,3-0,SL Benfica (3),,,ENG,POR
+,Round of 16,,,(Wed) 25 Oct 1972 (W43),Dinamo Kiev (3),2-0,0-0,Gornik Zabrze (3),,,UKR,POL
+,Round of 16,,,(Wed) 25 Oct 1972 (W43),Juventus (3),1-0,0-0,Magdeburg (3),,,ITA,GER
+,Round of 16,,,(Wed) 25 Oct 1972 (W43),Spartak TAZ Trnava (1),1-0,0-0,RSC Anderlecht (3),,,SVK,BEL
+,Round of 16,,,(Thu) 26 Oct 1972 (W43),Omonia Nicosia (4),0-4,0-2,Bayern München (4),,,CYP,GER
+,Round 1,,,(Fri) 27 Oct 1972 (W43),Panathinaikos FC (2),0-2,0-1,CSKA Sofia (2),,,GRE,BUL
+,Round of 16,,,(Wed) 8 Nov 1972 (W45),CSKA Sofia (3),1-3,1-2,AFC Ajax (1),,,BUL,NED
+,Round of 16,,,(Wed) 8 Nov 1972 (W45),Ujpesti Dozsa SC (4),3-0,3-0,Celtic FC (4),,,HUN,SCO
+,Round of 16,,,(Wed) 8 Nov 1972 (W45),SL Benfica (4),0-0,0-0,Derby County FC (4),,,POR,ENG
+,Round of 16,,,(Wed) 8 Nov 1972 (W45),Gornik Zabrze (4),2-1,1-1,Dinamo Kiev (4),,,POL,UKR
+,Round of 16,,,(Wed) 8 Nov 1972 (W45),Magdeburg (4),0-1,0-0,Juventus (4),,,GER,ITA
+,Round of 16,,,(Wed) 8 Nov 1972 (W45),RSC Anderlecht (4),0-1,0-0,Spartak TAZ Trnava (2),,,BEL,SVK
+,Round of 16,,,(Thu) 9 Nov 1972 (W45),Real Madrid CF (4),3-1,1-1,Arges Pitesti (4),,,ESP,ROU
+,Round of 16,,,(Wed) 29 Nov 1972 (W48),AFC Ajax (2),3-0,2-0,CSKA Sofia (4),,,NED,BUL
+,Quarterfinals,,,(Wed) 7 Mar 1973 (W10),Juventus (5),0-0,0-0,Ujpesti Dozsa SC (5),,,ITA,HUN
+,Quarterfinals,,,(Wed) 7 Mar 1973 (W10),AFC Ajax (3),4-0,0-0,Bayern München (5),,,NED,GER
+,Quarterfinals,,,(Wed) 7 Mar 1973 (W10),Spartak TAZ Trnava (3),1-0,1-0,Derby County FC (5),,,SVK,ENG
+,Quarterfinals,,,(Wed) 7 Mar 1973 (W10),Dinamo Kiev (5),0-0,0-0,Real Madrid CF (5),,,UKR,ESP
+,Quarterfinals,,,(Wed) 21 Mar 1973 (W12),Ujpesti Dozsa SC (6),2-2,2-1,Juventus (6),,,HUN,ITA
+,Quarterfinals,,,(Wed) 21 Mar 1973 (W12),Bayern München (6),2-1,2-1,AFC Ajax (4),,,GER,NED
+,Quarterfinals,,,(Wed) 21 Mar 1973 (W12),Derby County FC (6),2-0,1-0,Spartak TAZ Trnava (4),,,ENG,SVK
+,Quarterfinals,,,(Wed) 21 Mar 1973 (W12),Real Madrid CF (6),3-0,2-0,Dinamo Kiev (6),,,ESP,UKR
+,Semifinals,,,(Wed) 11 Apr 1973 (W15),AFC Ajax (5),2-1,0-0,Real Madrid CF (7),,,NED,ESP
+,Semifinals,,,(Wed) 11 Apr 1973 (W15),Juventus (7),3-1,1-1,Derby County FC (7),,,ITA,ENG
+,Semifinals,,,(Wed) 25 Apr 1973 (W17),Real Madrid CF (8),0-1,0-0,AFC Ajax (6),,,ESP,NED
+,Semifinals,,,(Wed) 25 Apr 1973 (W17),Derby County FC (8),0-0,0-0,Juventus (8),,,ENG,ITA
+,Final,,,(Wed) 30 May 1973 (W22),AFC Ajax (7),1-0,0-0,Juventus (9),,,NED,ITA

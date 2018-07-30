@@ -1,49 +1,49 @@
-Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-?,Round1,1,(Wed) 4 Sep 1957 (W35),Rangers FC (1),3-1,1-1,AS Saint-Etienne (1),,,SCO,FRA
-?,Round1,1,(Wed) 4 Sep 1957 (W35),CDNA Sofia (1),2-1,2-0,Budapesti Vasas (1),,,BUL,HUN
-?,Round1,1,(Thu) 5 Sep 1957 (W35),Stade Dudelange (1),0-5,0-2,Crvena Zvezda (1),,,LUX,SRB
-?,Round1,1,(Wed) 11 Sep 1957 (W36),Gwardia Warszawa (1),3-1,0-0,SC Wismut Karl-Marx-Stadt (1),,,POL,GER
-?,Round1,1,(Wed) 11 Sep 1957 (W36),Aarhus GF (1),0-0,0-0,Glenavon FC (1),,,DEN,NIR
-?,Round1,1,(Thu) 19 Sep 1957 (W37),Sevilla FC (1),3-1,0-0,SL Benfica (1),,,ESP,POR
-?,Round1,2,(Wed) 25 Sep 1957 (W38),Glenavon FC (2),0-3,0-3,Aarhus GF (2),,,NIR,DEN
-?,Round1,2,(Wed) 25 Sep 1957 (W38),AS Saint-Etienne (2),2-1,1-0,Rangers FC (2),,,FRA,SCO
-?,Round1,1,(Wed) 25 Sep 1957 (W38),Shamrock Rovers (1),0-6,0-1,Manchester United FC (1),,,IRL,ENG
-?,Round1,2,(Thu) 26 Sep 1957 (W38),SL Benfica (2),0-0,0-0,Sevilla FC (2),,,POR,ESP
-?,Round1,1,(Wed) 2 Oct 1957 (W39),AC Milan (1),4-1,2-0,Rapid Wien (1),,,ITA,AUT
-?,Round1,2,(Wed) 2 Oct 1957 (W39),Crvena Zvezda (2),9-1,7-1,Stade Dudelange (2),,,SRB,LUX
-?,Round1,2,(Wed) 2 Oct 1957 (W39),Manchester United FC (2),3-2,2-0,Shamrock Rovers (2),,,ENG,IRL
-?,Round1,2,(Thu) 3 Oct 1957 (W39),Budapesti Vasas (2),6-1,2-1,CDNA Sofia (2),,,HUN,BUL
-?,Round1,2,(Wed) 9 Oct 1957 (W40),Rapid Wien (2),5-2,2-1,AC Milan (2),,,AUT,ITA
-?,Round1,2,(Sun) 13 Oct 1957 (W40),SC Wismut Karl-Marx-Stadt (2),3-1,2-0,Gwardia Warszawa (2),,,GER,POL
-?,Round1,replay,(Tue) 15 Oct 1957 (W41),SC Wismut Karl-Marx-Stadt (3),1-1,0-1,Gwardia Warszawa (3),1-1 (a.e.t.),,GER,POL
-?,Round1,replay,(Wed) 30 Oct 1957 (W43),AC Milan (3),4-2,2-1,Rapid Wien (3),,,ITA,AUT
-?,R16,1,(Thu) 31 Oct 1957 (W43),Royal Antwerp FC (1),1-2,0-1,Real Madrid CF (1),,,BEL,ESP
-?,R16,1,(Sat) 2 Nov 1957 (W43),IFK Norrkoping (1),2-2,0-0,Crvena Zvezda (3),,,SWE,SRB
-?,R16,1,(Wed) 20 Nov 1957 (W46),SC Wismut Karl-Marx-Stadt (4),1-3,0-2,AFC Ajax (1),,,GER,NED
-?,R16,1,(Wed) 20 Nov 1957 (W46),BSC Young Boys (1),1-1,1-0,Budapesti Vasas (3),,,SUI,HUN
-?,R16,1,(Wed) 20 Nov 1957 (W46),Manchester United FC (3),3-0,0-0,Dukla Praha (1),,,ENG,CZE
-?,R16,2,(Sat) 23 Nov 1957 (W46),Crvena Zvezda (4),2-1,0-1,IFK Norrkoping (2),,,SRB,SWE
-?,R16,1,(Wed) 27 Nov 1957 (W47),Borussia Dortmund (1),4-2,1-1,CCA Bucuresti (1),,,GER,ROU
-?,R16,1,(Wed) 27 Nov 1957 (W47),Sevilla FC (3),4-0,3-0,Aarhus GF (3),,,ESP,DEN
-?,R16,1,(Wed) 27 Nov 1957 (W47),Rangers FC (3),1-4,1-0,AC Milan (4),,,SCO,ITA
-?,R16,2,(Wed) 27 Nov 1957 (W47),AFC Ajax (2),1-0,0-0,SC Wismut Karl-Marx-Stadt (5),,,NED,GER
-?,R16,2,(Thu) 28 Nov 1957 (W47),Real Madrid CF (2),6-0,3-0,Royal Antwerp FC (2),,,ESP,BEL
-?,R16,2,(Sat) 30 Nov 1957 (W47),Budapesti Vasas (4),2-1,2-0,BSC Young Boys (2),,,HUN,SUI
-?,R16,2,(Wed) 4 Dec 1957 (W48),Aarhus GF (4),2-0,1-0,Sevilla FC (4),,,DEN,ESP
-?,R16,2,(Wed) 4 Dec 1957 (W48),Dukla Praha (2),1-0,1-0,Manchester United FC (4),,,CZE,ENG
-?,R16,2,(Sun) 8 Dec 1957 (W48),CCA Bucuresti (2),3-1,3-1,Borussia Dortmund (2),,,ROU,GER
-?,R16,2,(Sun) 8 Dec 1957 (W48),AC Milan (5),2-0,1-0,Rangers FC (4),,,ITA,SCO
-?,R16,replay,(Sun) 29 Dec 1957 (W51),Borussia Dortmund (3),3-1,1-1,CCA Bucuresti (3),,,GER,ROU
-?,QF,1,(Tue) 14 Jan 1958 (W2),Manchester United FC (5),2-1,0-1,Crvena Zvezda (5),,,ENG,SRB
-?,QF,1,(Thu) 23 Jan 1958 (W3),Real Madrid CF (3),8-0,2-0,Sevilla FC (5),,,ESP,ESP
-?,QF,1,(Wed) 5 Feb 1958 (W5),AFC Ajax (3),2-2,2-0,Budapesti Vasas (5),,,NED,HUN
-?,QF,2,(Wed) 5 Feb 1958 (W5),Crvena Zvezda (6),3-3,0-3,Manchester United FC (6),,,SRB,ENG
-?,QF,1,(Wed) 12 Feb 1958 (W6),Borussia Dortmund (4),1-1,0-1,AC Milan (6),,,GER,ITA
-?,QF,2,(Sun) 23 Feb 1958 (W7),Sevilla FC (6),2-2,2-0,Real Madrid CF (4),,,ESP,ESP
-?,QF,2,(Wed) 26 Feb 1958 (W8),AC Milan (7),4-1,2-1,Borussia Dortmund (5),,,ITA,GER
-?,QF,2,(Wed) 26 Feb 1958 (W8),Budapesti Vasas (6),4-0,4-0,AFC Ajax (4),,,HUN,NED
-?,SF,1,(Wed) 2 Apr 1958 (W13),Real Madrid CF (5),4-0,2-0,Budapesti Vasas (7),,,ESP,HUN
-?,SF,2,(Mon) 14 Apr 1958 (W15),Budapesti Vasas (8),2-0,1-0,Real Madrid CF (6),,,HUN,ESP
-?,SF,1,(Thu) 8 May 1958 (W18),Manchester United FC (7),2-1,1-1,AC Milan (8),,,ENG,ITA
-?,SF,2,(Wed) 14 May 1958 (W19),AC Milan (9),4-0,1-0,Manchester United FC (8),,,ITA,ENG
-?,final,,(Wed) 28 May 1958 (W21),Real Madrid CF (7),2-2,0-0,AC Milan (10),3-2 (a.e.t.),,ESP,ITA
+Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+,Round 1,,,(Wed) 4 Sep 1957 (W35),Rangers FC (1),3-1,1-1,AS Saint-Etienne (1),,,SCO,FRA
+,Round 1,,,(Wed) 4 Sep 1957 (W35),CDNA Sofia (1),2-1,2-0,Budapesti Vasas (1),,,BUL,HUN
+,Round 1,,,(Thu) 5 Sep 1957 (W35),Stade Dudelange (1),0-5,0-2,Crvena Zvezda (1),,,LUX,SRB
+,Round 1,,,(Wed) 11 Sep 1957 (W36),Gwardia Warszawa (1),3-1,0-0,SC Wismut Karl-Marx-Stadt (1),,,POL,GER
+,Round 1,,,(Wed) 11 Sep 1957 (W36),Aarhus GF (1),0-0,0-0,Glenavon FC (1),,,DEN,NIR
+,Round 1,,,(Thu) 19 Sep 1957 (W37),Sevilla FC (1),3-1,0-0,SL Benfica (1),,,ESP,POR
+,Round 1,,,(Wed) 25 Sep 1957 (W38),Glenavon FC (2),0-3,0-3,Aarhus GF (2),,,NIR,DEN
+,Round 1,,,(Wed) 25 Sep 1957 (W38),AS Saint-Etienne (2),2-1,1-0,Rangers FC (2),,,FRA,SCO
+,Round 1,,,(Wed) 25 Sep 1957 (W38),Shamrock Rovers (1),0-6,0-1,Manchester United FC (1),,,IRL,ENG
+,Round 1,,,(Thu) 26 Sep 1957 (W38),SL Benfica (2),0-0,0-0,Sevilla FC (2),,,POR,ESP
+,Round 1,,,(Wed) 2 Oct 1957 (W39),AC Milan (1),4-1,2-0,Rapid Wien (1),,,ITA,AUT
+,Round 1,,,(Wed) 2 Oct 1957 (W39),Crvena Zvezda (2),9-1,7-1,Stade Dudelange (2),,,SRB,LUX
+,Round 1,,,(Wed) 2 Oct 1957 (W39),Manchester United FC (2),3-2,2-0,Shamrock Rovers (2),,,ENG,IRL
+,Round 1,,,(Thu) 3 Oct 1957 (W39),Budapesti Vasas (2),6-1,2-1,CDNA Sofia (2),,,HUN,BUL
+,Round 1,,,(Wed) 9 Oct 1957 (W40),Rapid Wien (2),5-2,2-1,AC Milan (2),,,AUT,ITA
+,Round 1,,,(Sun) 13 Oct 1957 (W40),SC Wismut Karl-Marx-Stadt (2),3-1,2-0,Gwardia Warszawa (2),,,GER,POL
+,Round 1,,,(Tue) 15 Oct 1957 (W41),SC Wismut Karl-Marx-Stadt (3),1-1,0-1,Gwardia Warszawa (3),1-1 (a.e.t.),,GER,POL
+,Round 1,,,(Wed) 30 Oct 1957 (W43),AC Milan (3),4-2,2-1,Rapid Wien (3),,,ITA,AUT
+,Round of 16,,,(Thu) 31 Oct 1957 (W43),Royal Antwerp FC (1),1-2,0-1,Real Madrid CF (1),,,BEL,ESP
+,Round of 16,,,(Sat) 2 Nov 1957 (W43),IFK Norrkoping (1),2-2,0-0,Crvena Zvezda (3),,,SWE,SRB
+,Round of 16,,,(Wed) 20 Nov 1957 (W46),SC Wismut Karl-Marx-Stadt (4),1-3,0-2,AFC Ajax (1),,,GER,NED
+,Round of 16,,,(Wed) 20 Nov 1957 (W46),BSC Young Boys (1),1-1,1-0,Budapesti Vasas (3),,,SUI,HUN
+,Round of 16,,,(Wed) 20 Nov 1957 (W46),Manchester United FC (3),3-0,0-0,Dukla Praha (1),,,ENG,CZE
+,Round of 16,,,(Sat) 23 Nov 1957 (W46),Crvena Zvezda (4),2-1,0-1,IFK Norrkoping (2),,,SRB,SWE
+,Round of 16,,,(Wed) 27 Nov 1957 (W47),Borussia Dortmund (1),4-2,1-1,CCA Bucuresti (1),,,GER,ROU
+,Round of 16,,,(Wed) 27 Nov 1957 (W47),Sevilla FC (3),4-0,3-0,Aarhus GF (3),,,ESP,DEN
+,Round of 16,,,(Wed) 27 Nov 1957 (W47),Rangers FC (3),1-4,1-0,AC Milan (4),,,SCO,ITA
+,Round of 16,,,(Wed) 27 Nov 1957 (W47),AFC Ajax (2),1-0,0-0,SC Wismut Karl-Marx-Stadt (5),,,NED,GER
+,Round of 16,,,(Thu) 28 Nov 1957 (W47),Real Madrid CF (2),6-0,3-0,Royal Antwerp FC (2),,,ESP,BEL
+,Round of 16,,,(Sat) 30 Nov 1957 (W47),Budapesti Vasas (4),2-1,2-0,BSC Young Boys (2),,,HUN,SUI
+,Round of 16,,,(Wed) 4 Dec 1957 (W48),Aarhus GF (4),2-0,1-0,Sevilla FC (4),,,DEN,ESP
+,Round of 16,,,(Wed) 4 Dec 1957 (W48),Dukla Praha (2),1-0,1-0,Manchester United FC (4),,,CZE,ENG
+,Round of 16,,,(Sun) 8 Dec 1957 (W48),CCA Bucuresti (2),3-1,3-1,Borussia Dortmund (2),,,ROU,GER
+,Round of 16,,,(Sun) 8 Dec 1957 (W48),AC Milan (5),2-0,1-0,Rangers FC (4),,,ITA,SCO
+,Round of 16,,,(Sun) 29 Dec 1957 (W51),Borussia Dortmund (3),3-1,1-1,CCA Bucuresti (3),,,GER,ROU
+,Quarterfinals,,,(Tue) 14 Jan 1958 (W2),Manchester United FC (5),2-1,0-1,Crvena Zvezda (5),,,ENG,SRB
+,Quarterfinals,,,(Thu) 23 Jan 1958 (W3),Real Madrid CF (3),8-0,2-0,Sevilla FC (5),,,ESP,ESP
+,Quarterfinals,,,(Wed) 5 Feb 1958 (W5),AFC Ajax (3),2-2,2-0,Budapesti Vasas (5),,,NED,HUN
+,Quarterfinals,,,(Wed) 5 Feb 1958 (W5),Crvena Zvezda (6),3-3,0-3,Manchester United FC (6),,,SRB,ENG
+,Quarterfinals,,,(Wed) 12 Feb 1958 (W6),Borussia Dortmund (4),1-1,0-1,AC Milan (6),,,GER,ITA
+,Quarterfinals,,,(Sun) 23 Feb 1958 (W7),Sevilla FC (6),2-2,2-0,Real Madrid CF (4),,,ESP,ESP
+,Quarterfinals,,,(Wed) 26 Feb 1958 (W8),AC Milan (7),4-1,2-1,Borussia Dortmund (5),,,ITA,GER
+,Quarterfinals,,,(Wed) 26 Feb 1958 (W8),Budapesti Vasas (6),4-0,4-0,AFC Ajax (4),,,HUN,NED
+,Semifinals,,,(Wed) 2 Apr 1958 (W13),Real Madrid CF (5),4-0,2-0,Budapesti Vasas (7),,,ESP,HUN
+,Semifinals,,,(Mon) 14 Apr 1958 (W15),Budapesti Vasas (8),2-0,1-0,Real Madrid CF (6),,,HUN,ESP
+,Semifinals,,,(Thu) 8 May 1958 (W18),Manchester United FC (7),2-1,1-1,AC Milan (8),,,ENG,ITA
+,Semifinals,,,(Wed) 14 May 1958 (W19),AC Milan (9),4-0,1-0,Manchester United FC (8),,,ITA,ENG
+,Final,,,(Wed) 28 May 1958 (W21),Real Madrid CF (7),2-2,0-0,AC Milan (10),3-2 (a.e.t.),,ESP,ITA

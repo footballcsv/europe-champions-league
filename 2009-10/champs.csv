@@ -1,213 +1,213 @@
-Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-?,Q-1,1,(Tue) 30 Jun 2009 (W26),Hibernians (1),0-2,0-0,FK Mogren (1),,,MLT,MNE
-?,Q-1,1,(Wed) 1 Jul 2009 (W26),Tre Fiori (1),1-1,0-0,UE Sant Julia (1),,,SMR,AND
-?,Q-1,2,(Tue) 7 Jul 2009 (W27),UE Sant Julia (2),1-1,0-0,Tre Fiori (2),1-1 (a.e.t.),,AND,SMR
-?,Q-1,2,(Wed) 8 Jul 2009 (W27),FK Mogren (2),4-0,0-0,Hibernians (2),,,MNE,MLT
-?,Q-2,1,(Tue) 14 Jul 2009 (W28),EB / Streymur (1),0-2,0-0,APOEL Nikosia (1),,,FRO,CYP
-?,Q-2,1,(Tue) 14 Jul 2009 (W28),FK Ekranas (1),2-2,0-0,Baku (1),,,LTU,AZE
-?,Q-2,1,(Tue) 14 Jul 2009 (W28),Makedonija (1),0-2,0-0,BATE Borisov (1),,,MKD,BLR
-?,Q-2,1,(Tue) 14 Jul 2009 (W28),Pyunik (1),0-0,0-0,Dinamo Zagreb (1),,,ARM,CRO
-?,Q-2,1,(Tue) 14 Jul 2009 (W28),Rhyl (1),0-4,0-0,Partizan Belgrade (1),,,WAL,SRB
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),Debreceni VSC (1),2-0,0-0,Kalmar FF (1),,,HUN,SWE
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),FH (1),0-4,0-0,Aktobe (1),,,ISL,KAZ
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),FC RB Salzburg (1),1-1,0-0,Bohemians (1),,,AUT,IRL
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),Ventspils (1),3-0,0-0,F91 Dudelange (1),,,LVA,LUX
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),Kobenhavn (1),6-0,0-0,FK Mogren (3),,,DEN,MNE
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),Maccabi Haifa (1),6-0,0-0,Glentoran (1),,,ISR,NIR
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),HSK Zrinjski Mostar (1),1-0,0-0,SK Slovan Bratislava (1),,,BIH,SVK
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),Inter Turku (1),0-1,0-0,Sheriff Tiraspol (1),,,FIN,MDA
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),KF Tirana (1),1-1,0-0,Stabaek (1),,,ALB,NOR
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),Wisla Krakow (1),1-1,0-0,Levadia (1),,,POL,EST
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),Levski Sofia (1),4-0,0-0,UE Sant Julia (3),,,BUL,AND
-?,Q-2,1,(Wed) 15 Jul 2009 (W28),WIT Georgia (1),0-0,0-0,NK Maribor (1),,,GEO,SVN
-?,Q-2,2,(Tue) 21 Jul 2009 (W29),APOEL Nikosia (2),3-0,0-0,EB / Streymur (2),,,CYP,FRO
-?,Q-2,2,(Tue) 21 Jul 2009 (W29),Baku (2),4-2,0-0,FK Ekranas (2),,,AZE,LTU
-?,Q-2,2,(Tue) 21 Jul 2009 (W29),BATE Borisov (2),2-0,0-0,Makedonija (2),,,BLR,MKD
-?,Q-2,2,(Tue) 21 Jul 2009 (W29),Dinamo Zagreb (2),3-0,0-0,Pyunik (2),,,CRO,ARM
-?,Q-2,2,(Tue) 21 Jul 2009 (W29),SK Slovan Bratislava (2),4-0,0-0,HSK Zrinjski Mostar (2),,,SVK,BIH
-?,Q-2,2,(Tue) 21 Jul 2009 (W29),Sheriff Tiraspol (2),1-0,0-0,Inter Turku (2),,,MDA,FIN
-?,Q-2,2,(Tue) 21 Jul 2009 (W29),Stabaek (2),4-0,0-0,KF Tirana (2),,,NOR,ALB
-?,Q-2,2,(Tue) 21 Jul 2009 (W29),UE Sant Julia (4),0-5,0-0,Levski Sofia (2),,,AND,BUL
-?,Q-2,2,(Tue) 21 Jul 2009 (W29),Partizan Belgrade (2),8-0,0-0,Rhyl (2),,,SRB,WAL
-?,Q-2,2,(Wed) 22 Jul 2009 (W29),Kalmar FF (2),3-1,0-0,Debreceni VSC (2),,,SWE,HUN
-?,Q-2,2,(Wed) 22 Jul 2009 (W29),Aktobe (2),2-0,0-0,FH (2),,,KAZ,ISL
-?,Q-2,2,(Wed) 22 Jul 2009 (W29),Bohemians (2),0-1,0-0,FC RB Salzburg (2),,,IRL,AUT
-?,Q-2,2,(Wed) 22 Jul 2009 (W29),F91 Dudelange (2),1-3,0-0,Ventspils (2),,,LUX,LVA
-?,Q-2,2,(Wed) 22 Jul 2009 (W29),FK Mogren (4),0-6,0-0,Kobenhavn (2),,,MNE,DEN
-?,Q-2,2,(Wed) 22 Jul 2009 (W29),Glentoran (2),0-4,0-0,Maccabi Haifa (2),,,NIR,ISR
-?,Q-2,2,(Wed) 22 Jul 2009 (W29),Levadia (2),1-0,0-0,Wisla Krakow (2),,,EST,POL
-?,Q-2,2,(Wed) 22 Jul 2009 (W29),NK Maribor (2),3-1,0-0,WIT Georgia (2),,,SVN,GEO
-?,Q-3,1,(Tue) 28 Jul 2009 (W30),Aktobe (3),0-0,0-0,Maccabi Haifa (3),,,KAZ,ISR
-?,Q-3,1,(Tue) 28 Jul 2009 (W30),Baku (3),0-0,0-0,Levski Sofia (3),,,AZE,BUL
-?,Q-3,1,(Tue) 28 Jul 2009 (W30),Sparta Praha (1),3-1,0-0,Panathinaikos FC (1),,,CZE,GRE
-?,Q-3,1,(Tue) 28 Jul 2009 (W30),RSC Anderlecht (1),5-0,0-0,Sivasspor (1),,,BEL,TUR
-?,Q-3,1,(Wed) 29 Jul 2009 (W30),Ventspils (3),1-0,0-0,BATE Borisov (3),,,LVA,BLR
-?,Q-3,1,(Wed) 29 Jul 2009 (W30),Shakhtar Donetsk (1),2-2,0-0,FC Politehnica Timisoara (1),,,UKR,ROU
-?,Q-3,1,(Wed) 29 Jul 2009 (W30),Sheriff Tiraspol (3),0-0,0-0,Slavia Praha (1),,,MDA,CZE
-?,Q-3,1,(Wed) 29 Jul 2009 (W30),Sporting CP (1),0-0,0-0,FC Twente (1),,,POR,NED
-?,Q-3,1,(Wed) 29 Jul 2009 (W30),Celtic FC (1),0-1,0-0,Dinamo Moskva (1),,,SCO,RUS
-?,Q-3,1,(Wed) 29 Jul 2009 (W30),Levadia (3),0-1,0-0,Debreceni VSC (3),,,EST,HUN
-?,Q-3,1,(Wed) 29 Jul 2009 (W30),FC RB Salzburg (3),1-1,0-0,Dinamo Zagreb (3),,,AUT,CRO
-?,Q-3,1,(Wed) 29 Jul 2009 (W30),FC Zurich (1),2-3,0-0,NK Maribor (3),,,SUI,SVN
-?,Q-3,1,(Wed) 29 Jul 2009 (W30),Kobenhavn (3),3-1,0-0,Stabaek (3),,,DEN,NOR
-?,Q-3,1,(Wed) 29 Jul 2009 (W30),SK Slovan Bratislava (3),0-2,0-0,Olympiacos (1),,,SVK,GRE
-?,Q-3,1,(Wed) 29 Jul 2009 (W30),APOEL Nikosia (3),2-0,0-0,Partizan Belgrade (3),,,CYP,SRB
-?,Q-3,2,(Tue) 4 Aug 2009 (W31),FC Twente (2),1-1,0-0,Sporting CP (2),,,NED,POR
-?,Q-3,2,(Tue) 4 Aug 2009 (W31),Maccabi Haifa (4),4-3,0-0,Aktobe (4),,,ISR,KAZ
-?,Q-3,2,(Tue) 4 Aug 2009 (W31),Dinamo Zagreb (4),1-2,0-0,FC RB Salzburg (4),,,CRO,AUT
-?,Q-3,2,(Tue) 4 Aug 2009 (W31),Panathinaikos FC (2),3-0,0-0,Sparta Praha (2),,,GRE,CZE
-?,Q-3,2,(Tue) 4 Aug 2009 (W31),Sivasspor (2),3-1,0-0,RSC Anderlecht (2),,,TUR,BEL
-?,Q-3,2,(Wed) 5 Aug 2009 (W31),BATE Borisov (4),2-1,0-0,Ventspils (4),,,BLR,LVA
-?,Q-3,2,(Wed) 5 Aug 2009 (W31),FC Politehnica Timisoara (2),0-0,0-0,Shakhtar Donetsk (2),,,ROU,UKR
-?,Q-3,2,(Wed) 5 Aug 2009 (W31),Slavia Praha (2),1-1,0-0,Sheriff Tiraspol (4),,,CZE,MDA
-?,Q-3,2,(Wed) 5 Aug 2009 (W31),Levski Sofia (4),2-0,0-0,Baku (4),,,BUL,AZE
-?,Q-3,2,(Wed) 5 Aug 2009 (W31),Dinamo Moskva (2),0-2,0-0,Celtic FC (2),,,RUS,SCO
-?,Q-3,2,(Wed) 5 Aug 2009 (W31),Debreceni VSC (4),1-0,0-0,Levadia (4),,,HUN,EST
-?,Q-3,2,(Wed) 5 Aug 2009 (W31),NK Maribor (4),0-3,0-0,FC Zurich (2),,,SVN,SUI
-?,Q-3,2,(Wed) 5 Aug 2009 (W31),Stabaek (4),0-0,0-0,Kobenhavn (4),,,NOR,DEN
-?,Q-3,2,(Wed) 5 Aug 2009 (W31),Olympiacos (2),2-0,0-0,SK Slovan Bratislava (4),,,GRE,SVK
-?,Q-3,2,(Wed) 5 Aug 2009 (W31),Partizan Belgrade (4),1-0,0-0,APOEL Nikosia (4),,,SRB,CYP
-?,Q-PO,1,(Tue) 18 Aug 2009 (W33),Sporting CP (3),2-2,0-0,ACF Fiorentina (1),,,POR,ITA
-?,Q-PO,1,(Tue) 18 Aug 2009 (W33),Kobenhavn (5),1-0,0-0,APOEL Nikosia (5),,,DEN,CYP
-?,Q-PO,1,(Tue) 18 Aug 2009 (W33),Celtic FC (3),0-2,0-0,Arsenal FC (1),,,SCO,ENG
-?,Q-PO,1,(Tue) 18 Aug 2009 (W33),FC Politehnica Timisoara (3),0-2,0-0,VfB Stuttgart (1),,,ROU,GER
-?,Q-PO,1,(Tue) 18 Aug 2009 (W33),Sheriff Tiraspol (5),0-2,0-0,Olympiacos (3),,,MDA,GRE
-?,Q-PO,1,(Wed) 19 Aug 2009 (W33),Panathinaikos FC (3),2-3,0-0,Atletico Madrid (1),,,GRE,ESP
-?,Q-PO,1,(Wed) 19 Aug 2009 (W33),Levski Sofia (5),1-2,0-0,Debreceni VSC (5),,,BUL,HUN
-?,Q-PO,1,(Wed) 19 Aug 2009 (W33),Ventspils (5),0-3,0-0,FC Zurich (3),,,LVA,SUI
-?,Q-PO,1,(Wed) 19 Aug 2009 (W33),FC RB Salzburg (5),1-2,0-0,Maccabi Haifa (5),,,AUT,ISR
-?,Q-PO,1,(Wed) 19 Aug 2009 (W33),Olympique Lyon (1),5-1,0-0,RSC Anderlecht (3),,,FRA,BEL
-?,Q-PO,2,(Tue) 25 Aug 2009 (W34),Atletico Madrid (2),2-0,0-0,Panathinaikos FC (4),,,ESP,GRE
-?,Q-PO,2,(Tue) 25 Aug 2009 (W34),Debreceni VSC (6),2-0,0-0,Levski Sofia (6),,,HUN,BUL
-?,Q-PO,2,(Tue) 25 Aug 2009 (W34),FC Zurich (4),2-1,0-0,Ventspils (6),,,SUI,LVA
-?,Q-PO,2,(Tue) 25 Aug 2009 (W34),Maccabi Haifa (6),3-0,0-0,FC RB Salzburg (6),,,ISR,AUT
-?,Q-PO,2,(Tue) 25 Aug 2009 (W34),RSC Anderlecht (4),1-3,0-0,Olympique Lyon (2),,,BEL,FRA
-?,Q-PO,2,(Wed) 26 Aug 2009 (W34),ACF Fiorentina (2),1-1,0-0,Sporting CP (4),,,ITA,POR
-?,Q-PO,2,(Wed) 26 Aug 2009 (W34),APOEL Nikosia (6),3-1,0-0,Kobenhavn (6),,,CYP,DEN
-?,Q-PO,2,(Wed) 26 Aug 2009 (W34),Arsenal FC (2),3-1,0-0,Celtic FC (4),,,ENG,SCO
-?,Q-PO,2,(Wed) 26 Aug 2009 (W34),VfB Stuttgart (2),0-0,0-0,FC Politehnica Timisoara (4),,,GER,ROU
-?,Q-PO,2,(Wed) 26 Aug 2009 (W34),Olympiacos (4),1-0,0-0,Sheriff Tiraspol (6),,,GRE,MDA
-?,GroupC,groups,(Tue) 15 Sep 2009 (W37),Olympique Marseille (1),1-2,0-1,AC Milan (1),,,FRA,ITA
-?,GroupD,groups,(Tue) 15 Sep 2009 (W37),Atletico Madrid (3),0-0,0-0,APOEL Nikosia (7),,,ESP,CYP
-?,GroupA,groups,(Tue) 15 Sep 2009 (W37),Maccabi Haifa (7),0-3,0-0,Bayern München (1),,,ISR,GER
-?,GroupB,groups,(Tue) 15 Sep 2009 (W37),Beşiktaş İstanbul JK (1),0-1,0-0,Manchester United FC (1),,,TUR,ENG
-?,GroupD,groups,(Tue) 15 Sep 2009 (W37),Chelsea FC (1),1-0,0-0,FC Porto (1),,,ENG,POR
-?,GroupB,groups,(Tue) 15 Sep 2009 (W37),VfL Wolfsburg (1),3-1,2-0,CSKA Moskva (1),,,GER,RUS
-?,GroupC,groups,(Tue) 15 Sep 2009 (W37),FC Zurich (5),2-5,0-3,Real Madrid CF (1),,,SUI,ESP
-?,GroupA,groups,(Tue) 15 Sep 2009 (W37),Juventus (1),1-1,0-0,Girondins Bordeaux (1),,,ITA,FRA
-?,GroupF,groups,(Wed) 16 Sep 2009 (W37),Internazionale (1),0-0,0-0,FC Barcelona (1),,,ITA,ESP
-?,GroupE,groups,(Wed) 16 Sep 2009 (W37),Olympique Lyon (3),1-0,0-0,ACF Fiorentina (3),,,FRA,ITA
-?,GroupH,groups,(Wed) 16 Sep 2009 (W37),Standard Liege (1),2-3,2-1,Arsenal FC (3),,,BEL,ENG
-?,GroupH,groups,(Wed) 16 Sep 2009 (W37),Olympiacos (5),1-0,0-0,AZ Alkmaar (1),,,GRE,NED
-?,GroupE,groups,(Wed) 16 Sep 2009 (W37),Liverpool FC (1),1-0,1-0,Debreceni VSC (7),,,ENG,HUN
-?,GroupF,groups,(Wed) 16 Sep 2009 (W37),Dinamo Kiev (1),3-1,0-1,Rubin Kazan (1),,,UKR,RUS
-?,GroupG,groups,(Wed) 16 Sep 2009 (W37),VfB Stuttgart (3),1-1,1-0,Rangers FC (1),,,GER,SCO
-?,GroupG,groups,(Wed) 16 Sep 2009 (W37),Sevilla FC (1),2-0,1-0,Unirea Urziceni (1),,,ESP,ROU
-?,GroupE,groups,(Tue) 29 Sep 2009 (W39),ACF Fiorentina (4),2-0,2-0,Liverpool FC (2),,,ITA,ENG
-?,GroupH,groups,(Tue) 29 Sep 2009 (W39),Arsenal FC (4),2-0,0-0,Olympiacos (6),,,ENG,GRE
-?,GroupH,groups,(Tue) 29 Sep 2009 (W39),AZ Alkmaar (2),1-1,0-0,Standard Liege (2),,,NED,BEL
-?,GroupF,groups,(Tue) 29 Sep 2009 (W39),FC Barcelona (2),2-0,1-0,Dinamo Kiev (2),,,ESP,UKR
-?,GroupE,groups,(Tue) 29 Sep 2009 (W39),Debreceni VSC (8),0-4,0-3,Olympique Lyon (4),,,HUN,FRA
-?,GroupF,groups,(Tue) 29 Sep 2009 (W39),Rubin Kazan (2),1-1,1-1,Internazionale (2),,,RUS,ITA
-?,GroupG,groups,(Tue) 29 Sep 2009 (W39),Rangers FC (2),1-4,0-0,Sevilla FC (2),,,SCO,ESP
-?,GroupG,groups,(Tue) 29 Sep 2009 (W39),Unirea Urziceni (2),1-1,0-1,VfB Stuttgart (4),,,ROU,GER
-?,GroupC,groups,(Wed) 30 Sep 2009 (W39),AC Milan (2),0-1,0-1,FC Zurich (6),,,ITA,SUI
-?,GroupD,groups,(Wed) 30 Sep 2009 (W39),APOEL Nikosia (8),0-1,0-1,Chelsea FC (2),,,CYP,ENG
-?,GroupD,groups,(Wed) 30 Sep 2009 (W39),FC Porto (2),2-0,0-0,Atletico Madrid (4),,,POR,ESP
-?,GroupA,groups,(Wed) 30 Sep 2009 (W39),Bayern München (2),0-0,0-0,Juventus (2),,,GER,ITA
-?,GroupB,groups,(Wed) 30 Sep 2009 (W39),CSKA Moskva (2),2-1,1-0,Beşiktaş İstanbul JK (2),,,RUS,TUR
-?,GroupA,groups,(Wed) 30 Sep 2009 (W39),Girondins Bordeaux (2),1-0,0-0,Maccabi Haifa (8),,,FRA,ISR
-?,GroupB,groups,(Wed) 30 Sep 2009 (W39),Manchester United FC (2),2-1,0-0,VfL Wolfsburg (2),,,ENG,GER
-?,GroupC,groups,(Wed) 30 Sep 2009 (W39),Real Madrid CF (2),3-0,0-0,Olympique Marseille (2),,,ESP,FRA
-?,GroupE,groups,(Tue) 20 Oct 2009 (W42),Debreceni VSC (9),3-4,2-4,ACF Fiorentina (5),,,HUN,ITA
-?,GroupH,groups,(Tue) 20 Oct 2009 (W42),AZ Alkmaar (3),1-1,0-1,Arsenal FC (5),,,NED,ENG
-?,GroupF,groups,(Tue) 20 Oct 2009 (W42),FC Barcelona (3),1-2,0-1,Rubin Kazan (3),,,ESP,RUS
-?,GroupF,groups,(Tue) 20 Oct 2009 (W42),Internazionale (3),2-2,1-2,Dinamo Kiev (3),,,ITA,UKR
-?,GroupE,groups,(Tue) 20 Oct 2009 (W42),Liverpool FC (3),1-2,1-0,Olympique Lyon (5),,,ENG,FRA
-?,GroupH,groups,(Tue) 20 Oct 2009 (W42),Olympiacos (7),2-1,1-1,Standard Liege (3),,,GRE,BEL
-?,GroupG,groups,(Tue) 20 Oct 2009 (W42),Rangers FC (3),1-4,1-1,Unirea Urziceni (3),,,SCO,ROU
-?,GroupG,groups,(Tue) 20 Oct 2009 (W42),VfB Stuttgart (5),1-3,0-1,Sevilla FC (3),,,GER,ESP
-?,GroupC,groups,(Wed) 21 Oct 2009 (W42),Real Madrid CF (3),2-3,1-0,AC Milan (3),,,ESP,ITA
-?,GroupD,groups,(Wed) 21 Oct 2009 (W42),FC Porto (3),2-1,1-1,APOEL Nikosia (9),,,POR,CYP
-?,GroupD,groups,(Wed) 21 Oct 2009 (W42),Chelsea FC (3),4-0,1-0,Atletico Madrid (5),,,ENG,ESP
-?,GroupA,groups,(Wed) 21 Oct 2009 (W42),Girondins Bordeaux (3),2-1,2-1,Bayern München (3),,,FRA,GER
-?,GroupB,groups,(Wed) 21 Oct 2009 (W42),VfL Wolfsburg (3),0-0,0-0,Beşiktaş İstanbul JK (3),,,GER,TUR
-?,GroupB,groups,(Wed) 21 Oct 2009 (W42),CSKA Moskva (3),0-1,0-0,Manchester United FC (3),,,RUS,ENG
-?,GroupC,groups,(Wed) 21 Oct 2009 (W42),FC Zurich (7),0-1,0-0,Olympique Marseille (3),,,SUI,FRA
-?,GroupA,groups,(Wed) 21 Oct 2009 (W42),Juventus (3),1-0,0-0,Maccabi Haifa (9),,,ITA,ISR
-?,GroupC,groups,(Tue) 3 Nov 2009 (W44),AC Milan (4),1-1,1-1,Real Madrid CF (4),,,ITA,ESP
-?,GroupD,groups,(Tue) 3 Nov 2009 (W44),APOEL Nikosia (10),0-1,0-0,FC Porto (4),,,CYP,POR
-?,GroupD,groups,(Tue) 3 Nov 2009 (W44),Atletico Madrid (6),2-2,0-0,Chelsea FC (4),,,ESP,ENG
-?,GroupA,groups,(Tue) 3 Nov 2009 (W44),Bayern München (4),0-2,0-1,Girondins Bordeaux (4),,,GER,FRA
-?,GroupB,groups,(Tue) 3 Nov 2009 (W44),Beşiktaş İstanbul JK (4),0-3,0-1,VfL Wolfsburg (4),,,TUR,GER
-?,GroupB,groups,(Tue) 3 Nov 2009 (W44),Manchester United FC (4),3-3,1-2,CSKA Moskva (4),,,ENG,RUS
-?,GroupC,groups,(Tue) 3 Nov 2009 (W44),Olympique Marseille (4),6-1,2-1,FC Zurich (8),,,FRA,SUI
-?,GroupA,groups,(Tue) 3 Nov 2009 (W44),Maccabi Haifa (10),0-1,0-1,Juventus (4),,,ISR,ITA
-?,GroupE,groups,(Wed) 4 Nov 2009 (W44),ACF Fiorentina (6),5-2,1-1,Debreceni VSC (10),,,ITA,HUN
-?,GroupH,groups,(Wed) 4 Nov 2009 (W44),Arsenal FC (6),4-1,2-0,AZ Alkmaar (4),,,ENG,NED
-?,GroupF,groups,(Wed) 4 Nov 2009 (W44),Rubin Kazan (4),0-0,0-0,FC Barcelona (4),,,RUS,ESP
-?,GroupF,groups,(Wed) 4 Nov 2009 (W44),Dinamo Kiev (4),1-2,1-0,Internazionale (4),,,UKR,ITA
-?,GroupE,groups,(Wed) 4 Nov 2009 (W44),Olympique Lyon (6),1-1,0-0,Liverpool FC (4),,,FRA,ENG
-?,GroupH,groups,(Wed) 4 Nov 2009 (W44),Standard Liege (4),2-0,1-0,Olympiacos (8),,,BEL,GRE
-?,GroupG,groups,(Wed) 4 Nov 2009 (W44),Unirea Urziceni (4),1-1,0-0,Rangers FC (4),,,ROU,SCO
-?,GroupG,groups,(Wed) 4 Nov 2009 (W44),Sevilla FC (4),1-1,1-0,VfB Stuttgart (6),,,ESP,GER
-?,GroupF,groups,(Tue) 24 Nov 2009 (W47),FC Barcelona (5),2-0,2-0,Internazionale (5),,,ESP,ITA
-?,GroupE,groups,(Tue) 24 Nov 2009 (W47),ACF Fiorentina (7),1-0,1-0,Olympique Lyon (7),,,ITA,FRA
-?,GroupH,groups,(Tue) 24 Nov 2009 (W47),Arsenal FC (7),2-0,2-0,Standard Liege (5),,,ENG,BEL
-?,GroupH,groups,(Tue) 24 Nov 2009 (W47),AZ Alkmaar (5),0-0,0-0,Olympiacos (9),,,NED,GRE
-?,GroupE,groups,(Tue) 24 Nov 2009 (W47),Debreceni VSC (11),0-1,0-1,Liverpool FC (5),,,HUN,ENG
-?,GroupF,groups,(Tue) 24 Nov 2009 (W47),Rubin Kazan (5),0-0,0-0,Dinamo Kiev (5),,,RUS,UKR
-?,GroupG,groups,(Tue) 24 Nov 2009 (W47),Rangers FC (5),0-2,0-1,VfB Stuttgart (7),,,SCO,GER
-?,GroupG,groups,(Tue) 24 Nov 2009 (W47),Unirea Urziceni (5),1-0,1-0,Sevilla FC (5),,,ROU,ESP
-?,GroupC,groups,(Wed) 25 Nov 2009 (W47),AC Milan (5),1-1,1-1,Olympique Marseille (5),,,ITA,FRA
-?,GroupD,groups,(Wed) 25 Nov 2009 (W47),APOEL Nikosia (11),1-1,1-0,Atletico Madrid (7),,,CYP,ESP
-?,GroupA,groups,(Wed) 25 Nov 2009 (W47),Bayern München (5),1-0,0-0,Maccabi Haifa (11),,,GER,ISR
-?,GroupB,groups,(Wed) 25 Nov 2009 (W47),Manchester United FC (5),0-1,0-1,Beşiktaş İstanbul JK (5),,,ENG,TUR
-?,GroupD,groups,(Wed) 25 Nov 2009 (W47),FC Porto (5),0-1,0-0,Chelsea FC (5),,,POR,ENG
-?,GroupB,groups,(Wed) 25 Nov 2009 (W47),CSKA Moskva (5),2-1,0-1,VfL Wolfsburg (5),,,RUS,GER
-?,GroupC,groups,(Wed) 25 Nov 2009 (W47),Real Madrid CF (5),1-0,1-0,FC Zurich (9),,,ESP,SUI
-?,GroupA,groups,(Wed) 25 Nov 2009 (W47),Girondins Bordeaux (5),2-0,0-0,Juventus (5),,,FRA,ITA
-?,GroupC,groups,(Tue) 8 Dec 2009 (W49),FC Zurich (10),1-1,1-0,AC Milan (6),,,SUI,ITA
-?,GroupD,groups,(Tue) 8 Dec 2009 (W49),Chelsea FC (6),2-2,2-1,APOEL Nikosia (12),,,ENG,CYP
-?,GroupD,groups,(Tue) 8 Dec 2009 (W49),Atletico Madrid (8),0-3,0-2,FC Porto (6),,,ESP,POR
-?,GroupA,groups,(Tue) 8 Dec 2009 (W49),Juventus (6),1-4,1-1,Bayern München (6),,,ITA,GER
-?,GroupB,groups,(Tue) 8 Dec 2009 (W49),Beşiktaş İstanbul JK (6),1-2,0-1,CSKA Moskva (6),,,TUR,RUS
-?,GroupA,groups,(Tue) 8 Dec 2009 (W49),Maccabi Haifa (12),0-1,0-1,Girondins Bordeaux (6),,,ISR,FRA
-?,GroupB,groups,(Tue) 8 Dec 2009 (W49),VfL Wolfsburg (6),1-3,0-1,Manchester United FC (6),,,GER,ENG
-?,GroupC,groups,(Tue) 8 Dec 2009 (W49),Olympique Marseille (6),1-3,1-1,Real Madrid CF (6),,,FRA,ESP
-?,GroupE,groups,(Wed) 9 Dec 2009 (W49),Liverpool FC (6),1-2,1-0,ACF Fiorentina (8),,,ENG,ITA
-?,GroupH,groups,(Wed) 9 Dec 2009 (W49),Olympiacos (10),1-0,0-0,Arsenal FC (8),,,GRE,ENG
-?,GroupH,groups,(Wed) 9 Dec 2009 (W49),Standard Liege (6),1-1,0-1,AZ Alkmaar (6),,,BEL,NED
-?,GroupF,groups,(Wed) 9 Dec 2009 (W49),Dinamo Kiev (6),1-2,1-1,FC Barcelona (6),,,UKR,ESP
-?,GroupE,groups,(Wed) 9 Dec 2009 (W49),Olympique Lyon (8),4-0,2-0,Debreceni VSC (12),,,FRA,HUN
-?,GroupF,groups,(Wed) 9 Dec 2009 (W49),Internazionale (6),2-0,1-0,Rubin Kazan (6),,,ITA,RUS
-?,GroupG,groups,(Wed) 9 Dec 2009 (W49),Sevilla FC (6),1-0,1-0,Rangers FC (6),,,ESP,SCO
-?,GroupG,groups,(Wed) 9 Dec 2009 (W49),VfB Stuttgart (8),3-1,3-0,Unirea Urziceni (6),,,GER,ROU
-?,R16,1,(Tue) 16 Feb 2010 (W7),AC Milan (7),2-3,1-1,Manchester United FC (7),,,ITA,ENG
-?,R16,1,(Tue) 16 Feb 2010 (W7),Olympique Lyon (9),1-0,0-0,Real Madrid CF (7),,,FRA,ESP
-?,R16,1,(Wed) 17 Feb 2010 (W7),Bayern München (7),2-1,1-0,ACF Fiorentina (9),,,GER,ITA
-?,R16,1,(Wed) 17 Feb 2010 (W7),FC Porto (7),2-1,1-1,Arsenal FC (9),,,POR,ENG
-?,R16,1,(Tue) 23 Feb 2010 (W8),VfB Stuttgart (9),1-1,1-0,FC Barcelona (7),,,GER,ESP
-?,R16,1,(Tue) 23 Feb 2010 (W8),Olympiacos (11),0-1,0-1,Girondins Bordeaux (7),,,GRE,FRA
-?,R16,1,(Wed) 24 Feb 2010 (W8),Internazionale (7),2-1,1-0,Chelsea FC (7),,,ITA,ENG
-?,R16,1,(Wed) 24 Feb 2010 (W8),CSKA Moskva (7),1-1,0-1,Sevilla FC (7),,,RUS,ESP
-?,R16,2,(Tue) 9 Mar 2010 (W10),ACF Fiorentina (10),3-2,1-0,Bayern München (8),,,ITA,GER
-?,R16,2,(Tue) 9 Mar 2010 (W10),Arsenal FC (10),5-0,2-0,FC Porto (8),,,ENG,POR
-?,R16,2,(Wed) 10 Mar 2010 (W10),Manchester United FC (8),4-0,1-0,AC Milan (8),,,ENG,ITA
-?,R16,2,(Wed) 10 Mar 2010 (W10),Real Madrid CF (8),1-1,1-0,Olympique Lyon (10),,,ESP,FRA
-?,R16,2,(Tue) 16 Mar 2010 (W11),Chelsea FC (8),0-1,0-0,Internazionale (8),,,ENG,ITA
-?,R16,2,(Tue) 16 Mar 2010 (W11),Sevilla FC (8),1-2,1-1,CSKA Moskva (8),,,ESP,RUS
-?,R16,2,(Wed) 17 Mar 2010 (W11),FC Barcelona (8),4-0,2-0,VfB Stuttgart (10),,,ESP,GER
-?,R16,2,(Wed) 17 Mar 2010 (W11),Girondins Bordeaux (8),2-1,1-0,Olympiacos (12),,,FRA,GRE
-?,QF,1,(Tue) 30 Mar 2010 (W13),Bayern München (9),2-1,0-1,Manchester United FC (9),,,GER,ENG
-?,QF,1,(Tue) 30 Mar 2010 (W13),Olympique Lyon (11),3-1,2-1,Girondins Bordeaux (9),,,FRA,FRA
-?,QF,1,(Wed) 31 Mar 2010 (W13),Arsenal FC (11),2-2,0-0,FC Barcelona (9),,,ENG,ESP
-?,QF,1,(Wed) 31 Mar 2010 (W13),Internazionale (9),1-0,0-0,CSKA Moskva (9),,,ITA,RUS
-?,QF,2,(Tue) 6 Apr 2010 (W14),FC Barcelona (10),4-1,3-1,Arsenal FC (12),,,ESP,ENG
-?,QF,2,(Tue) 6 Apr 2010 (W14),CSKA Moskva (10),0-1,0-1,Internazionale (10),,,RUS,ITA
-?,QF,2,(Wed) 7 Apr 2010 (W14),Manchester United FC (10),3-2,3-1,Bayern München (10),,,ENG,GER
-?,QF,2,(Wed) 7 Apr 2010 (W14),Girondins Bordeaux (10),1-0,1-0,Olympique Lyon (12),,,FRA,FRA
-?,SF,1,(Wed) 21 Apr 2010 (W16),Bayern München (11),1-0,0-0,Olympique Lyon (13),,,GER,FRA
-?,SF,2,(Tue) 27 Apr 2010 (W17),Olympique Lyon (14),0-3,0-1,Bayern München (12),,,FRA,GER
-?,SF,2,(Wed) 28 Apr 2010 (W17),FC Barcelona (11),1-0,0-0,Internazionale (11),,,ESP,ITA
-?,final,,(Sat) 22 May 2010 (W20),Internazionale (12),2-0,0-0,Bayern München (13),,,ITA,GER
+Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+Qualifying,Qualifying Round 1,,,(Tue) 30 Jun 2009 (W26),Hibernians (1),0-2,0-0,FK Mogren (1),,,MLT,MNE
+Qualifying,Qualifying Round 1,,,(Wed) 1 Jul 2009 (W26),Tre Fiori (1),1-1,0-0,UE Sant Julia (1),,,SMR,AND
+Qualifying,Qualifying Round 1,,,(Tue) 7 Jul 2009 (W27),UE Sant Julia (2),1-1,0-0,Tre Fiori (2),1-1 (a.e.t.),5-4 (pen.),AND,SMR
+Qualifying,Qualifying Round 1,,,(Wed) 8 Jul 2009 (W27),FK Mogren (2),4-0,0-0,Hibernians (2),,,MNE,MLT
+Qualifying,Qualifying Round 2,,,(Tue) 14 Jul 2009 (W28),EB / Streymur (1),0-2,0-0,APOEL Nikosia (1),,,FRO,CYP
+Qualifying,Qualifying Round 2,,,(Tue) 14 Jul 2009 (W28),FK Ekranas (1),2-2,0-0,Baku (1),,,LTU,AZE
+Qualifying,Qualifying Round 2,,,(Tue) 14 Jul 2009 (W28),Makedonija (1),0-2,0-0,BATE Borisov (1),,,MKD,BLR
+Qualifying,Qualifying Round 2,,,(Tue) 14 Jul 2009 (W28),Pyunik (1),0-0,0-0,Dinamo Zagreb (1),,,ARM,CRO
+Qualifying,Qualifying Round 2,,,(Tue) 14 Jul 2009 (W28),Rhyl (1),0-4,0-0,Partizan Belgrade (1),,,WAL,SRB
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),Debreceni VSC (1),2-0,0-0,Kalmar FF (1),,,HUN,SWE
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),FH (1),0-4,0-0,Aktobe (1),,,ISL,KAZ
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),FC RB Salzburg (1),1-1,0-0,Bohemians (1),,,AUT,IRL
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),Ventspils (1),3-0,0-0,F91 Dudelange (1),,,LVA,LUX
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),Kobenhavn (1),6-0,0-0,FK Mogren (3),,,DEN,MNE
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),Maccabi Haifa (1),6-0,0-0,Glentoran (1),,,ISR,NIR
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),HSK Zrinjski Mostar (1),1-0,0-0,SK Slovan Bratislava (1),,,BIH,SVK
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),Inter Turku (1),0-1,0-0,Sheriff Tiraspol (1),,,FIN,MDA
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),KF Tirana (1),1-1,0-0,Stabaek (1),,,ALB,NOR
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),Wisla Krakow (1),1-1,0-0,Levadia (1),,,POL,EST
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),Levski Sofia (1),4-0,0-0,UE Sant Julia (3),,,BUL,AND
+Qualifying,Qualifying Round 2,,,(Wed) 15 Jul 2009 (W28),WIT Georgia (1),0-0,0-0,NK Maribor (1),,,GEO,SVN
+Qualifying,Qualifying Round 2,,,(Tue) 21 Jul 2009 (W29),APOEL Nikosia (2),3-0,0-0,EB / Streymur (2),,,CYP,FRO
+Qualifying,Qualifying Round 2,,,(Tue) 21 Jul 2009 (W29),Baku (2),4-2,0-0,FK Ekranas (2),,,AZE,LTU
+Qualifying,Qualifying Round 2,,,(Tue) 21 Jul 2009 (W29),BATE Borisov (2),2-0,0-0,Makedonija (2),,,BLR,MKD
+Qualifying,Qualifying Round 2,,,(Tue) 21 Jul 2009 (W29),Dinamo Zagreb (2),3-0,0-0,Pyunik (2),,,CRO,ARM
+Qualifying,Qualifying Round 2,,,(Tue) 21 Jul 2009 (W29),SK Slovan Bratislava (2),4-0,0-0,HSK Zrinjski Mostar (2),,,SVK,BIH
+Qualifying,Qualifying Round 2,,,(Tue) 21 Jul 2009 (W29),Sheriff Tiraspol (2),1-0,0-0,Inter Turku (2),,,MDA,FIN
+Qualifying,Qualifying Round 2,,,(Tue) 21 Jul 2009 (W29),Stabaek (2),4-0,0-0,KF Tirana (2),,,NOR,ALB
+Qualifying,Qualifying Round 2,,,(Tue) 21 Jul 2009 (W29),UE Sant Julia (4),0-5,0-0,Levski Sofia (2),,,AND,BUL
+Qualifying,Qualifying Round 2,,,(Tue) 21 Jul 2009 (W29),Partizan Belgrade (2),8-0,0-0,Rhyl (2),,,SRB,WAL
+Qualifying,Qualifying Round 2,,,(Wed) 22 Jul 2009 (W29),Kalmar FF (2),3-1,0-0,Debreceni VSC (2),,,SWE,HUN
+Qualifying,Qualifying Round 2,,,(Wed) 22 Jul 2009 (W29),Aktobe (2),2-0,0-0,FH (2),,,KAZ,ISL
+Qualifying,Qualifying Round 2,,,(Wed) 22 Jul 2009 (W29),Bohemians (2),0-1,0-0,FC RB Salzburg (2),,,IRL,AUT
+Qualifying,Qualifying Round 2,,,(Wed) 22 Jul 2009 (W29),F91 Dudelange (2),1-3,0-0,Ventspils (2),,,LUX,LVA
+Qualifying,Qualifying Round 2,,,(Wed) 22 Jul 2009 (W29),FK Mogren (4),0-6,0-0,Kobenhavn (2),,,MNE,DEN
+Qualifying,Qualifying Round 2,,,(Wed) 22 Jul 2009 (W29),Glentoran (2),0-4,0-0,Maccabi Haifa (2),,,NIR,ISR
+Qualifying,Qualifying Round 2,,,(Wed) 22 Jul 2009 (W29),Levadia (2),1-0,0-0,Wisla Krakow (2),,,EST,POL
+Qualifying,Qualifying Round 2,,,(Wed) 22 Jul 2009 (W29),NK Maribor (2),3-1,0-0,WIT Georgia (2),,,SVN,GEO
+Qualifying,Qualifying Round 3,,,(Tue) 28 Jul 2009 (W30),Aktobe (3),0-0,0-0,Maccabi Haifa (3),,,KAZ,ISR
+Qualifying,Qualifying Round 3,,,(Tue) 28 Jul 2009 (W30),Baku (3),0-0,0-0,Levski Sofia (3),,,AZE,BUL
+Qualifying,Qualifying Round 3,,,(Tue) 28 Jul 2009 (W30),Sparta Praha (1),3-1,0-0,Panathinaikos FC (1),,,CZE,GRE
+Qualifying,Qualifying Round 3,,,(Tue) 28 Jul 2009 (W30),RSC Anderlecht (1),5-0,0-0,Sivasspor (1),,,BEL,TUR
+Qualifying,Qualifying Round 3,,,(Wed) 29 Jul 2009 (W30),Ventspils (3),1-0,0-0,BATE Borisov (3),,,LVA,BLR
+Qualifying,Qualifying Round 3,,,(Wed) 29 Jul 2009 (W30),Shakhtar Donetsk (1),2-2,0-0,FC Politehnica Timisoara (1),,,UKR,ROU
+Qualifying,Qualifying Round 3,,,(Wed) 29 Jul 2009 (W30),Sheriff Tiraspol (3),0-0,0-0,Slavia Praha (1),,,MDA,CZE
+Qualifying,Qualifying Round 3,,,(Wed) 29 Jul 2009 (W30),Sporting CP (1),0-0,0-0,FC Twente (1),,,POR,NED
+Qualifying,Qualifying Round 3,,,(Wed) 29 Jul 2009 (W30),Celtic FC (1),0-1,0-0,Dinamo Moskva (1),,,SCO,RUS
+Qualifying,Qualifying Round 3,,,(Wed) 29 Jul 2009 (W30),Levadia (3),0-1,0-0,Debreceni VSC (3),,,EST,HUN
+Qualifying,Qualifying Round 3,,,(Wed) 29 Jul 2009 (W30),FC RB Salzburg (3),1-1,0-0,Dinamo Zagreb (3),,,AUT,CRO
+Qualifying,Qualifying Round 3,,,(Wed) 29 Jul 2009 (W30),FC Zurich (1),2-3,0-0,NK Maribor (3),,,SUI,SVN
+Qualifying,Qualifying Round 3,,,(Wed) 29 Jul 2009 (W30),Kobenhavn (3),3-1,0-0,Stabaek (3),,,DEN,NOR
+Qualifying,Qualifying Round 3,,,(Wed) 29 Jul 2009 (W30),SK Slovan Bratislava (3),0-2,0-0,Olympiacos (1),,,SVK,GRE
+Qualifying,Qualifying Round 3,,,(Wed) 29 Jul 2009 (W30),APOEL Nikosia (3),2-0,0-0,Partizan Belgrade (3),,,CYP,SRB
+Qualifying,Qualifying Round 3,,,(Tue) 4 Aug 2009 (W31),FC Twente (2),1-1,0-0,Sporting CP (2),,,NED,POR
+Qualifying,Qualifying Round 3,,,(Tue) 4 Aug 2009 (W31),Maccabi Haifa (4),4-3,0-0,Aktobe (4),,,ISR,KAZ
+Qualifying,Qualifying Round 3,,,(Tue) 4 Aug 2009 (W31),Dinamo Zagreb (4),1-2,0-0,FC RB Salzburg (4),,,CRO,AUT
+Qualifying,Qualifying Round 3,,,(Tue) 4 Aug 2009 (W31),Panathinaikos FC (2),3-0,0-0,Sparta Praha (2),,,GRE,CZE
+Qualifying,Qualifying Round 3,,,(Tue) 4 Aug 2009 (W31),Sivasspor (2),3-1,0-0,RSC Anderlecht (2),,,TUR,BEL
+Qualifying,Qualifying Round 3,,,(Wed) 5 Aug 2009 (W31),BATE Borisov (4),2-1,0-0,Ventspils (4),,,BLR,LVA
+Qualifying,Qualifying Round 3,,,(Wed) 5 Aug 2009 (W31),FC Politehnica Timisoara (2),0-0,0-0,Shakhtar Donetsk (2),,,ROU,UKR
+Qualifying,Qualifying Round 3,,,(Wed) 5 Aug 2009 (W31),Slavia Praha (2),1-1,0-0,Sheriff Tiraspol (4),,,CZE,MDA
+Qualifying,Qualifying Round 3,,,(Wed) 5 Aug 2009 (W31),Levski Sofia (4),2-0,0-0,Baku (4),,,BUL,AZE
+Qualifying,Qualifying Round 3,,,(Wed) 5 Aug 2009 (W31),Dinamo Moskva (2),0-2,0-0,Celtic FC (2),,,RUS,SCO
+Qualifying,Qualifying Round 3,,,(Wed) 5 Aug 2009 (W31),Debreceni VSC (4),1-0,0-0,Levadia (4),,,HUN,EST
+Qualifying,Qualifying Round 3,,,(Wed) 5 Aug 2009 (W31),NK Maribor (4),0-3,0-0,FC Zurich (2),,,SVN,SUI
+Qualifying,Qualifying Round 3,,,(Wed) 5 Aug 2009 (W31),Stabaek (4),0-0,0-0,Kobenhavn (4),,,NOR,DEN
+Qualifying,Qualifying Round 3,,,(Wed) 5 Aug 2009 (W31),Olympiacos (2),2-0,0-0,SK Slovan Bratislava (4),,,GRE,SVK
+Qualifying,Qualifying Round 3,,,(Wed) 5 Aug 2009 (W31),Partizan Belgrade (4),1-0,0-0,APOEL Nikosia (4),,,SRB,CYP
+Qualifying,Playoff Round,,,(Tue) 18 Aug 2009 (W33),Sporting CP (3),2-2,0-0,ACF Fiorentina (1),,,POR,ITA
+Qualifying,Playoff Round,,,(Tue) 18 Aug 2009 (W33),Kobenhavn (5),1-0,0-0,APOEL Nikosia (5),,,DEN,CYP
+Qualifying,Playoff Round,,,(Tue) 18 Aug 2009 (W33),Celtic FC (3),0-2,0-0,Arsenal FC (1),,,SCO,ENG
+Qualifying,Playoff Round,,,(Tue) 18 Aug 2009 (W33),FC Politehnica Timisoara (3),0-2,0-0,VfB Stuttgart (1),,,ROU,GER
+Qualifying,Playoff Round,,,(Tue) 18 Aug 2009 (W33),Sheriff Tiraspol (5),0-2,0-0,Olympiacos (3),,,MDA,GRE
+Qualifying,Playoff Round,,,(Wed) 19 Aug 2009 (W33),Panathinaikos FC (3),2-3,0-0,Atletico Madrid (1),,,GRE,ESP
+Qualifying,Playoff Round,,,(Wed) 19 Aug 2009 (W33),Levski Sofia (5),1-2,0-0,Debreceni VSC (5),,,BUL,HUN
+Qualifying,Playoff Round,,,(Wed) 19 Aug 2009 (W33),Ventspils (5),0-3,0-0,FC Zurich (3),,,LVA,SUI
+Qualifying,Playoff Round,,,(Wed) 19 Aug 2009 (W33),FC RB Salzburg (5),1-2,0-0,Maccabi Haifa (5),,,AUT,ISR
+Qualifying,Playoff Round,,,(Wed) 19 Aug 2009 (W33),Olympique Lyon (1),5-1,0-0,RSC Anderlecht (3),,,FRA,BEL
+Qualifying,Playoff Round,,,(Tue) 25 Aug 2009 (W34),Atletico Madrid (2),2-0,0-0,Panathinaikos FC (4),,,ESP,GRE
+Qualifying,Playoff Round,,,(Tue) 25 Aug 2009 (W34),Debreceni VSC (6),2-0,0-0,Levski Sofia (6),,,HUN,BUL
+Qualifying,Playoff Round,,,(Tue) 25 Aug 2009 (W34),FC Zurich (4),2-1,0-0,Ventspils (6),,,SUI,LVA
+Qualifying,Playoff Round,,,(Tue) 25 Aug 2009 (W34),Maccabi Haifa (6),3-0,0-0,FC RB Salzburg (6),,,ISR,AUT
+Qualifying,Playoff Round,,,(Tue) 25 Aug 2009 (W34),RSC Anderlecht (4),1-3,0-0,Olympique Lyon (2),,,BEL,FRA
+Qualifying,Playoff Round,,,(Wed) 26 Aug 2009 (W34),ACF Fiorentina (2),1-1,0-0,Sporting CP (4),,,ITA,POR
+Qualifying,Playoff Round,,,(Wed) 26 Aug 2009 (W34),APOEL Nikosia (6),3-1,0-0,Kobenhavn (6),,,CYP,DEN
+Qualifying,Playoff Round,,,(Wed) 26 Aug 2009 (W34),Arsenal FC (2),3-1,0-0,Celtic FC (4),,,ENG,SCO
+Qualifying,Playoff Round,,,(Wed) 26 Aug 2009 (W34),VfB Stuttgart (2),0-0,0-0,FC Politehnica Timisoara (4),,,GER,ROU
+Qualifying,Playoff Round,,,(Wed) 26 Aug 2009 (W34),Olympiacos (4),1-0,0-0,Sheriff Tiraspol (6),,,GRE,MDA
+Group,Matchday ?,C,,(Tue) 15 Sep 2009 (W37),Olympique Marseille (1),1-2,0-1,AC Milan (1),,,FRA,ITA
+Group,Matchday ?,D,,(Tue) 15 Sep 2009 (W37),Atletico Madrid (3),0-0,0-0,APOEL Nikosia (7),,,ESP,CYP
+Group,Matchday ?,A,,(Tue) 15 Sep 2009 (W37),Maccabi Haifa (7),0-3,0-0,Bayern München (1),,,ISR,GER
+Group,Matchday ?,B,,(Tue) 15 Sep 2009 (W37),Beşiktaş İstanbul JK (1),0-1,0-0,Manchester United FC (1),,,TUR,ENG
+Group,Matchday ?,D,,(Tue) 15 Sep 2009 (W37),Chelsea FC (1),1-0,0-0,FC Porto (1),,,ENG,POR
+Group,Matchday ?,B,,(Tue) 15 Sep 2009 (W37),VfL Wolfsburg (1),3-1,2-0,CSKA Moskva (1),,,GER,RUS
+Group,Matchday ?,C,,(Tue) 15 Sep 2009 (W37),FC Zurich (5),2-5,0-3,Real Madrid CF (1),,,SUI,ESP
+Group,Matchday ?,A,,(Tue) 15 Sep 2009 (W37),Juventus (1),1-1,0-0,Girondins Bordeaux (1),,,ITA,FRA
+Group,Matchday ?,F,,(Wed) 16 Sep 2009 (W37),Internazionale (1),0-0,0-0,FC Barcelona (1),,,ITA,ESP
+Group,Matchday ?,E,,(Wed) 16 Sep 2009 (W37),Olympique Lyon (3),1-0,0-0,ACF Fiorentina (3),,,FRA,ITA
+Group,Matchday ?,H,,(Wed) 16 Sep 2009 (W37),Standard Liege (1),2-3,2-1,Arsenal FC (3),,,BEL,ENG
+Group,Matchday ?,H,,(Wed) 16 Sep 2009 (W37),Olympiacos (5),1-0,0-0,AZ Alkmaar (1),,,GRE,NED
+Group,Matchday ?,E,,(Wed) 16 Sep 2009 (W37),Liverpool FC (1),1-0,1-0,Debreceni VSC (7),,,ENG,HUN
+Group,Matchday ?,F,,(Wed) 16 Sep 2009 (W37),Dinamo Kiev (1),3-1,0-1,Rubin Kazan (1),,,UKR,RUS
+Group,Matchday ?,G,,(Wed) 16 Sep 2009 (W37),VfB Stuttgart (3),1-1,1-0,Rangers FC (1),,,GER,SCO
+Group,Matchday ?,G,,(Wed) 16 Sep 2009 (W37),Sevilla FC (1),2-0,1-0,Unirea Urziceni (1),,,ESP,ROU
+Group,Matchday ?,E,,(Tue) 29 Sep 2009 (W39),ACF Fiorentina (4),2-0,2-0,Liverpool FC (2),,,ITA,ENG
+Group,Matchday ?,H,,(Tue) 29 Sep 2009 (W39),Arsenal FC (4),2-0,0-0,Olympiacos (6),,,ENG,GRE
+Group,Matchday ?,H,,(Tue) 29 Sep 2009 (W39),AZ Alkmaar (2),1-1,0-0,Standard Liege (2),,,NED,BEL
+Group,Matchday ?,F,,(Tue) 29 Sep 2009 (W39),FC Barcelona (2),2-0,1-0,Dinamo Kiev (2),,,ESP,UKR
+Group,Matchday ?,E,,(Tue) 29 Sep 2009 (W39),Debreceni VSC (8),0-4,0-3,Olympique Lyon (4),,,HUN,FRA
+Group,Matchday ?,F,,(Tue) 29 Sep 2009 (W39),Rubin Kazan (2),1-1,1-1,Internazionale (2),,,RUS,ITA
+Group,Matchday ?,G,,(Tue) 29 Sep 2009 (W39),Rangers FC (2),1-4,0-0,Sevilla FC (2),,,SCO,ESP
+Group,Matchday ?,G,,(Tue) 29 Sep 2009 (W39),Unirea Urziceni (2),1-1,0-1,VfB Stuttgart (4),,,ROU,GER
+Group,Matchday ?,C,,(Wed) 30 Sep 2009 (W39),AC Milan (2),0-1,0-1,FC Zurich (6),,,ITA,SUI
+Group,Matchday ?,D,,(Wed) 30 Sep 2009 (W39),APOEL Nikosia (8),0-1,0-1,Chelsea FC (2),,,CYP,ENG
+Group,Matchday ?,D,,(Wed) 30 Sep 2009 (W39),FC Porto (2),2-0,0-0,Atletico Madrid (4),,,POR,ESP
+Group,Matchday ?,A,,(Wed) 30 Sep 2009 (W39),Bayern München (2),0-0,0-0,Juventus (2),,,GER,ITA
+Group,Matchday ?,B,,(Wed) 30 Sep 2009 (W39),CSKA Moskva (2),2-1,1-0,Beşiktaş İstanbul JK (2),,,RUS,TUR
+Group,Matchday ?,A,,(Wed) 30 Sep 2009 (W39),Girondins Bordeaux (2),1-0,0-0,Maccabi Haifa (8),,,FRA,ISR
+Group,Matchday ?,B,,(Wed) 30 Sep 2009 (W39),Manchester United FC (2),2-1,0-0,VfL Wolfsburg (2),,,ENG,GER
+Group,Matchday ?,C,,(Wed) 30 Sep 2009 (W39),Real Madrid CF (2),3-0,0-0,Olympique Marseille (2),,,ESP,FRA
+Group,Matchday ?,E,,(Tue) 20 Oct 2009 (W42),Debreceni VSC (9),3-4,2-4,ACF Fiorentina (5),,,HUN,ITA
+Group,Matchday ?,H,,(Tue) 20 Oct 2009 (W42),AZ Alkmaar (3),1-1,0-1,Arsenal FC (5),,,NED,ENG
+Group,Matchday ?,F,,(Tue) 20 Oct 2009 (W42),FC Barcelona (3),1-2,0-1,Rubin Kazan (3),,,ESP,RUS
+Group,Matchday ?,F,,(Tue) 20 Oct 2009 (W42),Internazionale (3),2-2,1-2,Dinamo Kiev (3),,,ITA,UKR
+Group,Matchday ?,E,,(Tue) 20 Oct 2009 (W42),Liverpool FC (3),1-2,1-0,Olympique Lyon (5),,,ENG,FRA
+Group,Matchday ?,H,,(Tue) 20 Oct 2009 (W42),Olympiacos (7),2-1,1-1,Standard Liege (3),,,GRE,BEL
+Group,Matchday ?,G,,(Tue) 20 Oct 2009 (W42),Rangers FC (3),1-4,1-1,Unirea Urziceni (3),,,SCO,ROU
+Group,Matchday ?,G,,(Tue) 20 Oct 2009 (W42),VfB Stuttgart (5),1-3,0-1,Sevilla FC (3),,,GER,ESP
+Group,Matchday ?,C,,(Wed) 21 Oct 2009 (W42),Real Madrid CF (3),2-3,1-0,AC Milan (3),,,ESP,ITA
+Group,Matchday ?,D,,(Wed) 21 Oct 2009 (W42),FC Porto (3),2-1,1-1,APOEL Nikosia (9),,,POR,CYP
+Group,Matchday ?,D,,(Wed) 21 Oct 2009 (W42),Chelsea FC (3),4-0,1-0,Atletico Madrid (5),,,ENG,ESP
+Group,Matchday ?,A,,(Wed) 21 Oct 2009 (W42),Girondins Bordeaux (3),2-1,2-1,Bayern München (3),,,FRA,GER
+Group,Matchday ?,B,,(Wed) 21 Oct 2009 (W42),VfL Wolfsburg (3),0-0,0-0,Beşiktaş İstanbul JK (3),,,GER,TUR
+Group,Matchday ?,B,,(Wed) 21 Oct 2009 (W42),CSKA Moskva (3),0-1,0-0,Manchester United FC (3),,,RUS,ENG
+Group,Matchday ?,C,,(Wed) 21 Oct 2009 (W42),FC Zurich (7),0-1,0-0,Olympique Marseille (3),,,SUI,FRA
+Group,Matchday ?,A,,(Wed) 21 Oct 2009 (W42),Juventus (3),1-0,0-0,Maccabi Haifa (9),,,ITA,ISR
+Group,Matchday ?,C,,(Tue) 3 Nov 2009 (W44),AC Milan (4),1-1,1-1,Real Madrid CF (4),,,ITA,ESP
+Group,Matchday ?,D,,(Tue) 3 Nov 2009 (W44),APOEL Nikosia (10),0-1,0-0,FC Porto (4),,,CYP,POR
+Group,Matchday ?,D,,(Tue) 3 Nov 2009 (W44),Atletico Madrid (6),2-2,0-0,Chelsea FC (4),,,ESP,ENG
+Group,Matchday ?,A,,(Tue) 3 Nov 2009 (W44),Bayern München (4),0-2,0-1,Girondins Bordeaux (4),,,GER,FRA
+Group,Matchday ?,B,,(Tue) 3 Nov 2009 (W44),Beşiktaş İstanbul JK (4),0-3,0-1,VfL Wolfsburg (4),,,TUR,GER
+Group,Matchday ?,B,,(Tue) 3 Nov 2009 (W44),Manchester United FC (4),3-3,1-2,CSKA Moskva (4),,,ENG,RUS
+Group,Matchday ?,C,,(Tue) 3 Nov 2009 (W44),Olympique Marseille (4),6-1,2-1,FC Zurich (8),,,FRA,SUI
+Group,Matchday ?,A,,(Tue) 3 Nov 2009 (W44),Maccabi Haifa (10),0-1,0-1,Juventus (4),,,ISR,ITA
+Group,Matchday ?,E,,(Wed) 4 Nov 2009 (W44),ACF Fiorentina (6),5-2,1-1,Debreceni VSC (10),,,ITA,HUN
+Group,Matchday ?,H,,(Wed) 4 Nov 2009 (W44),Arsenal FC (6),4-1,2-0,AZ Alkmaar (4),,,ENG,NED
+Group,Matchday ?,F,,(Wed) 4 Nov 2009 (W44),Rubin Kazan (4),0-0,0-0,FC Barcelona (4),,,RUS,ESP
+Group,Matchday ?,F,,(Wed) 4 Nov 2009 (W44),Dinamo Kiev (4),1-2,1-0,Internazionale (4),,,UKR,ITA
+Group,Matchday ?,E,,(Wed) 4 Nov 2009 (W44),Olympique Lyon (6),1-1,0-0,Liverpool FC (4),,,FRA,ENG
+Group,Matchday ?,H,,(Wed) 4 Nov 2009 (W44),Standard Liege (4),2-0,1-0,Olympiacos (8),,,BEL,GRE
+Group,Matchday ?,G,,(Wed) 4 Nov 2009 (W44),Unirea Urziceni (4),1-1,0-0,Rangers FC (4),,,ROU,SCO
+Group,Matchday ?,G,,(Wed) 4 Nov 2009 (W44),Sevilla FC (4),1-1,1-0,VfB Stuttgart (6),,,ESP,GER
+Group,Matchday ?,F,,(Tue) 24 Nov 2009 (W47),FC Barcelona (5),2-0,2-0,Internazionale (5),,,ESP,ITA
+Group,Matchday ?,E,,(Tue) 24 Nov 2009 (W47),ACF Fiorentina (7),1-0,1-0,Olympique Lyon (7),,,ITA,FRA
+Group,Matchday ?,H,,(Tue) 24 Nov 2009 (W47),Arsenal FC (7),2-0,2-0,Standard Liege (5),,,ENG,BEL
+Group,Matchday ?,H,,(Tue) 24 Nov 2009 (W47),AZ Alkmaar (5),0-0,0-0,Olympiacos (9),,,NED,GRE
+Group,Matchday ?,E,,(Tue) 24 Nov 2009 (W47),Debreceni VSC (11),0-1,0-1,Liverpool FC (5),,,HUN,ENG
+Group,Matchday ?,F,,(Tue) 24 Nov 2009 (W47),Rubin Kazan (5),0-0,0-0,Dinamo Kiev (5),,,RUS,UKR
+Group,Matchday ?,G,,(Tue) 24 Nov 2009 (W47),Rangers FC (5),0-2,0-1,VfB Stuttgart (7),,,SCO,GER
+Group,Matchday ?,G,,(Tue) 24 Nov 2009 (W47),Unirea Urziceni (5),1-0,1-0,Sevilla FC (5),,,ROU,ESP
+Group,Matchday ?,C,,(Wed) 25 Nov 2009 (W47),AC Milan (5),1-1,1-1,Olympique Marseille (5),,,ITA,FRA
+Group,Matchday ?,D,,(Wed) 25 Nov 2009 (W47),APOEL Nikosia (11),1-1,1-0,Atletico Madrid (7),,,CYP,ESP
+Group,Matchday ?,A,,(Wed) 25 Nov 2009 (W47),Bayern München (5),1-0,0-0,Maccabi Haifa (11),,,GER,ISR
+Group,Matchday ?,B,,(Wed) 25 Nov 2009 (W47),Manchester United FC (5),0-1,0-1,Beşiktaş İstanbul JK (5),,,ENG,TUR
+Group,Matchday ?,D,,(Wed) 25 Nov 2009 (W47),FC Porto (5),0-1,0-0,Chelsea FC (5),,,POR,ENG
+Group,Matchday ?,B,,(Wed) 25 Nov 2009 (W47),CSKA Moskva (5),2-1,0-1,VfL Wolfsburg (5),,,RUS,GER
+Group,Matchday ?,C,,(Wed) 25 Nov 2009 (W47),Real Madrid CF (5),1-0,1-0,FC Zurich (9),,,ESP,SUI
+Group,Matchday ?,A,,(Wed) 25 Nov 2009 (W47),Girondins Bordeaux (5),2-0,0-0,Juventus (5),,,FRA,ITA
+Group,Matchday ?,C,,(Tue) 8 Dec 2009 (W49),FC Zurich (10),1-1,1-0,AC Milan (6),,,SUI,ITA
+Group,Matchday ?,D,,(Tue) 8 Dec 2009 (W49),Chelsea FC (6),2-2,2-1,APOEL Nikosia (12),,,ENG,CYP
+Group,Matchday ?,D,,(Tue) 8 Dec 2009 (W49),Atletico Madrid (8),0-3,0-2,FC Porto (6),,,ESP,POR
+Group,Matchday ?,A,,(Tue) 8 Dec 2009 (W49),Juventus (6),1-4,1-1,Bayern München (6),,,ITA,GER
+Group,Matchday ?,B,,(Tue) 8 Dec 2009 (W49),Beşiktaş İstanbul JK (6),1-2,0-1,CSKA Moskva (6),,,TUR,RUS
+Group,Matchday ?,A,,(Tue) 8 Dec 2009 (W49),Maccabi Haifa (12),0-1,0-1,Girondins Bordeaux (6),,,ISR,FRA
+Group,Matchday ?,B,,(Tue) 8 Dec 2009 (W49),VfL Wolfsburg (6),1-3,0-1,Manchester United FC (6),,,GER,ENG
+Group,Matchday ?,C,,(Tue) 8 Dec 2009 (W49),Olympique Marseille (6),1-3,1-1,Real Madrid CF (6),,,FRA,ESP
+Group,Matchday ?,E,,(Wed) 9 Dec 2009 (W49),Liverpool FC (6),1-2,1-0,ACF Fiorentina (8),,,ENG,ITA
+Group,Matchday ?,H,,(Wed) 9 Dec 2009 (W49),Olympiacos (10),1-0,0-0,Arsenal FC (8),,,GRE,ENG
+Group,Matchday ?,H,,(Wed) 9 Dec 2009 (W49),Standard Liege (6),1-1,0-1,AZ Alkmaar (6),,,BEL,NED
+Group,Matchday ?,F,,(Wed) 9 Dec 2009 (W49),Dinamo Kiev (6),1-2,1-1,FC Barcelona (6),,,UKR,ESP
+Group,Matchday ?,E,,(Wed) 9 Dec 2009 (W49),Olympique Lyon (8),4-0,2-0,Debreceni VSC (12),,,FRA,HUN
+Group,Matchday ?,F,,(Wed) 9 Dec 2009 (W49),Internazionale (6),2-0,1-0,Rubin Kazan (6),,,ITA,RUS
+Group,Matchday ?,G,,(Wed) 9 Dec 2009 (W49),Sevilla FC (6),1-0,1-0,Rangers FC (6),,,ESP,SCO
+Group,Matchday ?,G,,(Wed) 9 Dec 2009 (W49),VfB Stuttgart (8),3-1,3-0,Unirea Urziceni (6),,,GER,ROU
+Knockout,Round of 16,,,(Tue) 16 Feb 2010 (W7),AC Milan (7),2-3,1-1,Manchester United FC (7),,,ITA,ENG
+Knockout,Round of 16,,,(Tue) 16 Feb 2010 (W7),Olympique Lyon (9),1-0,0-0,Real Madrid CF (7),,,FRA,ESP
+Knockout,Round of 16,,,(Wed) 17 Feb 2010 (W7),Bayern München (7),2-1,1-0,ACF Fiorentina (9),,,GER,ITA
+Knockout,Round of 16,,,(Wed) 17 Feb 2010 (W7),FC Porto (7),2-1,1-1,Arsenal FC (9),,,POR,ENG
+Knockout,Round of 16,,,(Tue) 23 Feb 2010 (W8),VfB Stuttgart (9),1-1,1-0,FC Barcelona (7),,,GER,ESP
+Knockout,Round of 16,,,(Tue) 23 Feb 2010 (W8),Olympiacos (11),0-1,0-1,Girondins Bordeaux (7),,,GRE,FRA
+Knockout,Round of 16,,,(Wed) 24 Feb 2010 (W8),Internazionale (7),2-1,1-0,Chelsea FC (7),,,ITA,ENG
+Knockout,Round of 16,,,(Wed) 24 Feb 2010 (W8),CSKA Moskva (7),1-1,0-1,Sevilla FC (7),,,RUS,ESP
+Knockout,Round of 16,,,(Tue) 9 Mar 2010 (W10),ACF Fiorentina (10),3-2,1-0,Bayern München (8),,,ITA,GER
+Knockout,Round of 16,,,(Tue) 9 Mar 2010 (W10),Arsenal FC (10),5-0,2-0,FC Porto (8),,,ENG,POR
+Knockout,Round of 16,,,(Wed) 10 Mar 2010 (W10),Manchester United FC (8),4-0,1-0,AC Milan (8),,,ENG,ITA
+Knockout,Round of 16,,,(Wed) 10 Mar 2010 (W10),Real Madrid CF (8),1-1,1-0,Olympique Lyon (10),,,ESP,FRA
+Knockout,Round of 16,,,(Tue) 16 Mar 2010 (W11),Chelsea FC (8),0-1,0-0,Internazionale (8),,,ENG,ITA
+Knockout,Round of 16,,,(Tue) 16 Mar 2010 (W11),Sevilla FC (8),1-2,1-1,CSKA Moskva (8),,,ESP,RUS
+Knockout,Round of 16,,,(Wed) 17 Mar 2010 (W11),FC Barcelona (8),4-0,2-0,VfB Stuttgart (10),,,ESP,GER
+Knockout,Round of 16,,,(Wed) 17 Mar 2010 (W11),Girondins Bordeaux (8),2-1,1-0,Olympiacos (12),,,FRA,GRE
+Knockout,Quarterfinals,,,(Tue) 30 Mar 2010 (W13),Bayern München (9),2-1,0-1,Manchester United FC (9),,,GER,ENG
+Knockout,Quarterfinals,,,(Tue) 30 Mar 2010 (W13),Olympique Lyon (11),3-1,2-1,Girondins Bordeaux (9),,,FRA,FRA
+Knockout,Quarterfinals,,,(Wed) 31 Mar 2010 (W13),Arsenal FC (11),2-2,0-0,FC Barcelona (9),,,ENG,ESP
+Knockout,Quarterfinals,,,(Wed) 31 Mar 2010 (W13),Internazionale (9),1-0,0-0,CSKA Moskva (9),,,ITA,RUS
+Knockout,Quarterfinals,,,(Tue) 6 Apr 2010 (W14),FC Barcelona (10),4-1,3-1,Arsenal FC (12),,,ESP,ENG
+Knockout,Quarterfinals,,,(Tue) 6 Apr 2010 (W14),CSKA Moskva (10),0-1,0-1,Internazionale (10),,,RUS,ITA
+Knockout,Quarterfinals,,,(Wed) 7 Apr 2010 (W14),Manchester United FC (10),3-2,3-1,Bayern München (10),,,ENG,GER
+Knockout,Quarterfinals,,,(Wed) 7 Apr 2010 (W14),Girondins Bordeaux (10),1-0,1-0,Olympique Lyon (12),,,FRA,FRA
+Knockout,Semifinals,,,(Wed) 21 Apr 2010 (W16),Bayern München (11),1-0,0-0,Olympique Lyon (13),,,GER,FRA
+Knockout,Semifinals,,,(Tue) 27 Apr 2010 (W17),Olympique Lyon (14),0-3,0-1,Bayern München (12),,,FRA,GER
+Knockout,Semifinals,,,(Wed) 28 Apr 2010 (W17),FC Barcelona (11),1-0,0-0,Internazionale (11),,,ESP,ITA
+Knockout,Final,,,(Sat) 22 May 2010 (W20),Internazionale (12),2-0,0-0,Bayern München (13),,,ITA,GER

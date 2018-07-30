@@ -1,60 +1,60 @@
-Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-?,Round1,1,(Tue) 6 Sep 1988 (W36),Valur Reykjavik (1),1-0,0-0,AS Monaco (1),,,ISL,FRA
-?,Round1,1,(Tue) 6 Sep 1988 (W36),BFC Dynamo (1),3-0,1-0,Werder Bremen (1),,,GER,GER
-?,Round1,1,(Wed) 7 Sep 1988 (W36),AE Larisa (1),2-1,1-0,Neuchatel Xamax FC (1),,,GRE,SUI
-?,Round1,1,(Wed) 7 Sep 1988 (W36),Club Brugge (1),1-0,0-0,Brondby IF (1),,,BEL,DEN
-?,Round1,1,(Wed) 7 Sep 1988 (W36),Vitosha Sofia (1),0-2,0-1,AC Milan (1),,,BUL,ITA
-?,Round1,1,(Wed) 7 Sep 1988 (W36),AC Sparta Praha (1),1-5,1-2,Steaua Bucuresti (1),,,CZE,ROU
-?,Round1,1,(Wed) 7 Sep 1988 (W36),Budapest Honved SE (1),1-0,1-0,Celtic FC (1),,,HUN,SCO
-?,Round1,1,(Wed) 7 Sep 1988 (W36),Dundalk (1),0-5,0-0,Crvena Zvezda (1),,,IRL,SRB
-?,Round1,1,(Wed) 7 Sep 1988 (W36),FC Porto (1),3-0,2-0,HJK Helsinki (1),,,POR,FIN
-?,Round1,1,(Wed) 7 Sep 1988 (W36),Rapid Wien (1),2-1,1-0,Galatasaray İstanbul AŞ (1),,,AUT,TUR
-?,Round1,1,(Wed) 7 Sep 1988 (W36),Spartak Moskva (1),2-0,0-0,Glentoran (1),,,RUS,NIR
-?,Round1,1,(Wed) 7 Sep 1988 (W36),Gornik Zabrze (1),3-0,2-0,Jeunesse Esch (1),,,POL,LUX
-?,Round1,1,(Wed) 7 Sep 1988 (W36),Hamrun Spartans (1),2-1,0-1,KF Tirana (1),,,MLT,ALB
-?,Round1,1,(Wed) 7 Sep 1988 (W36),Pezoporikos Larnaca (1),1-2,1-1,IFK Goteborg (1),,,CYP,SWE
-?,Round1,1,(Wed) 7 Sep 1988 (W36),Real Madrid CF (1),3-0,3-0,Moss FK (1),,,ESP,NOR
-?,Round1,2,(Tue) 4 Oct 1988 (W40),AS Monaco (2),2-0,2-0,Valur Reykjavik (2),,,FRA,ISL
-?,Round1,2,(Wed) 5 Oct 1988 (W40),Neuchatel Xamax FC (2),2-1,0-0,AE Larisa (2),2-1 (a.e.t.),,SUI,GRE
-?,Round1,2,(Wed) 5 Oct 1988 (W40),Brondby IF (2),2-1,1-0,Club Brugge (2),,,DEN,BEL
-?,Round1,2,(Wed) 5 Oct 1988 (W40),Steaua Bucuresti (2),2-2,1-1,AC Sparta Praha (2),,,ROU,CZE
-?,Round1,2,(Wed) 5 Oct 1988 (W40),Celtic FC (2),4-0,1-0,Budapest Honved SE (2),,,SCO,HUN
-?,Round1,2,(Wed) 5 Oct 1988 (W40),Crvena Zvezda (2),3-0,1-0,Dundalk (2),,,SRB,IRL
-?,Round1,2,(Wed) 5 Oct 1988 (W40),HJK Helsinki (2),2-0,0-0,FC Porto (2),,,FIN,POR
-?,Round1,2,(Wed) 5 Oct 1988 (W40),Galatasaray İstanbul AŞ (2),2-0,0-0,Rapid Wien (2),,,TUR,AUT
-?,Round1,2,(Wed) 5 Oct 1988 (W40),Glentoran (2),1-1,0-0,Spartak Moskva (2),,,NIR,RUS
-?,Round1,2,(Wed) 5 Oct 1988 (W40),Jeunesse Esch (2),1-4,1-2,Gornik Zabrze (2),,,LUX,POL
-?,Round1,2,(Wed) 5 Oct 1988 (W40),KF Tirana (2),2-0,0-0,Hamrun Spartans (2),,,ALB,MLT
-?,Round1,2,(Wed) 5 Oct 1988 (W40),IFK Goteborg (2),5-1,4-1,Pezoporikos Larnaca (2),,,SWE,CYP
-?,Round1,2,(Wed) 5 Oct 1988 (W40),Moss FK (2),0-1,0-1,Real Madrid CF (2),,,NOR,ESP
-?,Round1,2,(Thu) 6 Oct 1988 (W40),AC Milan (2),5-2,3-1,Vitosha Sofia (2),,,ITA,BUL
-?,Round1,2,(Tue) 11 Oct 1988 (W41),Werder Bremen (2),5-0,1-0,BFC Dynamo (2),,,GER,GER
-?,R16,1,(Wed) 26 Oct 1988 (W43),AC Milan (3),1-1,0-0,Crvena Zvezda (3),,,ITA,SRB
-?,R16,1,(Wed) 26 Oct 1988 (W43),Club Brugge (3),1-0,0-0,AS Monaco (3),,,BEL,FRA
-?,R16,1,(Wed) 26 Oct 1988 (W43),Celtic FC (3),0-1,0-0,Werder Bremen (3),,,SCO,GER
-?,R16,1,(Wed) 26 Oct 1988 (W43),PSV Eindhoven (1),5-0,3-0,FC Porto (3),,,NED,POR
-?,R16,1,(Wed) 26 Oct 1988 (W43),Neuchatel Xamax FC (3),3-0,0-0,Galatasaray İstanbul AŞ (3),,,SUI,TUR
-?,R16,1,(Wed) 26 Oct 1988 (W43),Gornik Zabrze (3),0-1,0-0,Real Madrid CF (3),,,POL,ESP
-?,R16,1,(Wed) 26 Oct 1988 (W43),KF Tirana (3),0-3,0-2,IFK Goteborg (3),,,ALB,SWE
-?,R16,1,(Wed) 26 Oct 1988 (W43),Steaua Bucuresti (3),3-0,1-0,Spartak Moskva (3),,,ROU,RUS
-?,R16,2,(Tue) 8 Nov 1988 (W45),Werder Bremen (4),0-0,0-0,Celtic FC (4),,,GER,SCO
-?,R16,2,(Wed) 9 Nov 1988 (W45),AS Monaco (4),6-1,5-0,Club Brugge (4),,,FRA,BEL
-?,R16,2,(Wed) 9 Nov 1988 (W45),FC Porto (4),2-0,1-0,PSV Eindhoven (2),,,POR,NED
-?,R16,2,(Wed) 9 Nov 1988 (W45),Galatasaray İstanbul AŞ (4),5-0,1-0,Neuchatel Xamax FC (4),,,TUR,SUI
-?,R16,2,(Wed) 9 Nov 1988 (W45),IFK Goteborg (4),1-0,1-0,KF Tirana (4),,,SWE,ALB
-?,R16,2,(Wed) 9 Nov 1988 (W45),Spartak Moskva (4),1-2,1-1,Steaua Bucuresti (4),,,RUS,ROU
-?,R16,2,(Thu) 10 Nov 1988 (W45),Crvena Zvezda (4),1-1,1-1,AC Milan (4),1-1 (a.e.t.),,SRB,ITA
-?,R16,2,(Thu) 10 Nov 1988 (W45),Real Madrid CF (4),3-2,1-1,Gornik Zabrze (4),,,ESP,POL
-?,QF,1,(Wed) 1 Mar 1989 (W9),Werder Bremen (5),0-0,0-0,AC Milan (5),,,GER,ITA
-?,QF,1,(Wed) 1 Mar 1989 (W9),AS Monaco (5),0-1,0-1,Galatasaray İstanbul AŞ (5),,,FRA,TUR
-?,QF,1,(Wed) 1 Mar 1989 (W9),IFK Goteborg (5),1-0,0-0,Steaua Bucuresti (5),,,SWE,ROU
-?,QF,1,(Wed) 1 Mar 1989 (W9),PSV Eindhoven (3),1-1,0-1,Real Madrid CF (5),,,NED,ESP
-?,QF,2,(Wed) 15 Mar 1989 (W11),AC Milan (6),1-0,1-0,Werder Bremen (6),,,ITA,GER
-?,QF,2,(Wed) 15 Mar 1989 (W11),Galatasaray İstanbul AŞ (6),1-1,0-0,AS Monaco (6),,,TUR,FRA
-?,QF,2,(Wed) 15 Mar 1989 (W11),Steaua Bucuresti (6),5-1,3-0,IFK Goteborg (6),,,ROU,SWE
-?,QF,2,(Wed) 15 Mar 1989 (W11),Real Madrid CF (6),1-1,0-0,PSV Eindhoven (4),2-1 (a.e.t.),,ESP,NED
-?,SF,1,(Wed) 5 Apr 1989 (W14),Real Madrid CF (7),1-1,1-0,AC Milan (7),,,ESP,ITA
-?,SF,1,(Wed) 5 Apr 1989 (W14),Steaua Bucuresti (7),4-0,2-0,Galatasaray İstanbul AŞ (7),,,ROU,TUR
-?,SF,2,(Wed) 19 Apr 1989 (W16),AC Milan (8),5-0,3-0,Real Madrid CF (8),,,ITA,ESP
-?,SF,2,(Wed) 19 Apr 1989 (W16),Galatasaray İstanbul AŞ (8),1-1,1-1,Steaua Bucuresti (8),,,TUR,ROU
-?,final,,(Wed) 24 May 1989 (W21),AC Milan (9),4-0,0-0,Steaua Bucuresti (9),,,ITA,ROU
+Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+,Round 1,,,(Tue) 6 Sep 1988 (W36),Valur Reykjavik (1),1-0,0-0,AS Monaco (1),,,ISL,FRA
+,Round 1,,,(Tue) 6 Sep 1988 (W36),BFC Dynamo (1),3-0,1-0,Werder Bremen (1),,,GER,GER
+,Round 1,,,(Wed) 7 Sep 1988 (W36),AE Larisa (1),2-1,1-0,Neuchatel Xamax FC (1),,,GRE,SUI
+,Round 1,,,(Wed) 7 Sep 1988 (W36),Club Brugge (1),1-0,0-0,Brondby IF (1),,,BEL,DEN
+,Round 1,,,(Wed) 7 Sep 1988 (W36),Vitosha Sofia (1),0-2,0-1,AC Milan (1),,,BUL,ITA
+,Round 1,,,(Wed) 7 Sep 1988 (W36),AC Sparta Praha (1),1-5,1-2,Steaua Bucuresti (1),,,CZE,ROU
+,Round 1,,,(Wed) 7 Sep 1988 (W36),Budapest Honved SE (1),1-0,1-0,Celtic FC (1),,,HUN,SCO
+,Round 1,,,(Wed) 7 Sep 1988 (W36),Dundalk (1),0-5,0-0,Crvena Zvezda (1),,,IRL,SRB
+,Round 1,,,(Wed) 7 Sep 1988 (W36),FC Porto (1),3-0,2-0,HJK Helsinki (1),,,POR,FIN
+,Round 1,,,(Wed) 7 Sep 1988 (W36),Rapid Wien (1),2-1,1-0,Galatasaray İstanbul AŞ (1),,,AUT,TUR
+,Round 1,,,(Wed) 7 Sep 1988 (W36),Spartak Moskva (1),2-0,0-0,Glentoran (1),,,RUS,NIR
+,Round 1,,,(Wed) 7 Sep 1988 (W36),Gornik Zabrze (1),3-0,2-0,Jeunesse Esch (1),,,POL,LUX
+,Round 1,,,(Wed) 7 Sep 1988 (W36),Hamrun Spartans (1),2-1,0-1,KF Tirana (1),,,MLT,ALB
+,Round 1,,,(Wed) 7 Sep 1988 (W36),Pezoporikos Larnaca (1),1-2,1-1,IFK Goteborg (1),,,CYP,SWE
+,Round 1,,,(Wed) 7 Sep 1988 (W36),Real Madrid CF (1),3-0,3-0,Moss FK (1),,,ESP,NOR
+,Round 1,,,(Tue) 4 Oct 1988 (W40),AS Monaco (2),2-0,2-0,Valur Reykjavik (2),,,FRA,ISL
+,Round 1,,,(Wed) 5 Oct 1988 (W40),Neuchatel Xamax FC (2),2-1,0-0,AE Larisa (2),2-1 (a.e.t.),3-0 (pen.),SUI,GRE
+,Round 1,,,(Wed) 5 Oct 1988 (W40),Brondby IF (2),2-1,1-0,Club Brugge (2),,,DEN,BEL
+,Round 1,,,(Wed) 5 Oct 1988 (W40),Steaua Bucuresti (2),2-2,1-1,AC Sparta Praha (2),,,ROU,CZE
+,Round 1,,,(Wed) 5 Oct 1988 (W40),Celtic FC (2),4-0,1-0,Budapest Honved SE (2),,,SCO,HUN
+,Round 1,,,(Wed) 5 Oct 1988 (W40),Crvena Zvezda (2),3-0,1-0,Dundalk (2),,,SRB,IRL
+,Round 1,,,(Wed) 5 Oct 1988 (W40),HJK Helsinki (2),2-0,0-0,FC Porto (2),,,FIN,POR
+,Round 1,,,(Wed) 5 Oct 1988 (W40),Galatasaray İstanbul AŞ (2),2-0,0-0,Rapid Wien (2),,,TUR,AUT
+,Round 1,,,(Wed) 5 Oct 1988 (W40),Glentoran (2),1-1,0-0,Spartak Moskva (2),,,NIR,RUS
+,Round 1,,,(Wed) 5 Oct 1988 (W40),Jeunesse Esch (2),1-4,1-2,Gornik Zabrze (2),,,LUX,POL
+,Round 1,,,(Wed) 5 Oct 1988 (W40),KF Tirana (2),2-0,0-0,Hamrun Spartans (2),,,ALB,MLT
+,Round 1,,,(Wed) 5 Oct 1988 (W40),IFK Goteborg (2),5-1,4-1,Pezoporikos Larnaca (2),,,SWE,CYP
+,Round 1,,,(Wed) 5 Oct 1988 (W40),Moss FK (2),0-1,0-1,Real Madrid CF (2),,,NOR,ESP
+,Round 1,,,(Thu) 6 Oct 1988 (W40),AC Milan (2),5-2,3-1,Vitosha Sofia (2),,,ITA,BUL
+,Round 1,,,(Tue) 11 Oct 1988 (W41),Werder Bremen (2),5-0,1-0,BFC Dynamo (2),,,GER,GER
+,Round of 16,,,(Wed) 26 Oct 1988 (W43),AC Milan (3),1-1,0-0,Crvena Zvezda (3),,,ITA,SRB
+,Round of 16,,,(Wed) 26 Oct 1988 (W43),Club Brugge (3),1-0,0-0,AS Monaco (3),,,BEL,FRA
+,Round of 16,,,(Wed) 26 Oct 1988 (W43),Celtic FC (3),0-1,0-0,Werder Bremen (3),,,SCO,GER
+,Round of 16,,,(Wed) 26 Oct 1988 (W43),PSV Eindhoven (1),5-0,3-0,FC Porto (3),,,NED,POR
+,Round of 16,,,(Wed) 26 Oct 1988 (W43),Neuchatel Xamax FC (3),3-0,0-0,Galatasaray İstanbul AŞ (3),,,SUI,TUR
+,Round of 16,,,(Wed) 26 Oct 1988 (W43),Gornik Zabrze (3),0-1,0-0,Real Madrid CF (3),,,POL,ESP
+,Round of 16,,,(Wed) 26 Oct 1988 (W43),KF Tirana (3),0-3,0-2,IFK Goteborg (3),,,ALB,SWE
+,Round of 16,,,(Wed) 26 Oct 1988 (W43),Steaua Bucuresti (3),3-0,1-0,Spartak Moskva (3),,,ROU,RUS
+,Round of 16,,,(Tue) 8 Nov 1988 (W45),Werder Bremen (4),0-0,0-0,Celtic FC (4),,,GER,SCO
+,Round of 16,,,(Wed) 9 Nov 1988 (W45),AS Monaco (4),6-1,5-0,Club Brugge (4),,,FRA,BEL
+,Round of 16,,,(Wed) 9 Nov 1988 (W45),FC Porto (4),2-0,1-0,PSV Eindhoven (2),,,POR,NED
+,Round of 16,,,(Wed) 9 Nov 1988 (W45),Galatasaray İstanbul AŞ (4),5-0,1-0,Neuchatel Xamax FC (4),,,TUR,SUI
+,Round of 16,,,(Wed) 9 Nov 1988 (W45),IFK Goteborg (4),1-0,1-0,KF Tirana (4),,,SWE,ALB
+,Round of 16,,,(Wed) 9 Nov 1988 (W45),Spartak Moskva (4),1-2,1-1,Steaua Bucuresti (4),,,RUS,ROU
+,Round of 16,,,(Thu) 10 Nov 1988 (W45),Crvena Zvezda (4),1-1,1-1,AC Milan (4),1-1 (a.e.t.),2-4 (pen.),SRB,ITA
+,Round of 16,,,(Thu) 10 Nov 1988 (W45),Real Madrid CF (4),3-2,1-1,Gornik Zabrze (4),,,ESP,POL
+,Quarterfinals,,,(Wed) 1 Mar 1989 (W9),Werder Bremen (5),0-0,0-0,AC Milan (5),,,GER,ITA
+,Quarterfinals,,,(Wed) 1 Mar 1989 (W9),AS Monaco (5),0-1,0-1,Galatasaray İstanbul AŞ (5),,,FRA,TUR
+,Quarterfinals,,,(Wed) 1 Mar 1989 (W9),IFK Goteborg (5),1-0,0-0,Steaua Bucuresti (5),,,SWE,ROU
+,Quarterfinals,,,(Wed) 1 Mar 1989 (W9),PSV Eindhoven (3),1-1,0-1,Real Madrid CF (5),,,NED,ESP
+,Quarterfinals,,,(Wed) 15 Mar 1989 (W11),AC Milan (6),1-0,1-0,Werder Bremen (6),,,ITA,GER
+,Quarterfinals,,,(Wed) 15 Mar 1989 (W11),Galatasaray İstanbul AŞ (6),1-1,0-0,AS Monaco (6),,,TUR,FRA
+,Quarterfinals,,,(Wed) 15 Mar 1989 (W11),Steaua Bucuresti (6),5-1,3-0,IFK Goteborg (6),,,ROU,SWE
+,Quarterfinals,,,(Wed) 15 Mar 1989 (W11),Real Madrid CF (6),1-1,0-0,PSV Eindhoven (4),2-1 (a.e.t.),,ESP,NED
+,Semifinals,,,(Wed) 5 Apr 1989 (W14),Real Madrid CF (7),1-1,1-0,AC Milan (7),,,ESP,ITA
+,Semifinals,,,(Wed) 5 Apr 1989 (W14),Steaua Bucuresti (7),4-0,2-0,Galatasaray İstanbul AŞ (7),,,ROU,TUR
+,Semifinals,,,(Wed) 19 Apr 1989 (W16),AC Milan (8),5-0,3-0,Real Madrid CF (8),,,ITA,ESP
+,Semifinals,,,(Wed) 19 Apr 1989 (W16),Galatasaray İstanbul AŞ (8),1-1,1-1,Steaua Bucuresti (8),,,TUR,ROU
+,Final,,,(Wed) 24 May 1989 (W21),AC Milan (9),4-0,0-0,Steaua Bucuresti (9),,,ITA,ROU

@@ -1,53 +1,53 @@
-Stage,Round,Leg,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-?,Round1,1,(Wed) 18 Sep 1968 (W38),Malmo FF (1),2-1,1-0,AC Milan (1),,,SWE,ITA
-?,Round1,1,(Wed) 18 Sep 1968 (W38),AEK Athens (1),3-0,1-0,Jeunesse Esch (1),,,GRE,LUX
-?,Round1,1,(Wed) 18 Sep 1968 (W38),Real Madrid CF (1),6-0,4-0,AEL Limassol (1),,,ESP,CYP
-?,Round1,1,(Wed) 18 Sep 1968 (W38),1. FC Nürnberg (1),1-1,1-0,AFC Ajax (1),,,GER,NED
-?,Round1,1,(Wed) 18 Sep 1968 (W38),FC Zurich (1),1-3,0-2,Akademisk BK (1),,,SUI,DEN
-?,Round1,1,(Wed) 18 Sep 1968 (W38),AS Saint-Etienne (1),2-0,2-0,Celtic FC (1),,,FRA,SCO
-?,Round1,1,(Wed) 18 Sep 1968 (W38),Floriana (1),1-1,1-1,FC Reipas Lahti (1),,,MLT,FIN
-?,Round1,1,(Wed) 18 Sep 1968 (W38),Manchester City FC (1),0-0,0-0,Fenerbahçe İstanbul SK (1),,,ENG,TUR
-?,Round1,1,(Wed) 18 Sep 1968 (W38),RSC Anderlecht (1),3-0,2-0,Glentoran (1),,,BEL,NIR
-?,Round1,1,(Wed) 18 Sep 1968 (W38),Waterford AFC (1),1-3,0-2,Manchester United FC (1),,,IRL,ENG
-?,Round1,1,(Wed) 18 Sep 1968 (W38),Rosenborg BK (1),1-3,1-1,Rapid Wien (1),,,NOR,AUT
-?,Round1,1,(Wed) 18 Sep 1968 (W38),Valur Reykjavik (1),0-0,0-0,SL Benfica (1),,,ISL,POR
-?,Round1,1,(Wed) 18 Sep 1968 (W38),Steaua Bucuresti (1),3-1,2-0,Spartak TAZ Trnava (1),,,ROU,SVK
-?,Round1,2,(Thu) 26 Sep 1968 (W39),AEL Limassol (2),0-6,0-3,Real Madrid CF (2),,,CYP,ESP
-?,Round1,2,(Wed) 2 Oct 1968 (W40),AC Milan (2),4-1,1-1,Malmo FF (2),,,ITA,SWE
-?,Round1,2,(Wed) 2 Oct 1968 (W40),Jeunesse Esch (2),3-2,2-2,AEK Athens (2),,,LUX,GRE
-?,Round1,2,(Wed) 2 Oct 1968 (W40),AFC Ajax (2),4-0,1-0,1. FC Nürnberg (2),,,NED,GER
-?,Round1,2,(Wed) 2 Oct 1968 (W40),Akademisk BK (2),1-2,0-0,FC Zurich (2),,,DEN,SUI
-?,Round1,2,(Wed) 2 Oct 1968 (W40),Celtic FC (2),4-0,1-0,AS Saint-Etienne (2),,,SCO,FRA
-?,Round1,2,(Wed) 2 Oct 1968 (W40),FC Reipas Lahti (2),2-0,0-0,Floriana (2),,,FIN,MLT
-?,Round1,2,(Wed) 2 Oct 1968 (W40),Fenerbahçe İstanbul SK (2),2-1,0-1,Manchester City FC (2),,,TUR,ENG
-?,Round1,2,(Wed) 2 Oct 1968 (W40),Glentoran (2),2-2,1-1,RSC Anderlecht (2),,,NIR,BEL
-?,Round1,2,(Wed) 2 Oct 1968 (W40),Manchester United FC (2),7-1,2-0,Waterford AFC (2),,,ENG,IRL
-?,Round1,2,(Wed) 2 Oct 1968 (W40),Rapid Wien (2),3-3,2-2,Rosenborg BK (2),,,AUT,NOR
-?,Round1,2,(Wed) 2 Oct 1968 (W40),SL Benfica (2),8-1,5-0,Valur Reykjavik (2),,,POR,ISL
-?,Round1,2,(Wed) 2 Oct 1968 (W40),Spartak TAZ Trnava (2),4-0,1-0,Steaua Bucuresti (2),,,SVK,ROU
-?,R16,1,(Wed) 13 Nov 1968 (W46),AEK Athens (3),0-0,0-0,Akademisk BK (3),,,GRE,DEN
-?,R16,1,(Wed) 13 Nov 1968 (W46),AFC Ajax (3),2-0,1-0,Fenerbahçe İstanbul SK (3),,,NED,TUR
-?,R16,1,(Wed) 13 Nov 1968 (W46),Celtic FC (3),5-1,1-1,Crvena Zvezda (1),,,SCO,SRB
-?,R16,1,(Wed) 13 Nov 1968 (W46),Manchester United FC (3),3-0,0-0,RSC Anderlecht (3),,,ENG,BEL
-?,R16,1,(Wed) 20 Nov 1968 (W47),Rapid Wien (3),1-0,0-0,Real Madrid CF (3),,,AUT,ESP
-?,R16,1,(Wed) 20 Nov 1968 (W47),FC Reipas Lahti (3),1-9,0-3,Spartak TAZ Trnava (3),,,FIN,SVK
-?,R16,2,(Wed) 27 Nov 1968 (W48),Akademisk BK (4),0-2,0-1,AEK Athens (4),,,DEN,GRE
-?,R16,2,(Wed) 27 Nov 1968 (W48),Crvena Zvezda (2),1-1,0-0,Celtic FC (4),,,SRB,SCO
-?,R16,2,(Wed) 27 Nov 1968 (W48),Spartak TAZ Trnava (4),7-1,4-0,FC Reipas Lahti (4),,,SVK,FIN
-?,R16,2,(Wed) 27 Nov 1968 (W48),RSC Anderlecht (4),3-1,1-1,Manchester United FC (4),,,BEL,ENG
-?,R16,2,(Thu) 28 Nov 1968 (W48),Fenerbahçe İstanbul SK (4),0-2,0-0,AFC Ajax (4),,,TUR,NED
-?,R16,2,(Wed) 4 Dec 1968 (W49),Real Madrid CF (4),2-1,1-0,Rapid Wien (4),,,ESP,AUT
-?,QF,1,(Wed) 12 Feb 1969 (W6),AFC Ajax (5),1-3,0-2,SL Benfica (3),,,NED,POR
-?,QF,2,(Wed) 19 Feb 1969 (W7),SL Benfica (4),1-3,0-3,AFC Ajax (6),,,POR,NED
-?,QF,1,(Wed) 19 Feb 1969 (W7),AC Milan (3),0-0,0-0,Celtic FC (5),,,ITA,SCO
-?,QF,1,(Wed) 26 Feb 1969 (W8),Spartak TAZ Trnava (5),2-1,2-0,AEK Athens (5),,,SVK,GRE
-?,QF,1,(Wed) 26 Feb 1969 (W8),Manchester United FC (5),3-0,1-0,Rapid Wien (5),,,ENG,AUT
-?,QF,replay,(Wed) 5 Mar 1969 (W9),AFC Ajax (7),0-0,0-0,SL Benfica (5),3-0 (a.e.t.),,NED,POR
-?,QF,2,(Wed) 5 Mar 1969 (W9),Rapid Wien (6),0-0,0-0,Manchester United FC (6),,,AUT,ENG
-?,QF,2,(Wed) 12 Mar 1969 (W10),Celtic FC (6),0-1,0-1,AC Milan (4),,,SCO,ITA
-?,QF,2,(Wed) 12 Mar 1969 (W10),AEK Athens (6),1-1,0-1,Spartak TAZ Trnava (6),,,GRE,SVK
-?,SF,1,(Sun) 13 Apr 1969 (W14),AFC Ajax (8),3-0,1-0,Spartak TAZ Trnava (7),,,NED,SVK
-?,SF,1,(Wed) 23 Apr 1969 (W16),AC Milan (5),2-0,1-0,Manchester United FC (7),,,ITA,ENG
-?,SF,2,(Thu) 24 Apr 1969 (W16),Spartak TAZ Trnava (8),2-0,1-0,AFC Ajax (9),,,SVK,NED
-?,SF,2,(Thu) 15 May 1969 (W19),Manchester United FC (8),1-0,0-0,AC Milan (6),,,ENG,ITA
-?,final,,(Wed) 28 May 1969 (W21),AC Milan (7),4-0,0-0,AFC Ajax (10),,,ITA,NED
+Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
+,Round 1,,,(Wed) 18 Sep 1968 (W38),Malmo FF (1),2-1,1-0,AC Milan (1),,,SWE,ITA
+,Round 1,,,(Wed) 18 Sep 1968 (W38),AEK Athens (1),3-0,1-0,Jeunesse Esch (1),,,GRE,LUX
+,Round 1,,,(Wed) 18 Sep 1968 (W38),Real Madrid CF (1),6-0,4-0,AEL Limassol (1),,,ESP,CYP
+,Round 1,,,(Wed) 18 Sep 1968 (W38),1. FC Nürnberg (1),1-1,1-0,AFC Ajax (1),,,GER,NED
+,Round 1,,,(Wed) 18 Sep 1968 (W38),FC Zurich (1),1-3,0-2,Akademisk BK (1),,,SUI,DEN
+,Round 1,,,(Wed) 18 Sep 1968 (W38),AS Saint-Etienne (1),2-0,2-0,Celtic FC (1),,,FRA,SCO
+,Round 1,,,(Wed) 18 Sep 1968 (W38),Floriana (1),1-1,1-1,FC Reipas Lahti (1),,,MLT,FIN
+,Round 1,,,(Wed) 18 Sep 1968 (W38),Manchester City FC (1),0-0,0-0,Fenerbahçe İstanbul SK (1),,,ENG,TUR
+,Round 1,,,(Wed) 18 Sep 1968 (W38),RSC Anderlecht (1),3-0,2-0,Glentoran (1),,,BEL,NIR
+,Round 1,,,(Wed) 18 Sep 1968 (W38),Waterford AFC (1),1-3,0-2,Manchester United FC (1),,,IRL,ENG
+,Round 1,,,(Wed) 18 Sep 1968 (W38),Rosenborg BK (1),1-3,1-1,Rapid Wien (1),,,NOR,AUT
+,Round 1,,,(Wed) 18 Sep 1968 (W38),Valur Reykjavik (1),0-0,0-0,SL Benfica (1),,,ISL,POR
+,Round 1,,,(Wed) 18 Sep 1968 (W38),Steaua Bucuresti (1),3-1,2-0,Spartak TAZ Trnava (1),,,ROU,SVK
+,Round 1,,,(Thu) 26 Sep 1968 (W39),AEL Limassol (2),0-6,0-3,Real Madrid CF (2),,,CYP,ESP
+,Round 1,,,(Wed) 2 Oct 1968 (W40),AC Milan (2),4-1,1-1,Malmo FF (2),,,ITA,SWE
+,Round 1,,,(Wed) 2 Oct 1968 (W40),Jeunesse Esch (2),3-2,2-2,AEK Athens (2),,,LUX,GRE
+,Round 1,,,(Wed) 2 Oct 1968 (W40),AFC Ajax (2),4-0,1-0,1. FC Nürnberg (2),,,NED,GER
+,Round 1,,,(Wed) 2 Oct 1968 (W40),Akademisk BK (2),1-2,0-0,FC Zurich (2),,,DEN,SUI
+,Round 1,,,(Wed) 2 Oct 1968 (W40),Celtic FC (2),4-0,1-0,AS Saint-Etienne (2),,,SCO,FRA
+,Round 1,,,(Wed) 2 Oct 1968 (W40),FC Reipas Lahti (2),2-0,0-0,Floriana (2),,,FIN,MLT
+,Round 1,,,(Wed) 2 Oct 1968 (W40),Fenerbahçe İstanbul SK (2),2-1,0-1,Manchester City FC (2),,,TUR,ENG
+,Round 1,,,(Wed) 2 Oct 1968 (W40),Glentoran (2),2-2,1-1,RSC Anderlecht (2),,,NIR,BEL
+,Round 1,,,(Wed) 2 Oct 1968 (W40),Manchester United FC (2),7-1,2-0,Waterford AFC (2),,,ENG,IRL
+,Round 1,,,(Wed) 2 Oct 1968 (W40),Rapid Wien (2),3-3,2-2,Rosenborg BK (2),,,AUT,NOR
+,Round 1,,,(Wed) 2 Oct 1968 (W40),SL Benfica (2),8-1,5-0,Valur Reykjavik (2),,,POR,ISL
+,Round 1,,,(Wed) 2 Oct 1968 (W40),Spartak TAZ Trnava (2),4-0,1-0,Steaua Bucuresti (2),,,SVK,ROU
+,Round of 16,,,(Wed) 13 Nov 1968 (W46),AEK Athens (3),0-0,0-0,Akademisk BK (3),,,GRE,DEN
+,Round of 16,,,(Wed) 13 Nov 1968 (W46),AFC Ajax (3),2-0,1-0,Fenerbahçe İstanbul SK (3),,,NED,TUR
+,Round of 16,,,(Wed) 13 Nov 1968 (W46),Celtic FC (3),5-1,1-1,Crvena Zvezda (1),,,SCO,SRB
+,Round of 16,,,(Wed) 13 Nov 1968 (W46),Manchester United FC (3),3-0,0-0,RSC Anderlecht (3),,,ENG,BEL
+,Round of 16,,,(Wed) 20 Nov 1968 (W47),Rapid Wien (3),1-0,0-0,Real Madrid CF (3),,,AUT,ESP
+,Round of 16,,,(Wed) 20 Nov 1968 (W47),FC Reipas Lahti (3),1-9,0-3,Spartak TAZ Trnava (3),,,FIN,SVK
+,Round of 16,,,(Wed) 27 Nov 1968 (W48),Akademisk BK (4),0-2,0-1,AEK Athens (4),,,DEN,GRE
+,Round of 16,,,(Wed) 27 Nov 1968 (W48),Crvena Zvezda (2),1-1,0-0,Celtic FC (4),,,SRB,SCO
+,Round of 16,,,(Wed) 27 Nov 1968 (W48),Spartak TAZ Trnava (4),7-1,4-0,FC Reipas Lahti (4),,,SVK,FIN
+,Round of 16,,,(Wed) 27 Nov 1968 (W48),RSC Anderlecht (4),3-1,1-1,Manchester United FC (4),,,BEL,ENG
+,Round of 16,,,(Thu) 28 Nov 1968 (W48),Fenerbahçe İstanbul SK (4),0-2,0-0,AFC Ajax (4),,,TUR,NED
+,Round of 16,,,(Wed) 4 Dec 1968 (W49),Real Madrid CF (4),2-1,1-0,Rapid Wien (4),,,ESP,AUT
+,Quarterfinals,,,(Wed) 12 Feb 1969 (W6),AFC Ajax (5),1-3,0-2,SL Benfica (3),,,NED,POR
+,Quarterfinals,,,(Wed) 19 Feb 1969 (W7),SL Benfica (4),1-3,0-3,AFC Ajax (6),,,POR,NED
+,Quarterfinals,,,(Wed) 19 Feb 1969 (W7),AC Milan (3),0-0,0-0,Celtic FC (5),,,ITA,SCO
+,Quarterfinals,,,(Wed) 26 Feb 1969 (W8),Spartak TAZ Trnava (5),2-1,2-0,AEK Athens (5),,,SVK,GRE
+,Quarterfinals,,,(Wed) 26 Feb 1969 (W8),Manchester United FC (5),3-0,1-0,Rapid Wien (5),,,ENG,AUT
+,Quarterfinals,,,(Wed) 5 Mar 1969 (W9),AFC Ajax (7),0-0,0-0,SL Benfica (5),3-0 (a.e.t.),,NED,POR
+,Quarterfinals,,,(Wed) 5 Mar 1969 (W9),Rapid Wien (6),0-0,0-0,Manchester United FC (6),,,AUT,ENG
+,Quarterfinals,,,(Wed) 12 Mar 1969 (W10),Celtic FC (6),0-1,0-1,AC Milan (4),,,SCO,ITA
+,Quarterfinals,,,(Wed) 12 Mar 1969 (W10),AEK Athens (6),1-1,0-1,Spartak TAZ Trnava (6),,,GRE,SVK
+,Semifinals,,,(Sun) 13 Apr 1969 (W14),AFC Ajax (8),3-0,1-0,Spartak TAZ Trnava (7),,,NED,SVK
+,Semifinals,,,(Wed) 23 Apr 1969 (W16),AC Milan (5),2-0,1-0,Manchester United FC (7),,,ITA,ENG
+,Semifinals,,,(Thu) 24 Apr 1969 (W16),Spartak TAZ Trnava (8),2-0,1-0,AFC Ajax (9),,,SVK,NED
+,Semifinals,,,(Thu) 15 May 1969 (W19),Manchester United FC (8),1-0,0-0,AC Milan (6),,,ENG,ITA
+,Final,,,(Wed) 28 May 1969 (W21),AC Milan (7),4-0,0-0,AFC Ajax (10),,,ITA,NED
