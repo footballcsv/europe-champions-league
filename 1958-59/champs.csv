@@ -3,12 +3,12 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Wed) 3 Sep 1958 (W35),Standard Liege (1),5-1,2-1,Heart of Midlothian (1),,,BEL,SCO
 ,Round 1,2,,(Tue) 9 Sep 1958 (W36),Heart of Midlothian (2),2-1,0-0,Standard Liege (2),,,SCO,BEL
 ,Round 1,1,,(Wed) 10 Sep 1958 (W36),Dinamo Zagreb (1),2-2,0-1,Dukla Praha (1),,,CRO,CZE
-,Round 1,1,,(Sun) 14 Sep 1958 (W36),Jeunesse Esch (1),1-2,1-1,IFK Goteborg (1),,,LUX,SWE
 ,Round 1,1,,(Sun) 14 Sep 1958 (W36),Ards (1),1-4,0-3,Stade Reims (1),,,NIR,FRA
-,Round 1,2,,(Wed) 17 Sep 1958 (W37),FC Schalke 04 (2),5-2,2-0,KB Kobenhavn (2),,,GER,DEN
+,Round 1,1,,(Sun) 14 Sep 1958 (W36),Jeunesse Esch (1),1-2,1-1,IFK Goteborg (1),,,LUX,SWE
+,Round 1,1,,(Wed) 17 Sep 1958 (W37),Polonia Bytom (1),0-3,0-0,MTK (1),,,POL,HUN
 ,Round 1,1,,(Wed) 17 Sep 1958 (W37),SC Wismut Karl-Marx-Stadt (1),4-2,2-1,Petrolul Ploiesti (1),,,GER,ROU
 ,Round 1,1,,(Wed) 17 Sep 1958 (W37),Atletico Madrid (1),8-0,2-0,Drumcondra Dublin (1),,,ESP,IRL
-,Round 1,1,,(Wed) 17 Sep 1958 (W37),Polonia Bytom (1),0-3,0-0,MTK (1),,,POL,HUN
+,Round 1,2,,(Wed) 17 Sep 1958 (W37),FC Schalke 04 (2),5-2,2-0,KB Kobenhavn (2),,,GER,DEN
 ,Round 1,1,,(Wed) 24 Sep 1958 (W38),Juventus (1),3-1,1-1,Wiener Sport-Club (1),,,ITA,AUT
 ,Round 1,2,,(Sun) 28 Sep 1958 (W38),Petrolul Ploiesti (2),2-0,1-0,SC Wismut Karl-Marx-Stadt (2),,,ROU,GER
 ,Round 1,2,,(Tue) 30 Sep 1958 (W39),IFK Goteborg (2),0-1,0-1,Jeunesse Esch (2),,,SWE,LUX
@@ -34,23 +34,23 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round of 16,2,,(Tue) 18 Nov 1958 (W46),FC Schalke 04 (5),2-1,2-0,Wolverhampton Wanderers FC (2),,,GER,ENG
 ,Round of 16,1,,(Wed) 26 Nov 1958 (W47),Stade Reims (3),4-0,2-0,HPS Helsinki (1),,,FRA,FIN
 ,Round of 16,2,,(Thu) 27 Nov 1958 (W47),Beşiktaş İstanbul JK (2),1-1,0-1,Real Madrid CF (2),,,TUR,ESP
-,Round of 16,2,,(Fri) 28 Nov 1958 (W47),CDNA Sofia (2),1-0,0-0,Atletico Madrid (4),,,BUL,ESP
-,Round of 16,2,,(Fri) 28 Nov 1958 (W47),BSC Young Boys (2),4-1,2-0,MTK (4),,,SUI,HUN
 ,Round of 16,2,,(Fri) 28 Nov 1958 (W47),Dukla Praha (4),1-0,0-0,Wiener Sport-Club (4),,,CZE,AUT
+,Round of 16,2,,(Fri) 28 Nov 1958 (W47),BSC Young Boys (2),4-1,2-0,MTK (4),,,SUI,HUN
+,Round of 16,2,,(Fri) 28 Nov 1958 (W47),CDNA Sofia (2),1-0,0-0,Atletico Madrid (4),,,BUL,ESP
 ,Round of 16,2,,(Wed) 3 Dec 1958 (W48),HPS Helsinki (2),0-3,0-3,Stade Reims (4),,,FIN,FRA
 ,Round of 16,Replay,,(Thu) 18 Dec 1958 (W50),Atletico Madrid (5),1-1,1-1,CDNA Sofia (3),3-1 (a.e.t.),,ESP,BUL
 ,Quarterfinals,1,,(Wed) 4 Feb 1959 (W5),Standard Liege (5),2-0,0-0,Stade Reims (5),,,BEL,FRA
-,Quarterfinals,1,,(Wed) 4 Mar 1959 (W9),Atletico Madrid (6),3-0,0-0,FC Schalke 04 (6),,,ESP,GER
 ,Quarterfinals,1,,(Wed) 4 Mar 1959 (W9),Wiener Sport-Club (5),0-0,0-0,Real Madrid CF (3),,,AUT,ESP
+,Quarterfinals,1,,(Wed) 4 Mar 1959 (W9),Atletico Madrid (6),3-0,0-0,FC Schalke 04 (6),,,ESP,GER
 ,Quarterfinals,1,,(Wed) 11 Mar 1959 (W10),BSC Young Boys (3),2-2,1-1,SC Wismut Karl-Marx-Stadt (6),,,SUI,GER
 ,Quarterfinals,2,,(Wed) 18 Mar 1959 (W11),SC Wismut Karl-Marx-Stadt (7),0-0,0-0,BSC Young Boys (4),,,GER,SUI
 ,Quarterfinals,2,,(Wed) 18 Mar 1959 (W11),FC Schalke 04 (7),1-1,1-0,Atletico Madrid (7),,,GER,ESP
-,Quarterfinals,2,,(Wed) 18 Mar 1959 (W11),Real Madrid CF (4),7-1,2-1,Wiener Sport-Club (6),,,ESP,AUT
 ,Quarterfinals,2,,(Wed) 18 Mar 1959 (W11),Stade Reims (6),3-0,0-0,Standard Liege (6),,,FRA,BEL
+,Quarterfinals,2,,(Wed) 18 Mar 1959 (W11),Real Madrid CF (4),7-1,2-1,Wiener Sport-Club (6),,,ESP,AUT
 ,Quarterfinals,Replay,,(Wed) 1 Apr 1959 (W13),BSC Young Boys (5),2-1,2-0,SC Wismut Karl-Marx-Stadt (8),,,SUI,GER
 ,Semifinals,1,,(Mon) 13 Apr 1959 (W15),BSC Young Boys (6),1-0,1-0,Stade Reims (7),,,SUI,FRA
 ,Semifinals,1,,(Thu) 23 Apr 1959 (W16),Real Madrid CF (5),2-1,2-1,Atletico Madrid (8),,,ESP,ESP
 ,Semifinals,2,,(Thu) 7 May 1959 (W18),Atletico Madrid (9),1-0,1-0,Real Madrid CF (6),,,ESP,ESP
-,Semifinals,Replay,,(Wed) 13 May 1959 (W19),Real Madrid CF (7),2-1,2-1,Atletico Madrid (10),,,ESP,ESP
 ,Semifinals,2,,(Wed) 13 May 1959 (W19),Stade Reims (8),3-0,1-0,BSC Young Boys (7),,,FRA,SUI
+,Semifinals,Replay,,(Wed) 13 May 1959 (W19),Real Madrid CF (7),2-1,2-1,Atletico Madrid (10),,,ESP,ESP
 ,Final,,,(Wed) 3 Jun 1959 (W22),Real Madrid CF (8),2-0,0-0,Stade Reims (9),,,ESP,FRA

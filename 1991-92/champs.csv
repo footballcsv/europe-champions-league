@@ -1,12 +1,12 @@
 Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Tue) 17 Sep 1991 (W37),Crvena Zvezda (1),4-0,2-0,Portadown (1),,,SRB,NIR
 ,Round 1,1,,(Tue) 17 Sep 1991 (W37),1. FC Kaiserslautern (1),2-0,1-0,Etar Tarnovo (1),,,GER,BUL
-,Round 1,1,,(Wed) 18 Sep 1991 (W37),Fram Reykjavik (1),2-2,0-1,Panathinaikos FC (1),,,ISL,GRE
+,Round 1,1,,(Wed) 18 Sep 1991 (W37),FC Barcelona (1),3-0,1-0,Hansa Rostock (1),,,ESP,GER
 ,Round 1,1,,(Wed) 18 Sep 1991 (W37),IFK Goteborg (1),0-0,0-0,KS Flamurtari Vlore (1),,,SWE,ALB
 ,Round 1,1,,(Wed) 18 Sep 1991 (W37),Sparta Praha (1),1-0,1-0,Rangers FC (1),,,CZE,SCO
 ,Round 1,1,,(Wed) 18 Sep 1991 (W37),FC Universitatea Craiova (1),2-0,1-0,Apollon Limassol (1),,,ROU,CYP
 ,Round 1,1,,(Wed) 18 Sep 1991 (W37),Arsenal FC (1),6-1,1-0,Austria Wien (1),,,ENG,AUT
-,Round 1,1,,(Wed) 18 Sep 1991 (W37),FC Barcelona (1),3-0,1-0,Hansa Rostock (1),,,ESP,GER
+,Round 1,1,,(Wed) 18 Sep 1991 (W37),Fram Reykjavik (1),2-2,0-1,Panathinaikos FC (1),,,ISL,GRE
 ,Round 1,1,,(Wed) 18 Sep 1991 (W37),Beşiktaş İstanbul JK (1),1-1,0-1,PSV Eindhoven (1),,,TUR,NED
 ,Round 1,1,,(Wed) 18 Sep 1991 (W37),Brondby IF (1),3-0,0-0,Zaglebie Lubin (1),,,DEN,POL
 ,Round 1,1,,(Wed) 18 Sep 1991 (W37),HJK Helsinki (1),0-1,0-1,Dinamo Kiev (1),,,FIN,UKR
@@ -18,7 +18,7 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,2,,(Wed) 2 Oct 1991 (W39),Panathinaikos FC (2),0-0,0-0,Fram Reykjavik (2),,,GRE,ISL
 ,Round 1,2,,(Wed) 2 Oct 1991 (W39),KS Flamurtari Vlore (2),1-1,1-0,IFK Goteborg (2),,,ALB,SWE
 ,Round 1,2,,(Wed) 2 Oct 1991 (W39),Rangers FC (2),1-0,0-0,Sparta Praha (2),2-1 (a.e.t.),,SCO,CZE
-,Round 1,2,,(Wed) 2 Oct 1991 (W39),Apollon Limassol (2),3-0,1-0,FC Universitatea Craiova (2),,,CYP,ROU
+,Round 1,2,,(Wed) 2 Oct 1991 (W39),Rosenborg BK (2),1-2,0-0,UC Sampdoria (2),,,NOR,ITA
 ,Round 1,2,,(Wed) 2 Oct 1991 (W39),Austria Wien (2),1-0,0-0,Arsenal FC (2),,,AUT,ENG
 ,Round 1,2,,(Wed) 2 Oct 1991 (W39),Hansa Rostock (2),1-0,0-0,FC Barcelona (2),,,GER,ESP
 ,Round 1,2,,(Wed) 2 Oct 1991 (W39),PSV Eindhoven (2),2-1,1-1,Beşiktaş İstanbul JK (2),,,NED,TUR
@@ -30,45 +30,45 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,2,,(Wed) 2 Oct 1991 (W39),Grasshoppers Zurich (2),0-3,0-2,RSC Anderlecht (2),,,SUI,BEL
 ,Round 1,2,,(Wed) 2 Oct 1991 (W39),SL Benfica (2),4-0,0-0,Hamrun Spartans (2),,,POR,MLT
 ,Round 1,2,,(Wed) 2 Oct 1991 (W39),Olympique Marseille (2),5-0,1-0,Union Luxembourg (2),,,FRA,LUX
-,Round 1,2,,(Wed) 2 Oct 1991 (W39),Rosenborg BK (2),1-2,0-0,UC Sampdoria (2),,,NOR,ITA
+,Round 1,2,,(Wed) 2 Oct 1991 (W39),Apollon Limassol (2),3-0,1-0,FC Universitatea Craiova (2),,,CYP,ROU
 ,Round 2,1,,(Wed) 23 Oct 1991 (W42),FC Barcelona (3),2-0,1-0,1. FC Kaiserslautern (3),,,ESP,GER
 ,Round 2,1,,(Wed) 23 Oct 1991 (W42),Olympique Marseille (3),3-2,1-0,Sparta Praha (3),,,FRA,CZE
 ,Round 2,1,,(Wed) 23 Oct 1991 (W42),Crvena Zvezda (3),3-1,1-1,Apollon Limassol (3),,,SRB,CYP
 ,Round 2,1,,(Wed) 23 Oct 1991 (W42),SL Benfica (3),1-1,1-1,Arsenal FC (3),,,POR,ENG
-,Round 2,1,,(Wed) 23 Oct 1991 (W42),Dinamo Kiev (3),1-1,0-1,Brondby IF (3),,,UKR,DEN
+,Round 2,1,,(Wed) 23 Oct 1991 (W42),PSV Eindhoven (3),0-0,0-0,RSC Anderlecht (3),,,NED,BEL
 ,Round 2,1,,(Wed) 23 Oct 1991 (W42),Panathinaikos FC (3),2-0,1-0,IFK Goteborg (3),,,GRE,SWE
 ,Round 2,1,,(Wed) 23 Oct 1991 (W42),Kispesti Honved (3),2-1,0-0,UC Sampdoria (3),,,HUN,ITA
-,Round 2,1,,(Wed) 23 Oct 1991 (W42),PSV Eindhoven (3),0-0,0-0,RSC Anderlecht (3),,,NED,BEL
+,Round 2,1,,(Wed) 23 Oct 1991 (W42),Dinamo Kiev (3),1-1,0-1,Brondby IF (3),,,UKR,DEN
 ,Round 2,2,,(Wed) 6 Nov 1991 (W44),1. FC Kaiserslautern (4),3-1,1-0,FC Barcelona (4),,,GER,ESP
 ,Round 2,2,,(Wed) 6 Nov 1991 (W44),Sparta Praha (4),2-1,1-0,Olympique Marseille (4),,,CZE,FRA
 ,Round 2,2,,(Wed) 6 Nov 1991 (W44),Apollon Limassol (4),0-2,0-0,Crvena Zvezda (4),,,CYP,SRB
 ,Round 2,2,,(Wed) 6 Nov 1991 (W44),Arsenal FC (4),1-1,1-1,SL Benfica (4),1-3 (a.e.t.),,ENG,POR
-,Round 2,2,,(Wed) 6 Nov 1991 (W44),Brondby IF (4),0-1,0-1,Dinamo Kiev (4),,,DEN,UKR
+,Round 2,2,,(Wed) 6 Nov 1991 (W44),RSC Anderlecht (4),2-0,1-0,PSV Eindhoven (4),,,BEL,NED
 ,Round 2,2,,(Wed) 6 Nov 1991 (W44),IFK Goteborg (4),2-2,2-0,Panathinaikos FC (4),,,SWE,GRE
 ,Round 2,2,,(Wed) 6 Nov 1991 (W44),UC Sampdoria (4),3-1,2-0,Kispesti Honved (4),,,ITA,HUN
-,Round 2,2,,(Wed) 6 Nov 1991 (W44),RSC Anderlecht (4),2-0,1-0,PSV Eindhoven (4),,,BEL,NED
-Group,Matchday ?,,B,(Wed) 27 Nov 1991 (W47),FC Barcelona (5),3-2,2-1,Sparta Praha (5),,,ESP,CZE
+,Round 2,2,,(Wed) 6 Nov 1991 (W44),Brondby IF (4),0-1,0-1,Dinamo Kiev (4),,,DEN,UKR
+Group,Matchday ?,,A,(Wed) 27 Nov 1991 (W47),RSC Anderlecht (5),0-0,0-0,Panathinaikos FC (5),,,BEL,GRE
 Group,Matchday ?,,A,(Wed) 27 Nov 1991 (W47),UC Sampdoria (5),2-0,1-0,Crvena Zvezda (5),,,ITA,SRB
 Group,Matchday ?,,B,(Wed) 27 Nov 1991 (W47),Dinamo Kiev (5),1-0,1-0,SL Benfica (5),,,UKR,POR
-Group,Matchday ?,,A,(Wed) 27 Nov 1991 (W47),RSC Anderlecht (5),0-0,0-0,Panathinaikos FC (5),,,BEL,GRE
-Group,Matchday ?,,B,(Wed) 11 Dec 1991 (W49),SL Benfica (6),0-0,0-0,FC Barcelona (6),,,POR,ESP
-Group,Matchday ?,,B,(Wed) 11 Dec 1991 (W49),Sparta Praha (6),2-1,2-0,Dinamo Kiev (6),,,CZE,UKR
+Group,Matchday ?,,B,(Wed) 27 Nov 1991 (W47),FC Barcelona (5),3-2,2-1,Sparta Praha (5),,,ESP,CZE
 Group,Matchday ?,,A,(Wed) 11 Dec 1991 (W49),Panathinaikos FC (6),0-0,0-0,UC Sampdoria (6),,,GRE,ITA
+Group,Matchday ?,,B,(Wed) 11 Dec 1991 (W49),Sparta Praha (6),2-1,2-0,Dinamo Kiev (6),,,CZE,UKR
+Group,Matchday ?,,B,(Wed) 11 Dec 1991 (W49),SL Benfica (6),0-0,0-0,FC Barcelona (6),,,POR,ESP
 Group,Matchday ?,,A,(Thu) 12 Dec 1991 (W49),Crvena Zvezda (6),3-2,1-1,RSC Anderlecht (6),,,SRB,BEL
-Group,Matchday ?,,B,(Wed) 4 Mar 1992 (W9),Dinamo Kiev (7),0-2,0-1,FC Barcelona (7),,,UKR,ESP
 Group,Matchday ?,,A,(Wed) 4 Mar 1992 (W9),Panathinaikos FC (7),0-2,0-0,Crvena Zvezda (7),,,GRE,SRB
 Group,Matchday ?,,A,(Wed) 4 Mar 1992 (W9),RSC Anderlecht (7),3-2,0-1,UC Sampdoria (7),,,BEL,ITA
 Group,Matchday ?,,B,(Wed) 4 Mar 1992 (W9),SL Benfica (7),1-1,0-1,Sparta Praha (7),,,POR,CZE
-Group,Matchday ?,,B,(Wed) 18 Mar 1992 (W11),FC Barcelona (8),3-0,0-0,Dinamo Kiev (8),,,ESP,UKR
-Group,Matchday ?,,A,(Wed) 18 Mar 1992 (W11),Crvena Zvezda (8),1-0,0-0,Panathinaikos FC (8),,,SRB,GRE
+Group,Matchday ?,,B,(Wed) 4 Mar 1992 (W9),Dinamo Kiev (7),0-2,0-1,FC Barcelona (7),,,UKR,ESP
 Group,Matchday ?,,A,(Wed) 18 Mar 1992 (W11),UC Sampdoria (8),2-0,2-0,RSC Anderlecht (8),,,ITA,BEL
+Group,Matchday ?,,A,(Wed) 18 Mar 1992 (W11),Crvena Zvezda (8),1-0,0-0,Panathinaikos FC (8),,,SRB,GRE
+Group,Matchday ?,,B,(Wed) 18 Mar 1992 (W11),FC Barcelona (8),3-0,0-0,Dinamo Kiev (8),,,ESP,UKR
 Group,Matchday ?,,B,(Wed) 18 Mar 1992 (W11),Sparta Praha (8),1-1,1-1,SL Benfica (8),,,CZE,POR
-Group,Matchday ?,,B,(Wed) 1 Apr 1992 (W13),Sparta Praha (9),1-0,0-0,FC Barcelona (9),,,CZE,ESP
-Group,Matchday ?,,A,(Wed) 1 Apr 1992 (W13),Crvena Zvezda (9),1-3,1-2,UC Sampdoria (9),,,SRB,ITA
-Group,Matchday ?,,B,(Wed) 1 Apr 1992 (W13),SL Benfica (9),5-0,1-0,Dinamo Kiev (9),,,POR,UKR
 Group,Matchday ?,,A,(Wed) 1 Apr 1992 (W13),Panathinaikos FC (9),0-0,0-0,RSC Anderlecht (9),,,GRE,BEL
-Group,Matchday ?,,B,(Wed) 15 Apr 1992 (W15),FC Barcelona (10),2-1,2-1,SL Benfica (10),,,ESP,POR
-Group,Matchday ?,,A,(Wed) 15 Apr 1992 (W15),RSC Anderlecht (10),3-2,2-1,Crvena Zvezda (10),,,BEL,SRB
-Group,Matchday ?,,B,(Wed) 15 Apr 1992 (W15),Dinamo Kiev (10),1-0,0-0,Sparta Praha (10),,,UKR,CZE
+Group,Matchday ?,,A,(Wed) 1 Apr 1992 (W13),Crvena Zvezda (9),1-3,1-2,UC Sampdoria (9),,,SRB,ITA
+Group,Matchday ?,,B,(Wed) 1 Apr 1992 (W13),Sparta Praha (9),1-0,0-0,FC Barcelona (9),,,CZE,ESP
+Group,Matchday ?,,B,(Wed) 1 Apr 1992 (W13),SL Benfica (9),5-0,1-0,Dinamo Kiev (9),,,POR,UKR
 Group,Matchday ?,,A,(Wed) 15 Apr 1992 (W15),UC Sampdoria (10),1-1,1-1,Panathinaikos FC (10),,,ITA,GRE
+Group,Matchday ?,,A,(Wed) 15 Apr 1992 (W15),RSC Anderlecht (10),3-2,2-1,Crvena Zvezda (10),,,BEL,SRB
+Group,Matchday ?,,B,(Wed) 15 Apr 1992 (W15),FC Barcelona (10),2-1,2-1,SL Benfica (10),,,ESP,POR
+Group,Matchday ?,,B,(Wed) 15 Apr 1992 (W15),Dinamo Kiev (10),1-0,0-0,Sparta Praha (10),,,UKR,CZE
 ,Final,,,(Wed) 20 May 1992 (W20),FC Barcelona (11),0-0,0-0,UC Sampdoria (11),1-0 (a.e.t.),,ESP,ITA

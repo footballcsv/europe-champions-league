@@ -29,8 +29,8 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,2,,(Wed) 30 Sep 1987 (W39),RSC Anderlecht (2),1-1,1-0,Malmo FF (2),,,BEL,SWE
 ,Round 1,2,,(Wed) 30 Sep 1987 (W39),MTK (2),2-0,2-0,Steaua Bucuresti (2),,,HUN,ROU
 ,Round 1,2,,(Wed) 30 Sep 1987 (W39),Omonia Nicosia (2),0-0,0-0,Shamrock Rovers (2),,,CYP,IRL
-,Round 1,2,,(Wed) 30 Sep 1987 (W39),SSC Napoli (2),1-1,1-1,Real Madrid CF (2),,,ITA,ESP
 ,Round 1,2,,(Wed) 30 Sep 1987 (W39),FK Partizani Tirana (2),0-3,0-0,SL Benfica (2),,,ALB,POR
+,Round 1,2,,(Wed) 30 Sep 1987 (W39),SSC Napoli (2),1-1,1-1,Real Madrid CF (2),,,ITA,ESP
 ,Round of 16,1,,(Wed) 21 Oct 1987 (W42),Aarhus GF (3),0-0,0-0,SL Benfica (3),,,DEN,POR
 ,Round of 16,1,,(Wed) 21 Oct 1987 (W42),AC Sparta Praha (3),1-2,1-1,RSC Anderlecht (3),,,CZE,BEL
 ,Round of 16,1,,(Wed) 21 Oct 1987 (W42),Neuchatel Xamax FC (3),2-1,1-0,Bayern München (3),,,SUI,GER
@@ -45,18 +45,18 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round of 16,2,,(Wed) 4 Nov 1987 (W44),FC Porto (4),1-2,1-0,Real Madrid CF (4),,,POR,ESP
 ,Round of 16,2,,(Wed) 4 Nov 1987 (W44),Girondins Bordeaux (4),1-0,1-0,Lillestrom (4),,,FRA,NOR
 ,Round of 16,2,,(Wed) 4 Nov 1987 (W44),Gornik Zabrze (4),1-1,0-1,Rangers FC (4),,,POL,SCO
-,Round of 16,2,,(Wed) 4 Nov 1987 (W44),Omonia Nicosia (4),0-2,0-2,Steaua Bucuresti (4),,,CYP,ROU
 ,Round of 16,2,,(Wed) 4 Nov 1987 (W44),PSV Eindhoven (4),2-0,1-0,Rapid Wien (4),,,NED,AUT
+,Round of 16,2,,(Wed) 4 Nov 1987 (W44),Omonia Nicosia (4),0-2,0-2,Steaua Bucuresti (4),,,CYP,ROU
 ,Quarterfinals,1,,(Wed) 2 Mar 1988 (W9),Girondins Bordeaux (5),1-1,1-1,PSV Eindhoven (5),,,FRA,NED
 ,Quarterfinals,1,,(Wed) 2 Mar 1988 (W9),Bayern München (5),3-2,2-0,Real Madrid CF (5),,,GER,ESP
 ,Quarterfinals,1,,(Wed) 2 Mar 1988 (W9),Steaua Bucuresti (5),2-0,1-0,Rangers FC (5),,,ROU,SCO
 ,Quarterfinals,1,,(Wed) 2 Mar 1988 (W9),SL Benfica (5),2-0,2-0,RSC Anderlecht (5),,,POR,BEL
 ,Quarterfinals,2,,(Wed) 16 Mar 1988 (W11),PSV Eindhoven (6),0-0,0-0,Girondins Bordeaux (6),,,NED,FRA
 ,Quarterfinals,2,,(Wed) 16 Mar 1988 (W11),Real Madrid CF (6),2-0,2-0,Bayern München (6),,,ESP,GER
-,Quarterfinals,2,,(Wed) 16 Mar 1988 (W11),Rangers FC (6),2-1,2-1,Steaua Bucuresti (6),,,SCO,ROU
 ,Quarterfinals,2,,(Wed) 16 Mar 1988 (W11),RSC Anderlecht (6),1-0,0-0,SL Benfica (6),,,BEL,POR
+,Quarterfinals,2,,(Wed) 16 Mar 1988 (W11),Rangers FC (6),2-1,2-1,Steaua Bucuresti (6),,,SCO,ROU
 ,Semifinals,1,,(Wed) 6 Apr 1988 (W14),Real Madrid CF (7),1-1,1-1,PSV Eindhoven (7),,,ESP,NED
 ,Semifinals,1,,(Wed) 6 Apr 1988 (W14),Steaua Bucuresti (7),0-0,0-0,SL Benfica (7),,,ROU,POR
-,Semifinals,2,,(Wed) 20 Apr 1988 (W16),PSV Eindhoven (8),0-0,0-0,Real Madrid CF (8),,,NED,ESP
 ,Semifinals,2,,(Wed) 20 Apr 1988 (W16),SL Benfica (8),2-0,2-0,Steaua Bucuresti (8),,,POR,ROU
+,Semifinals,2,,(Wed) 20 Apr 1988 (W16),PSV Eindhoven (8),0-0,0-0,Real Madrid CF (8),,,NED,ESP
 ,Final,,,(Wed) 25 May 1988 (W21),PSV Eindhoven (9),0-0,0-0,SL Benfica (9),0-0 (a.e.t.),6-5 (pen.),NED,POR

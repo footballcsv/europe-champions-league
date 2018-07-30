@@ -6,12 +6,12 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Wed) 14 Sep 1977 (W37),Basel (1),1-3,1-2,SSW Innsbruck (1),,,SUI,AUT
 ,Round 1,1,,(Wed) 14 Sep 1977 (W37),Budapesti Vasas (1),0-3,0-3,Borussia Monchengladbach (1),,,HUN,GER
 ,Round 1,1,,(Wed) 14 Sep 1977 (W37),Celtic FC (1),5-0,2-0,Jeunesse Esch (1),,,SCO,LUX
-,Round 1,1,,(Wed) 14 Sep 1977 (W37),Kuopion PS (1),0-4,0-0,Club Brugge (1),,,FIN,BEL
+,Round 1,1,,(Wed) 14 Sep 1977 (W37),Levski Sofia (1),3-0,3-0,Slask Wroclaw (1),,,BUL,POL
 ,Round 1,1,,(Wed) 14 Sep 1977 (W37),Crvena Zvezda (1),3-0,0-0,Sligo Rovers (1),,,SRB,IRL
 ,Round 1,1,,(Wed) 14 Sep 1977 (W37),Dynamo Dresden (1),2-0,0-0,Halmstads BK (1),,,GER,SWE
 ,Round 1,1,,(Wed) 14 Sep 1977 (W37),Floriana (1),1-1,1-1,Panathinaikos FC (1),,,MLT,GRE
 ,Round 1,1,,(Wed) 14 Sep 1977 (W37),Omonia Nicosia (1),0-3,0-2,Juventus (1),,,CYP,ITA
-,Round 1,1,,(Wed) 14 Sep 1977 (W37),Levski Sofia (1),3-0,3-0,Slask Wroclaw (1),,,BUL,POL
+,Round 1,1,,(Wed) 14 Sep 1977 (W37),Kuopion PS (1),0-4,0-0,Club Brugge (1),,,FIN,BEL
 ,Round 1,1,,(Thu) 15 Sep 1977 (W37),Dinamo Bucuresti (1),2-1,1-0,Atletico Madrid (1),,,ROU,ESP
 ,Round 1,1,,(Thu) 15 Sep 1977 (W37),Valur Reykjavik (1),1-0,1-0,Glentoran (1),,,ISL,NIR
 ,Round 1,2,,(Wed) 28 Sep 1977 (W39),Torpedo Moskva (2),0-0,0-0,SL Benfica (2),0-0 (a.e.t.),1-4 (pen.),RUS,POR
@@ -43,18 +43,18 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round of 16,2,,(Wed) 2 Nov 1977 (W44),Borussia Monchengladbach (4),5-1,2-1,Crvena Zvezda (4),,,GER,SRB
 ,Round of 16,2,,(Wed) 2 Nov 1977 (W44),SSW Innsbruck (4),3-0,3-0,Celtic FC (4),,,AUT,SCO
 ,Round of 16,2,,(Wed) 2 Nov 1977 (W44),Panathinaikos FC (4),1-0,0-0,Club Brugge (4),,,GRE,BEL
-,Round of 16,2,,(Wed) 2 Nov 1977 (W44),Dynamo Dresden (4),2-1,0-0,Liverpool FC (2),,,GER,ENG
 ,Round of 16,2,,(Wed) 2 Nov 1977 (W44),Juventus (4),5-0,2-0,Glentoran (4),,,ITA,NIR
+,Round of 16,2,,(Wed) 2 Nov 1977 (W44),Dynamo Dresden (4),2-1,0-0,Liverpool FC (2),,,GER,ENG
 ,Quarterfinals,1,,(Wed) 1 Mar 1978 (W9),AFC Ajax (5),1-1,0-0,Juventus (5),,,NED,ITA
 ,Quarterfinals,1,,(Wed) 1 Mar 1978 (W9),SSW Innsbruck (5),3-1,3-0,Borussia Monchengladbach (5),,,AUT,GER
 ,Quarterfinals,1,,(Wed) 1 Mar 1978 (W9),Club Brugge (5),2-0,1-0,Atletico Madrid (5),,,BEL,ESP
 ,Quarterfinals,1,,(Wed) 1 Mar 1978 (W9),SL Benfica (5),1-2,1-1,Liverpool FC (3),,,POR,ENG
 ,Quarterfinals,2,,(Wed) 15 Mar 1978 (W11),Juventus (6),1-1,1-0,AFC Ajax (6),1-1 (a.e.t.),3-0 (pen.),ITA,NED
 ,Quarterfinals,2,,(Wed) 15 Mar 1978 (W11),Borussia Monchengladbach (6),2-0,2-0,SSW Innsbruck (6),,,GER,AUT
-,Quarterfinals,2,,(Wed) 15 Mar 1978 (W11),Atletico Madrid (6),3-2,2-0,Club Brugge (6),,,ESP,BEL
 ,Quarterfinals,2,,(Wed) 15 Mar 1978 (W11),Liverpool FC (4),4-1,2-1,SL Benfica (6),,,ENG,POR
+,Quarterfinals,2,,(Wed) 15 Mar 1978 (W11),Atletico Madrid (6),3-2,2-0,Club Brugge (6),,,ESP,BEL
 ,Semifinals,1,,(Wed) 29 Mar 1978 (W13),Borussia Monchengladbach (7),2-1,1-0,Liverpool FC (5),,,GER,ENG
 ,Semifinals,1,,(Wed) 29 Mar 1978 (W13),Juventus (7),1-0,0-0,Club Brugge (7),,,ITA,BEL
-,Semifinals,2,,(Wed) 12 Apr 1978 (W15),Liverpool FC (6),3-0,2-0,Borussia Monchengladbach (8),,,ENG,GER
 ,Semifinals,2,,(Wed) 12 Apr 1978 (W15),Club Brugge (8),1-0,1-0,Juventus (8),2-0 (a.e.t.),,BEL,ITA
+,Semifinals,2,,(Wed) 12 Apr 1978 (W15),Liverpool FC (6),3-0,2-0,Borussia Monchengladbach (8),,,ENG,GER
 ,Final,,,(Wed) 10 May 1978 (W19),Liverpool FC (7),1-0,0-0,Club Brugge (9),,,ENG,BEL

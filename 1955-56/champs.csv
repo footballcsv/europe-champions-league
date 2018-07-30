@@ -4,12 +4,12 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Thu) 8 Sep 1955 (W36),Servette Geneve (1),0-2,0-0,Real Madrid CF (1),,,SUI,ESP
 ,Round 1,1,,(Wed) 14 Sep 1955 (W37),Rot-Weiss Essen (1),0-4,0-2,Hibernian FC (1),,,GER,SCO
 ,Round 1,1,,(Tue) 20 Sep 1955 (W38),Djurgardens IF (1),0-0,0-0,Gwardia Warszawa (1),,,SWE,POL
-,Round 1,1,,(Wed) 21 Sep 1955 (W38),Aarhus GF (1),0-2,0-1,Stade Reims (1),,,DEN,FRA
 ,Round 1,1,,(Wed) 21 Sep 1955 (W38),Rapid Wien (1),6-1,1-1,PSV Eindhoven (1),,,AUT,NED
-,Round 1,2,,(Wed) 12 Oct 1955 (W41),Gwardia Warszawa (2),1-4,1-4,Djurgardens IF (2),,,POL,SWE
+,Round 1,1,,(Wed) 21 Sep 1955 (W38),Aarhus GF (1),0-2,0-1,Stade Reims (1),,,DEN,FRA
+,Round 1,2,,(Wed) 12 Oct 1955 (W41),Partizan Belgrade (2),5-2,2-0,Sporting CP (2),,,SRB,POR
 ,Round 1,2,,(Wed) 12 Oct 1955 (W41),Hibernian FC (2),1-1,1-0,Rot-Weiss Essen (2),,,SCO,GER
 ,Round 1,2,,(Wed) 12 Oct 1955 (W41),Real Madrid CF (2),5-0,2-0,Servette Geneve (2),,,ESP,SUI
-,Round 1,2,,(Wed) 12 Oct 1955 (W41),Partizan Belgrade (2),5-2,2-0,Sporting CP (2),,,SRB,POR
+,Round 1,2,,(Wed) 12 Oct 1955 (W41),Gwardia Warszawa (2),1-4,1-4,Djurgardens IF (2),,,POL,SWE
 ,Round 1,2,,(Wed) 19 Oct 1955 (W42),RSC Anderlecht (2),1-4,1-1,Budapesti Voros Lobogo (2),,,BEL,HUN
 ,Round 1,2,,(Wed) 26 Oct 1955 (W43),Stade Reims (2),2-2,0-0,Aarhus GF (2),,,FRA,DEN
 ,Round 1,1,,(Tue) 1 Nov 1955 (W44),AC Milan (1),3-4,3-2,1. FC Saarbrücken (1),,,ITA,GER

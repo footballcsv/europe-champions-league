@@ -29,8 +29,8 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,2,,(Wed) 27 Sep 1989 (W39),Fram Reykjavik (2),0-1,0-0,Steaua Bucuresti (2),,,ISL,ROU
 ,Round 1,2,,(Wed) 27 Sep 1989 (W39),Internazionale (2),1-1,0-0,Malmo FF (2),,,ITA,SWE
 ,Round 1,2,,(Wed) 27 Sep 1989 (W39),KF Tirana (2),5-0,3-0,Sliema Wanderers (2),,,ALB,MLT
-,Round 1,2,,(Wed) 27 Sep 1989 (W39),KV Mechelen (2),5-0,1-0,Rosenborg BK (2),,,BEL,NOR
 ,Round 1,2,,(Wed) 27 Sep 1989 (W39),Real Madrid CF (2),6-0,3-0,Spora Luxemburg (2),,,ESP,LUX
+,Round 1,2,,(Wed) 27 Sep 1989 (W39),KV Mechelen (2),5-0,1-0,Rosenborg BK (2),,,BEL,NOR
 ,Round of 16,1,,(Wed) 18 Oct 1989 (W42),AC Milan (3),2-0,2-0,Real Madrid CF (3),,,ITA,ESP
 ,Round of 16,1,,(Wed) 18 Oct 1989 (W42),AC Sparta Praha (3),2-2,0-1,CSKA Sofia (3),,,CZE,BUL
 ,Round of 16,1,,(Wed) 18 Oct 1989 (W42),Olympique Marseille (3),2-0,0-0,AEK Athens (3),,,FRA,GRE
@@ -45,18 +45,18 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round of 16,2,,(Wed) 1 Nov 1989 (W44),KF Tirana (4),0-3,0-1,Bayern München (4),,,ALB,GER
 ,Round of 16,2,,(Wed) 1 Nov 1989 (W44),SL Benfica (4),7-0,3-0,Budapest Honved SE (4),,,POR,HUN
 ,Round of 16,2,,(Wed) 1 Nov 1989 (W44),FC Tirol (4),2-2,1-1,Dnepr Dnepropetrovsk (4),,,AUT,UKR
-,Round of 16,2,,(Wed) 1 Nov 1989 (W44),KV Mechelen (4),4-1,2-0,Malmo FF (4),,,BEL,SWE
 ,Round of 16,2,,(Wed) 1 Nov 1989 (W44),PSV Eindhoven (4),5-1,1-1,Steaua Bucuresti (4),,,NED,ROU
+,Round of 16,2,,(Wed) 1 Nov 1989 (W44),KV Mechelen (4),4-1,2-0,Malmo FF (4),,,BEL,SWE
 ,Quarterfinals,1,,(Wed) 7 Mar 1990 (W10),KV Mechelen (5),0-0,0-0,AC Milan (5),,,BEL,ITA
 ,Quarterfinals,1,,(Wed) 7 Mar 1990 (W10),Bayern München (5),2-1,0-0,PSV Eindhoven (5),,,GER,NED
 ,Quarterfinals,1,,(Wed) 7 Mar 1990 (W10),CSKA Sofia (5),0-1,0-0,Olympique Marseille (5),,,BUL,FRA
 ,Quarterfinals,1,,(Wed) 7 Mar 1990 (W10),SL Benfica (5),1-0,1-0,Dnepr Dnepropetrovsk (5),,,POR,UKR
 ,Quarterfinals,2,,(Wed) 21 Mar 1990 (W12),AC Milan (6),0-0,0-0,KV Mechelen (6),2-0 (a.e.t.),,ITA,BEL
 ,Quarterfinals,2,,(Wed) 21 Mar 1990 (W12),PSV Eindhoven (6),0-1,0-0,Bayern München (6),,,NED,GER
-,Quarterfinals,2,,(Wed) 21 Mar 1990 (W12),Olympique Marseille (6),3-1,2-0,CSKA Sofia (6),,,FRA,BUL
 ,Quarterfinals,2,,(Wed) 21 Mar 1990 (W12),Dnepr Dnepropetrovsk (6),0-3,0-0,SL Benfica (6),,,UKR,POR
+,Quarterfinals,2,,(Wed) 21 Mar 1990 (W12),Olympique Marseille (6),3-1,2-0,CSKA Sofia (6),,,FRA,BUL
 ,Semifinals,1,,(Wed) 4 Apr 1990 (W14),AC Milan (7),1-0,0-0,Bayern München (7),,,ITA,GER
 ,Semifinals,1,,(Wed) 4 Apr 1990 (W14),Olympique Marseille (7),2-1,2-1,SL Benfica (7),,,FRA,POR
-,Semifinals,2,,(Wed) 18 Apr 1990 (W16),Bayern München (8),1-0,0-0,AC Milan (8),2-1 (a.e.t.),,GER,ITA
 ,Semifinals,2,,(Wed) 18 Apr 1990 (W16),SL Benfica (8),1-0,0-0,Olympique Marseille (8),,,POR,FRA
+,Semifinals,2,,(Wed) 18 Apr 1990 (W16),Bayern München (8),1-0,0-0,AC Milan (8),2-1 (a.e.t.),,GER,ITA
 ,Final,,,(Wed) 23 May 1990 (W21),AC Milan (9),1-0,0-0,SL Benfica (9),,,ITA,POR

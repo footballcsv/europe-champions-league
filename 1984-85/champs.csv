@@ -29,8 +29,8 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,2,,(Wed) 3 Oct 1984 (W40),Panathinaikos FC (2),2-1,2-0,Feyenoord Rotterdam (2),,,GRE,NED
 ,Round 1,2,,(Wed) 3 Oct 1984 (W40),KSK Beveren (2),5-0,2-0,IA Akranes (2),,,BEL,ISL
 ,Round 1,2,,(Wed) 3 Oct 1984 (W40),Juventus (2),2-1,0-1,Ilves Tampere (2),,,ITA,FIN
-,Round 1,2,,(Wed) 3 Oct 1984 (W40),Lyngby BK (2),3-0,0-0,KS Elbasani (2),,,DEN,ALB
 ,Round 1,2,,(Wed) 3 Oct 1984 (W40),Liverpool FC (2),4-0,3-0,Lech Poznan (2),,,ENG,POL
+,Round 1,2,,(Wed) 3 Oct 1984 (W40),Lyngby BK (2),3-0,0-0,KS Elbasani (2),,,DEN,ALB
 ,Round of 16,1,,(Wed) 24 Oct 1984 (W43),Levski Sofia (3),3-1,2-1,Dnepr Dnepropetrovsk (3),,,BUL,UKR
 ,Round of 16,1,,(Wed) 24 Oct 1984 (W43),IFK Goteborg (3),1-0,0-0,KSK Beveren (3),,,SWE,BEL
 ,Round of 16,1,,(Wed) 24 Oct 1984 (W43),AC Sparta Praha (3),0-0,0-0,Lyngby BK (3),,,CZE,DEN
@@ -45,18 +45,18 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round of 16,2,,(Wed) 7 Nov 1984 (W45),Austria Wien (4),2-1,1-0,BFC Dynamo (4),,,AUT,GER
 ,Round of 16,2,,(Wed) 7 Nov 1984 (W45),Dinamo Bucuresti (4),1-0,1-0,Girondins Bordeaux (4),1-1 (a.e.t.),,ROU,FRA
 ,Round of 16,2,,(Wed) 7 Nov 1984 (W45),Grasshoppers Zurich (4),2-4,1-2,Juventus (4),,,SUI,ITA
-,Round of 16,2,,(Wed) 7 Nov 1984 (W45),Linfield (4),3-3,3-2,Panathinaikos FC (4),,,NIR,GRE
 ,Round of 16,2,,(Wed) 7 Nov 1984 (W45),SL Benfica (4),1-0,1-0,Liverpool FC (4),,,POR,ENG
+,Round of 16,2,,(Wed) 7 Nov 1984 (W45),Linfield (4),3-3,3-2,Panathinaikos FC (4),,,NIR,GRE
 ,Quarterfinals,1,,(Wed) 6 Mar 1985 (W9),Girondins Bordeaux (5),1-1,1-1,Dnepr Dnepropetrovsk (5),,,FRA,UKR
 ,Quarterfinals,1,,(Wed) 6 Mar 1985 (W9),Juventus (5),3-0,1-0,AC Sparta Praha (5),,,ITA,CZE
 ,Quarterfinals,1,,(Wed) 6 Mar 1985 (W9),Austria Wien (5),1-1,1-0,Liverpool FC (5),,,AUT,ENG
 ,Quarterfinals,1,,(Wed) 6 Mar 1985 (W9),IFK Goteborg (5),0-1,0-0,Panathinaikos FC (5),,,SWE,GRE
 ,Quarterfinals,2,,(Wed) 20 Mar 1985 (W11),Dnepr Dnepropetrovsk (6),1-1,1-0,Girondins Bordeaux (6),1-1 (a.e.t.),3-5 (pen.),UKR,FRA
 ,Quarterfinals,2,,(Wed) 20 Mar 1985 (W11),AC Sparta Praha (6),1-0,0-0,Juventus (6),,,CZE,ITA
-,Quarterfinals,2,,(Wed) 20 Mar 1985 (W11),Liverpool FC (6),4-1,2-0,Austria Wien (6),,,ENG,AUT
 ,Quarterfinals,2,,(Wed) 20 Mar 1985 (W11),Panathinaikos FC (6),2-2,1-1,IFK Goteborg (6),,,GRE,SWE
+,Quarterfinals,2,,(Wed) 20 Mar 1985 (W11),Liverpool FC (6),4-1,2-0,Austria Wien (6),,,ENG,AUT
 ,Semifinals,1,,(Wed) 10 Apr 1985 (W14),Juventus (7),3-0,1-0,Girondins Bordeaux (7),,,ITA,FRA
 ,Semifinals,1,,(Wed) 10 Apr 1985 (W14),Liverpool FC (7),4-0,1-0,Panathinaikos FC (7),,,ENG,GRE
-,Semifinals,2,,(Wed) 24 Apr 1985 (W16),Girondins Bordeaux (8),2-0,1-0,Juventus (8),,,FRA,ITA
 ,Semifinals,2,,(Wed) 24 Apr 1985 (W16),Panathinaikos FC (8),0-1,0-0,Liverpool FC (8),,,GRE,ENG
+,Semifinals,2,,(Wed) 24 Apr 1985 (W16),Girondins Bordeaux (8),2-0,1-0,Juventus (8),,,FRA,ITA
 ,Final,,,(Wed) 29 May 1985 (W21),Juventus (9),1-0,0-0,Liverpool FC (9),,,ITA,ENG

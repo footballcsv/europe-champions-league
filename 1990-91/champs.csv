@@ -16,12 +16,12 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Wed) 19 Sep 1990 (W38),SSC Napoli (1),3-0,2-0,Ujpesti Dozsa SC (1),,,ITA,HUN
 ,Round 1,2,,(Tue) 2 Oct 1990 (W40),Real Madrid CF (2),6-0,2-0,Odense BK (2),,,ESP,DEN
 ,Round 1,2,,(Tue) 2 Oct 1990 (W40),Rangers FC (2),6-0,4-0,Valletta (2),,,SCO,MLT
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),Spartak Moskva (2),2-0,1-0,AC Sparta Praha (2),,,RUS,CZE
+,Round 1,2,,(Wed) 3 Oct 1990 (W40),CSKA Sofia (2),3-0,1-0,KA Akureyri (2),,,BUL,ISL
 ,Round 1,2,,(Wed) 3 Oct 1990 (W40),Bayern München (2),4-0,0-0,APOEL Nikosia (2),,,GER,CYP
 ,Round 1,2,,(Wed) 3 Oct 1990 (W40),Beşiktaş İstanbul JK (2),2-2,2-0,Malmo FF (2),,,TUR,SWE
 ,Round 1,2,,(Wed) 3 Oct 1990 (W40),Club Brugge (2),2-0,1-0,Lillestrom (2),,,BEL,NOR
 ,Round 1,2,,(Wed) 3 Oct 1990 (W40),Grasshoppers Zurich (2),1-4,0-1,Crvena Zvezda (2),,,SUI,SRB
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),CSKA Sofia (2),3-0,1-0,KA Akureyri (2),,,BUL,ISL
+,Round 1,2,,(Wed) 3 Oct 1990 (W40),Spartak Moskva (2),2-0,1-0,AC Sparta Praha (2),,,RUS,CZE
 ,Round 1,2,,(Wed) 3 Oct 1990 (W40),St Patrick's Athletic (2),1-1,1-0,Dinamo Bucuresti (2),,,IRL,ROU
 ,Round 1,2,,(Wed) 3 Oct 1990 (W40),Dinamo Tirana (2),0-0,0-0,Olympique Marseille (2),,,ALB,FRA
 ,Round 1,2,,(Wed) 3 Oct 1990 (W40),Dynamo Dresden (2),3-0,3-0,Union Luxembourg (2),,,GER,LUX
@@ -38,23 +38,23 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round of 16,1,,(Wed) 24 Oct 1990 (W43),Real Madrid CF (3),9-1,5-1,FC Tirol (3),,,ESP,AUT
 ,Round of 16,1,,(Wed) 24 Oct 1990 (W43),Lech Poznan (3),3-2,2-1,Olympique Marseille (3),,,POL,FRA
 ,Round of 16,2,,(Tue) 6 Nov 1990 (W45),CSKA Sofia (4),0-3,0-1,Bayern München (4),,,BUL,GER
-,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Malmo FF (4),1-1,0-1,Dynamo Dresden (4),1-1 (a.e.t.),4-5 (pen.),SWE,GER
-,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Spartak Moskva (4),0-0,0-0,SSC Napoli (4),0-0 (a.e.t.),5-3 (pen.),RUS,ITA
 ,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Club Brugge (4),0-1,0-0,AC Milan (2),,,BEL,ITA
+,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Spartak Moskva (4),0-0,0-0,SSC Napoli (4),0-0 (a.e.t.),5-3 (pen.),RUS,ITA
+,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Malmo FF (4),1-1,0-1,Dynamo Dresden (4),1-1 (a.e.t.),4-5 (pen.),SWE,GER
 ,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Rangers FC (4),1-1,0-0,Crvena Zvezda (4),,,SCO,SRB
 ,Round of 16,2,,(Wed) 7 Nov 1990 (W45),FC Porto (4),4-0,2-0,Dinamo Bucuresti (4),,,POR,ROU
-,Round of 16,2,,(Wed) 7 Nov 1990 (W45),FC Tirol (4),2-2,1-2,Real Madrid CF (4),,,AUT,ESP
 ,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Olympique Marseille (4),6-1,3-0,Lech Poznan (4),,,FRA,POL
+,Round of 16,2,,(Wed) 7 Nov 1990 (W45),FC Tirol (4),2-2,1-2,Real Madrid CF (4),,,AUT,ESP
 ,Quarterfinals,1,,(Wed) 6 Mar 1991 (W9),AC Milan (3),1-1,1-1,Olympique Marseille (5),,,ITA,FRA
 ,Quarterfinals,1,,(Wed) 6 Mar 1991 (W9),Bayern München (5),1-1,1-0,FC Porto (5),,,GER,POR
 ,Quarterfinals,1,,(Wed) 6 Mar 1991 (W9),Crvena Zvezda (5),3-0,2-0,Dynamo Dresden (5),,,SRB,GER
 ,Quarterfinals,1,,(Wed) 6 Mar 1991 (W9),Spartak Moskva (5),0-0,0-0,Real Madrid CF (5),,,RUS,ESP
 ,Quarterfinals,2,,(Wed) 20 Mar 1991 (W11),Olympique Marseille (6),3-0,0-0,AC Milan (4),,,FRA,ITA
 ,Quarterfinals,2,,(Wed) 20 Mar 1991 (W11),FC Porto (6),0-2,0-1,Bayern München (6),,,POR,GER
-,Quarterfinals,2,,(Wed) 20 Mar 1991 (W11),Dynamo Dresden (6),0-3,0-0,Crvena Zvezda (6),,,GER,SRB
 ,Quarterfinals,2,,(Wed) 20 Mar 1991 (W11),Real Madrid CF (6),1-3,1-2,Spartak Moskva (6),,,ESP,RUS
+,Quarterfinals,2,,(Wed) 20 Mar 1991 (W11),Dynamo Dresden (6),0-3,0-0,Crvena Zvezda (6),,,GER,SRB
 ,Semifinals,1,,(Wed) 10 Apr 1991 (W14),Bayern München (7),1-2,1-1,Crvena Zvezda (7),,,GER,SRB
 ,Semifinals,1,,(Wed) 10 Apr 1991 (W14),Spartak Moskva (7),1-3,0-2,Olympique Marseille (7),,,RUS,FRA
-,Semifinals,2,,(Wed) 24 Apr 1991 (W16),Crvena Zvezda (8),2-2,1-0,Bayern München (8),,,SRB,GER
 ,Semifinals,2,,(Wed) 24 Apr 1991 (W16),Olympique Marseille (8),2-1,1-0,Spartak Moskva (8),,,FRA,RUS
+,Semifinals,2,,(Wed) 24 Apr 1991 (W16),Crvena Zvezda (8),2-2,1-0,Bayern München (8),,,SRB,GER
 ,Final,,,(Wed) 29 May 1991 (W21),Crvena Zvezda (9),0-0,0-0,Olympique Marseille (9),0-0 (a.e.t.),5-3 (pen.),SRB,FRA

@@ -15,36 +15,36 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Wed) 19 Sep 1973 (W38),Viking FK (1),1-2,0-0,Spartak TAZ Trnava (1),,,NOR,SVK
 ,Round 1,1,,(Wed) 19 Sep 1973 (W38),Waterford AFC (1),2-3,0-0,Ujpesti Dozsa SC (1),,,IRL,HUN
 ,Round 1,2,,(Thu) 20 Sep 1973 (W38),Fram Reykjavik (2),2-6,0-0,Basel (2),,,ISL,SUI
-,Round 1,2,,(Wed) 3 Oct 1973 (W40),Atvidabergs FF (2),3-1,0-0,Bayern München (2),3-1 (a.e.t.),3-4 (pen.),SWE,GER
+,Round 1,2,,(Wed) 3 Oct 1973 (W40),Stal Mielec (2),0-1,0-0,Crvena Zvezda (2),,,POL,SRB
 ,Round 1,2,,(Wed) 3 Oct 1973 (W40),APOEL Nikosia (2),0-1,0-0,Zorya Voroshilovgrad (2),,,CYP,UKR
-,Round 1,2,,(Wed) 3 Oct 1973 (W40),Galatasaray İstanbul AŞ (2),0-1,0-0,Atletico Madrid (2),,,TUR,ESP
+,Round 1,2,,(Wed) 3 Oct 1973 (W40),Ujpesti Dozsa SC (2),3-0,0-0,Waterford AFC (2),,,HUN,IRL
 ,Round 1,2,,(Wed) 3 Oct 1973 (W40),Celtic FC (2),3-0,0-0,TPS Turku (2),,,SCO,FIN
 ,Round 1,2,,(Wed) 3 Oct 1973 (W40),Floriana (2),0-2,0-0,Club Brugge (2),,,MLT,BEL
 ,Round 1,2,,(Wed) 3 Oct 1973 (W40),Dinamo Bucuresti (2),11-0,0-0,Crusaders (2),,,ROU,NIR
-,Round 1,2,,(Wed) 3 Oct 1973 (W40),Stal Mielec (2),0-1,0-0,Crvena Zvezda (2),,,POL,SRB
+,Round 1,2,,(Wed) 3 Oct 1973 (W40),Atvidabergs FF (2),3-1,0-0,Bayern München (2),3-1 (a.e.t.),3-4 (pen.),SWE,GER
 ,Round 1,2,,(Wed) 3 Oct 1973 (W40),SSW Innsbruck (2),0-1,0-0,CSKA Sofia (2),,,AUT,BUL
 ,Round 1,2,,(Wed) 3 Oct 1973 (W40),Juventus (2),3-2,0-0,Dynamo Dresden (2),,,ITA,GER
 ,Round 1,2,,(Wed) 3 Oct 1973 (W40),Liverpool FC (2),2-0,0-0,Jeunesse Esch (2),,,ENG,LUX
 ,Round 1,2,,(Wed) 3 Oct 1973 (W40),FC Nantes (2),0-1,0-0,Vejle BK (2),,,FRA,DEN
 ,Round 1,2,,(Wed) 3 Oct 1973 (W40),Olympiacos (2),0-1,0-0,SL Benfica (2),,,GRE,POR
 ,Round 1,2,,(Wed) 3 Oct 1973 (W40),Spartak TAZ Trnava (2),1-0,0-0,Viking FK (2),,,SVK,NOR
-,Round 1,2,,(Wed) 3 Oct 1973 (W40),Ujpesti Dozsa SC (2),3-0,0-0,Waterford AFC (2),,,HUN,IRL
-,Round of 16,1,,(Wed) 24 Oct 1973 (W43),AFC Ajax (1),1-0,1-0,CSKA Sofia (3),,,NED,BUL
+,Round 1,2,,(Wed) 3 Oct 1973 (W40),Galatasaray İstanbul AŞ (2),0-1,0-0,Atletico Madrid (2),,,TUR,ESP
+,Round of 16,1,,(Wed) 24 Oct 1973 (W43),Spartak TAZ Trnava (3),0-0,0-0,Zorya Voroshilovgrad (3),,,SVK,UKR
 ,Round of 16,1,,(Wed) 24 Oct 1973 (W43),Dinamo Bucuresti (3),0-2,0-1,Atletico Madrid (3),,,ROU,ESP
 ,Round of 16,1,,(Wed) 24 Oct 1973 (W43),Club Brugge (3),2-1,1-1,Basel (3),,,BEL,SUI
 ,Round of 16,1,,(Wed) 24 Oct 1973 (W43),Bayern München (3),4-3,2-3,Dynamo Dresden (3),,,GER,GER
 ,Round of 16,1,,(Wed) 24 Oct 1973 (W43),Celtic FC (3),0-0,0-0,Vejle BK (3),,,SCO,DEN
 ,Round of 16,1,,(Wed) 24 Oct 1973 (W43),Crvena Zvezda (3),2-1,1-0,Liverpool FC (3),,,SRB,ENG
 ,Round of 16,1,,(Wed) 24 Oct 1973 (W43),SL Benfica (3),1-1,0-0,Ujpesti Dozsa SC (3),,,POR,HUN
-,Round of 16,1,,(Wed) 24 Oct 1973 (W43),Spartak TAZ Trnava (3),0-0,0-0,Zorya Voroshilovgrad (3),,,SVK,UKR
+,Round of 16,1,,(Wed) 24 Oct 1973 (W43),AFC Ajax (1),1-0,1-0,CSKA Sofia (3),,,NED,BUL
 ,Round of 16,2,,(Tue) 6 Nov 1973 (W45),Vejle BK (4),0-1,0-1,Celtic FC (4),,,DEN,SCO
 ,Round of 16,2,,(Tue) 6 Nov 1973 (W45),Liverpool FC (4),1-2,0-0,Crvena Zvezda (4),,,ENG,SRB
-,Round of 16,2,,(Wed) 7 Nov 1973 (W45),CSKA Sofia (4),1-0,0-0,AFC Ajax (2),2-0 (a.e.t.),,BUL,NED
 ,Round of 16,2,,(Wed) 7 Nov 1973 (W45),Atletico Madrid (4),2-2,1-2,Dinamo Bucuresti (4),,,ESP,ROU
+,Round of 16,2,,(Wed) 7 Nov 1973 (W45),CSKA Sofia (4),1-0,0-0,AFC Ajax (2),2-0 (a.e.t.),,BUL,NED
 ,Round of 16,2,,(Wed) 7 Nov 1973 (W45),Basel (4),6-4,3-2,Club Brugge (4),,,SUI,BEL
-,Round of 16,2,,(Wed) 7 Nov 1973 (W45),Dynamo Dresden (4),3-3,1-2,Bayern München (4),,,GER,GER
-,Round of 16,2,,(Wed) 7 Nov 1973 (W45),Ujpesti Dozsa SC (4),2-0,0-0,SL Benfica (4),,,HUN,POR
 ,Round of 16,2,,(Wed) 7 Nov 1973 (W45),Zorya Voroshilovgrad (4),0-1,0-0,Spartak TAZ Trnava (4),,,UKR,SVK
+,Round of 16,2,,(Wed) 7 Nov 1973 (W45),Ujpesti Dozsa SC (4),2-0,0-0,SL Benfica (4),,,HUN,POR
+,Round of 16,2,,(Wed) 7 Nov 1973 (W45),Dynamo Dresden (4),3-3,1-2,Bayern München (4),,,GER,GER
 ,Quarterfinals,1,,(Wed) 27 Feb 1974 (W8),Basel (5),3-2,2-1,Celtic FC (5),,,SUI,SCO
 ,Quarterfinals,1,,(Tue) 5 Mar 1974 (W9),Bayern München (5),4-1,2-1,CSKA Sofia (5),,,GER,BUL
 ,Quarterfinals,1,,(Wed) 6 Mar 1974 (W9),Spartak TAZ Trnava (5),1-1,1-0,Ujpesti Dozsa SC (5),,,SVK,HUN

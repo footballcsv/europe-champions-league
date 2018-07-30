@@ -9,12 +9,12 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Wed) 6 Sep 1961 (W36),Servette Geneve (1),5-0,3-0,Hibernians (1),,,SUI,MLT
 ,Round 1,1,,(Thu) 7 Sep 1961 (W36),Spora Luxemburg (1),0-6,0-3,B 1913 Odense (1),,,LUX,DEN
 ,Round 1,2,,(Tue) 12 Sep 1961 (W37),Rangers FC (2),3-2,0-1,AS Monaco (2),,,SCO,FRA
-,Round 1,2,,(Wed) 13 Sep 1961 (W37),B 1913 Odense (2),9-2,2-2,Spora Luxemburg (2),,,DEN,LUX
 ,Round 1,2,,(Wed) 13 Sep 1961 (W37),Dukla Praha (2),2-1,0-1,CDNA Sofia (2),,,CZE,BUL
+,Round 1,2,,(Wed) 13 Sep 1961 (W37),B 1913 Odense (2),9-2,2-2,Spora Luxemburg (2),,,DEN,LUX
 ,Round 1,2,,(Wed) 13 Sep 1961 (W37),Drumcondra Dublin (2),1-4,1-1,1. FC Nürnberg (2),,,IRL,GER
-,Round 1,2,,(Wed) 13 Sep 1961 (W37),Feyenoord Rotterdam (2),8-2,4-0,IFK Goteborg (2),,,NED,SWE
-,Round 1,1,,(Wed) 13 Sep 1961 (W37),Gornik Zabrze (1),4-2,3-0,Tottenham Hotspur FC (1),,,POL,ENG
 ,Round 1,1,,(Wed) 13 Sep 1961 (W37),Sporting CP (1),1-1,0-0,Partizan Belgrade (1),,,POR,SRB
+,Round 1,1,,(Wed) 13 Sep 1961 (W37),Gornik Zabrze (1),4-2,3-0,Tottenham Hotspur FC (1),,,POL,ENG
+,Round 1,2,,(Wed) 13 Sep 1961 (W37),Feyenoord Rotterdam (2),8-2,4-0,IFK Goteborg (2),,,NED,SWE
 ,Round 1,2,,(Wed) 20 Sep 1961 (W38),Real Madrid CF (2),3-1,1-1,Budapesti Vasas (2),,,ESP,HUN
 ,Round 1,2,,(Wed) 20 Sep 1961 (W38),Fredrikstad FK (2),0-2,0-0,Standard Liege (2),,,NOR,BEL
 ,Round 1,2,,(Wed) 20 Sep 1961 (W38),Tottenham Hotspur FC (2),8-1,5-1,Gornik Zabrze (2),,,ENG,POL

@@ -2,11 +2,11 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Tue) 14 Sep 1976 (W37),Sliema Wanderers (1),2-1,0-0,TPS Turku (1),,,MLT,FIN
 ,Round 1,1,,(Tue) 14 Sep 1976 (W37),Koge BK (1),0-5,0-4,Bayern München (1),,,DEN,GER
 ,Round 1,1,,(Tue) 14 Sep 1976 (W37),Liverpool FC (1),2-0,1-0,Crusaders (1),,,ENG,NIR
-,Round 1,1,,(Wed) 15 Sep 1976 (W37),CSKA Sofia (1),0-0,0-0,AS Saint-Etienne (1),,,BUL,FRA
+,Round 1,1,,(Wed) 15 Sep 1976 (W37),Dundalk (1),1-1,1-0,PSV Eindhoven (1),,,IRL,NED
 ,Round 1,1,,(Wed) 15 Sep 1976 (W37),Austria Wien (1),1-0,1-0,Borussia Monchengladbach (1),,,AUT,GER
 ,Round 1,1,,(Wed) 15 Sep 1976 (W37),Viking FK (1),2-1,2-0,Banik Ostrava (1),,,NOR,CZE
 ,Round 1,1,,(Wed) 15 Sep 1976 (W37),Club Brugge (1),2-1,0-0,Steaua Bucuresti (1),,,BEL,ROU
-,Round 1,1,,(Wed) 15 Sep 1976 (W37),Dundalk (1),1-1,1-0,PSV Eindhoven (1),,,IRL,NED
+,Round 1,1,,(Wed) 15 Sep 1976 (W37),CSKA Sofia (1),0-0,0-0,AS Saint-Etienne (1),,,BUL,FRA
 ,Round 1,1,,(Wed) 15 Sep 1976 (W37),Dynamo Dresden (1),2-0,0-0,SL Benfica (1),,,GER,POR
 ,Round 1,1,,(Wed) 15 Sep 1976 (W37),Rangers FC (1),1-1,1-1,FC Zurich (1),,,SCO,SUI
 ,Round 1,1,,(Wed) 15 Sep 1976 (W37),Ferencvaros (1),5-1,3-1,Jeunesse Esch (1),,,HUN,LUX
@@ -17,20 +17,20 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Wed) 15 Sep 1976 (W37),Dinamo Kiev (1),3-0,1-0,Partizan Belgrade (1),,,UKR,SRB
 ,Round 1,2,,(Tue) 28 Sep 1976 (W39),TPS Turku (2),1-0,0-0,Sliema Wanderers (2),,,FIN,MLT
 ,Round 1,2,,(Tue) 28 Sep 1976 (W39),Crusaders (2),0-5,0-1,Liverpool FC (2),,,NIR,ENG
-,Round 1,2,,(Wed) 29 Sep 1976 (W39),AS Saint-Etienne (2),1-0,1-0,CSKA Sofia (2),,,FRA,BUL
+,Round 1,2,,(Wed) 29 Sep 1976 (W39),PSV Eindhoven (2),6-0,3-0,Dundalk (2),,,NED,IRL
 ,Round 1,2,,(Wed) 29 Sep 1976 (W39),Borussia Monchengladbach (2),3-0,1-0,Austria Wien (2),,,GER,AUT
 ,Round 1,2,,(Wed) 29 Sep 1976 (W39),Banik Ostrava (2),2-0,1-0,Viking FK (2),,,CZE,NOR
 ,Round 1,2,,(Wed) 29 Sep 1976 (W39),Bayern München (2),2-1,1-1,Koge BK (2),,,GER,DEN
 ,Round 1,2,,(Wed) 29 Sep 1976 (W39),Steaua Bucuresti (2),1-1,1-0,Club Brugge (2),,,ROU,BEL
-,Round 1,2,,(Wed) 29 Sep 1976 (W39),PSV Eindhoven (2),6-0,3-0,Dundalk (2),,,NED,IRL
+,Round 1,2,,(Wed) 29 Sep 1976 (W39),AS Saint-Etienne (2),1-0,1-0,CSKA Sofia (2),,,FRA,BUL
 ,Round 1,2,,(Wed) 29 Sep 1976 (W39),SL Benfica (2),0-0,0-0,Dynamo Dresden (2),,,POR,GER
 ,Round 1,2,,(Wed) 29 Sep 1976 (W39),FC Zurich (2),1-0,1-0,Rangers FC (2),,,SUI,SCO
 ,Round 1,2,,(Wed) 29 Sep 1976 (W39),Jeunesse Esch (2),2-6,1-3,Ferencvaros (2),,,LUX,HUN
 ,Round 1,2,,(Wed) 29 Sep 1976 (W39),Trabzonspor AŞ (2),3-2,1-1,IA Akranes (2),,,TUR,ISL
 ,Round 1,2,,(Wed) 29 Sep 1976 (W39),Malmo FF (2),1-1,0-1,Torino FC (2),,,SWE,ITA
 ,Round 1,2,,(Wed) 29 Sep 1976 (W39),PAOK FC (2),1-1,0-1,Omonia Nicosia (2),,,GRE,CYP
-,Round 1,2,,(Wed) 29 Sep 1976 (W39),Real Madrid CF (2),1-0,0-0,Stal Mielec (2),,,ESP,POL
 ,Round 1,2,,(Wed) 29 Sep 1976 (W39),Partizan Belgrade (2),0-2,0-1,Dinamo Kiev (2),,,SRB,UKR
+,Round 1,2,,(Wed) 29 Sep 1976 (W39),Real Madrid CF (2),1-0,0-0,Stal Mielec (2),,,ESP,POL
 ,Round of 16,1,,(Wed) 20 Oct 1976 (W42),AS Saint-Etienne (3),1-0,0-0,PSV Eindhoven (3),,,FRA,NED
 ,Round of 16,1,,(Wed) 20 Oct 1976 (W42),Banik Ostrava (3),2-1,2-0,Bayern München (3),,,CZE,GER
 ,Round of 16,1,,(Wed) 20 Oct 1976 (W42),Torino FC (3),1-2,0-1,Borussia Monchengladbach (3),,,ITA,GER
@@ -45,18 +45,18 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round of 16,2,,(Wed) 3 Nov 1976 (W44),Club Brugge (4),2-0,2-0,Real Madrid CF (4),,,BEL,ESP
 ,Round of 16,2,,(Wed) 3 Nov 1976 (W44),PAOK FC (4),0-2,0-0,Dinamo Kiev (4),,,GRE,UKR
 ,Round of 16,2,,(Wed) 3 Nov 1976 (W44),Dynamo Dresden (4),4-0,1-0,Ferencvaros (4),,,GER,HUN
-,Round of 16,2,,(Wed) 3 Nov 1976 (W44),TPS Turku (4),0-1,0-0,FC Zurich (4),,,FIN,SUI
 ,Round of 16,2,,(Wed) 3 Nov 1976 (W44),Liverpool FC (4),3-0,3-0,Trabzonspor AŞ (4),,,ENG,TUR
+,Round of 16,2,,(Wed) 3 Nov 1976 (W44),TPS Turku (4),0-1,0-0,FC Zurich (4),,,FIN,SUI
 ,Quarterfinals,1,,(Wed) 2 Mar 1977 (W9),FC Zurich (5),2-1,1-0,Dynamo Dresden (5),,,SUI,GER
 ,Quarterfinals,1,,(Wed) 2 Mar 1977 (W9),AS Saint-Etienne (5),1-0,0-0,Liverpool FC (5),,,FRA,ENG
 ,Quarterfinals,1,,(Wed) 2 Mar 1977 (W9),Bayern München (5),1-0,1-0,Dinamo Kiev (5),,,GER,UKR
 ,Quarterfinals,1,,(Wed) 2 Mar 1977 (W9),Borussia Monchengladbach (5),2-2,1-2,Club Brugge (5),,,GER,BEL
 ,Quarterfinals,2,,(Wed) 16 Mar 1977 (W11),Dynamo Dresden (6),3-2,1-1,FC Zurich (6),,,GER,SUI
 ,Quarterfinals,2,,(Wed) 16 Mar 1977 (W11),Liverpool FC (6),3-1,1-0,AS Saint-Etienne (6),,,ENG,FRA
-,Quarterfinals,2,,(Wed) 16 Mar 1977 (W11),Dinamo Kiev (6),2-0,0-0,Bayern München (6),,,UKR,GER
 ,Quarterfinals,2,,(Wed) 16 Mar 1977 (W11),Club Brugge (6),0-1,0-0,Borussia Monchengladbach (6),,,BEL,GER
+,Quarterfinals,2,,(Wed) 16 Mar 1977 (W11),Dinamo Kiev (6),2-0,0-0,Bayern München (6),,,UKR,GER
 ,Semifinals,1,,(Wed) 6 Apr 1977 (W14),Dinamo Kiev (7),1-0,0-0,Borussia Monchengladbach (7),,,UKR,GER
 ,Semifinals,1,,(Wed) 6 Apr 1977 (W14),FC Zurich (7),1-3,1-1,Liverpool FC (7),,,SUI,ENG
-,Semifinals,2,,(Wed) 20 Apr 1977 (W16),Borussia Monchengladbach (8),2-0,1-0,Dinamo Kiev (8),,,GER,UKR
 ,Semifinals,2,,(Wed) 20 Apr 1977 (W16),Liverpool FC (8),3-0,1-0,FC Zurich (8),,,ENG,SUI
+,Semifinals,2,,(Wed) 20 Apr 1977 (W16),Borussia Monchengladbach (8),2-0,1-0,Dinamo Kiev (8),,,GER,UKR
 ,Final,,,(Wed) 25 May 1977 (W21),Liverpool FC (9),3-1,0-0,Borussia Monchengladbach (9),,,ENG,GER

@@ -15,20 +15,20 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Wed) 17 Sep 1986 (W37),Rosenborg BK (1),1-0,1-0,Linfield (1),,,NOR,NIR
 ,Round 1,1,,(Wed) 17 Sep 1986 (W37),Paris Saint-Germain (1),2-2,1-2,TJ Vitkovice (1),,,FRA,CZE
 ,Round 1,2,,(Tue) 30 Sep 1986 (W39),TJ Vitkovice (2),1-0,0-0,Paris Saint-Germain (2),,,CZE,FRA
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),HJK Helsinki (2),3-2,2-1,APOEL Nikosia (2),,,FIN,CYP
+,Round 1,2,,(Wed) 1 Oct 1986 (W39),Real Madrid CF (2),5-0,1-0,BSC Young Boys (2),,,ESP,SUI
 ,Round 1,2,,(Wed) 1 Oct 1986 (W39),Austria Wien (2),3-0,1-0,Avenir Beggen (2),,,AUT,LUX
 ,Round 1,2,,(Wed) 1 Oct 1986 (W39),Bayern München (2),0-0,0-0,PSV Eindhoven (2),,,GER,NED
 ,Round 1,2,,(Wed) 1 Oct 1986 (W39),Dinamo Tirana (2),0-1,0-1,Beşiktaş İstanbul JK (2),,,ALB,TUR
 ,Round 1,2,,(Wed) 1 Oct 1986 (W39),BFC Dynamo (2),4-1,2-1,Orgryte IS (2),,,GER,SWE
 ,Round 1,2,,(Wed) 1 Oct 1986 (W39),Budapest Honved SE (2),2-2,1-0,Brondby IF (2),,,HUN,DEN
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Real Madrid CF (2),5-0,1-0,BSC Young Boys (2),,,ESP,SUI
+,Round 1,2,,(Wed) 1 Oct 1986 (W39),HJK Helsinki (2),3-2,2-1,APOEL Nikosia (2),,,FIN,CYP
 ,Round 1,2,,(Wed) 1 Oct 1986 (W39),Celtic FC (2),2-0,1-0,Shamrock Rovers (2),,,SCO,IRL
 ,Round 1,2,,(Wed) 1 Oct 1986 (W39),Panathinaikos FC (2),2-1,2-0,Crvena Zvezda (2),,,GRE,SRB
 ,Round 1,2,,(Wed) 1 Oct 1986 (W39),Dinamo Kiev (2),2-0,1-0,PFC Beroe (2),,,UKR,BUL
 ,Round 1,2,,(Wed) 1 Oct 1986 (W39),Rabat Ajax (2),0-1,0-0,FC Porto (2),,,MLT,POR
 ,Round 1,2,,(Wed) 1 Oct 1986 (W39),Gornik Zabrze (2),1-1,0-0,RSC Anderlecht (2),,,POL,BEL
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Valur Reykjavik (2),0-4,0-3,Juventus (2),,,ISL,ITA
 ,Round 1,2,,(Wed) 1 Oct 1986 (W39),Linfield (2),1-1,0-0,Rosenborg BK (2),,,NIR,NOR
+,Round 1,2,,(Wed) 1 Oct 1986 (W39),Valur Reykjavik (2),0-4,0-3,Juventus (2),,,ISL,ITA
 ,Round of 16,1,,(Wed) 22 Oct 1986 (W42),Real Madrid CF (3),1-0,1-0,Juventus (3),,,ESP,ITA
 ,Round of 16,1,,(Wed) 22 Oct 1986 (W42),Bayern München (3),2-0,1-0,Austria Wien (3),,,GER,AUT
 ,Round of 16,1,,(Wed) 22 Oct 1986 (W42),Brondby IF (3),2-1,1-0,BFC Dynamo (3),,,DEN,GER
@@ -49,10 +49,10 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Quarterfinals,1,,(Sat) 14 Mar 1987 (W10),Beşiktaş İstanbul JK (3),0-5,0-2,Dinamo Kiev (5),,,TUR,UKR
 ,Quarterfinals,2,,(Wed) 18 Mar 1987 (W11),Real Madrid CF (6),2-0,1-0,Crvena Zvezda (6),,,ESP,SRB
 ,Quarterfinals,2,,(Wed) 18 Mar 1987 (W11),RSC Anderlecht (6),2-2,1-0,Bayern München (6),,,BEL,GER
-,Quarterfinals,2,,(Wed) 18 Mar 1987 (W11),Dinamo Kiev (6),2-0,0-0,Beşiktaş İstanbul JK (4),,,UKR,TUR
 ,Quarterfinals,2,,(Wed) 18 Mar 1987 (W11),Brondby IF (6),1-1,1-0,FC Porto (6),,,DEN,POR
+,Quarterfinals,2,,(Wed) 18 Mar 1987 (W11),Dinamo Kiev (6),2-0,0-0,Beşiktaş İstanbul JK (4),,,UKR,TUR
 ,Semifinals,1,,(Wed) 8 Apr 1987 (W14),Bayern München (7),4-1,3-1,Real Madrid CF (7),,,GER,ESP
 ,Semifinals,1,,(Wed) 8 Apr 1987 (W14),FC Porto (7),2-1,0-0,Dinamo Kiev (7),,,POR,UKR
-,Semifinals,2,,(Wed) 22 Apr 1987 (W16),Real Madrid CF (8),1-0,1-0,Bayern München (8),,,ESP,GER
 ,Semifinals,2,,(Wed) 22 Apr 1987 (W16),Dinamo Kiev (8),1-2,1-2,FC Porto (8),,,UKR,POR
+,Semifinals,2,,(Wed) 22 Apr 1987 (W16),Real Madrid CF (8),1-0,1-0,Bayern München (8),,,ESP,GER
 ,Final,,,(Wed) 27 May 1987 (W21),FC Porto (9),2-1,0-0,Bayern München (9),,,POR,GER

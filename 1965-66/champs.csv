@@ -2,9 +2,9 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Sun) 29 Aug 1965 (W34),IB Keflavik (1),1-4,0-3,Ferencvaros (1),,,ISL,HUN
 ,Round 1,1,,(Tue) 31 Aug 1965 (W35),Lyn Oslo (1),5-3,3-3,Derry City (1),,,NOR,NIR
 ,Round 1,1,,(Wed) 8 Sep 1965 (W36),Fenerbahçe İstanbul SK (1),0-0,0-0,RSC Anderlecht (1),,,TUR,BEL
-,Round 1,2,,(Wed) 8 Sep 1965 (W36),Ferencvaros (2),9-1,6-1,IB Keflavik (2),,,HUN,ISL
-,Round 1,1,,(Wed) 8 Sep 1965 (W36),Feyenoord Rotterdam (1),2-1,0-1,Real Madrid CF (1),,,NED,ESP
 ,Round 1,1,,(Wed) 8 Sep 1965 (W36),KF Tirana (1),0-0,0-0,Kilmarnock FC (1),,,ALB,SCO
+,Round 1,1,,(Wed) 8 Sep 1965 (W36),Feyenoord Rotterdam (1),2-1,0-1,Real Madrid CF (1),,,NED,ESP
+,Round 1,2,,(Wed) 8 Sep 1965 (W36),Ferencvaros (2),9-1,6-1,IB Keflavik (2),,,HUN,ISL
 ,Round 1,2,,(Thu) 9 Sep 1965 (W36),Derry City (2),5-1,2-1,Lyn Oslo (2),,,NIR,NOR
 ,Round 1,1,,(Sun) 12 Sep 1965 (W36),Djurgardens IF (1),2-1,1-1,Levski Sofia (1),,,SWE,BUL
 ,Round 1,1,,(Wed) 15 Sep 1965 (W37),Drumcondra Dublin (1),1-0,0-0,ASK Vorwarts Berlin (1),,,IRL,GER
@@ -21,9 +21,9 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Thu) 30 Sep 1965 (W39),Stade Dudelange (1),0-8,0-3,SL Benfica (1),,,LUX,POR
 ,Round 1,2,,(Sun) 3 Oct 1965 (W39),Levski Sofia (2),6-0,4-0,Djurgardens IF (2),,,BUL,SWE
 ,Round 1,2,,(Tue) 5 Oct 1965 (W40),SL Benfica (2),10-0,5-0,Stade Dudelange (2),,,POR,LUX
-,Round 1,1,,(Wed) 6 Oct 1965 (W40),APOEL Nikosia (1),0-5,0-4,Werder Bremen (1),,,CYP,GER
-,Round 1,2,,(Wed) 6 Oct 1965 (W40),B 1909 Odense (2),2-3,2-3,Dinamo Bucuresti (2),,,DEN,ROU
 ,Round 1,2,,(Wed) 6 Oct 1965 (W40),Manchester United FC (2),6-0,2-0,HJK Helsinki (2),,,ENG,FIN
+,Round 1,2,,(Wed) 6 Oct 1965 (W40),B 1909 Odense (2),2-3,2-3,Dinamo Bucuresti (2),,,DEN,ROU
+,Round 1,1,,(Wed) 6 Oct 1965 (W40),APOEL Nikosia (1),0-5,0-4,Werder Bremen (1),,,CYP,GER
 ,Round 1,2,,(Sun) 10 Oct 1965 (W40),Sliema Wanderers (2),1-0,1-0,Panathinaikos FC (2),,,MLT,GRE
 ,Round 1,2,,(Wed) 13 Oct 1965 (W41),Werder Bremen (2),5-0,2-0,APOEL Nikosia (2),,,GER,CYP
 ,Round 1,2,,(Wed) 13 Oct 1965 (W41),FC Nantes (2),2-2,1-1,Partizan Belgrade (2),,,FRA,SRB
@@ -39,22 +39,22 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round of 16,1,,(Tue) 23 Nov 1965 (W47),RSC Anderlecht (3),9-0,3-0,Derry City (3),,,BEL,NIR
 ,Round of 16,1,,(Wed) 24 Nov 1965 (W47),AC Sparta Praha (3),3-0,1-0,Gornik Zabrze (3),,,CZE,POL
 ,Round of 16,2,,(Sun) 28 Nov 1965 (W47),Gornik Zabrze (4),1-2,0-1,AC Sparta Praha (4),,,POL,CZE
-,Round of 16,2,,(Wed) 1 Dec 1965 (W48),Manchester United FC (4),3-1,2-0,ASK Vorwarts Berlin (4),,,ENG,GER
 ,Round of 16,2,,(Wed) 1 Dec 1965 (W48),Derry City (4),0-3,0-0,RSC Anderlecht (4),,,NIR,BEL
+,Round of 16,2,,(Wed) 1 Dec 1965 (W48),Manchester United FC (4),3-1,2-0,ASK Vorwarts Berlin (4),,,ENG,GER
 ,Round of 16,1,,(Wed) 1 Dec 1965 (W48),Dinamo Bucuresti (3),2-1,1-1,Internazionale (1),,,ROU,ITA
 ,Round of 16,2,,(Wed) 1 Dec 1965 (W48),Real Madrid CF (4),5-1,3-1,Kilmarnock FC (4),,,ESP,SCO
 ,Round of 16,2,,(Wed) 8 Dec 1965 (W49),SL Benfica (4),3-2,2-1,Levski Sofia (4),,,POR,BUL
 ,Round of 16,2,,(Wed) 15 Dec 1965 (W50),Internazionale (2),2-0,0-0,Dinamo Bucuresti (4),,,ITA,ROU
 ,Quarterfinals,1,,(Wed) 2 Feb 1966 (W5),Manchester United FC (5),3-2,2-1,SL Benfica (5),,,ENG,POR
-,Quarterfinals,1,,(Wed) 23 Feb 1966 (W8),Internazionale (3),4-0,2-0,Ferencvaros (5),,,ITA,HUN
 ,Quarterfinals,1,,(Wed) 23 Feb 1966 (W8),RSC Anderlecht (5),1-0,1-0,Real Madrid CF (5),,,BEL,ESP
-,Quarterfinals,2,,(Wed) 2 Mar 1966 (W9),Ferencvaros (6),1-1,1-0,Internazionale (4),,,HUN,ITA
+,Quarterfinals,1,,(Wed) 23 Feb 1966 (W8),Internazionale (3),4-0,2-0,Ferencvaros (5),,,ITA,HUN
 ,Quarterfinals,1,,(Wed) 2 Mar 1966 (W9),AC Sparta Praha (5),4-1,1-1,Partizan Belgrade (5),,,CZE,SRB
+,Quarterfinals,2,,(Wed) 2 Mar 1966 (W9),Ferencvaros (6),1-1,1-0,Internazionale (4),,,HUN,ITA
 ,Quarterfinals,2,,(Wed) 9 Mar 1966 (W10),SL Benfica (6),1-5,0-3,Manchester United FC (6),,,POR,ENG
-,Quarterfinals,2,,(Wed) 9 Mar 1966 (W10),Real Madrid CF (6),4-2,2-0,RSC Anderlecht (6),,,ESP,BEL
 ,Quarterfinals,2,,(Wed) 9 Mar 1966 (W10),Partizan Belgrade (6),5-0,4-0,AC Sparta Praha (6),,,SRB,CZE
+,Quarterfinals,2,,(Wed) 9 Mar 1966 (W10),Real Madrid CF (6),4-2,2-0,RSC Anderlecht (6),,,ESP,BEL
 ,Semifinals,1,,(Wed) 13 Apr 1966 (W15),Real Madrid CF (7),1-0,1-0,Internazionale (5),,,ESP,ITA
 ,Semifinals,1,,(Wed) 13 Apr 1966 (W15),Partizan Belgrade (7),2-0,0-0,Manchester United FC (7),,,SRB,ENG
-,Semifinals,2,,(Wed) 20 Apr 1966 (W16),Internazionale (6),1-1,0-1,Real Madrid CF (8),,,ITA,ESP
 ,Semifinals,2,,(Wed) 20 Apr 1966 (W16),Manchester United FC (8),1-0,0-0,Partizan Belgrade (8),,,ENG,SRB
+,Semifinals,2,,(Wed) 20 Apr 1966 (W16),Internazionale (6),1-1,0-1,Real Madrid CF (8),,,ITA,ESP
 ,Final,,,(Wed) 11 May 1966 (W19),Real Madrid CF (9),2-1,0-0,Partizan Belgrade (9),,,ESP,SRB

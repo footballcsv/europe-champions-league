@@ -2,11 +2,11 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,1,,(Wed) 1 Aug 1956 (W31),Borussia Dortmund (1),4-3,1-2,Spora Luxemburg (1),,,GER,LUX
 ,Round 1,1,,(Sun) 26 Aug 1956 (W34),Dinamo Bucuresti (1),3-1,1-0,Galatasaray İstanbul AŞ (1),,,ROU,TUR
 ,Round 1,2,,(Thu) 6 Sep 1956 (W36),Spora Luxemburg (2),2-1,2-1,Borussia Dortmund (2),,,LUX,GER
-,Round 1,1,,(Wed) 12 Sep 1956 (W37),SK Slovan Bratislava (1),4-0,3-0,Legia Warsaw (1),,,SVK,POL
 ,Round 1,1,,(Wed) 12 Sep 1956 (W37),RSC Anderlecht (1),0-2,0-1,Manchester United FC (1),,,BEL,ENG
+,Round 1,1,,(Wed) 12 Sep 1956 (W37),SK Slovan Bratislava (1),4-0,3-0,Legia Warsaw (1),,,SVK,POL
 ,Round 1,Replay,,(Sun) 16 Sep 1956 (W37),Borussia Dortmund (3),7-0,4-0,Spora Luxemburg (3),,,GER,LUX
-,Round 1,1,,(Wed) 19 Sep 1956 (W38),Aarhus GF (1),1-1,1-0,OGC Nice (1),,,DEN,FRA
 ,Round 1,2,,(Wed) 19 Sep 1956 (W38),Legia Warsaw (2),2-0,0-0,SK Slovan Bratislava (2),,,POL,SVK
+,Round 1,1,,(Wed) 19 Sep 1956 (W38),Aarhus GF (1),1-1,1-0,OGC Nice (1),,,DEN,FRA
 ,Round 1,1,,(Thu) 20 Sep 1956 (W38),FC Porto (1),1-2,0-1,Athletic Bilbao (1),,,POR,ESP
 ,Round 1,2,,(Wed) 26 Sep 1956 (W39),Athletic Bilbao (2),3-2,1-2,FC Porto (2),,,ESP,POR
 ,Round 1,2,,(Wed) 26 Sep 1956 (W39),Manchester United FC (2),10-0,5-0,RSC Anderlecht (2),,,ENG,BEL
@@ -14,16 +14,16 @@ Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
 ,Round 1,2,,(Sun) 30 Sep 1956 (W39),Galatasaray İstanbul AŞ (2),2-1,1-1,Dinamo Bucuresti (2),,,TUR,ROU
 ,Round of 16,1,,(Wed) 17 Oct 1956 (W42),Manchester United FC (3),3-2,3-0,Borussia Dortmund (4),,,ENG,GER
 ,Round of 16,1,,(Wed) 17 Oct 1956 (W42),CDNA Sofia (1),8-1,3-0,Dinamo Bucuresti (3),,,BUL,ROU
-,Round of 16,1,,(Wed) 24 Oct 1956 (W43),Rangers FC (1),2-1,1-1,OGC Nice (3),,,SCO,FRA
 ,Round of 16,1,,(Wed) 24 Oct 1956 (W43),SK Slovan Bratislava (3),1-0,1-0,Grasshoppers Zurich (1),,,SVK,SUI
+,Round of 16,1,,(Wed) 24 Oct 1956 (W43),Rangers FC (1),2-1,1-1,OGC Nice (3),,,SCO,FRA
 ,Round of 16,1,,(Thu) 1 Nov 1956 (W44),Real Madrid CF (1),4-2,2-0,Rapid Wien (1),,,ESP,AUT
 ,Round of 16,1,,(Thu) 1 Nov 1956 (W44),Rapid JC Heerlen (1),3-4,1-2,Crvena Zvezda (1),,,NED,SRB
 ,Round of 16,2,,(Wed) 14 Nov 1956 (W46),OGC Nice (4),2-1,0-1,Rangers FC (2),,,FRA,SCO
 ,Round of 16,2,,(Wed) 14 Nov 1956 (W46),Rapid Wien (2),3-1,3-0,Real Madrid CF (2),,,AUT,ESP
 ,Round of 16,2,,(Wed) 14 Nov 1956 (W46),Crvena Zvezda (2),2-0,1-0,Rapid JC Heerlen (2),,,SRB,NED
-,Round of 16,1,,(Wed) 21 Nov 1956 (W47),ACF Fiorentina (1),1-1,1-1,IFK Norrkoping (1),,,ITA,SWE
-,Round of 16,2,,(Wed) 21 Nov 1956 (W47),Borussia Dortmund (5),0-0,0-0,Manchester United FC (4),,,GER,ENG
 ,Round of 16,2,,(Wed) 21 Nov 1956 (W47),Dinamo Bucuresti (4),3-2,0-1,CDNA Sofia (2),,,ROU,BUL
+,Round of 16,2,,(Wed) 21 Nov 1956 (W47),Borussia Dortmund (5),0-0,0-0,Manchester United FC (4),,,GER,ENG
+,Round of 16,1,,(Wed) 21 Nov 1956 (W47),ACF Fiorentina (1),1-1,1-1,IFK Norrkoping (1),,,ITA,SWE
 ,Round of 16,1,,(Thu) 22 Nov 1956 (W47),Athletic Bilbao (3),3-2,2-0,Budapest Honved SE (1),,,ESP,HUN
 ,Round of 16,Replay,,(Wed) 28 Nov 1956 (W48),OGC Nice (5),3-1,1-0,Rangers FC (3),,,FRA,SCO
 ,Round of 16,2,,(Wed) 28 Nov 1956 (W48),IFK Norrkoping (2),0-1,0-1,ACF Fiorentina (2),,,SWE,ITA
