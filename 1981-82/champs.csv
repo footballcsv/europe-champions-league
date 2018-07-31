@@ -1,64 +1,64 @@
-Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-,Preliminary Round,1,,(Wed) 26 Aug 1981 (W34),AS Saint-Etienne (1),1-1,0-0,BFC Dynamo (1),,,FRA,GER
-,Preliminary Round,2,,(Tue) 1 Sep 1981 (W35),BFC Dynamo (2),2-0,0-0,AS Saint-Etienne (2),,,GER,FRA
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),KB Kobenhavn (1),1-1,1-1,Athlone Town (1),,,DEN,IRL
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),BFC Dynamo (3),2-0,0-0,FC Zurich (1),,,GER,SUI
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),Aston Villa FC (1),5-0,3-0,Valur Reykjavik (1),,,ENG,ISL
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),IK Start (1),1-3,0-2,AZ Alkmaar (1),,,NOR,NED
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),Ferencvaros (1),3-2,2-0,Banik Ostrava (1),,,HUN,CZE
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),Osters IF (1),0-1,0-0,Bayern München (1),,,SWE,GER
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),Celtic FC (1),1-0,0-0,Juventus (1),,,SCO,ITA
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),Hibernians (1),1-2,1-0,Crvena Zvezda (1),,,MLT,SRB
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),CSKA Sofia (1),1-0,0-0,Real Sociedad (1),,,BUL,ESP
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),Dinamo Kiev (1),1-0,0-0,Trabzonspor AŞ (1),,,UKR,TUR
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),FC Universitatea Craiova (1),3-0,1-0,Olympiacos (1),,,ROU,GRE
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),Progres Niedercorn (1),1-1,1-1,Glentoran (1),,,LUX,NIR
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),OPS Oulu (1),0-1,0-0,Liverpool FC (1),,,FIN,ENG
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),SL Benfica (1),3-0,0-0,Omonia Nicosia (1),,,POR,CYP
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),Widzew Lodz (1),1-4,0-1,RSC Anderlecht (1),,,POL,BEL
-,Round 1,1,,(Wed) 16 Sep 1981 (W37),Austria Wien (1),3-1,1-1,FK Partizani Tirana (1),,,AUT,ALB
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Athlone Town (2),2-2,0-1,KB Kobenhavn (2),,,IRL,DEN
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),FC Zurich (2),3-1,2-0,BFC Dynamo (4),,,SUI,GER
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Valur Reykjavik (2),0-2,0-1,Aston Villa FC (2),,,ISL,ENG
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),AZ Alkmaar (2),1-0,0-0,IK Start (2),,,NED,NOR
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Banik Ostrava (2),3-0,2-0,Ferencvaros (2),,,CZE,HUN
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Bayern München (2),5-0,3-0,Osters IF (2),,,GER,SWE
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Juventus (2),2-0,2-0,Celtic FC (2),,,ITA,SCO
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Crvena Zvezda (2),8-1,5-0,Hibernians (2),,,SRB,MLT
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Real Sociedad (2),0-0,0-0,CSKA Sofia (2),,,ESP,BUL
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Trabzonspor AŞ (2),1-1,1-0,Dinamo Kiev (2),,,TUR,UKR
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Olympiacos (2),2-0,1-0,FC Universitatea Craiova (2),,,GRE,ROU
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Glentoran (2),4-0,1-0,Progres Niedercorn (2),,,NIR,LUX
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Liverpool FC (2),7-0,2-0,OPS Oulu (2),,,ENG,FIN
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),Omonia Nicosia (2),0-1,0-0,SL Benfica (2),,,CYP,POR
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),RSC Anderlecht (2),2-1,1-0,Widzew Lodz (2),,,BEL,POL
-,Round 1,2,,(Wed) 30 Sep 1981 (W39),FK Partizani Tirana (2),1-0,1-0,Austria Wien (2),,,ALB,AUT
-,Round of 16,1,,(Wed) 21 Oct 1981 (W42),BFC Dynamo (5),1-2,0-1,Aston Villa FC (3),,,GER,ENG
-,Round of 16,1,,(Wed) 21 Oct 1981 (W42),Austria Wien (3),0-1,0-1,Dinamo Kiev (3),,,AUT,UKR
-,Round of 16,1,,(Wed) 21 Oct 1981 (W42),AZ Alkmaar (3),2-2,0-1,Liverpool FC (3),,,NED,ENG
-,Round of 16,1,,(Wed) 21 Oct 1981 (W42),Banik Ostrava (3),3-1,2-0,Crvena Zvezda (3),,,CZE,SRB
-,Round of 16,1,,(Wed) 21 Oct 1981 (W42),SL Benfica (3),0-0,0-0,Bayern München (3),,,POR,GER
-,Round of 16,1,,(Wed) 21 Oct 1981 (W42),CSKA Sofia (3),2-0,2-0,Glentoran (3),,,BUL,NIR
-,Round of 16,1,,(Wed) 21 Oct 1981 (W42),KB Kobenhavn (3),1-0,1-0,FC Universitatea Craiova (3),,,DEN,ROU
-,Round of 16,1,,(Wed) 21 Oct 1981 (W42),RSC Anderlecht (3),3-1,1-1,Juventus (3),,,BEL,ITA
-,Round of 16,2,,(Wed) 4 Nov 1981 (W44),Aston Villa FC (4),0-1,0-1,BFC Dynamo (6),,,ENG,GER
-,Round of 16,2,,(Wed) 4 Nov 1981 (W44),Dinamo Kiev (4),1-1,1-1,Austria Wien (4),,,UKR,AUT
-,Round of 16,2,,(Wed) 4 Nov 1981 (W44),Liverpool FC (4),3-2,1-0,AZ Alkmaar (4),,,ENG,NED
-,Round of 16,2,,(Wed) 4 Nov 1981 (W44),Crvena Zvezda (4),3-0,1-0,Banik Ostrava (4),,,SRB,CZE
-,Round of 16,2,,(Wed) 4 Nov 1981 (W44),Bayern München (4),4-1,2-0,SL Benfica (4),,,GER,POR
-,Round of 16,2,,(Wed) 4 Nov 1981 (W44),Glentoran (4),2-0,0-0,CSKA Sofia (4),2-1 (a.e.t.),,NIR,BUL
-,Round of 16,2,,(Wed) 4 Nov 1981 (W44),FC Universitatea Craiova (4),4-1,2-0,KB Kobenhavn (4),,,ROU,DEN
-,Round of 16,2,,(Wed) 4 Nov 1981 (W44),Juventus (4),1-1,0-1,RSC Anderlecht (4),,,ITA,BEL
-,Quarterfinals,1,,(Wed) 3 Mar 1982 (W9),Dinamo Kiev (5),0-0,0-0,Aston Villa FC (5),,,UKR,ENG
-,Quarterfinals,1,,(Wed) 3 Mar 1982 (W9),FC Universitatea Craiova (5),0-2,0-2,Bayern München (5),,,ROU,GER
-,Quarterfinals,1,,(Wed) 3 Mar 1982 (W9),RSC Anderlecht (5),2-1,1-0,Crvena Zvezda (5),,,BEL,SRB
-,Quarterfinals,1,,(Wed) 3 Mar 1982 (W9),Liverpool FC (5),1-0,0-0,CSKA Sofia (5),,,ENG,BUL
-,Quarterfinals,2,,(Wed) 17 Mar 1982 (W11),Aston Villa FC (6),2-0,2-0,Dinamo Kiev (6),,,ENG,UKR
-,Quarterfinals,2,,(Wed) 17 Mar 1982 (W11),Bayern München (6),1-1,1-1,FC Universitatea Craiova (6),,,GER,ROU
-,Quarterfinals,2,,(Wed) 17 Mar 1982 (W11),Crvena Zvezda (6),1-2,1-1,RSC Anderlecht (6),,,SRB,BEL
-,Quarterfinals,2,,(Wed) 17 Mar 1982 (W11),CSKA Sofia (6),1-0,0-0,Liverpool FC (6),2-0 (a.e.t.),,BUL,ENG
-,Semifinals,1,,(Wed) 7 Apr 1982 (W14),Aston Villa FC (7),1-0,1-0,RSC Anderlecht (7),,,ENG,BEL
-,Semifinals,1,,(Wed) 7 Apr 1982 (W14),CSKA Sofia (7),4-3,3-2,Bayern München (7),,,BUL,GER
-,Semifinals,2,,(Wed) 21 Apr 1982 (W16),RSC Anderlecht (8),0-0,0-0,Aston Villa FC (8),,,BEL,ENG
-,Semifinals,2,,(Wed) 21 Apr 1982 (W16),Bayern München (8),4-0,1-0,CSKA Sofia (8),,,GER,BUL
-,Final,,,(Wed) 26 May 1982 (W21),Aston Villa FC (9),1-0,0-0,Bayern München (9),,,ENG,GER
+Round,Date,Team 1,FT,HT,Team 2,∑FT,ET,P,Comments
+Prelim. Round | Leg 1,(Wed) 26 Aug 1981 (W34),AS Saint-Etienne › FRA (1),1-1,0-0,BFC Dynamo › GER (1),1-3 (agg.),,,
+Prelim. Round | Leg 2,(Tue) 1 Sep 1981 (W35),BFC Dynamo › GER (2),2-0,0-0,AS Saint-Etienne › FRA (2),3-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),KB Kobenhavn › DEN (1),1-1,1-1,Athlone Town › IRL (1),3-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),BFC Dynamo › GER (3),2-0,0-0,FC Zurich › SUI (1),3-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),Aston Villa FC › ENG (1),5-0,3-0,Valur Reykjavik › ISL (1),7-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),IK Start › NOR (1),1-3,0-2,AZ Alkmaar › NED (1),1-4 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),Ferencvaros › HUN (1),3-2,2-0,Banik Ostrava › CZE (1),3-5 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),Osters IF › SWE (1),0-1,0-0,Bayern München › GER (1),0-6 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),Celtic FC › SCO (1),1-0,0-0,Juventus › ITA (1),1-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),Hibernians › MLT (1),1-2,1-0,Crvena Zvezda › SRB (1),2-10 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),CSKA Sofia › BUL (1),1-0,0-0,Real Sociedad › ESP (1),1-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),Dinamo Kiev › UKR (1),1-0,0-0,Trabzonspor AŞ › TUR (1),2-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),FC Universitatea Craiova › ROU (1),3-0,1-0,Olympiacos › GRE (1),3-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),Progres Niedercorn › LUX (1),1-1,1-1,Glentoran › NIR (1),1-5 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),OPS Oulu › FIN (1),0-1,0-0,Liverpool FC › ENG (1),0-8 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),SL Benfica › POR (1),3-0,0-0,Omonia Nicosia › CYP (1),4-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),Widzew Lodz › POL (1),1-4,0-1,RSC Anderlecht › BEL (1),2-6 (agg.),,,
+Round 1 | Leg 1,(Wed) 16 Sep 1981 (W37),Austria Wien › AUT (1),3-1,1-1,FK Partizani Tirana › ALB (1),3-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Athlone Town › IRL (2),2-2,0-1,KB Kobenhavn › DEN (2),3-3 (agg.),,,away goals
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),FC Zurich › SUI (2),3-1,2-0,BFC Dynamo › GER (4),3-3 (agg.),,,away goals
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Valur Reykjavik › ISL (2),0-2,0-1,Aston Villa FC › ENG (2),0-7 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),AZ Alkmaar › NED (2),1-0,0-0,IK Start › NOR (2),4-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Banik Ostrava › CZE (2),3-0,2-0,Ferencvaros › HUN (2),5-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Bayern München › GER (2),5-0,3-0,Osters IF › SWE (2),6-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Juventus › ITA (2),2-0,2-0,Celtic FC › SCO (2),2-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Crvena Zvezda › SRB (2),8-1,5-0,Hibernians › MLT (2),10-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Real Sociedad › ESP (2),0-0,0-0,CSKA Sofia › BUL (2),0-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Trabzonspor AŞ › TUR (2),1-1,1-0,Dinamo Kiev › UKR (2),1-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Olympiacos › GRE (2),2-0,1-0,FC Universitatea Craiova › ROU (2),2-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Glentoran › NIR (2),4-0,1-0,Progres Niedercorn › LUX (2),5-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Liverpool FC › ENG (2),7-0,2-0,OPS Oulu › FIN (2),8-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),Omonia Nicosia › CYP (2),0-1,0-0,SL Benfica › POR (2),0-4 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),RSC Anderlecht › BEL (2),2-1,1-0,Widzew Lodz › POL (2),6-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 30 Sep 1981 (W39),FK Partizani Tirana › ALB (2),1-0,1-0,Austria Wien › AUT (2),2-3 (agg.),,,
+Round of 16 | Leg 1,(Wed) 21 Oct 1981 (W42),BFC Dynamo › GER (5),1-2,0-1,Aston Villa FC › ENG (3),2-2 (agg.),,,
+Round of 16 | Leg 1,(Wed) 21 Oct 1981 (W42),Austria Wien › AUT (3),0-1,0-1,Dinamo Kiev › UKR (3),1-2 (agg.),,,
+Round of 16 | Leg 1,(Wed) 21 Oct 1981 (W42),AZ Alkmaar › NED (3),2-2,0-1,Liverpool FC › ENG (3),4-5 (agg.),,,
+Round of 16 | Leg 1,(Wed) 21 Oct 1981 (W42),Banik Ostrava › CZE (3),3-1,2-0,Crvena Zvezda › SRB (3),3-4 (agg.),,,
+Round of 16 | Leg 1,(Wed) 21 Oct 1981 (W42),SL Benfica › POR (3),0-0,0-0,Bayern München › GER (3),1-4 (agg.),,,
+Round of 16 | Leg 1,(Wed) 21 Oct 1981 (W42),CSKA Sofia › BUL (3),2-0,2-0,Glentoran › NIR (3),2-2 (agg.),,,
+Round of 16 | Leg 1,(Wed) 21 Oct 1981 (W42),KB Kobenhavn › DEN (3),1-0,1-0,FC Universitatea Craiova › ROU (3),2-4 (agg.),,,
+Round of 16 | Leg 1,(Wed) 21 Oct 1981 (W42),RSC Anderlecht › BEL (3),3-1,1-1,Juventus › ITA (3),4-2 (agg.),,,
+Round of 16 | Leg 2,(Wed) 4 Nov 1981 (W44),Aston Villa FC › ENG (4),0-1,0-1,BFC Dynamo › GER (6),2-2 (agg.),,,away goals
+Round of 16 | Leg 2,(Wed) 4 Nov 1981 (W44),Dinamo Kiev › UKR (4),1-1,1-1,Austria Wien › AUT (4),2-1 (agg.),,,
+Round of 16 | Leg 2,(Wed) 4 Nov 1981 (W44),Liverpool FC › ENG (4),3-2,1-0,AZ Alkmaar › NED (4),5-4 (agg.),,,
+Round of 16 | Leg 2,(Wed) 4 Nov 1981 (W44),Crvena Zvezda › SRB (4),3-0,1-0,Banik Ostrava › CZE (4),4-3 (agg.),,,
+Round of 16 | Leg 2,(Wed) 4 Nov 1981 (W44),Bayern München › GER (4),4-1,2-0,SL Benfica › POR (4),4-1 (agg.),,,
+Round of 16 | Leg 2,(Wed) 4 Nov 1981 (W44),Glentoran › NIR (4),2-0 (*),0-0,CSKA Sofia › BUL (4),2-2 (agg.),2-1 (a.e.t.),,
+Round of 16 | Leg 2,(Wed) 4 Nov 1981 (W44),FC Universitatea Craiova › ROU (4),4-1,2-0,KB Kobenhavn › DEN (4),4-2 (agg.),,,
+Round of 16 | Leg 2,(Wed) 4 Nov 1981 (W44),Juventus › ITA (4),1-1,0-1,RSC Anderlecht › BEL (4),2-4 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 3 Mar 1982 (W9),Dinamo Kiev › UKR (5),0-0,0-0,Aston Villa FC › ENG (5),0-2 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 3 Mar 1982 (W9),FC Universitatea Craiova › ROU (5),0-2,0-2,Bayern München › GER (5),1-3 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 3 Mar 1982 (W9),RSC Anderlecht › BEL (5),2-1,1-0,Crvena Zvezda › SRB (5),4-2 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 3 Mar 1982 (W9),Liverpool FC › ENG (5),1-0,0-0,CSKA Sofia › BUL (5),1-1 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 17 Mar 1982 (W11),Aston Villa FC › ENG (6),2-0,2-0,Dinamo Kiev › UKR (6),2-0 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 17 Mar 1982 (W11),Bayern München › GER (6),1-1,1-1,FC Universitatea Craiova › ROU (6),3-1 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 17 Mar 1982 (W11),Crvena Zvezda › SRB (6),1-2,1-1,RSC Anderlecht › BEL (6),2-4 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 17 Mar 1982 (W11),CSKA Sofia › BUL (6),1-0 (*),0-0,Liverpool FC › ENG (6),1-1 (agg.),2-0 (a.e.t.),,
+Semifinals | Leg 1,(Wed) 7 Apr 1982 (W14),Aston Villa FC › ENG (7),1-0,1-0,RSC Anderlecht › BEL (7),1-0 (agg.),,,
+Semifinals | Leg 1,(Wed) 7 Apr 1982 (W14),CSKA Sofia › BUL (7),4-3,3-2,Bayern München › GER (7),4-7 (agg.),,,
+Semifinals | Leg 2,(Wed) 21 Apr 1982 (W16),RSC Anderlecht › BEL (8),0-0,0-0,Aston Villa FC › ENG (8),0-1 (agg.),,,
+Semifinals | Leg 2,(Wed) 21 Apr 1982 (W16),Bayern München › GER (8),4-0,1-0,CSKA Sofia › BUL (8),7-4 (agg.),,,
+Final,(Wed) 26 May 1982 (W21),Aston Villa FC › ENG (9),1-0,0-0,Bayern München › GER (9),,,,

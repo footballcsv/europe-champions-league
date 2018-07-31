@@ -1,64 +1,64 @@
-Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-,Preliminary Round,1,,(Tue) 15 Aug 1978 (W33),AS Monaco (1),3-0,0-0,Steaua Bucuresti (1),,,FRA,ROU
-,Preliminary Round,2,,(Wed) 30 Aug 1978 (W35),Steaua Bucuresti (2),2-0,0-0,AS Monaco (2),,,ROU,FRA
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Omonia Nicosia (1),2-1,1-1,Bohemians (1),,,CYP,IRL
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),AEK Athens (1),6-1,4-0,FC Porto (1),,,GRE,POR
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Malmo FF (1),0-0,0-0,AS Monaco (3),,,SWE,FRA
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),FK Vllaznia (1),2-0,1-0,Austria Wien (1),,,ALB,AUT
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Club Brugge (1),2-1,2-0,Wisla Krakow (1),,,BEL,POL
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Haka Valkeakoski (1),0-1,0-0,Dinamo Kiev (1),,,FIN,UKR
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Fenerbahçe İstanbul SK (1),2-1,2-1,PSV Eindhoven (1),,,TUR,NED
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Grasshoppers Zurich (1),8-0,3-0,Valletta (1),,,SUI,MLT
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Koln (1),4-1,3-1,IA Akranes (1),,,GER,ISL
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Juventus (1),1-0,1-0,Rangers FC (1),,,ITA,SCO
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Linfield (1),0-0,0-0,Lillestrom (1),,,NIR,NOR
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Nottingham Forest FC (1),2-0,1-0,Liverpool FC (1),,,ENG,ENG
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Odense BK (1),2-2,2-0,Lokomotiv Sofia (1),,,DEN,BUL
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Real Madrid CF (1),5-0,3-0,Progres Niedercorn (1),,,ESP,LUX
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Zbrojovka Brno (1),2-2,0-1,Ujpesti Dozsa SC (1),,,CZE,HUN
-,Round 1,1,,(Wed) 13 Sep 1978 (W37),Partizan Belgrade (1),2-0,1-0,Dynamo Dresden (1),,,SRB,GER
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Bohemians (2),1-0,1-0,Omonia Nicosia (2),,,IRL,CYP
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),FC Porto (2),4-1,0-1,AEK Athens (2),,,POR,GRE
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),AS Monaco (4),0-1,0-1,Malmo FF (2),,,FRA,SWE
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Austria Wien (2),4-1,2-0,FK Vllaznia (2),,,AUT,ALB
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Wisla Krakow (2),3-1,1-0,Club Brugge (2),,,POL,BEL
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Dinamo Kiev (2),3-1,2-0,Haka Valkeakoski (2),,,UKR,FIN
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),PSV Eindhoven (2),6-1,2-0,Fenerbahçe İstanbul SK (2),,,NED,TUR
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Valletta (2),3-5,0-1,Grasshoppers Zurich (2),,,MLT,SUI
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),IA Akranes (2),1-1,1-0,Koln (2),,,ISL,GER
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Rangers FC (2),2-0,1-0,Juventus (2),,,SCO,ITA
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Lillestrom (2),1-0,1-0,Linfield (2),,,NOR,NIR
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Liverpool FC (2),0-0,0-0,Nottingham Forest FC (2),,,ENG,ENG
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Lokomotiv Sofia (2),2-1,1-1,Odense BK (2),,,BUL,DEN
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Progres Niedercorn (2),0-7,0-3,Real Madrid CF (2),,,LUX,ESP
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Ujpesti Dozsa SC (2),0-2,0-2,Zbrojovka Brno (2),,,HUN,CZE
-,Round 1,2,,(Wed) 27 Sep 1978 (W39),Dynamo Dresden (2),2-0,1-0,Partizan Belgrade (2),2-0 (a.e.t.),5-4 (pen.),GER,SRB
-,Round of 16,1,,(Wed) 18 Oct 1978 (W42),Real Madrid CF (3),3-1,1-0,Grasshoppers Zurich (3),,,ESP,SUI
-,Round of 16,1,,(Wed) 18 Oct 1978 (W42),Zbrojovka Brno (3),2-2,0-1,Wisla Krakow (3),,,CZE,POL
-,Round of 16,1,,(Wed) 18 Oct 1978 (W42),AEK Athens (3),1-2,0-2,Nottingham Forest FC (3),,,GRE,ENG
-,Round of 16,1,,(Wed) 18 Oct 1978 (W42),Austria Wien (3),4-1,3-0,Lillestrom (3),,,AUT,NOR
-,Round of 16,1,,(Wed) 18 Oct 1978 (W42),Bohemians (3),0-0,0-0,Dynamo Dresden (3),,,IRL,GER
-,Round of 16,1,,(Wed) 18 Oct 1978 (W42),Dinamo Kiev (3),0-0,0-0,Malmo FF (3),,,UKR,SWE
-,Round of 16,1,,(Wed) 18 Oct 1978 (W42),Lokomotiv Sofia (3),0-1,0-0,Koln (3),,,BUL,GER
-,Round of 16,1,,(Wed) 18 Oct 1978 (W42),Rangers FC (3),0-0,0-0,PSV Eindhoven (3),,,SCO,NED
-,Round of 16,2,,(Wed) 1 Nov 1978 (W44),Grasshoppers Zurich (4),2-0,1-0,Real Madrid CF (4),,,SUI,ESP
-,Round of 16,2,,(Wed) 1 Nov 1978 (W44),Wisla Krakow (4),1-1,0-0,Zbrojovka Brno (4),,,POL,CZE
-,Round of 16,2,,(Wed) 1 Nov 1978 (W44),Nottingham Forest FC (4),5-1,3-0,AEK Athens (4),,,ENG,GRE
-,Round of 16,2,,(Wed) 1 Nov 1978 (W44),Lillestrom (4),0-0,0-0,Austria Wien (4),,,NOR,AUT
-,Round of 16,2,,(Wed) 1 Nov 1978 (W44),Dynamo Dresden (4),6-0,2-0,Bohemians (4),,,GER,IRL
-,Round of 16,2,,(Wed) 1 Nov 1978 (W44),Malmo FF (4),2-0,2-0,Dinamo Kiev (4),,,SWE,UKR
-,Round of 16,2,,(Wed) 1 Nov 1978 (W44),Koln (4),4-0,1-0,Lokomotiv Sofia (4),,,GER,BUL
-,Round of 16,2,,(Wed) 1 Nov 1978 (W44),PSV Eindhoven (4),2-3,1-0,Rangers FC (4),,,NED,SCO
-,Quarterfinals,1,,(Tue) 6 Mar 1979 (W10),Koln (5),1-0,0-0,Rangers FC (5),,,GER,SCO
-,Quarterfinals,1,,(Wed) 7 Mar 1979 (W10),Austria Wien (5),3-1,1-1,Dynamo Dresden (5),,,AUT,GER
-,Quarterfinals,1,,(Wed) 7 Mar 1979 (W10),Nottingham Forest FC (5),4-1,1-1,Grasshoppers Zurich (5),,,ENG,SUI
-,Quarterfinals,1,,(Wed) 7 Mar 1979 (W10),Wisla Krakow (5),2-1,1-1,Malmo FF (5),,,POL,SWE
-,Quarterfinals,2,,(Wed) 21 Mar 1979 (W12),Dynamo Dresden (6),1-0,1-0,Austria Wien (6),,,GER,AUT
-,Quarterfinals,2,,(Wed) 21 Mar 1979 (W12),Grasshoppers Zurich (6),1-1,1-1,Nottingham Forest FC (6),,,SUI,ENG
-,Quarterfinals,2,,(Wed) 21 Mar 1979 (W12),Malmo FF (6),4-1,0-0,Wisla Krakow (6),,,SWE,POL
-,Quarterfinals,2,,(Thu) 22 Mar 1979 (W12),Rangers FC (6),1-1,0-0,Koln (6),,,SCO,GER
-,Semifinals,1,,(Wed) 11 Apr 1979 (W15),Austria Wien (7),0-0,0-0,Malmo FF (7),,,AUT,SWE
-,Semifinals,1,,(Wed) 11 Apr 1979 (W15),Nottingham Forest FC (7),3-3,1-2,Koln (7),,,ENG,GER
-,Semifinals,2,,(Wed) 25 Apr 1979 (W17),Malmo FF (8),1-0,0-0,Austria Wien (8),,,SWE,AUT
-,Semifinals,2,,(Wed) 25 Apr 1979 (W17),Koln (8),0-1,0-0,Nottingham Forest FC (8),,,GER,ENG
-,Final,,,(Wed) 30 May 1979 (W22),Nottingham Forest FC (9),1-0,0-0,Malmo FF (9),,,ENG,SWE
+Round,Date,Team 1,FT,HT,Team 2,∑FT,ET,P,Comments
+Prelim. Round | Leg 1,(Tue) 15 Aug 1978 (W33),AS Monaco › FRA (1),3-0,0-0,Steaua Bucuresti › ROU (1),3-2 (agg.),,,
+Prelim. Round | Leg 2,(Wed) 30 Aug 1978 (W35),Steaua Bucuresti › ROU (2),2-0,0-0,AS Monaco › FRA (2),2-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Omonia Nicosia › CYP (1),2-1,1-1,Bohemians › IRL (1),2-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),AEK Athens › GRE (1),6-1,4-0,FC Porto › POR (1),7-5 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Malmo FF › SWE (1),0-0,0-0,AS Monaco › FRA (3),1-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),FK Vllaznia › ALB (1),2-0,1-0,Austria Wien › AUT (1),3-4 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Club Brugge › BEL (1),2-1,2-0,Wisla Krakow › POL (1),3-4 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Haka Valkeakoski › FIN (1),0-1,0-0,Dinamo Kiev › UKR (1),1-4 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Fenerbahçe İstanbul SK › TUR (1),2-1,2-1,PSV Eindhoven › NED (1),3-7 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Grasshoppers Zurich › SUI (1),8-0,3-0,Valletta › MLT (1),13-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Koln › GER (1),4-1,3-1,IA Akranes › ISL (1),5-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Juventus › ITA (1),1-0,1-0,Rangers FC › SCO (1),1-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Linfield › NIR (1),0-0,0-0,Lillestrom › NOR (1),0-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Nottingham Forest FC › ENG (1),2-0,1-0,Liverpool FC › ENG (1),2-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Odense BK › DEN (1),2-2,2-0,Lokomotiv Sofia › BUL (1),3-4 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Real Madrid CF › ESP (1),5-0,3-0,Progres Niedercorn › LUX (1),12-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Zbrojovka Brno › CZE (1),2-2,0-1,Ujpesti Dozsa SC › HUN (1),4-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 13 Sep 1978 (W37),Partizan Belgrade › SRB (1),2-0,1-0,Dynamo Dresden › GER (1),2-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Bohemians › IRL (2),1-0,1-0,Omonia Nicosia › CYP (2),2-2 (agg.),,,away goals
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),FC Porto › POR (2),4-1,0-1,AEK Athens › GRE (2),5-7 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),AS Monaco › FRA (4),0-1,0-1,Malmo FF › SWE (2),0-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Austria Wien › AUT (2),4-1,2-0,FK Vllaznia › ALB (2),4-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Wisla Krakow › POL (2),3-1,1-0,Club Brugge › BEL (2),4-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Dinamo Kiev › UKR (2),3-1,2-0,Haka Valkeakoski › FIN (2),4-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),PSV Eindhoven › NED (2),6-1,2-0,Fenerbahçe İstanbul SK › TUR (2),7-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Valletta › MLT (2),3-5,0-1,Grasshoppers Zurich › SUI (2),3-13 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),IA Akranes › ISL (2),1-1,1-0,Koln › GER (2),2-5 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Rangers FC › SCO (2),2-0,1-0,Juventus › ITA (2),2-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Lillestrom › NOR (2),1-0,1-0,Linfield › NIR (2),1-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Liverpool FC › ENG (2),0-0,0-0,Nottingham Forest FC › ENG (2),0-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Lokomotiv Sofia › BUL (2),2-1,1-1,Odense BK › DEN (2),4-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Progres Niedercorn › LUX (2),0-7,0-3,Real Madrid CF › ESP (2),0-12 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Ujpesti Dozsa SC › HUN (2),0-2,0-2,Zbrojovka Brno › CZE (2),2-4 (agg.),,,
+Round 1 | Leg 2,(Wed) 27 Sep 1978 (W39),Dynamo Dresden › GER (2),2-0 (*),1-0,Partizan Belgrade › SRB (2),2-2 (agg.),2-0 (a.e.t.),5-4 (pen.),
+Round of 16 | Leg 1,(Wed) 18 Oct 1978 (W42),Real Madrid CF › ESP (3),3-1,1-0,Grasshoppers Zurich › SUI (3),3-3 (agg.),,,
+Round of 16 | Leg 1,(Wed) 18 Oct 1978 (W42),Zbrojovka Brno › CZE (3),2-2,0-1,Wisla Krakow › POL (3),3-3 (agg.),,,
+Round of 16 | Leg 1,(Wed) 18 Oct 1978 (W42),AEK Athens › GRE (3),1-2,0-2,Nottingham Forest FC › ENG (3),2-7 (agg.),,,
+Round of 16 | Leg 1,(Wed) 18 Oct 1978 (W42),Austria Wien › AUT (3),4-1,3-0,Lillestrom › NOR (3),4-1 (agg.),,,
+Round of 16 | Leg 1,(Wed) 18 Oct 1978 (W42),Bohemians › IRL (3),0-0,0-0,Dynamo Dresden › GER (3),0-6 (agg.),,,
+Round of 16 | Leg 1,(Wed) 18 Oct 1978 (W42),Dinamo Kiev › UKR (3),0-0,0-0,Malmo FF › SWE (3),0-2 (agg.),,,
+Round of 16 | Leg 1,(Wed) 18 Oct 1978 (W42),Lokomotiv Sofia › BUL (3),0-1,0-0,Koln › GER (3),0-5 (agg.),,,
+Round of 16 | Leg 1,(Wed) 18 Oct 1978 (W42),Rangers FC › SCO (3),0-0,0-0,PSV Eindhoven › NED (3),3-2 (agg.),,,
+Round of 16 | Leg 2,(Wed) 1 Nov 1978 (W44),Grasshoppers Zurich › SUI (4),2-0,1-0,Real Madrid CF › ESP (4),3-3 (agg.),,,away goals
+Round of 16 | Leg 2,(Wed) 1 Nov 1978 (W44),Wisla Krakow › POL (4),1-1,0-0,Zbrojovka Brno › CZE (4),3-3 (agg.),,,away goals
+Round of 16 | Leg 2,(Wed) 1 Nov 1978 (W44),Nottingham Forest FC › ENG (4),5-1,3-0,AEK Athens › GRE (4),7-2 (agg.),,,
+Round of 16 | Leg 2,(Wed) 1 Nov 1978 (W44),Lillestrom › NOR (4),0-0,0-0,Austria Wien › AUT (4),1-4 (agg.),,,
+Round of 16 | Leg 2,(Wed) 1 Nov 1978 (W44),Dynamo Dresden › GER (4),6-0,2-0,Bohemians › IRL (4),6-0 (agg.),,,
+Round of 16 | Leg 2,(Wed) 1 Nov 1978 (W44),Malmo FF › SWE (4),2-0,2-0,Dinamo Kiev › UKR (4),2-0 (agg.),,,
+Round of 16 | Leg 2,(Wed) 1 Nov 1978 (W44),Koln › GER (4),4-0,1-0,Lokomotiv Sofia › BUL (4),5-0 (agg.),,,
+Round of 16 | Leg 2,(Wed) 1 Nov 1978 (W44),PSV Eindhoven › NED (4),2-3,1-0,Rangers FC › SCO (4),2-3 (agg.),,,
+Quarterfinals | Leg 1,(Tue) 6 Mar 1979 (W10),Koln › GER (5),1-0,0-0,Rangers FC › SCO (5),2-1 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 7 Mar 1979 (W10),Austria Wien › AUT (5),3-1,1-1,Dynamo Dresden › GER (5),3-2 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 7 Mar 1979 (W10),Nottingham Forest FC › ENG (5),4-1,1-1,Grasshoppers Zurich › SUI (5),5-2 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 7 Mar 1979 (W10),Wisla Krakow › POL (5),2-1,1-1,Malmo FF › SWE (5),3-5 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 21 Mar 1979 (W12),Dynamo Dresden › GER (6),1-0,1-0,Austria Wien › AUT (6),2-3 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 21 Mar 1979 (W12),Grasshoppers Zurich › SUI (6),1-1,1-1,Nottingham Forest FC › ENG (6),2-5 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 21 Mar 1979 (W12),Malmo FF › SWE (6),4-1,0-0,Wisla Krakow › POL (6),5-3 (agg.),,,
+Quarterfinals | Leg 2,(Thu) 22 Mar 1979 (W12),Rangers FC › SCO (6),1-1,0-0,Koln › GER (6),1-2 (agg.),,,
+Semifinals | Leg 1,(Wed) 11 Apr 1979 (W15),Austria Wien › AUT (7),0-0,0-0,Malmo FF › SWE (7),0-1 (agg.),,,
+Semifinals | Leg 1,(Wed) 11 Apr 1979 (W15),Nottingham Forest FC › ENG (7),3-3,1-2,Koln › GER (7),4-3 (agg.),,,
+Semifinals | Leg 2,(Wed) 25 Apr 1979 (W17),Malmo FF › SWE (8),1-0,0-0,Austria Wien › AUT (8),1-0 (agg.),,,
+Semifinals | Leg 2,(Wed) 25 Apr 1979 (W17),Koln › GER (8),0-1,0-0,Nottingham Forest FC › ENG (8),3-4 (agg.),,,
+Final,(Wed) 30 May 1979 (W22),Nottingham Forest FC › ENG (9),1-0,0-0,Malmo FF › SWE (9),,,,

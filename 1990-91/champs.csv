@@ -1,60 +1,60 @@
-Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-,Round 1,1,,(Tue) 18 Sep 1990 (W38),Odense BK (1),1-4,1-2,Real Madrid CF (1),,,DEN,ESP
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),AC Sparta Praha (1),0-2,0-1,Spartak Moskva (1),,,CZE,RUS
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),APOEL Nikosia (1),2-3,1-0,Bayern München (1),,,CYP,GER
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),Malmo FF (1),3-2,1-0,Beşiktaş İstanbul JK (1),,,SWE,TUR
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),Lillestrom (1),1-1,0-1,Club Brugge (1),,,NOR,BEL
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),Crvena Zvezda (1),1-1,1-1,Grasshoppers Zurich (1),,,SRB,SUI
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),KA Akureyri (1),1-0,1-0,CSKA Sofia (1),,,ISL,BUL
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),Dinamo Bucuresti (1),4-0,3-0,St Patrick's Athletic (1),,,ROU,IRL
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),Olympique Marseille (1),5-1,1-0,Dinamo Tirana (1),,,FRA,ALB
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),Union Luxembourg (1),1-3,1-0,Dynamo Dresden (1),,,LUX,GER
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),FC Tirol (1),5-0,3-0,FC Kuusysi (1),,,AUT,FIN
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),FC Porto (1),5-0,3-0,Portadown (1),,,POR,NIR
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),Lech Poznan (1),3-0,2-0,Panathinaikos FC (1),,,POL,GRE
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),Valletta (1),0-4,0-1,Rangers FC (1),,,MLT,SCO
-,Round 1,1,,(Wed) 19 Sep 1990 (W38),SSC Napoli (1),3-0,2-0,Ujpesti Dozsa SC (1),,,ITA,HUN
-,Round 1,2,,(Tue) 2 Oct 1990 (W40),Real Madrid CF (2),6-0,2-0,Odense BK (2),,,ESP,DEN
-,Round 1,2,,(Tue) 2 Oct 1990 (W40),Rangers FC (2),6-0,4-0,Valletta (2),,,SCO,MLT
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),CSKA Sofia (2),3-0,1-0,KA Akureyri (2),,,BUL,ISL
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),Bayern München (2),4-0,0-0,APOEL Nikosia (2),,,GER,CYP
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),Beşiktaş İstanbul JK (2),2-2,2-0,Malmo FF (2),,,TUR,SWE
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),Club Brugge (2),2-0,1-0,Lillestrom (2),,,BEL,NOR
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),Grasshoppers Zurich (2),1-4,0-1,Crvena Zvezda (2),,,SUI,SRB
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),Spartak Moskva (2),2-0,1-0,AC Sparta Praha (2),,,RUS,CZE
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),St Patrick's Athletic (2),1-1,1-0,Dinamo Bucuresti (2),,,IRL,ROU
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),Dinamo Tirana (2),0-0,0-0,Olympique Marseille (2),,,ALB,FRA
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),Dynamo Dresden (2),3-0,3-0,Union Luxembourg (2),,,GER,LUX
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),FC Kuusysi (2),1-2,0-1,FC Tirol (2),,,FIN,AUT
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),Portadown (2),1-8,1-4,FC Porto (2),,,NIR,POR
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),Panathinaikos FC (2),1-2,1-0,Lech Poznan (2),,,GRE,POL
-,Round 1,2,,(Wed) 3 Oct 1990 (W40),Ujpesti Dozsa SC (2),0-2,0-2,SSC Napoli (2),,,HUN,ITA
-,Round of 16,1,,(Tue) 23 Oct 1990 (W43),Bayern München (3),4-0,2-0,CSKA Sofia (3),,,GER,BUL
-,Round of 16,1,,(Wed) 24 Oct 1990 (W43),Dynamo Dresden (3),1-1,1-1,Malmo FF (3),,,GER,SWE
-,Round of 16,1,,(Wed) 24 Oct 1990 (W43),SSC Napoli (3),0-0,0-0,Spartak Moskva (3),,,ITA,RUS
-,Round of 16,1,,(Wed) 24 Oct 1990 (W43),AC Milan (1),0-0,0-0,Club Brugge (3),,,ITA,BEL
-,Round of 16,1,,(Wed) 24 Oct 1990 (W43),Crvena Zvezda (3),3-0,1-0,Rangers FC (3),,,SRB,SCO
-,Round of 16,1,,(Wed) 24 Oct 1990 (W43),Dinamo Bucuresti (3),0-0,0-0,FC Porto (3),,,ROU,POR
-,Round of 16,1,,(Wed) 24 Oct 1990 (W43),Real Madrid CF (3),9-1,5-1,FC Tirol (3),,,ESP,AUT
-,Round of 16,1,,(Wed) 24 Oct 1990 (W43),Lech Poznan (3),3-2,2-1,Olympique Marseille (3),,,POL,FRA
-,Round of 16,2,,(Tue) 6 Nov 1990 (W45),CSKA Sofia (4),0-3,0-1,Bayern München (4),,,BUL,GER
-,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Club Brugge (4),0-1,0-0,AC Milan (2),,,BEL,ITA
-,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Spartak Moskva (4),0-0,0-0,SSC Napoli (4),0-0 (a.e.t.),5-3 (pen.),RUS,ITA
-,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Malmo FF (4),1-1,0-1,Dynamo Dresden (4),1-1 (a.e.t.),4-5 (pen.),SWE,GER
-,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Rangers FC (4),1-1,0-0,Crvena Zvezda (4),,,SCO,SRB
-,Round of 16,2,,(Wed) 7 Nov 1990 (W45),FC Porto (4),4-0,2-0,Dinamo Bucuresti (4),,,POR,ROU
-,Round of 16,2,,(Wed) 7 Nov 1990 (W45),Olympique Marseille (4),6-1,3-0,Lech Poznan (4),,,FRA,POL
-,Round of 16,2,,(Wed) 7 Nov 1990 (W45),FC Tirol (4),2-2,1-2,Real Madrid CF (4),,,AUT,ESP
-,Quarterfinals,1,,(Wed) 6 Mar 1991 (W9),AC Milan (3),1-1,1-1,Olympique Marseille (5),,,ITA,FRA
-,Quarterfinals,1,,(Wed) 6 Mar 1991 (W9),Bayern München (5),1-1,1-0,FC Porto (5),,,GER,POR
-,Quarterfinals,1,,(Wed) 6 Mar 1991 (W9),Crvena Zvezda (5),3-0,2-0,Dynamo Dresden (5),,,SRB,GER
-,Quarterfinals,1,,(Wed) 6 Mar 1991 (W9),Spartak Moskva (5),0-0,0-0,Real Madrid CF (5),,,RUS,ESP
-,Quarterfinals,2,,(Wed) 20 Mar 1991 (W11),Olympique Marseille (6),3-0,0-0,AC Milan (4),,,FRA,ITA
-,Quarterfinals,2,,(Wed) 20 Mar 1991 (W11),FC Porto (6),0-2,0-1,Bayern München (6),,,POR,GER
-,Quarterfinals,2,,(Wed) 20 Mar 1991 (W11),Real Madrid CF (6),1-3,1-2,Spartak Moskva (6),,,ESP,RUS
-,Quarterfinals,2,,(Wed) 20 Mar 1991 (W11),Dynamo Dresden (6),0-3,0-0,Crvena Zvezda (6),,,GER,SRB
-,Semifinals,1,,(Wed) 10 Apr 1991 (W14),Bayern München (7),1-2,1-1,Crvena Zvezda (7),,,GER,SRB
-,Semifinals,1,,(Wed) 10 Apr 1991 (W14),Spartak Moskva (7),1-3,0-2,Olympique Marseille (7),,,RUS,FRA
-,Semifinals,2,,(Wed) 24 Apr 1991 (W16),Olympique Marseille (8),2-1,1-0,Spartak Moskva (8),,,FRA,RUS
-,Semifinals,2,,(Wed) 24 Apr 1991 (W16),Crvena Zvezda (8),2-2,1-0,Bayern München (8),,,SRB,GER
-,Final,,,(Wed) 29 May 1991 (W21),Crvena Zvezda (9),0-0,0-0,Olympique Marseille (9),0-0 (a.e.t.),5-3 (pen.),SRB,FRA
+Round,Date,Team 1,FT,HT,Team 2,∑FT,ET,P,Comments
+Round 1 | Leg 1,(Tue) 18 Sep 1990 (W38),Odense BK › DEN (1),1-4,1-2,Real Madrid CF › ESP (1),1-10 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),AC Sparta Praha › CZE (1),0-2,0-1,Spartak Moskva › RUS (1),0-4 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),APOEL Nikosia › CYP (1),2-3,1-0,Bayern München › GER (1),2-7 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),Malmo FF › SWE (1),3-2,1-0,Beşiktaş İstanbul JK › TUR (1),5-4 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),Lillestrom › NOR (1),1-1,0-1,Club Brugge › BEL (1),1-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),Crvena Zvezda › SRB (1),1-1,1-1,Grasshoppers Zurich › SUI (1),5-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),KA Akureyri › ISL (1),1-0,1-0,CSKA Sofia › BUL (1),1-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),Dinamo Bucuresti › ROU (1),4-0,3-0,St Patrick's Athletic › IRL (1),5-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),Olympique Marseille › FRA (1),5-1,1-0,Dinamo Tirana › ALB (1),5-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),Union Luxembourg › LUX (1),1-3,1-0,Dynamo Dresden › GER (1),1-6 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),FC Tirol › AUT (1),5-0,3-0,FC Kuusysi › FIN (1),7-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),FC Porto › POR (1),5-0,3-0,Portadown › NIR (1),13-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),Lech Poznan › POL (1),3-0,2-0,Panathinaikos FC › GRE (1),5-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),Valletta › MLT (1),0-4,0-1,Rangers FC › SCO (1),0-10 (agg.),,,
+Round 1 | Leg 1,(Wed) 19 Sep 1990 (W38),SSC Napoli › ITA (1),3-0,2-0,Ujpesti Dozsa SC › HUN (1),5-0 (agg.),,,
+Round 1 | Leg 2,(Tue) 2 Oct 1990 (W40),Real Madrid CF › ESP (2),6-0,2-0,Odense BK › DEN (2),10-1 (agg.),,,
+Round 1 | Leg 2,(Tue) 2 Oct 1990 (W40),Rangers FC › SCO (2),6-0,4-0,Valletta › MLT (2),10-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),CSKA Sofia › BUL (2),3-0,1-0,KA Akureyri › ISL (2),3-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),Bayern München › GER (2),4-0,0-0,APOEL Nikosia › CYP (2),7-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),Beşiktaş İstanbul JK › TUR (2),2-2,2-0,Malmo FF › SWE (2),4-5 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),Club Brugge › BEL (2),2-0,1-0,Lillestrom › NOR (2),3-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),Grasshoppers Zurich › SUI (2),1-4,0-1,Crvena Zvezda › SRB (2),2-5 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),Spartak Moskva › RUS (2),2-0,1-0,AC Sparta Praha › CZE (2),4-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),St Patrick's Athletic › IRL (2),1-1,1-0,Dinamo Bucuresti › ROU (2),1-5 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),Dinamo Tirana › ALB (2),0-0,0-0,Olympique Marseille › FRA (2),1-5 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),Dynamo Dresden › GER (2),3-0,3-0,Union Luxembourg › LUX (2),6-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),FC Kuusysi › FIN (2),1-2,0-1,FC Tirol › AUT (2),1-7 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),Portadown › NIR (2),1-8,1-4,FC Porto › POR (2),1-13 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),Panathinaikos FC › GRE (2),1-2,1-0,Lech Poznan › POL (2),1-5 (agg.),,,
+Round 1 | Leg 2,(Wed) 3 Oct 1990 (W40),Ujpesti Dozsa SC › HUN (2),0-2,0-2,SSC Napoli › ITA (2),0-5 (agg.),,,
+Round of 16 | Leg 1,(Tue) 23 Oct 1990 (W43),Bayern München › GER (3),4-0,2-0,CSKA Sofia › BUL (3),7-0 (agg.),,,
+Round of 16 | Leg 1,(Wed) 24 Oct 1990 (W43),Dynamo Dresden › GER (3),1-1,1-1,Malmo FF › SWE (3),2-2 (agg.),,,
+Round of 16 | Leg 1,(Wed) 24 Oct 1990 (W43),SSC Napoli › ITA (3),0-0,0-0,Spartak Moskva › RUS (3),0-0 (agg.),,,
+Round of 16 | Leg 1,(Wed) 24 Oct 1990 (W43),AC Milan › ITA (1),0-0,0-0,Club Brugge › BEL (3),1-0 (agg.),,,
+Round of 16 | Leg 1,(Wed) 24 Oct 1990 (W43),Crvena Zvezda › SRB (3),3-0,1-0,Rangers FC › SCO (3),4-1 (agg.),,,
+Round of 16 | Leg 1,(Wed) 24 Oct 1990 (W43),Dinamo Bucuresti › ROU (3),0-0,0-0,FC Porto › POR (3),0-4 (agg.),,,
+Round of 16 | Leg 1,(Wed) 24 Oct 1990 (W43),Real Madrid CF › ESP (3),9-1,5-1,FC Tirol › AUT (3),11-3 (agg.),,,
+Round of 16 | Leg 1,(Wed) 24 Oct 1990 (W43),Lech Poznan › POL (3),3-2,2-1,Olympique Marseille › FRA (3),4-8 (agg.),,,
+Round of 16 | Leg 2,(Tue) 6 Nov 1990 (W45),CSKA Sofia › BUL (4),0-3,0-1,Bayern München › GER (4),0-7 (agg.),,,
+Round of 16 | Leg 2,(Wed) 7 Nov 1990 (W45),Club Brugge › BEL (4),0-1,0-0,AC Milan › ITA (2),0-1 (agg.),,,
+Round of 16 | Leg 2,(Wed) 7 Nov 1990 (W45),Spartak Moskva › RUS (4),0-0 (*),0-0,SSC Napoli › ITA (4),0-0 (agg.),0-0 (a.e.t.),5-3 (pen.),
+Round of 16 | Leg 2,(Wed) 7 Nov 1990 (W45),Malmo FF › SWE (4),1-1 (*),0-1,Dynamo Dresden › GER (4),2-2 (agg.),1-1 (a.e.t.),4-5 (pen.),
+Round of 16 | Leg 2,(Wed) 7 Nov 1990 (W45),Rangers FC › SCO (4),1-1,0-0,Crvena Zvezda › SRB (4),1-4 (agg.),,,
+Round of 16 | Leg 2,(Wed) 7 Nov 1990 (W45),FC Porto › POR (4),4-0,2-0,Dinamo Bucuresti › ROU (4),4-0 (agg.),,,
+Round of 16 | Leg 2,(Wed) 7 Nov 1990 (W45),Olympique Marseille › FRA (4),6-1,3-0,Lech Poznan › POL (4),8-4 (agg.),,,
+Round of 16 | Leg 2,(Wed) 7 Nov 1990 (W45),FC Tirol › AUT (4),2-2,1-2,Real Madrid CF › ESP (4),3-11 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 6 Mar 1991 (W9),AC Milan › ITA (3),1-1,1-1,Olympique Marseille › FRA (5),1-4 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 6 Mar 1991 (W9),Bayern München › GER (5),1-1,1-0,FC Porto › POR (5),3-1 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 6 Mar 1991 (W9),Crvena Zvezda › SRB (5),3-0,2-0,Dynamo Dresden › GER (5),6-0 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 6 Mar 1991 (W9),Spartak Moskva › RUS (5),0-0,0-0,Real Madrid CF › ESP (5),3-1 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 20 Mar 1991 (W11),Olympique Marseille › FRA (6),3-0,0-0,AC Milan › ITA (4),4-1 (agg.),,,walkover
+Quarterfinals | Leg 2,(Wed) 20 Mar 1991 (W11),FC Porto › POR (6),0-2,0-1,Bayern München › GER (6),1-3 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 20 Mar 1991 (W11),Real Madrid CF › ESP (6),1-3,1-2,Spartak Moskva › RUS (6),1-3 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 20 Mar 1991 (W11),Dynamo Dresden › GER (6),0-3,0-0,Crvena Zvezda › SRB (6),0-6 (agg.),,,walkover
+Semifinals | Leg 1,(Wed) 10 Apr 1991 (W14),Bayern München › GER (7),1-2,1-1,Crvena Zvezda › SRB (7),3-4 (agg.),,,
+Semifinals | Leg 1,(Wed) 10 Apr 1991 (W14),Spartak Moskva › RUS (7),1-3,0-2,Olympique Marseille › FRA (7),2-5 (agg.),,,
+Semifinals | Leg 2,(Wed) 24 Apr 1991 (W16),Olympique Marseille › FRA (8),2-1,1-0,Spartak Moskva › RUS (8),5-2 (agg.),,,
+Semifinals | Leg 2,(Wed) 24 Apr 1991 (W16),Crvena Zvezda › SRB (8),2-2,1-0,Bayern München › GER (8),4-3 (agg.),,,
+Final,(Wed) 29 May 1991 (W21),Crvena Zvezda › SRB (9),0-0 (*),0-0,Olympique Marseille › FRA (9),,0-0 (a.e.t.),5-3 (pen.),

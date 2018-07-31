@@ -1,60 +1,60 @@
-Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),AC Sparta Praha (1),1-2,1-0,FC Barcelona (1),,,CZE,ESP
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),IA Akranes (1),1-3,1-0,Abderden (1),,,ISL,SCO
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),FC Porto (1),2-0,1-0,AFC Ajax (1),,,POR,NED
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),BFC Dynamo (1),0-2,0-2,Austria Wien (1),,,GER,AUT
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),Gornik Zabrze (1),1-2,1-1,Bayern München (1),,,POL,GER
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),Budapest Honved SE (1),2-0,1-0,Shamrock Rovers (1),,,HUN,IRL
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),FC Kuusysi (1),2-1,1-1,FK Sarajevo (1),,,FIN,BIH
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),Girondins Bordeaux (1),2-3,0-1,Fenerbahçe İstanbul SK (1),,,FRA,TUR
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),Hellas Verona (1),3-1,1-0,PAOK FC (1),,,ITA,GRE
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),IFK Goteborg (1),3-2,1-1,Trakia Plovdiv (1),,,SWE,BUL
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),Jeunesse Esch (1),0-5,0-3,Juventus (1),,,LUX,ITA
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),Linfield (1),2-2,1-2,Servette Geneve (1),,,NIR,SUI
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),Rabat Ajax (1),0-5,0-1,Omonia Nicosia (1),,,MLT,CYP
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),Vejle BK (1),1-1,0-0,Steaua Bucuresti (1),,,DEN,ROU
-,Round 1,1,,(Wed) 18 Sep 1985 (W37),Zenit St. Petersburg (1),2-0,0-0,Valerenga IF (1),,,RUS,NOR
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),FC Barcelona (2),0-1,0-1,AC Sparta Praha (2),,,ESP,CZE
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),Abderden (2),4-1,1-1,IA Akranes (2),,,SCO,ISL
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),AFC Ajax (2),0-0,0-0,FC Porto (2),,,NED,POR
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),Austria Wien (2),2-1,0-0,BFC Dynamo (2),,,AUT,GER
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),Bayern München (2),4-1,1-1,Gornik Zabrze (2),,,GER,POL
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),Shamrock Rovers (2),1-3,0-0,Budapest Honved SE (2),,,IRL,HUN
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),FK Sarajevo (2),1-2,1-2,FC Kuusysi (2),,,BIH,FIN
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),Fenerbahçe İstanbul SK (2),0-0,0-0,Girondins Bordeaux (2),,,TUR,FRA
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),PAOK FC (2),1-2,1-1,Hellas Verona (2),,,GRE,ITA
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),Trakia Plovdiv (2),1-2,1-1,IFK Goteborg (2),,,BUL,SWE
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),Juventus (2),4-1,1-0,Jeunesse Esch (2),,,ITA,LUX
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),Servette Geneve (2),2-1,1-1,Linfield (2),,,SUI,NIR
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),Omonia Nicosia (2),5-0,3-0,Rabat Ajax (2),,,CYP,MLT
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),Steaua Bucuresti (2),4-1,2-1,Vejle BK (2),,,ROU,DEN
-,Round 1,2,,(Wed) 2 Oct 1985 (W39),Valerenga IF (2),0-2,0-0,Zenit St. Petersburg (2),,,NOR,RUS
-,Round of 16,1,,(Wed) 23 Oct 1985 (W42),FC Barcelona (3),2-0,0-0,FC Porto (3),,,ESP,POR
-,Round of 16,1,,(Wed) 23 Oct 1985 (W42),Servette Geneve (3),0-0,0-0,Abderden (3),,,SUI,SCO
-,Round of 16,1,,(Wed) 23 Oct 1985 (W42),Bayern München (3),4-2,3-1,Austria Wien (3),,,GER,AUT
-,Round of 16,1,,(Wed) 23 Oct 1985 (W42),Budapest Honved SE (3),1-0,1-0,Steaua Bucuresti (3),,,HUN,ROU
-,Round of 16,1,,(Wed) 23 Oct 1985 (W42),Zenit St. Petersburg (3),2-1,0-1,FC Kuusysi (3),,,RUS,FIN
-,Round of 16,1,,(Wed) 23 Oct 1985 (W42),IFK Goteborg (3),4-0,2-0,Fenerbahçe İstanbul SK (3),,,SWE,TUR
-,Round of 16,1,,(Wed) 23 Oct 1985 (W42),Hellas Verona (3),0-0,0-0,Juventus (3),,,ITA,ITA
-,Round of 16,1,,(Wed) 23 Oct 1985 (W42),RSC Anderlecht (1),1-0,1-0,Omonia Nicosia (3),,,BEL,CYP
-,Round of 16,2,,(Thu) 7 Nov 1985 (W44),FC Porto (4),3-1,0-0,FC Barcelona (4),,,POR,ESP
-,Round of 16,2,,(Thu) 7 Nov 1985 (W44),Abderden (4),1-0,1-0,Servette Geneve (4),,,SCO,SUI
-,Round of 16,2,,(Thu) 7 Nov 1985 (W44),Austria Wien (4),3-3,1-1,Bayern München (4),,,AUT,GER
-,Round of 16,2,,(Thu) 7 Nov 1985 (W44),Steaua Bucuresti (4),4-1,2-0,Budapest Honved SE (4),,,ROU,HUN
-,Round of 16,2,,(Thu) 7 Nov 1985 (W44),FC Kuusysi (4),2-1,0-0,Zenit St. Petersburg (4),3-1 (a.e.t.),,FIN,RUS
-,Round of 16,2,,(Thu) 7 Nov 1985 (W44),Fenerbahçe İstanbul SK (4),2-1,0-0,IFK Goteborg (4),,,TUR,SWE
-,Round of 16,2,,(Thu) 7 Nov 1985 (W44),Omonia Nicosia (4),1-3,1-2,RSC Anderlecht (2),,,CYP,BEL
-,Round of 16,2,,(Thu) 7 Nov 1985 (W44),Juventus (4),2-0,1-0,Hellas Verona (4),,,ITA,ITA
-,Quarterfinals,1,,(Wed) 5 Mar 1986 (W9),Abderden (5),2-2,1-1,IFK Goteborg (5),,,SCO,SWE
-,Quarterfinals,1,,(Wed) 5 Mar 1986 (W9),FC Barcelona (5),1-0,0-0,Juventus (5),,,ESP,ITA
-,Quarterfinals,1,,(Wed) 5 Mar 1986 (W9),Bayern München (5),2-1,2-0,RSC Anderlecht (3),,,GER,BEL
-,Quarterfinals,1,,(Wed) 5 Mar 1986 (W9),Steaua Bucuresti (5),0-0,0-0,FC Kuusysi (5),,,ROU,FIN
-,Quarterfinals,2,,(Wed) 19 Mar 1986 (W11),IFK Goteborg (6),0-0,0-0,Abderden (6),,,SWE,SCO
-,Quarterfinals,2,,(Wed) 19 Mar 1986 (W11),Juventus (6),1-1,1-1,FC Barcelona (6),,,ITA,ESP
-,Quarterfinals,2,,(Wed) 19 Mar 1986 (W11),FC Kuusysi (6),0-1,0-0,Steaua Bucuresti (6),,,FIN,ROU
-,Quarterfinals,2,,(Wed) 19 Mar 1986 (W11),RSC Anderlecht (4),2-0,2-0,Bayern München (6),,,BEL,GER
-,Semifinals,1,,(Wed) 2 Apr 1986 (W13),IFK Goteborg (7),3-0,2-0,FC Barcelona (7),,,SWE,ESP
-,Semifinals,1,,(Wed) 2 Apr 1986 (W13),RSC Anderlecht (5),1-0,0-0,Steaua Bucuresti (7),,,BEL,ROU
-,Semifinals,2,,(Wed) 16 Apr 1986 (W15),Steaua Bucuresti (8),3-0,2-0,RSC Anderlecht (6),,,ROU,BEL
-,Semifinals,2,,(Wed) 16 Apr 1986 (W15),FC Barcelona (8),3-0,1-0,IFK Goteborg (8),3-0 (a.e.t.),5-4 (pen.),ESP,SWE
-,Final,,,(Wed) 7 May 1986 (W18),Steaua Bucuresti (9),0-0,0-0,FC Barcelona (9),0-0 (a.e.t.),2-0 (pen.),ROU,ESP
+Round,Date,Team 1,FT,HT,Team 2,∑FT,ET,P,Comments
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),AC Sparta Praha › CZE (1),1-2,1-0,FC Barcelona › ESP (1),2-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),IA Akranes › ISL (1),1-3,1-0,Abderden › SCO (1),2-7 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),FC Porto › POR (1),2-0,1-0,AFC Ajax › NED (1),2-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),BFC Dynamo › GER (1),0-2,0-2,Austria Wien › AUT (1),1-4 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),Gornik Zabrze › POL (1),1-2,1-1,Bayern München › GER (1),2-6 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),Budapest Honved SE › HUN (1),2-0,1-0,Shamrock Rovers › IRL (1),5-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),FC Kuusysi › FIN (1),2-1,1-1,FK Sarajevo › BIH (1),4-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),Girondins Bordeaux › FRA (1),2-3,0-1,Fenerbahçe İstanbul SK › TUR (1),2-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),Hellas Verona › ITA (1),3-1,1-0,PAOK FC › GRE (1),5-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),IFK Goteborg › SWE (1),3-2,1-1,Trakia Plovdiv › BUL (1),5-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),Jeunesse Esch › LUX (1),0-5,0-3,Juventus › ITA (1),1-9 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),Linfield › NIR (1),2-2,1-2,Servette Geneve › SUI (1),3-4 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),Rabat Ajax › MLT (1),0-5,0-1,Omonia Nicosia › CYP (1),0-10 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),Vejle BK › DEN (1),1-1,0-0,Steaua Bucuresti › ROU (1),2-5 (agg.),,,
+Round 1 | Leg 1,(Wed) 18 Sep 1985 (W37),Zenit St. Petersburg › RUS (1),2-0,0-0,Valerenga IF › NOR (1),4-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),FC Barcelona › ESP (2),0-1,0-1,AC Sparta Praha › CZE (2),2-2 (agg.),,,away goals
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),Abderden › SCO (2),4-1,1-1,IA Akranes › ISL (2),7-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),AFC Ajax › NED (2),0-0,0-0,FC Porto › POR (2),0-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),Austria Wien › AUT (2),2-1,0-0,BFC Dynamo › GER (2),4-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),Bayern München › GER (2),4-1,1-1,Gornik Zabrze › POL (2),6-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),Shamrock Rovers › IRL (2),1-3,0-0,Budapest Honved SE › HUN (2),1-5 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),FK Sarajevo › BIH (2),1-2,1-2,FC Kuusysi › FIN (2),2-4 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),Fenerbahçe İstanbul SK › TUR (2),0-0,0-0,Girondins Bordeaux › FRA (2),3-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),PAOK FC › GRE (2),1-2,1-1,Hellas Verona › ITA (2),2-5 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),Trakia Plovdiv › BUL (2),1-2,1-1,IFK Goteborg › SWE (2),3-5 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),Juventus › ITA (2),4-1,1-0,Jeunesse Esch › LUX (2),9-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),Servette Geneve › SUI (2),2-1,1-1,Linfield › NIR (2),4-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),Omonia Nicosia › CYP (2),5-0,3-0,Rabat Ajax › MLT (2),10-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),Steaua Bucuresti › ROU (2),4-1,2-1,Vejle BK › DEN (2),5-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 2 Oct 1985 (W39),Valerenga IF › NOR (2),0-2,0-0,Zenit St. Petersburg › RUS (2),0-4 (agg.),,,
+Round of 16 | Leg 1,(Wed) 23 Oct 1985 (W42),FC Barcelona › ESP (3),2-0,0-0,FC Porto › POR (3),3-3 (agg.),,,
+Round of 16 | Leg 1,(Wed) 23 Oct 1985 (W42),Servette Geneve › SUI (3),0-0,0-0,Abderden › SCO (3),0-1 (agg.),,,
+Round of 16 | Leg 1,(Wed) 23 Oct 1985 (W42),Bayern München › GER (3),4-2,3-1,Austria Wien › AUT (3),7-5 (agg.),,,
+Round of 16 | Leg 1,(Wed) 23 Oct 1985 (W42),Budapest Honved SE › HUN (3),1-0,1-0,Steaua Bucuresti › ROU (3),2-4 (agg.),,,
+Round of 16 | Leg 1,(Wed) 23 Oct 1985 (W42),Zenit St. Petersburg › RUS (3),2-1,0-1,FC Kuusysi › FIN (3),3-3 (agg.),,,
+Round of 16 | Leg 1,(Wed) 23 Oct 1985 (W42),IFK Goteborg › SWE (3),4-0,2-0,Fenerbahçe İstanbul SK › TUR (3),5-2 (agg.),,,
+Round of 16 | Leg 1,(Wed) 23 Oct 1985 (W42),Hellas Verona › ITA (3),0-0,0-0,Juventus › ITA (3),0-2 (agg.),,,
+Round of 16 | Leg 1,(Wed) 23 Oct 1985 (W42),RSC Anderlecht › BEL (1),1-0,1-0,Omonia Nicosia › CYP (3),4-1 (agg.),,,
+Round of 16 | Leg 2,(Thu) 7 Nov 1985 (W44),FC Porto › POR (4),3-1,0-0,FC Barcelona › ESP (4),3-3 (agg.),,,away goals
+Round of 16 | Leg 2,(Thu) 7 Nov 1985 (W44),Abderden › SCO (4),1-0,1-0,Servette Geneve › SUI (4),1-0 (agg.),,,
+Round of 16 | Leg 2,(Thu) 7 Nov 1985 (W44),Austria Wien › AUT (4),3-3,1-1,Bayern München › GER (4),5-7 (agg.),,,
+Round of 16 | Leg 2,(Thu) 7 Nov 1985 (W44),Steaua Bucuresti › ROU (4),4-1,2-0,Budapest Honved SE › HUN (4),4-2 (agg.),,,
+Round of 16 | Leg 2,(Thu) 7 Nov 1985 (W44),FC Kuusysi › FIN (4),2-1 (*),0-0,Zenit St. Petersburg › RUS (4),3-3 (agg.),3-1 (a.e.t.),,
+Round of 16 | Leg 2,(Thu) 7 Nov 1985 (W44),Fenerbahçe İstanbul SK › TUR (4),2-1,0-0,IFK Goteborg › SWE (4),2-5 (agg.),,,
+Round of 16 | Leg 2,(Thu) 7 Nov 1985 (W44),Omonia Nicosia › CYP (4),1-3,1-2,RSC Anderlecht › BEL (2),1-4 (agg.),,,
+Round of 16 | Leg 2,(Thu) 7 Nov 1985 (W44),Juventus › ITA (4),2-0,1-0,Hellas Verona › ITA (4),2-0 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 5 Mar 1986 (W9),Abderden › SCO (5),2-2,1-1,IFK Goteborg › SWE (5),2-2 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 5 Mar 1986 (W9),FC Barcelona › ESP (5),1-0,0-0,Juventus › ITA (5),2-1 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 5 Mar 1986 (W9),Bayern München › GER (5),2-1,2-0,RSC Anderlecht › BEL (3),2-3 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 5 Mar 1986 (W9),Steaua Bucuresti › ROU (5),0-0,0-0,FC Kuusysi › FIN (5),1-0 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 19 Mar 1986 (W11),IFK Goteborg › SWE (6),0-0,0-0,Abderden › SCO (6),2-2 (agg.),,,away goals
+Quarterfinals | Leg 2,(Wed) 19 Mar 1986 (W11),Juventus › ITA (6),1-1,1-1,FC Barcelona › ESP (6),1-2 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 19 Mar 1986 (W11),FC Kuusysi › FIN (6),0-1,0-0,Steaua Bucuresti › ROU (6),0-1 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 19 Mar 1986 (W11),RSC Anderlecht › BEL (4),2-0,2-0,Bayern München › GER (6),3-2 (agg.),,,
+Semifinals | Leg 1,(Wed) 2 Apr 1986 (W13),IFK Goteborg › SWE (7),3-0,2-0,FC Barcelona › ESP (7),3-3 (agg.),,,
+Semifinals | Leg 1,(Wed) 2 Apr 1986 (W13),RSC Anderlecht › BEL (5),1-0,0-0,Steaua Bucuresti › ROU (7),1-3 (agg.),,,
+Semifinals | Leg 2,(Wed) 16 Apr 1986 (W15),Steaua Bucuresti › ROU (8),3-0,2-0,RSC Anderlecht › BEL (6),3-1 (agg.),,,
+Semifinals | Leg 2,(Wed) 16 Apr 1986 (W15),FC Barcelona › ESP (8),3-0 (*),1-0,IFK Goteborg › SWE (8),3-3 (agg.),3-0 (a.e.t.),5-4 (pen.),
+Final,(Wed) 7 May 1986 (W18),Steaua Bucuresti › ROU (9),0-0 (*),0-0,FC Barcelona › ESP (9),,0-0 (a.e.t.),2-0 (pen.),

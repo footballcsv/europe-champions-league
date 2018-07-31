@@ -1,64 +1,64 @@
-Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-,Preliminary Round,1,,(Sat) 16 Aug 1980 (W32),Budapest Honved SE (1),8-0,0-0,Valletta (1),,,HUN,MLT
-,Preliminary Round,2,,(Wed) 3 Sep 1980 (W35),Valletta (2),0-3,0-0,Budapest Honved SE (2),,,MLT,HUN
-,Round 1,1,,(Tue) 16 Sep 1980 (W37),Linfield (1),0-1,0-1,FC Nantes (1),,,NIR,FRA
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),Abderden (1),1-0,1-0,Austria Wien (1),,,SCO,AUT
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),Dinamo Tirana (1),0-2,0-0,AFC Ajax (1),,,ALB,NED
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),BFC Dynamo (1),3-0,0-0,APOEL Nikosia (1),,,GER,CYP
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),IB Vestmannaeyja (1),1-1,1-1,Banik Ostrava (1),,,ISL,CZE
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),Club Brugge (1),0-1,0-0,Basel (1),,,BEL,SUI
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),Olympiacos (1),2-4,1-1,Bayern München (1),,,GRE,GER
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),Sporting CP (1),0-2,0-0,Budapest Honved SE (3),,,POR,HUN
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),Viking FK (1),2-3,1-0,Crvena Zvezda (1),,,NOR,SRB
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),CSKA Sofia (1),1-0,0-0,Nottingham Forest FC (1),,,BUL,ENG
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),Halmstads BK (1),0-0,0-0,Esbjerg fB (1),,,SWE,DEN
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),Internazionale (1),2-0,1-0,FC Universitatea Craiova (1),,,ITA,ROU
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),Jeunesse Esch (1),0-5,0-3,Spartak Moskva (1),,,LUX,RUS
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),Limerick FC (1),1-2,0-0,Real Madrid CF (1),,,IRL,ESP
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),OPS Oulu (1),1-1,0-1,Liverpool FC (1),,,FIN,ENG
-,Round 1,1,,(Wed) 17 Sep 1980 (W37),Trabzonspor AŞ (1),2-1,1-0,Szombierki Bytom (1),,,TUR,POL
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Austria Wien (2),0-0,0-0,Abderden (2),,,AUT,SCO
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),AFC Ajax (2),1-0,0-0,Dinamo Tirana (2),,,NED,ALB
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),APOEL Nikosia (2),2-1,1-0,BFC Dynamo (2),,,CYP,GER
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Banik Ostrava (2),1-0,1-0,IB Vestmannaeyja (2),,,CZE,ISL
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Basel (2),4-1,1-1,Club Brugge (2),,,SUI,BEL
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Bayern München (2),3-0,2-0,Olympiacos (2),,,GER,GRE
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Budapest Honved SE (4),1-0,1-0,Sporting CP (2),,,HUN,POR
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Crvena Zvezda (2),4-1,3-0,Viking FK (2),,,SRB,NOR
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Nottingham Forest FC (2),0-1,0-1,CSKA Sofia (2),,,ENG,BUL
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Esbjerg fB (2),3-2,2-1,Halmstads BK (2),,,DEN,SWE
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),FC Universitatea Craiova (2),1-1,1-1,Internazionale (2),,,ROU,ITA
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Spartak Moskva (2),4-0,3-0,Jeunesse Esch (2),,,RUS,LUX
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Real Madrid CF (2),5-1,2-1,Limerick FC (2),,,ESP,IRL
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),FC Nantes (2),2-0,0-0,Linfield (2),,,FRA,NIR
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Liverpool FC (2),10-1,4-0,OPS Oulu (2),,,ENG,FIN
-,Round 1,2,,(Wed) 1 Oct 1980 (W39),Szombierki Bytom (2),3-0,1-0,Trabzonspor AŞ (2),,,POL,TUR
-,Round of 16,1,,(Wed) 22 Oct 1980 (W42),Banik Ostrava (3),0-0,0-0,BFC Dynamo (3),,,CZE,GER
-,Round of 16,1,,(Wed) 22 Oct 1980 (W42),Abderden (3),0-1,0-1,Liverpool FC (3),,,SCO,ENG
-,Round of 16,1,,(Wed) 22 Oct 1980 (W42),Bayern München (3),5-1,1-1,AFC Ajax (3),,,GER,NED
-,Round of 16,1,,(Wed) 22 Oct 1980 (W42),Basel (3),1-0,1-0,Crvena Zvezda (3),,,SUI,SRB
-,Round of 16,1,,(Wed) 22 Oct 1980 (W42),Real Madrid CF (3),1-0,1-0,Budapest Honved SE (5),,,ESP,HUN
-,Round of 16,1,,(Wed) 22 Oct 1980 (W42),CSKA Sofia (3),4-0,1-0,Szombierki Bytom (3),,,BUL,POL
-,Round of 16,1,,(Wed) 22 Oct 1980 (W42),Spartak Moskva (3),3-0,2-0,Esbjerg fB (3),,,RUS,DEN
-,Round of 16,1,,(Wed) 22 Oct 1980 (W42),FC Nantes (3),1-2,0-1,Internazionale (3),,,FRA,ITA
-,Round of 16,2,,(Wed) 5 Nov 1980 (W44),BFC Dynamo (4),1-1,0-1,Banik Ostrava (4),,,GER,CZE
-,Round of 16,2,,(Wed) 5 Nov 1980 (W44),Liverpool FC (4),4-0,2-0,Abderden (4),,,ENG,SCO
-,Round of 16,2,,(Wed) 5 Nov 1980 (W44),AFC Ajax (4),2-1,2-0,Bayern München (4),,,NED,GER
-,Round of 16,2,,(Wed) 5 Nov 1980 (W44),Crvena Zvezda (4),2-0,2-0,Basel (4),,,SRB,SUI
-,Round of 16,2,,(Wed) 5 Nov 1980 (W44),Budapest Honved SE (6),0-2,0-1,Real Madrid CF (4),,,HUN,ESP
-,Round of 16,2,,(Wed) 5 Nov 1980 (W44),Szombierki Bytom (4),0-1,0-0,CSKA Sofia (4),,,POL,BUL
-,Round of 16,2,,(Wed) 5 Nov 1980 (W44),Esbjerg fB (4),2-0,0-0,Spartak Moskva (4),,,DEN,RUS
-,Round of 16,2,,(Wed) 5 Nov 1980 (W44),Internazionale (4),1-1,1-0,FC Nantes (4),,,ITA,FRA
-,Quarterfinals,1,,(Wed) 4 Mar 1981 (W9),Bayern München (5),2-0,0-0,Banik Ostrava (5),,,GER,CZE
-,Quarterfinals,1,,(Wed) 4 Mar 1981 (W9),Internazionale (5),1-1,1-0,Crvena Zvezda (5),,,ITA,SRB
-,Quarterfinals,1,,(Wed) 4 Mar 1981 (W9),Liverpool FC (5),5-1,2-0,CSKA Sofia (5),,,ENG,BUL
-,Quarterfinals,1,,(Wed) 4 Mar 1981 (W9),Spartak Moskva (5),0-0,0-0,Real Madrid CF (5),,,RUS,ESP
-,Quarterfinals,2,,(Wed) 18 Mar 1981 (W11),Banik Ostrava (6),2-4,1-4,Bayern München (6),,,CZE,GER
-,Quarterfinals,2,,(Wed) 18 Mar 1981 (W11),Crvena Zvezda (6),0-1,0-1,Internazionale (6),,,SRB,ITA
-,Quarterfinals,2,,(Wed) 18 Mar 1981 (W11),CSKA Sofia (6),0-1,0-1,Liverpool FC (6),,,BUL,ENG
-,Quarterfinals,2,,(Thu) 19 Mar 1981 (W11),Real Madrid CF (6),2-0,0-0,Spartak Moskva (6),,,ESP,RUS
-,Semifinals,1,,(Wed) 8 Apr 1981 (W14),Liverpool FC (7),0-0,0-0,Bayern München (7),,,ENG,GER
-,Semifinals,1,,(Wed) 8 Apr 1981 (W14),Real Madrid CF (7),2-0,1-0,Internazionale (7),,,ESP,ITA
-,Semifinals,2,,(Wed) 22 Apr 1981 (W16),Bayern München (8),1-1,0-0,Liverpool FC (8),,,GER,ENG
-,Semifinals,2,,(Wed) 22 Apr 1981 (W16),Internazionale (8),1-0,0-0,Real Madrid CF (8),,,ITA,ESP
-,Final,,,(Wed) 27 May 1981 (W21),Liverpool FC (9),1-0,0-0,Real Madrid CF (9),,,ENG,ESP
+Round,Date,Team 1,FT,HT,Team 2,∑FT,ET,P,Comments
+Prelim. Round | Leg 1,(Sat) 16 Aug 1980 (W32),Budapest Honved SE › HUN (1),8-0,0-0,Valletta › MLT (1),11-0 (agg.),,,
+Prelim. Round | Leg 2,(Wed) 3 Sep 1980 (W35),Valletta › MLT (2),0-3,0-0,Budapest Honved SE › HUN (2),0-11 (agg.),,,
+Round 1 | Leg 1,(Tue) 16 Sep 1980 (W37),Linfield › NIR (1),0-1,0-1,FC Nantes › FRA (1),0-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),Abderden › SCO (1),1-0,1-0,Austria Wien › AUT (1),1-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),Dinamo Tirana › ALB (1),0-2,0-0,AFC Ajax › NED (1),0-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),BFC Dynamo › GER (1),3-0,0-0,APOEL Nikosia › CYP (1),4-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),IB Vestmannaeyja › ISL (1),1-1,1-1,Banik Ostrava › CZE (1),1-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),Club Brugge › BEL (1),0-1,0-0,Basel › SUI (1),1-5 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),Olympiacos › GRE (1),2-4,1-1,Bayern München › GER (1),2-7 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),Sporting CP › POR (1),0-2,0-0,Budapest Honved SE › HUN (3),0-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),Viking FK › NOR (1),2-3,1-0,Crvena Zvezda › SRB (1),3-7 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),CSKA Sofia › BUL (1),1-0,0-0,Nottingham Forest FC › ENG (1),2-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),Halmstads BK › SWE (1),0-0,0-0,Esbjerg fB › DEN (1),2-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),Internazionale › ITA (1),2-0,1-0,FC Universitatea Craiova › ROU (1),3-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),Jeunesse Esch › LUX (1),0-5,0-3,Spartak Moskva › RUS (1),0-9 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),Limerick FC › IRL (1),1-2,0-0,Real Madrid CF › ESP (1),2-7 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),OPS Oulu › FIN (1),1-1,0-1,Liverpool FC › ENG (1),2-11 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1980 (W37),Trabzonspor AŞ › TUR (1),2-1,1-0,Szombierki Bytom › POL (1),2-4 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Austria Wien › AUT (2),0-0,0-0,Abderden › SCO (2),0-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),AFC Ajax › NED (2),1-0,0-0,Dinamo Tirana › ALB (2),3-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),APOEL Nikosia › CYP (2),2-1,1-0,BFC Dynamo › GER (2),2-4 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Banik Ostrava › CZE (2),1-0,1-0,IB Vestmannaeyja › ISL (2),2-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Basel › SUI (2),4-1,1-1,Club Brugge › BEL (2),5-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Bayern München › GER (2),3-0,2-0,Olympiacos › GRE (2),7-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Budapest Honved SE › HUN (4),1-0,1-0,Sporting CP › POR (2),3-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Crvena Zvezda › SRB (2),4-1,3-0,Viking FK › NOR (2),7-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Nottingham Forest FC › ENG (2),0-1,0-1,CSKA Sofia › BUL (2),0-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Esbjerg fB › DEN (2),3-2,2-1,Halmstads BK › SWE (2),3-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),FC Universitatea Craiova › ROU (2),1-1,1-1,Internazionale › ITA (2),1-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Spartak Moskva › RUS (2),4-0,3-0,Jeunesse Esch › LUX (2),9-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Real Madrid CF › ESP (2),5-1,2-1,Limerick FC › IRL (2),7-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),FC Nantes › FRA (2),2-0,0-0,Linfield › NIR (2),3-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Liverpool FC › ENG (2),10-1,4-0,OPS Oulu › FIN (2),11-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1980 (W39),Szombierki Bytom › POL (2),3-0,1-0,Trabzonspor AŞ › TUR (2),4-2 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1980 (W42),Banik Ostrava › CZE (3),0-0,0-0,BFC Dynamo › GER (3),1-1 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1980 (W42),Abderden › SCO (3),0-1,0-1,Liverpool FC › ENG (3),0-5 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1980 (W42),Bayern München › GER (3),5-1,1-1,AFC Ajax › NED (3),6-3 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1980 (W42),Basel › SUI (3),1-0,1-0,Crvena Zvezda › SRB (3),1-2 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1980 (W42),Real Madrid CF › ESP (3),1-0,1-0,Budapest Honved SE › HUN (5),3-0 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1980 (W42),CSKA Sofia › BUL (3),4-0,1-0,Szombierki Bytom › POL (3),5-0 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1980 (W42),Spartak Moskva › RUS (3),3-0,2-0,Esbjerg fB › DEN (3),3-2 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1980 (W42),FC Nantes › FRA (3),1-2,0-1,Internazionale › ITA (3),2-3 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1980 (W44),BFC Dynamo › GER (4),1-1,0-1,Banik Ostrava › CZE (4),1-1 (agg.),,,away goals
+Round of 16 | Leg 2,(Wed) 5 Nov 1980 (W44),Liverpool FC › ENG (4),4-0,2-0,Abderden › SCO (4),5-0 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1980 (W44),AFC Ajax › NED (4),2-1,2-0,Bayern München › GER (4),3-6 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1980 (W44),Crvena Zvezda › SRB (4),2-0,2-0,Basel › SUI (4),2-1 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1980 (W44),Budapest Honved SE › HUN (6),0-2,0-1,Real Madrid CF › ESP (4),0-3 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1980 (W44),Szombierki Bytom › POL (4),0-1,0-0,CSKA Sofia › BUL (4),0-5 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1980 (W44),Esbjerg fB › DEN (4),2-0,0-0,Spartak Moskva › RUS (4),2-3 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1980 (W44),Internazionale › ITA (4),1-1,1-0,FC Nantes › FRA (4),3-2 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 4 Mar 1981 (W9),Bayern München › GER (5),2-0,0-0,Banik Ostrava › CZE (5),6-2 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 4 Mar 1981 (W9),Internazionale › ITA (5),1-1,1-0,Crvena Zvezda › SRB (5),2-1 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 4 Mar 1981 (W9),Liverpool FC › ENG (5),5-1,2-0,CSKA Sofia › BUL (5),6-1 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 4 Mar 1981 (W9),Spartak Moskva › RUS (5),0-0,0-0,Real Madrid CF › ESP (5),0-2 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 18 Mar 1981 (W11),Banik Ostrava › CZE (6),2-4,1-4,Bayern München › GER (6),2-6 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 18 Mar 1981 (W11),Crvena Zvezda › SRB (6),0-1,0-1,Internazionale › ITA (6),1-2 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 18 Mar 1981 (W11),CSKA Sofia › BUL (6),0-1,0-1,Liverpool FC › ENG (6),1-6 (agg.),,,
+Quarterfinals | Leg 2,(Thu) 19 Mar 1981 (W11),Real Madrid CF › ESP (6),2-0,0-0,Spartak Moskva › RUS (6),2-0 (agg.),,,
+Semifinals | Leg 1,(Wed) 8 Apr 1981 (W14),Liverpool FC › ENG (7),0-0,0-0,Bayern München › GER (7),1-1 (agg.),,,
+Semifinals | Leg 1,(Wed) 8 Apr 1981 (W14),Real Madrid CF › ESP (7),2-0,1-0,Internazionale › ITA (7),2-1 (agg.),,,
+Semifinals | Leg 2,(Wed) 22 Apr 1981 (W16),Bayern München › GER (8),1-1,0-0,Liverpool FC › ENG (8),1-1 (agg.),,,away goals
+Semifinals | Leg 2,(Wed) 22 Apr 1981 (W16),Internazionale › ITA (8),1-0,0-0,Real Madrid CF › ESP (8),1-2 (agg.),,,
+Final,(Wed) 27 May 1981 (W21),Liverpool FC › ENG (9),1-0,0-0,Real Madrid CF › ESP (9),,,,

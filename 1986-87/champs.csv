@@ -1,58 +1,58 @@
-Stage,Round,Leg,Group,Date,Team 1,FT,HT,Team 2,ET,P,Country 1,Country 2
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),APOEL Nikosia (1),1-0,1-0,HJK Helsinki (1),,,CYP,FIN
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),Avenir Beggen (1),0-3,0-1,Austria Wien (1),,,LUX,AUT
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),PSV Eindhoven (1),0-2,0-0,Bayern München (1),,,NED,GER
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),Beşiktaş İstanbul JK (1),2-0,0-0,Dinamo Tirana (1),,,TUR,ALB
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),Orgryte IS (1),2-3,0-1,BFC Dynamo (1),,,SWE,GER
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),Brondby IF (1),4-1,1-1,Budapest Honved SE (1),,,DEN,HUN
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),BSC Young Boys (1),1-0,1-0,Real Madrid CF (1),,,SUI,ESP
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),Shamrock Rovers (1),0-1,0-0,Celtic FC (1),,,IRL,SCO
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),Crvena Zvezda (1),3-0,1-0,Panathinaikos FC (1),,,SRB,GRE
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),PFC Beroe (1),1-1,0-0,Dinamo Kiev (1),,,BUL,UKR
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),FC Porto (1),9-0,2-0,Rabat Ajax (1),,,POR,MLT
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),RSC Anderlecht (1),2-0,2-0,Gornik Zabrze (1),,,BEL,POL
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),Juventus (1),7-0,3-0,Valur Reykjavik (1),,,ITA,ISL
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),Rosenborg BK (1),1-0,1-0,Linfield (1),,,NOR,NIR
-,Round 1,1,,(Wed) 17 Sep 1986 (W37),Paris Saint-Germain (1),2-2,1-2,TJ Vitkovice (1),,,FRA,CZE
-,Round 1,2,,(Tue) 30 Sep 1986 (W39),TJ Vitkovice (2),1-0,0-0,Paris Saint-Germain (2),,,CZE,FRA
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Real Madrid CF (2),5-0,1-0,BSC Young Boys (2),,,ESP,SUI
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Austria Wien (2),3-0,1-0,Avenir Beggen (2),,,AUT,LUX
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Bayern München (2),0-0,0-0,PSV Eindhoven (2),,,GER,NED
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Dinamo Tirana (2),0-1,0-1,Beşiktaş İstanbul JK (2),,,ALB,TUR
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),BFC Dynamo (2),4-1,2-1,Orgryte IS (2),,,GER,SWE
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Budapest Honved SE (2),2-2,1-0,Brondby IF (2),,,HUN,DEN
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),HJK Helsinki (2),3-2,2-1,APOEL Nikosia (2),,,FIN,CYP
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Celtic FC (2),2-0,1-0,Shamrock Rovers (2),,,SCO,IRL
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Panathinaikos FC (2),2-1,2-0,Crvena Zvezda (2),,,GRE,SRB
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Dinamo Kiev (2),2-0,1-0,PFC Beroe (2),,,UKR,BUL
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Rabat Ajax (2),0-1,0-0,FC Porto (2),,,MLT,POR
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Gornik Zabrze (2),1-1,0-0,RSC Anderlecht (2),,,POL,BEL
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Linfield (2),1-1,0-0,Rosenborg BK (2),,,NIR,NOR
-,Round 1,2,,(Wed) 1 Oct 1986 (W39),Valur Reykjavik (2),0-4,0-3,Juventus (2),,,ISL,ITA
-,Round of 16,1,,(Wed) 22 Oct 1986 (W42),Real Madrid CF (3),1-0,1-0,Juventus (3),,,ESP,ITA
-,Round of 16,1,,(Wed) 22 Oct 1986 (W42),Bayern München (3),2-0,1-0,Austria Wien (3),,,GER,AUT
-,Round of 16,1,,(Wed) 22 Oct 1986 (W42),Brondby IF (3),2-1,1-0,BFC Dynamo (3),,,DEN,GER
-,Round of 16,1,,(Wed) 22 Oct 1986 (W42),Celtic FC (3),1-1,0-1,Dinamo Kiev (3),,,SCO,UKR
-,Round of 16,1,,(Wed) 22 Oct 1986 (W42),Rosenborg BK (3),0-3,0-1,Crvena Zvezda (3),,,NOR,SRB
-,Round of 16,1,,(Wed) 22 Oct 1986 (W42),TJ Vitkovice (3),1-0,1-0,FC Porto (3),,,CZE,POR
-,Round of 16,1,,(Wed) 22 Oct 1986 (W42),RSC Anderlecht (3),3-0,0-0,Steaua Bucuresti (1),,,BEL,ROU
-,Round of 16,2,,(Wed) 5 Nov 1986 (W44),Juventus (4),1-0,1-0,Real Madrid CF (4),1-0 (a.e.t.),1-3 (pen.),ITA,ESP
-,Round of 16,2,,(Wed) 5 Nov 1986 (W44),Austria Wien (4),1-1,0-1,Bayern München (4),,,AUT,GER
-,Round of 16,2,,(Wed) 5 Nov 1986 (W44),BFC Dynamo (4),1-1,1-1,Brondby IF (4),,,GER,DEN
-,Round of 16,2,,(Wed) 5 Nov 1986 (W44),Dinamo Kiev (4),3-1,1-0,Celtic FC (4),,,UKR,SCO
-,Round of 16,2,,(Wed) 5 Nov 1986 (W44),Crvena Zvezda (4),4-1,4-0,Rosenborg BK (4),,,SRB,NOR
-,Round of 16,2,,(Wed) 5 Nov 1986 (W44),FC Porto (4),3-0,2-0,TJ Vitkovice (4),,,POR,CZE
-,Round of 16,2,,(Wed) 5 Nov 1986 (W44),Steaua Bucuresti (2),1-0,0-0,RSC Anderlecht (4),,,ROU,BEL
-,Quarterfinals,1,,(Wed) 4 Mar 1987 (W9),Crvena Zvezda (5),4-2,3-0,Real Madrid CF (5),,,SRB,ESP
-,Quarterfinals,1,,(Wed) 4 Mar 1987 (W9),Bayern München (5),5-0,2-0,RSC Anderlecht (5),,,GER,BEL
-,Quarterfinals,1,,(Wed) 4 Mar 1987 (W9),FC Porto (5),1-0,0-0,Brondby IF (5),,,POR,DEN
-,Quarterfinals,1,,(Sat) 14 Mar 1987 (W10),Beşiktaş İstanbul JK (3),0-5,0-2,Dinamo Kiev (5),,,TUR,UKR
-,Quarterfinals,2,,(Wed) 18 Mar 1987 (W11),Real Madrid CF (6),2-0,1-0,Crvena Zvezda (6),,,ESP,SRB
-,Quarterfinals,2,,(Wed) 18 Mar 1987 (W11),RSC Anderlecht (6),2-2,1-0,Bayern München (6),,,BEL,GER
-,Quarterfinals,2,,(Wed) 18 Mar 1987 (W11),Brondby IF (6),1-1,1-0,FC Porto (6),,,DEN,POR
-,Quarterfinals,2,,(Wed) 18 Mar 1987 (W11),Dinamo Kiev (6),2-0,0-0,Beşiktaş İstanbul JK (4),,,UKR,TUR
-,Semifinals,1,,(Wed) 8 Apr 1987 (W14),Bayern München (7),4-1,3-1,Real Madrid CF (7),,,GER,ESP
-,Semifinals,1,,(Wed) 8 Apr 1987 (W14),FC Porto (7),2-1,0-0,Dinamo Kiev (7),,,POR,UKR
-,Semifinals,2,,(Wed) 22 Apr 1987 (W16),Dinamo Kiev (8),1-2,1-2,FC Porto (8),,,UKR,POR
-,Semifinals,2,,(Wed) 22 Apr 1987 (W16),Real Madrid CF (8),1-0,1-0,Bayern München (8),,,ESP,GER
-,Final,,,(Wed) 27 May 1987 (W21),FC Porto (9),2-1,0-0,Bayern München (9),,,POR,GER
+Round,Date,Team 1,FT,HT,Team 2,∑FT,ET,P,Comments
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),APOEL Nikosia › CYP (1),1-0,1-0,HJK Helsinki › FIN (1),3-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),Avenir Beggen › LUX (1),0-3,0-1,Austria Wien › AUT (1),0-6 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),PSV Eindhoven › NED (1),0-2,0-0,Bayern München › GER (1),0-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),Beşiktaş İstanbul JK › TUR (1),2-0,0-0,Dinamo Tirana › ALB (1),3-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),Orgryte IS › SWE (1),2-3,0-1,BFC Dynamo › GER (1),3-7 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),Brondby IF › DEN (1),4-1,1-1,Budapest Honved SE › HUN (1),6-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),BSC Young Boys › SUI (1),1-0,1-0,Real Madrid CF › ESP (1),1-5 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),Shamrock Rovers › IRL (1),0-1,0-0,Celtic FC › SCO (1),0-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),Crvena Zvezda › SRB (1),3-0,1-0,Panathinaikos FC › GRE (1),4-2 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),PFC Beroe › BUL (1),1-1,0-0,Dinamo Kiev › UKR (1),1-3 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),FC Porto › POR (1),9-0,2-0,Rabat Ajax › MLT (1),10-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),RSC Anderlecht › BEL (1),2-0,2-0,Gornik Zabrze › POL (1),3-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),Juventus › ITA (1),7-0,3-0,Valur Reykjavik › ISL (1),11-0 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),Rosenborg BK › NOR (1),1-0,1-0,Linfield › NIR (1),2-1 (agg.),,,
+Round 1 | Leg 1,(Wed) 17 Sep 1986 (W37),Paris Saint-Germain › FRA (1),2-2,1-2,TJ Vitkovice › CZE (1),2-3 (agg.),,,
+Round 1 | Leg 2,(Tue) 30 Sep 1986 (W39),TJ Vitkovice › CZE (2),1-0,0-0,Paris Saint-Germain › FRA (2),3-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Real Madrid CF › ESP (2),5-0,1-0,BSC Young Boys › SUI (2),5-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Austria Wien › AUT (2),3-0,1-0,Avenir Beggen › LUX (2),6-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Bayern München › GER (2),0-0,0-0,PSV Eindhoven › NED (2),2-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Dinamo Tirana › ALB (2),0-1,0-1,Beşiktaş İstanbul JK › TUR (2),0-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),BFC Dynamo › GER (2),4-1,2-1,Orgryte IS › SWE (2),7-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Budapest Honved SE › HUN (2),2-2,1-0,Brondby IF › DEN (2),3-6 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),HJK Helsinki › FIN (2),3-2,2-1,APOEL Nikosia › CYP (2),3-3 (agg.),,,away goals
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Celtic FC › SCO (2),2-0,1-0,Shamrock Rovers › IRL (2),3-0 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Panathinaikos FC › GRE (2),2-1,2-0,Crvena Zvezda › SRB (2),2-4 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Dinamo Kiev › UKR (2),2-0,1-0,PFC Beroe › BUL (2),3-1 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Rabat Ajax › MLT (2),0-1,0-0,FC Porto › POR (2),0-10 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Gornik Zabrze › POL (2),1-1,0-0,RSC Anderlecht › BEL (2),1-3 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Linfield › NIR (2),1-1,0-0,Rosenborg BK › NOR (2),1-2 (agg.),,,
+Round 1 | Leg 2,(Wed) 1 Oct 1986 (W39),Valur Reykjavik › ISL (2),0-4,0-3,Juventus › ITA (2),0-11 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1986 (W42),Real Madrid CF › ESP (3),1-0,1-0,Juventus › ITA (3),1-1 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1986 (W42),Bayern München › GER (3),2-0,1-0,Austria Wien › AUT (3),3-1 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1986 (W42),Brondby IF › DEN (3),2-1,1-0,BFC Dynamo › GER (3),3-2 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1986 (W42),Celtic FC › SCO (3),1-1,0-1,Dinamo Kiev › UKR (3),2-4 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1986 (W42),Rosenborg BK › NOR (3),0-3,0-1,Crvena Zvezda › SRB (3),1-7 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1986 (W42),TJ Vitkovice › CZE (3),1-0,1-0,FC Porto › POR (3),1-3 (agg.),,,
+Round of 16 | Leg 1,(Wed) 22 Oct 1986 (W42),RSC Anderlecht › BEL (3),3-0,0-0,Steaua Bucuresti › ROU (1),3-1 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1986 (W44),Juventus › ITA (4),1-0 (*),1-0,Real Madrid CF › ESP (4),1-1 (agg.),1-0 (a.e.t.),1-3 (pen.),
+Round of 16 | Leg 2,(Wed) 5 Nov 1986 (W44),Austria Wien › AUT (4),1-1,0-1,Bayern München › GER (4),1-3 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1986 (W44),BFC Dynamo › GER (4),1-1,1-1,Brondby IF › DEN (4),2-3 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1986 (W44),Dinamo Kiev › UKR (4),3-1,1-0,Celtic FC › SCO (4),4-2 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1986 (W44),Crvena Zvezda › SRB (4),4-1,4-0,Rosenborg BK › NOR (4),7-1 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1986 (W44),FC Porto › POR (4),3-0,2-0,TJ Vitkovice › CZE (4),3-1 (agg.),,,
+Round of 16 | Leg 2,(Wed) 5 Nov 1986 (W44),Steaua Bucuresti › ROU (2),1-0,0-0,RSC Anderlecht › BEL (4),1-3 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 4 Mar 1987 (W9),Crvena Zvezda › SRB (5),4-2,3-0,Real Madrid CF › ESP (5),4-4 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 4 Mar 1987 (W9),Bayern München › GER (5),5-0,2-0,RSC Anderlecht › BEL (5),7-2 (agg.),,,
+Quarterfinals | Leg 1,(Wed) 4 Mar 1987 (W9),FC Porto › POR (5),1-0,0-0,Brondby IF › DEN (5),2-1 (agg.),,,
+Quarterfinals | Leg 1,(Sat) 14 Mar 1987 (W10),Beşiktaş İstanbul JK › TUR (3),0-5,0-2,Dinamo Kiev › UKR (5),0-7 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 18 Mar 1987 (W11),Real Madrid CF › ESP (6),2-0,1-0,Crvena Zvezda › SRB (6),4-4 (agg.),,,away goals
+Quarterfinals | Leg 2,(Wed) 18 Mar 1987 (W11),RSC Anderlecht › BEL (6),2-2,1-0,Bayern München › GER (6),2-7 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 18 Mar 1987 (W11),Brondby IF › DEN (6),1-1,1-0,FC Porto › POR (6),1-2 (agg.),,,
+Quarterfinals | Leg 2,(Wed) 18 Mar 1987 (W11),Dinamo Kiev › UKR (6),2-0,0-0,Beşiktaş İstanbul JK › TUR (4),7-0 (agg.),,,
+Semifinals | Leg 1,(Wed) 8 Apr 1987 (W14),Bayern München › GER (7),4-1,3-1,Real Madrid CF › ESP (7),4-2 (agg.),,,
+Semifinals | Leg 1,(Wed) 8 Apr 1987 (W14),FC Porto › POR (7),2-1,0-0,Dinamo Kiev › UKR (7),4-2 (agg.),,,
+Semifinals | Leg 2,(Wed) 22 Apr 1987 (W16),Dinamo Kiev › UKR (8),1-2,1-2,FC Porto › POR (8),2-4 (agg.),,,
+Semifinals | Leg 2,(Wed) 22 Apr 1987 (W16),Real Madrid CF › ESP (8),1-0,1-0,Bayern München › GER (8),2-4 (agg.),,,
+Final,(Wed) 27 May 1987 (W21),FC Porto › POR (9),2-1,0-0,Bayern München › GER (9),,,,
