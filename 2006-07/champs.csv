@@ -41,7 +41,7 @@ Qualifying,Qual. Round 2 | Leg 2,,(Wed) 2 Aug 2006 (W31),Crvena Zvezda › SRB (
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 2 Aug 2006 (W31),Rabotnicki › MKD (4),4-1,0-0,Debreceni VSC › HUN (2),5-2 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 2 Aug 2006 (W31),Dinamo Kiev › UKR (2),4-0,0-0,Liepajas Metalurgs › LVA (4),8-1 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 2 Aug 2006 (W31),Dinamo Zagreb › CRO (2),5-2,0-0,FK Ekranas › LTU (4),9-3 (agg.),,,
-Qualifying,Qual. Round 2 | Leg 2,,(Wed) 2 Aug 2006 (W31),Spartak Moskva › RUS (2),0-0,0-0,Sheriff Tiraspol › MDA (4),1-1 (agg.),,,away goals
+Qualifying,Qual. Round 2 | Leg 2,,(Wed) 2 Aug 2006 (W31),Spartak Moskva › RUS (2),0-0,0-0,Sheriff Tiraspol › MDA (4),1-1 (agg.),,,Away Goals (1)
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 2 Aug 2006 (W31),FC RB Salzburg › AUT (2),2-0,0-0,FC Zurich › SUI (2),3-2 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 2 Aug 2006 (W31),Legia Warsaw › POL (2),2-0,0-0,FH › ISL (4),3-0 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 2 Aug 2006 (W31),NK Siroki Brijeg › BIH (4),0-0,0-0,Heart of Midlothian › SCO (2),0-3 (agg.),,,
@@ -65,7 +65,7 @@ Qualifying,Qual. Round 3 | Leg 1,,(Wed) 9 Aug 2006 (W32),Liverpool FC › ENG (1
 Qualifying,Qual. Round 3 | Leg 1,,(Wed) 9 Aug 2006 (W32),FC RB Salzburg › AUT (3),1-0,0-0,Valencia CF › ESP (1),,,,
 Qualifying,Qual. Round 3 | Leg 1,,(Wed) 9 Aug 2006 (W32),Slovan Liberec › CZE (1),0-0,0-0,Spartak Moskva › RUS (3),,,,
 Qualifying,Qual. Round 3 | Leg 1,,(Wed) 9 Aug 2006 (W32),Standard Liege › BEL (1),2-2,0-0,Steaua Bucuresti › ROU (3),,,,
-Qualifying,Qual. Round 3 | Leg 2,,(Tue) 22 Aug 2006 (W34),CA Osasuna › ESP (2),1-1,0-0,Hamburger SV › GER (2),1-1 (agg.),,,away goals
+Qualifying,Qual. Round 3 | Leg 2,,(Tue) 22 Aug 2006 (W34),CA Osasuna › ESP (2),1-1,0-0,Hamburger SV › GER (2),1-1 (agg.),,,Away Goals (2)
 Qualifying,Qual. Round 3 | Leg 2,,(Tue) 22 Aug 2006 (W34),Crvena Zvezda › SRB (4),1-2,0-0,AC Milan › ITA (2),1-3 (agg.),,,
 Qualifying,Qual. Round 3 | Leg 2,,(Tue) 22 Aug 2006 (W34),SL Benfica › POR (2),3-0,0-0,Austria Wien › AUT (2),4-1 (agg.),,,
 Qualifying,Qual. Round 3 | Leg 2,,(Tue) 22 Aug 2006 (W34),Maccabi Haifa › ISR (2),1-1,0-0,Liverpool FC › ENG (2),2-3 (agg.),,,
@@ -185,11 +185,11 @@ Knockout,Round of 16 | Leg 1,,(Wed) 21 Feb 2007 (W8),FC Barcelona › ESP (7),1-
 Knockout,Round of 16 | Leg 1,,(Wed) 21 Feb 2007 (W8),Internazionale › ITA (7),2-2,1-0,Valencia CF › ESP (9),,,,
 Knockout,Round of 16 | Leg 1,,(Wed) 21 Feb 2007 (W8),AS Roma › ITA (7),0-0,0-0,Olympique Lyon › FRA (7),,,,
 Knockout,Round of 16 | Leg 1,,(Wed) 21 Feb 2007 (W8),FC Porto › POR (7),1-1,1-1,Chelsea FC › ENG (7),,,,
-Knockout,Round of 16 | Leg 2,,(Tue) 6 Mar 2007 (W10),Liverpool FC › ENG (10),0-1,0-0,FC Barcelona › ESP (8),2-2 (agg.),,,away goals
-Knockout,Round of 16 | Leg 2,,(Tue) 6 Mar 2007 (W10),Valencia CF › ESP (10),0-0,0-0,Internazionale › ITA (8),2-2 (agg.),,,away goals
+Knockout,Round of 16 | Leg 2,,(Tue) 6 Mar 2007 (W10),Liverpool FC › ENG (10),0-1,0-0,FC Barcelona › ESP (8),2-2 (agg.),,,Away Goals (1)
+Knockout,Round of 16 | Leg 2,,(Tue) 6 Mar 2007 (W10),Valencia CF › ESP (10),0-0,0-0,Internazionale › ITA (8),2-2 (agg.),,,Away Goals (1)
 Knockout,Round of 16 | Leg 2,,(Tue) 6 Mar 2007 (W10),Olympique Lyon › FRA (8),0-2,0-2,AS Roma › ITA (8),0-2 (agg.),,,
 Knockout,Round of 16 | Leg 2,,(Tue) 6 Mar 2007 (W10),Chelsea FC › ENG (8),2-1,0-1,FC Porto › POR (8),3-2 (agg.),,,
-Knockout,Round of 16 | Leg 2,,(Wed) 7 Mar 2007 (W10),Bayern München › GER (8),2-1,1-0,Real Madrid CF › ESP (8),4-4 (agg.),,,away goals
+Knockout,Round of 16 | Leg 2,,(Wed) 7 Mar 2007 (W10),Bayern München › GER (8),2-1,1-0,Real Madrid CF › ESP (8),4-4 (agg.),,,Away Goals (1)
 Knockout,Round of 16 | Leg 2,,(Wed) 7 Mar 2007 (W10),AC Milan › ITA (10),0-0 (*),0-0,Celtic FC › SCO (8),0-0 (agg.),1-0 (a.e.t.),,
 Knockout,Round of 16 | Leg 2,,(Wed) 7 Mar 2007 (W10),Manchester United FC › ENG (8),1-0,0-0,Lille OSC › FRA (10),2-0 (agg.),,,
 Knockout,Round of 16 | Leg 2,,(Wed) 7 Mar 2007 (W10),Arsenal FC › ENG (10),1-1,0-0,PSV Eindhoven › NED (8),1-2 (agg.),,,

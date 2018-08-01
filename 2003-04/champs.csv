@@ -10,7 +10,7 @@ Qualifying,Qual. Round 1 | Leg 1,,(Wed) 16 Jul 2003 (W28),Glentoran › NIR (1),
 Qualifying,Qual. Round 1 | Leg 1,,(Wed) 16 Jul 2003 (W28),Omonia Nicosia › CYP (1),0-0,0-0,Irtysh Pavlodar › KAZ (1),,,,
 Qualifying,Qual. Round 1 | Leg 1,,(Wed) 16 Jul 2003 (W28),Pyunik › ARM (1),1-0,0-0,KR Reykjavik › ISL (1),,,,
 Qualifying,Qual. Round 1 | Leg 2,,(Wed) 23 Jul 2003 (W29),KF Tirana › ALB (2),3-0 (*),0-0,Dinamo Tbilisi › GEO (2),3-3 (agg.),3-0 (a.e.t.),4-2 (pen.),
-Qualifying,Qual. Round 1 | Leg 2,,(Wed) 23 Jul 2003 (W29),Skonto › LVA (2),3-1,0-0,Sliema Wanderers › MLT (2),3-3 (agg.),,,away goals
+Qualifying,Qual. Round 1 | Leg 2,,(Wed) 23 Jul 2003 (W29),Skonto › LVA (2),3-1,0-0,Sliema Wanderers › MLT (2),3-3 (agg.),,,Away Goals (2)
 Qualifying,Qual. Round 1 | Leg 2,,(Wed) 23 Jul 2003 (W29),Barry Town › WAL (2),2-1,0-0,Vardar Skopje › MKD (2),2-4 (agg.),,,
 Qualifying,Qual. Round 1 | Leg 2,,(Wed) 23 Jul 2003 (W29),Bohemians › IRL (2),3-0,0-0,BATE Borisov › BLR (2),3-1 (agg.),,,
 Qualifying,Qual. Round 1 | Leg 2,,(Wed) 23 Jul 2003 (W29),FBK Kaunas › LTU (2),4-1,0-0,HB › FRO (2),5-1 (agg.),,,
@@ -42,7 +42,7 @@ Qualifying,Qual. Round 2 | Leg 2,,(Wed) 6 Aug 2003 (W31),Slavia Praha › CZE (2
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 6 Aug 2003 (W31),Grazer AK › AUT (2),2-1,0-0,KF Tirana › ALB (4),7-2 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 6 Aug 2003 (W31),HJK Helsinki › FIN (4),1-0,0-0,MTK › HUN (2),2-3 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 6 Aug 2003 (W31),Sliema Wanderers › MLT (4),0-6,0-0,Kobenhavn › DEN (2),1-10 (agg.),,,
-Qualifying,Qual. Round 2 | Leg 2,,(Wed) 6 Aug 2003 (W31),Djurgardens IF › SWE (2),2-2,0-0,Partizan Belgrade › SRB (2),3-3 (agg.),,,away goals
+Qualifying,Qual. Round 2 | Leg 2,,(Wed) 6 Aug 2003 (W31),Djurgardens IF › SWE (2),2-2,0-0,Partizan Belgrade › SRB (2),3-3 (agg.),,,Away Goals (2)
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 6 Aug 2003 (W31),Omonia Nicosia › CYP (4),2-2,0-0,Wisla Krakow › POL (2),4-7 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 6 Aug 2003 (W31),RSC Anderlecht › BEL (2),3-2,0-0,Rapid Bucuresti › ROU (2),3-2 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 6 Aug 2003 (W31),Shakhtar Donetsk › UKR (2),2-0,0-0,Sheriff Tiraspol › MDA (4),2-0 (agg.),,,
@@ -187,7 +187,7 @@ Knockout,Round of 16 | Leg 2,,(Tue) 9 Mar 2004 (W10),Chelsea FC › ENG (10),0-0
 Knockout,Round of 16 | Leg 2,,(Tue) 9 Mar 2004 (W10),Juventus › ITA (8),0-1,0-1,Deportivo La Coruna › ESP (10),0-2 (agg.),,,
 Knockout,Round of 16 | Leg 2,,(Tue) 9 Mar 2004 (W10),Manchester United FC › ENG (8),1-1,1-0,FC Porto › POR (8),2-3 (agg.),,,
 Knockout,Round of 16 | Leg 2,,(Tue) 9 Mar 2004 (W10),Olympique Lyon › FRA (8),1-0,0-0,Real Sociedad › ESP (8),2-0 (agg.),,,
-Knockout,Round of 16 | Leg 2,,(Wed) 10 Mar 2004 (W10),AS Monaco › FRA (8),1-0,0-0,Lokomotiv Moskva › RUS (10),2-2 (agg.),,,away goals
+Knockout,Round of 16 | Leg 2,,(Wed) 10 Mar 2004 (W10),AS Monaco › FRA (8),1-0,0-0,Lokomotiv Moskva › RUS (10),2-2 (agg.),,,Away Goals (1)
 Knockout,Round of 16 | Leg 2,,(Wed) 10 Mar 2004 (W10),Real Madrid CF › ESP (8),1-0,1-0,Bayern München › GER (8),2-1 (agg.),,,
 Knockout,Round of 16 | Leg 2,,(Wed) 10 Mar 2004 (W10),Arsenal FC › ENG (8),2-0,2-0,Celta Vigo › ESP (10),5-2 (agg.),,,
 Knockout,Round of 16 | Leg 2,,(Wed) 10 Mar 2004 (W10),AC Milan › ITA (8),4-1,1-0,Sparta Praha › CZE (10),4-1 (agg.),,,
@@ -195,7 +195,7 @@ Knockout,Quarterfinals | Leg 1,,(Tue) 23 Mar 2004 (W12),AC Milan › ITA (9),4-1
 Knockout,Quarterfinals | Leg 1,,(Tue) 23 Mar 2004 (W12),FC Porto › POR (9),2-0,1-0,Olympique Lyon › FRA (9),,,,
 Knockout,Quarterfinals | Leg 1,,(Wed) 24 Mar 2004 (W12),Chelsea FC › ENG (11),1-1,0-0,Arsenal FC › ENG (9),,,,
 Knockout,Quarterfinals | Leg 1,,(Wed) 24 Mar 2004 (W12),Real Madrid CF › ESP (9),4-2,0-1,AS Monaco › FRA (9),,,,
-Knockout,Quarterfinals | Leg 2,,(Tue) 6 Apr 2004 (W14),AS Monaco › FRA (10),3-1,1-1,Real Madrid CF › ESP (10),5-5 (agg.),,,away goals
+Knockout,Quarterfinals | Leg 2,,(Tue) 6 Apr 2004 (W14),AS Monaco › FRA (10),3-1,1-1,Real Madrid CF › ESP (10),5-5 (agg.),,,Away Goals (1)
 Knockout,Quarterfinals | Leg 2,,(Tue) 6 Apr 2004 (W14),Arsenal FC › ENG (10),1-2,1-0,Chelsea FC › ENG (12),2-3 (agg.),,,
 Knockout,Quarterfinals | Leg 2,,(Wed) 7 Apr 2004 (W14),Deportivo La Coruna › ESP (12),4-0,3-0,AC Milan › ITA (10),5-4 (agg.),,,
 Knockout,Quarterfinals | Leg 2,,(Wed) 7 Apr 2004 (W14),Olympique Lyon › FRA (10),2-2,1-1,FC Porto › POR (10),2-4 (agg.),,,

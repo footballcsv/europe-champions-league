@@ -15,9 +15,9 @@ Stage,Round,Group,Date,Team 1,FT,HT,Team 2,∑FT,ET,P,Comments
 ,Round 1 | Leg 1,,(Wed) 18 Sep 1991 (W37),Hamrun Spartans › MLT (1),0-6,0-3,SL Benfica › POR (1),,,,
 ,Round 1 | Leg 1,,(Wed) 18 Sep 1991 (W37),Union Luxembourg › LUX (1),0-5,0-4,Olympique Marseille › FRA (1),,,,
 ,Round 1 | Leg 1,,(Wed) 18 Sep 1991 (W37),UC Sampdoria › ITA (1),5-0,2-0,Rosenborg BK › NOR (1),,,,
-,Round 1 | Leg 2,,(Wed) 2 Oct 1991 (W39),Panathinaikos FC › GRE (2),0-0,0-0,Fram Reykjavik › ISL (2),2-2 (agg.),,,away goals
-,Round 1 | Leg 2,,(Wed) 2 Oct 1991 (W39),KS Flamurtari Vlore › ALB (2),1-1,1-0,IFK Goteborg › SWE (2),1-1 (agg.),,,away goals
-,Round 1 | Leg 2,,(Wed) 2 Oct 1991 (W39),Rangers FC › SCO (2),1-0 (*),0-0,Sparta Praha › CZE (2),1-1 (agg.),2-1 (a.e.t.),,away goals
+,Round 1 | Leg 2,,(Wed) 2 Oct 1991 (W39),Panathinaikos FC › GRE (2),0-0,0-0,Fram Reykjavik › ISL (2),2-2 (agg.),,,Away Goals (1)
+,Round 1 | Leg 2,,(Wed) 2 Oct 1991 (W39),KS Flamurtari Vlore › ALB (2),1-1,1-0,IFK Goteborg › SWE (2),1-1 (agg.),,,Away Goals (2)
+,Round 1 | Leg 2,,(Wed) 2 Oct 1991 (W39),Rangers FC › SCO (2),1-0 (*),0-0,Sparta Praha › CZE (2),1-1 (agg.),2-1 (a.e.t.),,Away Goals (2)
 ,Round 1 | Leg 2,,(Wed) 2 Oct 1991 (W39),Rosenborg BK › NOR (2),1-2,0-0,UC Sampdoria › ITA (2),1-7 (agg.),,,
 ,Round 1 | Leg 2,,(Wed) 2 Oct 1991 (W39),Austria Wien › AUT (2),1-0,0-0,Arsenal FC › ENG (2),2-6 (agg.),,,
 ,Round 1 | Leg 2,,(Wed) 2 Oct 1991 (W39),Hansa Rostock › GER (2),1-0,0-0,FC Barcelona › ESP (2),1-3 (agg.),,,
@@ -39,8 +39,8 @@ Stage,Round,Group,Date,Team 1,FT,HT,Team 2,∑FT,ET,P,Comments
 ,Round 2 | Leg 1,,(Wed) 23 Oct 1991 (W42),Panathinaikos FC › GRE (3),2-0,1-0,IFK Goteborg › SWE (3),,,,
 ,Round 2 | Leg 1,,(Wed) 23 Oct 1991 (W42),Kispesti Honved › HUN (3),2-1,0-0,UC Sampdoria › ITA (3),,,,
 ,Round 2 | Leg 1,,(Wed) 23 Oct 1991 (W42),Dinamo Kiev › UKR (3),1-1,0-1,Brondby IF › DEN (3),,,,
-,Round 2 | Leg 2,,(Wed) 6 Nov 1991 (W44),1. FC Kaiserslautern › GER (4),3-1,1-0,FC Barcelona › ESP (4),3-3 (agg.),,,away goals
-,Round 2 | Leg 2,,(Wed) 6 Nov 1991 (W44),Sparta Praha › CZE (4),2-1,1-0,Olympique Marseille › FRA (4),4-4 (agg.),,,away goals
+,Round 2 | Leg 2,,(Wed) 6 Nov 1991 (W44),1. FC Kaiserslautern › GER (4),3-1,1-0,FC Barcelona › ESP (4),3-3 (agg.),,,Away Goals (2)
+,Round 2 | Leg 2,,(Wed) 6 Nov 1991 (W44),Sparta Praha › CZE (4),2-1,1-0,Olympique Marseille › FRA (4),4-4 (agg.),,,Away Goals (1)
 ,Round 2 | Leg 2,,(Wed) 6 Nov 1991 (W44),Apollon Limassol › CYP (4),0-2,0-0,Crvena Zvezda › SRB (4),1-5 (agg.),,,
 ,Round 2 | Leg 2,,(Wed) 6 Nov 1991 (W44),Arsenal FC › ENG (4),1-1 (*),1-1,SL Benfica › POR (4),2-2 (agg.),1-3 (a.e.t.),,
 ,Round 2 | Leg 2,,(Wed) 6 Nov 1991 (W44),RSC Anderlecht › BEL (4),2-0,1-0,PSV Eindhoven › NED (4),2-0 (agg.),,,

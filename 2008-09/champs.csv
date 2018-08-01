@@ -13,7 +13,7 @@ Qualifying,Qual. Round 1 | Leg 1,,(Wed) 16 Jul 2008 (W28),Aktobe › KAZ (1),1-0
 Qualifying,Qual. Round 1 | Leg 1,,(Wed) 16 Jul 2008 (W28),Dinamo Tbilisi › GEO (1),3-0,0-0,NSI › FRO (1),,,,
 Qualifying,Qual. Round 1 | Leg 1,,(Wed) 16 Jul 2008 (W28),Linfield › NIR (1),0-2,0-0,Dinamo Zagreb › CRO (1),,,,
 Qualifying,Qual. Round 1 | Leg 1,,(Wed) 16 Jul 2008 (W28),Drogheda United › IRL (1),2-1,0-0,Levadia › EST (1),,,,
-Qualifying,Qual. Round 1 | Leg 2,,(Tue) 22 Jul 2008 (W29),Rabotnicki › MKD (2),1-1,0-0,Inter Baku PIK › AZE (2),1-1 (agg.),,,away goals
+Qualifying,Qual. Round 1 | Leg 2,,(Tue) 22 Jul 2008 (W29),Rabotnicki › MKD (2),1-1,0-0,Inter Baku PIK › AZE (2),1-1 (agg.),,,Away Goals (2)
 Qualifying,Qual. Round 1 | Leg 2,,(Tue) 22 Jul 2008 (W29),Sheriff Tiraspol › MDA (2),4-0,0-0,Aktobe › KAZ (2),4-1 (agg.),,,
 Qualifying,Qual. Round 1 | Leg 2,,(Tue) 22 Jul 2008 (W29),NSI › FRO (2),1-0,0-0,Dinamo Tbilisi › GEO (2),1-3 (agg.),,,
 Qualifying,Qual. Round 1 | Leg 2,,(Tue) 22 Jul 2008 (W29),FBK Kaunas › LTU (2),3-1,0-0,FC Santa Coloma › AND (2),7-2 (agg.),,,
@@ -41,7 +41,7 @@ Qualifying,Qual. Round 2 | Leg 1,,(Wed) 30 Jul 2008 (W30),Rangers FC › SCO (1)
 Qualifying,Qual. Round 2 | Leg 1,,(Wed) 30 Jul 2008 (W30),Fenerbahçe İstanbul SK › TUR (1),2-0,0-0,MTK › HUN (1),,,,
 Qualifying,Qual. Round 2 | Leg 1,,(Wed) 30 Jul 2008 (W30),Tampere United › FIN (3),1-3,0-0,Petrzalka Akademia › SVK (3),,,,
 Qualifying,Qual. Round 2 | Leg 1,,(Wed) 30 Jul 2008 (W30),Sheriff Tiraspol › MDA (3),0-1,0-0,Sparta Praha › CZE (1),,,,
-Qualifying,Qual. Round 2 | Leg 2,,(Tue) 5 Aug 2008 (W31),Ventspils › LVA (4),2-1,0-0,Brann › NOR (2),2-2 (agg.),,,away goals
+Qualifying,Qual. Round 2 | Leg 2,,(Tue) 5 Aug 2008 (W31),Ventspils › LVA (4),2-1,0-0,Brann › NOR (2),2-2 (agg.),,,Away Goals (2)
 Qualifying,Qual. Round 2 | Leg 2,,(Tue) 5 Aug 2008 (W31),FBK Kaunas › LTU (4),2-1,0-0,Rangers FC › SCO (2),2-1 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 6 Aug 2008 (W31),Wisla Krakow › POL (2),5-0,0-0,Beitar Jerusalem › ISR (2),6-2 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 6 Aug 2008 (W31),Rapid Wien › AUT (2),3-1,0-0,Anorthosis Famagusta › CYP (4),3-4 (agg.),,,
@@ -196,7 +196,7 @@ Knockout,Round of 16 | Leg 2,,(Tue) 10 Mar 2009 (W10),Juventus › ITA (10),2-2,
 Knockout,Round of 16 | Leg 2,,(Tue) 10 Mar 2009 (W10),Panathinaikos FC › GRE (12),1-2,0-0,Villarreal CF › ESP (8),2-3 (agg.),,,
 Knockout,Round of 16 | Leg 2,,(Tue) 10 Mar 2009 (W10),Liverpool FC › ENG (10),4-0,2-0,Real Madrid CF › ESP (8),5-0 (agg.),,,
 Knockout,Round of 16 | Leg 2,,(Wed) 11 Mar 2009 (W10),AS Roma › ITA (8),1-0 (*),1-0,Arsenal FC › ENG (10),1-1 (agg.),1-0 (a.e.t.),6-7 (pen.),
-Knockout,Round of 16 | Leg 2,,(Wed) 11 Mar 2009 (W10),FC Porto › POR (8),0-0,0-0,Atletico Madrid › ESP (10),2-2 (agg.),,,away goals
+Knockout,Round of 16 | Leg 2,,(Wed) 11 Mar 2009 (W10),FC Porto › POR (8),0-0,0-0,Atletico Madrid › ESP (10),2-2 (agg.),,,Away Goals (1)
 Knockout,Round of 16 | Leg 2,,(Wed) 11 Mar 2009 (W10),Manchester United FC › ENG (8),2-0,1-0,Internazionale › ITA (8),2-0 (agg.),,,
 Knockout,Round of 16 | Leg 2,,(Wed) 11 Mar 2009 (W10),FC Barcelona › ESP (10),5-2,4-1,Olympique Lyon › FRA (8),6-3 (agg.),,,
 Knockout,Quarterfinals | Leg 1,,(Tue) 7 Apr 2009 (W14),Manchester United FC › ENG (9),2-2,1-1,FC Porto › POR (9),,,,
@@ -210,5 +210,5 @@ Knockout,Quarterfinals | Leg 2,,(Wed) 15 Apr 2009 (W15),FC Porto › POR (10),0-
 Knockout,Semifinals | Leg 1,,(Tue) 28 Apr 2009 (W17),FC Barcelona › ESP (13),0-0,0-0,Chelsea FC › ENG (11),,,,
 Knockout,Semifinals | Leg 1,,(Wed) 29 Apr 2009 (W17),Manchester United FC › ENG (11),1-0,0-0,Arsenal FC › ENG (13),,,,
 Knockout,Semifinals | Leg 2,,(Tue) 5 May 2009 (W18),Arsenal FC › ENG (14),1-3,0-0,Manchester United FC › ENG (12),1-4 (agg.),,,
-Knockout,Semifinals | Leg 2,,(Wed) 6 May 2009 (W18),Chelsea FC › ENG (12),1-1,0-0,FC Barcelona › ESP (14),1-1 (agg.),,,away goals
+Knockout,Semifinals | Leg 2,,(Wed) 6 May 2009 (W18),Chelsea FC › ENG (12),1-1,0-0,FC Barcelona › ESP (14),1-1 (agg.),,,Away Goals (2)
 Knockout,Final,,(Wed) 27 May 2009 (W21),FC Barcelona › ESP (15),2-0,0-0,Manchester United FC › ENG (13),,,,

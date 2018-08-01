@@ -9,8 +9,8 @@ Qualifying,Qual. Round 1 | Leg 1,,(Wed) 11 Jul 2001 (W28),Valletta › MLT (1),0
 Qualifying,Qual. Round 1 | Leg 1,,(Wed) 11 Jul 2001 (W28),Levski Sofia › BUL (1),4-0,0-0,Zeljeznicar Sarajevo › BIH (1),,,,
 Qualifying,Qual. Round 1 | Leg 1,,(Wed) 11 Jul 2001 (W28),Linfield › NIR (1),0-0,0-0,Torpedo Kutaisi › GEO (1),,,,
 Qualifying,Qual. Round 1 | Leg 1,,(Wed) 11 Jul 2001 (W28),Vagur › FRO (1),0-0,0-0,PFC Slavia Sofia › BUL (1),,,,
-Qualifying,Qual. Round 1 | Leg 2,,(Wed) 18 Jul 2001 (W29),FBK Kaunas › LTU (2),1-1,0-0,Sloga Jugomagnat Skopje › MKD (2),1-1 (agg.),,,away goals
-Qualifying,Qual. Round 1 | Leg 2,,(Wed) 18 Jul 2001 (W29),FK Vllaznia › ALB (2),1-0,0-0,KR Reykjavik › ISL (2),2-2 (agg.),,,away goals
+Qualifying,Qual. Round 1 | Leg 2,,(Wed) 18 Jul 2001 (W29),FBK Kaunas › LTU (2),1-1,0-0,Sloga Jugomagnat Skopje › MKD (2),1-1 (agg.),,,Away Goals (2)
+Qualifying,Qual. Round 1 | Leg 2,,(Wed) 18 Jul 2001 (W29),FK Vllaznia › ALB (2),1-0,0-0,KR Reykjavik › ISL (2),2-2 (agg.),,,Away Goals (1)
 Qualifying,Qual. Round 1 | Leg 2,,(Wed) 18 Jul 2001 (W29),Sheriff Tiraspol › MDA (2),2-0,0-0,Araks Ararat › ARM (2),3-0 (agg.),,,
 Qualifying,Qual. Round 1 | Leg 2,,(Wed) 18 Jul 2001 (W29),Shamkir › AZE (2),0-1,0-0,Barry Town › WAL (2),0-3 (agg.),,,
 Qualifying,Qual. Round 1 | Leg 2,,(Wed) 18 Jul 2001 (W29),Levadia › EST (2),0-0,0-0,Bohemians › IRL (2),0-3 (agg.),,,
@@ -34,7 +34,7 @@ Qualifying,Qual. Round 2 | Leg 1,,(Wed) 25 Jul 2001 (W30),Steaua Bucuresti › R
 Qualifying,Qual. Round 2 | Leg 1,,(Wed) 25 Jul 2001 (W30),Skonto › LVA (3),1-2,0-0,Wisla Krakow › POL (1),,,,
 Qualifying,Qual. Round 2 | Leg 1,,(Wed) 25 Jul 2001 (W30),RSC Anderlecht › BEL (1),4-0,0-0,Sheriff Tiraspol › MDA (3),,,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 1 Aug 2001 (W31),Hajduk Split › CRO (2),0-0 (*),0-0,Ferencvaros › HUN (2),0-0 (agg.),0-0 (a.e.t.),5-4 (pen.),
-Qualifying,Qual. Round 2 | Leg 2,,(Wed) 1 Aug 2001 (W31),Brann › NOR (2),1-1,0-0,Levski Sofia › BUL (4),1-1 (agg.),,,away goals
+Qualifying,Qual. Round 2 | Leg 2,,(Wed) 1 Aug 2001 (W31),Brann › NOR (2),1-1,0-0,Levski Sofia › BUL (4),1-1 (agg.),,,Away Goals (2)
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 1 Aug 2001 (W31),Barry Town › WAL (4),3-1,0-0,FC Porto › POR (2),3-9 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 1 Aug 2001 (W31),Halmstads BK › SWE (2),2-0,0-0,Bohemians › IRL (4),4-1 (agg.),,,
 Qualifying,Qual. Round 2 | Leg 2,,(Wed) 1 Aug 2001 (W31),Crvena Zvezda › SRB (2),2-1,0-0,Omonia Nicosia › CYP (2),3-2 (agg.),,,
@@ -233,6 +233,6 @@ Knockout,Quarterfinals | Leg 2,,(Wed) 10 Apr 2002 (W14),Manchester United FC ›
 Knockout,Quarterfinals | Leg 2,,(Wed) 10 Apr 2002 (W14),Real Madrid CF › ESP (14),2-0,0-0,Bayern München › GER (14),3-2 (agg.),,,
 Knockout,Semifinals | Leg 1,,(Tue) 23 Apr 2002 (W16),FC Barcelona › ESP (17),0-2,0-0,Real Madrid CF › ESP (15),,,,
 Knockout,Semifinals | Leg 1,,(Wed) 24 Apr 2002 (W16),Manchester United FC › ENG (15),2-2,1-0,Bayer 04 Leverkusen › GER (17),,,,
-Knockout,Semifinals | Leg 2,,(Tue) 30 Apr 2002 (W17),Bayer 04 Leverkusen › GER (18),1-1,1-1,Manchester United FC › ENG (16),3-3 (agg.),,,away goals
+Knockout,Semifinals | Leg 2,,(Tue) 30 Apr 2002 (W17),Bayer 04 Leverkusen › GER (18),1-1,1-1,Manchester United FC › ENG (16),3-3 (agg.),,,Away Goals (1)
 Knockout,Semifinals | Leg 2,,(Wed) 1 May 2002 (W17),Real Madrid CF › ESP (16),1-1,1-0,FC Barcelona › ESP (18),3-1 (agg.),,,
 Knockout,Final,,(Wed) 15 May 2002 (W19),Real Madrid CF › ESP (17),2-1,0-0,Bayer 04 Leverkusen › GER (19),,,,
